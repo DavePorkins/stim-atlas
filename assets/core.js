@@ -59,10 +59,41 @@
         rows.push({item,view,key:item.id+'::'+(view?.id||'base'),rank:item.rank+index*7});
       });
     }
-    if(state.sort==='discover')rows.sort((a,b)=>a.rank-b.rank||a.key.localeCompare(b.key));
+    if(state.sort==='discover') {
+      // Spread named variants across the complete selection instead of a photo-only tail.
+      const bases=rows.filter(r=>!r.view), grouped=new Map();
+      for(const row of rows.filter(r=>r.view)) {
+        if(!grouped.has(row.item.id))grouped.set(row.item.id,[]);
+        grouped.get(row.item.id).push(row);
+      }
+      const variants=[];
+      while([...grouped.values()].some(q=>q.length))for(const q of grouped.values())if(q.length)variants.push(q.shift());
+      if(!bases.length)return variants;
+      const mixed=[],totalVariants=variants.length;let taken=0;
+      const take=()=>{
+        const recent=new Set(mixed.slice(-7).map(r=>r.item.id));
+        let index=variants.findIndex(r=>!recent.has(r.item.id));if(index<0)index=0;
+        mixed.push(variants.splice(index,1)[0]);taken++;
+      };
+      bases.forEach((row,index)=>{mixed.push(row);const target=Math.floor((index+1)*totalVariants/(bases.length+1));while(taken<target)take();});
+      while(variants.length)take();
+      return mixed;
+    }
     return rows;
   }
-  const api = { photoViews, galleryViews, normalize, canonicalId, hash, kind, filterItems, mergeProgress };
+  const cloneState = state => ({...state,senses:new Set(state.senses),materials:new Set(state.materials)});
+  function facetState(state, dimension, value) {
+    if(!['senses','materials','family'].includes(dimension))throw Error('Unbekannte Filterdimension.');
+    const next={variants:state.variants,type:'all',query:'',senses:new Set(),materials:new Set(),family:'',sort:'discover',favorites:false,quiet:false,free:false};
+    if(dimension==='family')next.family=value;else next[dimension].add(value);
+    return next;
+  }
+  function randomItem(items, currentId, random=Math.random) {
+    // Pick catalogue objects, never colour tiles: every entry has one chance.
+    const pool=items.filter(item=>item.id!==currentId);
+    return pool.length ? pool[Math.min(pool.length-1,Math.max(0,Math.floor(random()*pool.length)))] : null;
+  }
+  const api = { cloneState, facetState, randomItem, photoViews, galleryViews, normalize, canonicalId, hash, kind, filterItems, mergeProgress };
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   else root.STIMCore = api;
 })(typeof globalThis !== 'undefined' ? globalThis : this);

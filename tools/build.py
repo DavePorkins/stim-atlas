@@ -1,5 +1,5 @@
 """Build static entry and optional self-contained HTML (no browser dependencies)."""
-import json,base64,argparse
+import json,base64,argparse,hashlib
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 def build(standalone=False):
@@ -15,8 +15,9 @@ def build(standalone=False):
   scripts+=''.join('<script>'+ (ROOT/'assets'/file).read_text(encoding='utf-8').replace('</script','<\\/script')+'</script>' for file in ['core.js','site.js'])
   template=template.replace('href="assets/favicon.svg"','href="data:image/svg+xml;base64,'+base64.b64encode((ROOT/'assets/favicon.svg').read_bytes()).decode()+'"')
  else:
-  template=template.replace('<!--STYLE-->','<link rel="stylesheet" href="assets/site.css">')
-  scripts='<script src="assets/core.js"></script><script src="assets/site.js"></script>'
+  css_hash=hashlib.sha256((ROOT/'assets/site.css').read_bytes()).hexdigest()[:10]
+  template=template.replace('<!--STYLE-->','<link rel="stylesheet" href="assets/site.css?v='+css_hash+'">')
+  scripts=''.join('<script src="assets/'+name+'?v='+hashlib.sha256((ROOT/'assets'/name).read_bytes()).hexdigest()[:10]+'"></script>' for name in ['core.js','site.js'])
  return template.replace('<!--SCRIPTS-->',scripts)
 if __name__=='__main__':
  parser=argparse.ArgumentParser();parser.add_argument('--preview',type=Path);args=parser.parse_args()

@@ -9,6 +9,7 @@
   let storageWarning = false;
   function write(key, value) { try { localStorage.setItem(key, JSON.stringify(value)); return true; } catch { if (!storageWarning) { storageWarning = true; toast('Speichern nicht verfügbar. Bitte ein Backup exportieren.'); } return false; } }
   const paths = {
+    shuffle:'<path d="m16 3 4 4-4 4m0 2 4 4-4 4M4 7h3c5 0 5 10 10 10h3M4 17h3c2 0 3-2 4-5m2-3c1-1 2-2 4-2h3"/>',
     search:'<circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/>',
     heart:'<path d="M20.2 5.5a5 5 0 0 0-7.1 0L12 6.6l-1.1-1.1a5 5 0 0 0-7.1 7.1L12 21l8.2-8.4a5 5 0 0 0 0-7.1Z"/>',
     sun:'<circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.4 1.4m11.2 11.2L19 19M5 19l1.4-1.4M17.6 6.4 19 5"/>',
@@ -27,8 +28,11 @@
   for (const key of [KEY, 'stim-studio-v9-progress', 'stim-studio-v6-progress']) {
     try { progress = C.mergeProgress(progress, read(key, {}), false); } catch { /* A malformed older store must not stop the gallery. */ }
   }
+  function stateFromURL() {
   const params = new URLSearchParams(location.search);
-  const state = {variants:params.get('variants')!=='0',type:['object','activity'].includes(params.get('type')) ? params.get('type') : 'all',query:params.get('q') || '',senses:new Set((params.get('senses') || '').split(',').filter(x => data.senses[x])),materials:new Set((params.get('materials') || '').split(',').filter(x => data.materials[x])),family:params.get('family') || '',sort:['az','za','new'].includes(params.get('sort')) ? params.get('sort') : 'discover',favorites:params.has('favorites'),quiet:params.has('quiet'),free:params.has('free')};
+  return {variants:params.get('variants')!=='0',type:['object','activity'].includes(params.get('type')) ? params.get('type') : 'all',query:params.get('q') || '',senses:new Set((params.get('senses') || '').split(',').filter(x => data.senses[x])),materials:new Set((params.get('materials') || '').split(',').filter(x => data.materials[x])),family:params.get('family') || '',sort:['az','za','new'].includes(params.get('sort')) ? params.get('sort') : 'discover',favorites:params.has('favorites'),quiet:params.has('quiet'),free:params.has('free')};
+  }
+  const state=stateFromURL(), viewTrail=[];
   let filtered = [], galleryRows = [], rendered = 0, activeId = null, openedHere = false, returnFocus = null, toastTimer;
   let theme = read('stim-studio-v10-theme', read('stim-studio-v9-theme', read('stim-studio-v6-theme', 'dark')));
   if (!['dark','light'].includes(theme)) theme = 'dark';
@@ -44,6 +48,12 @@
     $('#favorites').setAttribute('aria-label', `${state.favorites ? 'Alle Einträge' : 'Favoriten'} anzeigen${n ? `, ${n} Favoriten` : ''}`);
     const count = state.senses.size + state.materials.size + Number(!!state.family) + Number(state.quiet) + Number(state.free);
     $('#filter-count').textContent = count; $('#filter-count').hidden = !count; $('#filters-toggle').classList.toggle('has-filters', !!count);
+    const constrained=!!(state.query||state.type!=='all'||count||state.favorites||!state.variants||state.sort!=='discover');
+    $('#view-actions').hidden=!constrained&&!viewTrail.length;
+    $('#return-view').hidden=!viewTrail.length;
+    const labels=[state.query&&'Suche: '+state.query,state.type==='object'&&'Objekte',state.type==='activity'&&'Aktivitäten',...Array.from(state.senses,s=>data.senses[s]),...Array.from(state.materials,m=>data.materials[m]),state.family,state.favorites&&'Favoriten',state.quiet&&'Leise',state.free&&'Kostenlos',!state.variants&&'Ohne Farbvarianten'].filter(Boolean).join(' · ');
+    $('#selection-summary').textContent=labels||'Aktuelle Ansicht';$('#selection-summary').title=labels;
+    $('#random').disabled=!filtered.length;
     $('#count').textContent = `${galleryRows.length} ${galleryRows.length===1?'Bild':'Bilder'}`; $('#count').title = `${filtered.length} Einträge${state.favorites?' in Favoriten':''}`;
   }
   function fallback(item) { return typeof STIM_ILLUSTRATIONS !== 'undefined' ? STIM_ILLUSTRATIONS[item.id] : item.illustration; }
@@ -99,7 +109,40 @@
   if ('IntersectionObserver' in window) observer = new IntersectionObserver(entries => { if (entries.some(e => e.isIntersecting) && rendered < galleryRows.length) appendBatch(); }, {rootMargin:'700px 0px'});
   else window.addEventListener('scroll', () => { if ($('#sentinel').getBoundingClientRect().top < innerHeight + 700 && rendered < galleryRows.length) appendBatch(); }, {passive:true});
   function change() { updateURL(); render(true); }
-  function reset() { Object.assign(state, {type:'all',query:'',family:'',sort:'discover',favorites:false,quiet:false,free:false,variants:true}); state.senses.clear(); state.materials.clear(); $('#search').value = ''; $('#family').value = ''; $('#sort').value = 'discover'; $('#quiet').checked = false; $('#free').checked = false; $('#variants').checked = true; document.querySelectorAll('.chip input').forEach(input => input.checked = false); change(); }
+  function syncControls() {
+    $('#search').value=state.query;$('#family').value=state.family;$('#sort').value=state.sort;
+    for(const key of ['quiet','free','variants'])$('#'+key).checked=state[key];
+    document.querySelectorAll('.chip input').forEach(input=>{input.checked=state[input.closest('.chips').id].has(input.value);});
+  }
+  function reset() {
+    Object.assign(state,{type:'all',query:'',family:'',sort:'discover',favorites:false,quiet:false,free:false,variants:true,senses:new Set(),materials:new Set()});
+    viewTrail.length=0;syncControls();change();
+  }
+  function followFacet(dimension,value) {
+    if(dimension==='senses'&&!data.senses[value]||dimension==='materials'&&!data.materials[value]||dimension==='family'&&!items.some(i=>i.family===value))return;
+    viewTrail.push({state:C.cloneState(state),scroll:scrollY,rendered,focusId:returnFocus?.dataset.open});
+    if(viewTrail.length>20)viewTrail.shift();
+    finishClose();openedHere=false;history.replaceState(null,'',location.pathname+location.search);
+    Object.assign(state,C.facetState(state,dimension,value));syncControls();
+    $('#filters').hidden=true;$('#filters-toggle').setAttribute('aria-expanded','false');
+    change();$('#return-view').focus({preventScroll:true});
+  }
+  function returnView() {
+    const previous=viewTrail.pop();if(!previous)return;
+    Object.assign(state,C.cloneState(previous.state));syncControls();updateURL();render();
+    while(rendered<Math.min(previous.rendered,galleryRows.length))appendBatch();
+    window.scrollTo({top:previous.scroll,behavior:'instant'});
+    const button=[...document.querySelectorAll('.tile-open')].find(b=>b.dataset.open===previous.focusId);
+    (button||$('#gallery')).focus({preventScroll:true});
+  }
+  function randomize() {
+    const chosen=C.randomItem(filtered,activeId);if(!chosen)return;
+    details(chosen.id,!$('#detail').open);
+    $('#random-detail').focus({preventScroll:true});
+  }
+  function facetButton(dimension,value,label) {
+    return `<button class="attribute-filter" data-facet="${dimension}" data-value="${escape(value)}" aria-label="${escape(label)} als Filter anwenden">${escape(label)}</button>`;
+  }
   for (const [dimension, labels] of [['senses', data.senses], ['materials', data.materials]]) {
     for (const [value, label] of Object.entries(labels)) {
       const el = document.createElement('label'); el.className = 'chip'; el.innerHTML = `<input type="checkbox" value="${escape(value)}" ${state[dimension].has(value) ? 'checked' : ''}><span class="tick" aria-hidden="true"></span><span>${escape(label)}</span>`;
@@ -156,12 +199,12 @@
     activeId = id; progress[id] = {...progress[id],seen:(progress[id]?.seen || 0) + 1}; write(KEY, progress);
     let list = filtered.some(x => x.id === id) ? filtered : items; const pos = list.findIndex(x => x.id === id);
     const material = item.material_raw || 'Ungeklärt';
-    $('#detail-content').innerHTML = `<div class="detail-layout"><div class="detail-media"><div class="media-stage" id="detail-media"></div><div class="media-controls" id="media-controls"></div><div class="photo-thumbs" id="photo-thumbs" aria-label="Fotos und Varianten"></div></div><div class="detail-info"><div class="detail-tools"><span class="position">${pos + 1} / ${list.length}</span><button class="iconbutton" id="previous" aria-label="Vorheriger Eintrag" ${pos === 0 ? 'disabled' : ''}>${icon('left')}</button><button class="iconbutton" id="next" aria-label="Nächster Eintrag" ${pos === list.length - 1 ? 'disabled' : ''}>${icon('right')}</button>${favButton(item,'iconbutton')}<button class="iconbutton" data-close="detail" aria-label="Details schließen">${icon('close')}</button></div><p class="provenance">${escape(kindLabel[item.kind])}${item.status === 'recherche' ? ' · Rechercheidee' : ''}${item.free ? ' · Kostenlos' : ''}</p><h2 id="detail-title">${escape(item.title)}</h2><p>${escape(item.description)}</p><dl class="detail-attributes"><dt>Wahrnehmung</dt><dd>${escape(item.senses.map(s => data.senses[s]).filter(Boolean).join(' · '))}</dd><dt>Material</dt><dd>${escape(material)}</dd><dt>Rubrik</dt><dd>${escape(item.family)}</dd>${item.action_prompt ? `<dt>Ausprobieren</dt><dd>${escape(item.action_prompt)}</dd>` : ''}</dl><div class="detail-links"><a href="https://www.youtube.com/results?search_query=${encodeURIComponent(item.search || item.title)}" target="_blank" rel="noopener noreferrer">YouTube ${icon('external')}</a>${/^https:\/\//.test(item.source_url) ? `<a href="${escape(item.source_url)}" target="_blank" rel="noopener noreferrer">Quelle ${icon('external')}</a>` : ''}<a href="https://www.google.com/search?tbm=isch&q=${encodeURIComponent(item.search || item.title)}" target="_blank" rel="noopener noreferrer">Bildersuche ${icon('external')}</a></div><p class="source-note">${escape(mediaNote(item))} ${item.status === 'recherche' ? 'Konzept aus dem Recherchepaket; kein verifiziertes Verkaufsangebot.' : ''}</p>${item.safety?.length ? `<p class="detail-safety">${escape(item.safety.map(s => safety[s] || s).filter(Boolean).join(' '))}</p>` : ''}</div></div>`;
+    $('#detail-content').innerHTML = `<div class="detail-tools"><span class="position">${pos + 1} / ${list.length}</span><button class="iconbutton" id="previous" aria-label="Vorheriger Eintrag" ${pos === 0 ? 'disabled' : ''}>${icon('left')}</button><button class="iconbutton" id="next" aria-label="Nächster Eintrag" ${pos === list.length - 1 ? 'disabled' : ''}>${icon('right')}</button><button id="random-detail" class="iconbutton" data-random aria-label="Zufälligen Eintrag aus der aktuellen Auswahl öffnen" title="Zufall aus der aktuellen Auswahl" ${filtered.filter(i=>i.id!==id).length?'':'disabled'}>${icon('shuffle')}</button>${favButton(item,'iconbutton')}<button class="iconbutton" data-close="detail" aria-label="Details schließen">${icon('close')}</button></div><div class="detail-layout"><div class="detail-media"><div class="media-stage" id="detail-media"></div><div class="media-controls" id="media-controls"></div><div class="photo-thumbs" id="photo-thumbs" aria-label="Fotos und Varianten"></div></div><div class="detail-info"><p class="provenance">${escape(kindLabel[item.kind])}${item.status === 'recherche' ? ' · Rechercheidee' : ''}${item.free ? ' · Kostenlos' : ''}</p><h2 id="detail-title">${escape(item.title)}</h2><p>${escape(item.description)}</p><dl class="detail-attributes"><dt>Wahrnehmung</dt><dd>${item.senses.filter(s=>data.senses[s]).map(s=>facetButton('senses',s,data.senses[s])).join(' ')}</dd><dt>Material</dt><dd>${item.materials.map(m=>facetButton('materials',m,data.materials[m])).join(' ')}<span class="material-note">${escape(material)}</span></dd><dt>Rubrik</dt><dd>${facetButton('family',item.family,item.family)}</dd>${item.action_prompt ? `<dt>Ausprobieren</dt><dd>${escape(item.action_prompt)}</dd>` : ''}</dl><div class="detail-links"><a href="https://www.youtube.com/results?search_query=${encodeURIComponent(item.search || item.title)}" target="_blank" rel="noopener noreferrer">YouTube ${icon('external')}</a>${/^https:\/\//.test(item.source_url) ? `<a href="${escape(item.source_url)}" target="_blank" rel="noopener noreferrer">Quelle ${icon('external')}</a>` : ''}<a href="https://www.google.com/search?tbm=isch&q=${encodeURIComponent(item.search || item.title)}" target="_blank" rel="noopener noreferrer">Bildersuche ${icon('external')}</a></div><p class="source-note">${escape(mediaNote(item))} ${item.status === 'recherche' ? 'Konzept aus dem Recherchepaket; kein verifiziertes Verkaufsangebot.' : ''}</p>${item.safety?.length ? `<p class="detail-safety">${escape(item.safety.map(s => safety[s] || s).filter(Boolean).join(' '))}</p>` : ''}</div></div>`;
     setupMedia(item,viewId);
     $('#previous').onclick = () => { if (pos > 0) details(list[pos - 1].id, false); };
     $('#next').onclick = () => { if (pos < list.length - 1) details(list[pos + 1].id, false); };
     if (!$('#detail').open) $('#detail').showModal();
-    else if (focusedControl === 'previous' || focusedControl === 'next') {
+    else if (['previous','next','random-detail'].includes(focusedControl)) {
       const same = $('#' + focusedControl); (same.disabled ? $('#detail [data-close]') : same).focus({preventScroll:true});
     }
     if (push) { openedHere = true; history.pushState({stimDetail:true}, '', location.pathname + location.search + '#item=' + encodeURIComponent(id) + (viewId ? '&view='+encodeURIComponent(viewId) : '')); }
@@ -171,10 +214,16 @@
   function closeDetails() { finishClose(); if (openedHere) { openedHere = false; history.back(); } else history.replaceState(null, '', location.pathname + location.search); }
   function route() { const hp=new URLSearchParams(location.hash.slice(1)), id=hp.get('item'); if(id && byId.has(id)) details(id,false,hp.get('view')); else { openedHere=false;finishClose(); } }
   $('#detail').addEventListener('cancel', e => { e.preventDefault(); closeDetails(); });
-  window.addEventListener('popstate', route);
+  window.addEventListener('popstate',()=>{
+    const next=stateFromURL(), signature=x=>JSON.stringify({...x,senses:[...x.senses],materials:[...x.materials]});
+    if(signature(next)!==signature(state)){Object.assign(state,next);viewTrail.length=0;syncControls();render();}
+    route();
+  });
   document.querySelectorAll('dialog').forEach(dialog => dialog.addEventListener('click', e => { if (e.target !== dialog) return; const r = dialog.getBoundingClientRect(); if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom) { if (dialog.id === 'detail') closeDetails(); else dialog.close(); } }));
   document.addEventListener('click', e => {
     const button = e.target.closest('button'); if (!button) return;
+    if (button.hasAttribute('data-random')) { randomize();return; }
+    if (button.dataset.facet) { followFacet(button.dataset.facet,button.dataset.value);return; }
     if (button.dataset.fav) { toggleFavorite(button.dataset.fav); return; }
     if (button.dataset.open) { details(button.dataset.open,true,button.dataset.view || null); return; }
     if (button.dataset.type) { state.type = button.dataset.type; change(); return; }
@@ -188,7 +237,8 @@
   $('#free').onchange = e => { state.free = e.target.checked; change(); };
   $('#favorites').onclick = () => { state.favorites = !state.favorites; change(); };
   $('#filters-toggle').onclick = () => { const open = $('#filters').hidden; $('#filters').hidden = !open; $('#filters-toggle').setAttribute('aria-expanded', String(open)); };
-  $('#reset').onclick = $('#empty-reset').onclick = reset;
+  $('#reset').onclick = $('#empty-reset').onclick = $('#clear-view').onclick = reset;
+  $('#return-view').onclick=returnView;
   $('.brand').addEventListener('click', e => { e.preventDefault(); reset(); window.scrollTo({top:0,behavior:'instant'}); });
   $('#theme').onclick = () => { setTheme(theme === 'dark' ? 'light' : 'dark'); write('stim-studio-v10-theme',theme); };
   $('#data').onclick = () => $('#data-dialog').showModal();

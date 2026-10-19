@@ -1,29 +1,39 @@
-# Ergänzungsrecherche – 19.10.2026
+# Ergänzungsrecherche v11.1 – 19.10.2026
 
-21 neue Einträge; alle bisherigen IDs bleiben erhalten. Die Quellen sind Herstellerseiten bzw. RHS und Microplane für die drei Aktivitäten. Produktbeschreibungen sind kurz paraphrasiert; keine Preise oder Wirkungsversprechen.
+27 zusätzliche Produkte, 49 neue Fotozuordnungen für zuvor illustrierte Einträge. Alle 152 zuvor illustrierten IDs wurden auf Bildeignung geprüft. Die 103 verbleibenden Illustrationen sind bewusst beibehaltene Darstellungen; die Reviewdatei erklärt Suchabdeckung und Grenzen.
 
-- [Fidget-Wear Hoodie – Perlenbeutel in der Tasche](https://fidget-wear.com/products/fidget-wear-hoodie-inspiring-indigo) — Textil; Perlenfüllung, genaue Zusammensetzung ungeklärt
-- [Fidget-Wear T-Shirt – weicher Squish-Saum](https://fidget-wear.com/products/fidget-wear-youth-t-shirt-soft-squishy-hem-copy) — Textil und Satinlabel; Schlauch und Fasermischung ungeklärt
-- [Fidget-Wear T-Shirt – Pellet-Saum](https://fidget-wear.com/products/fidget-wear-adult-t-shirt-soothing-pellet-hem) — Textil und Satinlabel; gewichtete Pellets, genaue Zusammensetzung ungeklärt
-- [Diverse MMX Cross-Neck Hoodie](https://diverseclothing.co.uk/product/sensory-hoodie/) — Baumwolltextil laut Hersteller; Kauaufsatz und Fidget-Mischmaterialien ungeklärt
-- [Diverse MMX Jogger – Twiddle-Tags](https://diverseclothing.co.uk/product/2-point-sensory-fidget-sweat-pants-joggers-adult/) — Aufgerautes Fleece/Baumwolltextil laut Hersteller; genaue Fasermischung ungeklärt
-- [Cloud Nine Cloud Hoodie – Ärmel-Stressbälle](https://www.cloudnineclothing.ca/products/cloud-hoodie) — Baumwolle, Polyester und Elasthan; plüschartige Füllung der Stressbälle
-- [ARK Chewable Bangle – Kauarmreif](https://www.arktherapeutic.com/ark-chewable-bangle-bracelet/) — Medizinisches Elastomer laut Hersteller
-- [Stimm Tactile Touch Pendant](https://stimm.jewelry/products/pendant-rubber) — Soft-Touch-Gummi auf Edelstahl; Edelstahlkette
-- [Sensory Direct Comfort Scarf – Frottee-Mundtuch](https://www.sensorydirect.com/comfort-scarf) — 100 % Baumwoll-Frottee laut Hersteller; Klettverschluss
-- [Fun and Function Weighted Pocket Scarf](https://funandfunction.com/products/weighted-pocket-scarftm) — 80 % Polyester, 20 % Baumwolle; Glas-Pellets in Futter aus 65 % Polyester und 35 % Baumwolle
-- [Scentco Geladough – duftende Knete](https://scentcoinc.com/products/geladough) — Duftknete; genaue Zusammensetzung ungeklärt
-- [Scentco Smelly Ballz Sporty](https://scentcoinc.com/products/smelly-ballz-sporty) — Schaumstoff; Polymerart ungeklärt
-- [Scentco Original Smencils](https://scentcoinc.com/products/original-smencils) — Recycling-Zeitungspapier, Graphit; Kunststoffröhrchen
-- [Scentco Smillows – duftendes Plüschkissen](https://scentcoinc.com/products/smillows) — Plüschtextil; Faser- und Füllstoffzusammensetzung ungeklärt
-- [OOLY Macarons – Vanille-Radierer](https://www.ooly.com/products/macarons-vanilla-scented-erasers) — Radiermaterial; genaue Zusammensetzung ungeklärt
-- [OOLY Stickiville – Zuckerwatte-Duftsticker](https://www.ooly.com/products/stickiville-fluffy-cotton-candy-scented-stickers) — Papieraufkleber
-- [Crazy Aaron’s Banana Split SCENTsory](https://www.crazyaarons.com/products/scentsory-banana-split-2-75-thinking-putty-tin) — Putty; genaue Zusammensetzung ungeklärt
-- [Lush Honey I Washed the Kids – Seife](https://www.lush.com/de/de/p/honey-i-washed-the-kids-soap) — Feste Seife auf Basis von Raps- und Kokosöl; Honig, Duftstoffe
-- [Frische Kräuterblätter erkunden](https://www.rhs.org.uk/getmedia/626de3eb-e869-4366-b47b-3fa4a3cc0da1/Sensory-herb-activities.pdf) — Frische Kräuterblätter
-- [Zitronenschale beim Zubereiten erkunden](https://www.microplaneintl.com/en/food-guide/lemon) — Zitrone und Zitronenschale
-- [Duftende Blüten im Garten entdecken](https://www.rhs.org.uk/plants/for-places/for-scent-fragrance) — Blüten und Pflanzen
+## Neue Produkte
 
-Die 31 neu verwendeten Bildadressen (10 Kleidung, 20 Duft-/Materialbilder, 1 Origami) wurden per HTTP GET und tatsächlicher Bilddekodierung geprüft. Symbolfotos ersetzen außerdem drei frühere Illustrationen. Herstellerbilder sind nicht automatisch frei lizenziert.
+- [Fun and Function – Hängesessel aus Stoff](https://funandfunction.com/products/hanging-hammock-chair) — Textil und Aufhängung; genaue Faserzusammensetzung je Ausführung prüfen
+- [Fun and Function – Netz-Hängeschaukel](https://funandfunction.com/products/mesh-therapy-swing) — Netztextil; Aufhängung
+- [Fun and Function – Space Explorers Body Sock](https://funandfunction.com/products/space-explorers-sensory-body-sock) — 93 % Polyester, 7 % Elasthan; Polyester-Klettverschluss
+- [Fun and Function – weicher Balancebalken](https://funandfunction.com/products/sensasofttm-foam-balance-beam) — Schaumstoff mit abwischbarer Hülle; genaue Deckmaterialien prüfen
+- [Fun and Function – gepolstertes Schaukel-Fass](https://funandfunction.com/products/sensasofttm-rocking-half-barrel) — Schaumstoffgepolsterte Wände mit Hülle
+- [Bouncyband – Comfy Hugging Peapod](https://bouncyband.com/products/80-inch-peapod) — Beflocktes Vinyl
+- [Bouncyband – Handy Hugger Körperwickel](https://bouncyband.com/products/handy-hugger-sensory-compression-tool-by-bouncyband%C2%AE) — Dehnbares Textil mit Gewicht; genaue Faser-/Füllungszusammensetzung ungeklärt
+- [Bouncyband – Body Fidget mit Griffen](https://bouncyband.com/products/body-fidget-resistance-tube-with-handles-by-bouncyband%C2%AE) — Elastische Schläuche mit Schaumstoffgriffen; Schlauchmaterial ungeklärt
+- [Bouncyband – Schulterauflage mit zwei Texturen](https://bouncyband.com/products/sensory-weighted-dual-texture-shoulder-wrap-for-kids-by-bouncyband%C2%AE) — Fleece/Plüsch mit Gewicht; Füllungszusammensetzung ungeklärt
+- [Amy & Benton – Regenbogen Pop-Ball](https://www.amybentontoy.com/3d-squeeze-pop-ball-novelty-multi-color-sensory-stress-fidget-toys-product/) — Silikon
+- [Ariel Eye-Popping – Augen-Pop-Ball](https://www.arielpremium.com/product-detail/WGA-EP25BL) — Silikon
+- [Playlearn – Rugby Pop-It-Ball](https://www.play-learn.co.uk/product/sensory-rugby-shaped-pop-it-ball/) — Material auf Herstellerseite nicht angegeben
+- [MOLUK Oogi – Saugnapf-Figur](https://moluk.com/oogi.php) — Silikon
+- [MOLUK Mox – Silikonball mit Mund](https://www.moluk.com/products/mox-sensory-ball) — Silikon
+- [Speks Gump – Memory-Gel-Ball](https://www.getspeks.com/products/gump-ball) — TPR-Hülle; Maltosefüllung laut Hersteller
+- [Speks Mini Gump Loop – Gel-Ringe](https://www.getspeks.com/products/mini-gump-loop) — Gelgefüllte flexible Hülle; genaue Zusammensetzung auf dieser Produktseite prüfen
+- [Speks Blur – matte Silikonknete](https://www.getspeks.com/products/blur) — Silikonmasse laut Hersteller
+- [NeeDoh Snow Ball Crunch](https://schylling.com/product/snow-ball-crunch/) — Flexible Hülle mit Perlenfüllung; Zusammensetzung ungeklärt
+- [Mathmos Astro Baby – Silber / Violett–Orange](https://mathmos.com/product/astrobaby-lava-lamp-silver/) — Glas/Aluminium/Elektronik; Wachs- und Flüssigkeitsmischung ungeklärt
+- [Mathmos Telstar – schwarze Rakete / Blau–Gelb](https://mathmos.com/product/telstar-rocket-lava-lamp-black/) — Glas/Metall/Elektronik; Wachs- und Flüssigkeitsmischung ungeklärt
+- [Mathmos Neo – Kupfer / Violett–Pink](https://mathmos.com/product/neo-lava-lamp-for-children-adults-copper/) — Glas/Metall/Elektronik; Wachs- und Flüssigkeitsmischung ungeklärt
+- [LAVA Rainbow – Regenbogen-Glaskolben](https://schylling.com/product/14-5-lava-lamp-rainbow-hndpt-tricl/) — Glas/Aluminium/Elektronik; Wachs und Flüssigkeit ungeklärt
+- [LAVA Rainbow Glitter – Goldfuß](https://schylling.com/product/14-5-lava-lamp-rainbow-glitter-cl-gd/) — Glas/Aluminium/Elektronik; Flüssigkeit und Glitzermaterial ungeklärt
+- [tickit Sensory Mood Pyramid](https://www.tickit.eu/products/sensory-mood-pyramid) — Kunststoff/Elektronik
+- [tickit Dual Rainbow Cascade – Flüssigkeitszylinder](https://www.tickit.eu/products/sensory-dual-rainbow-cascade) — Polycarbonat/Wasser/Mineralöl
+- [tickit Wooden Sound Prisms – Klangprismen](https://www.tickit.eu/nl/products/geluid-prisma-set) — Holz; Füllmaterial ungeklärt
+- [Mathmos Lava Projector – Flüssigkeitsprojektion](https://mathmos.com/product/lava-lamp-projector-white/) — Kunststoff/Metall/Glas/Elektronik; Flüssigkeitsmischung ungeklärt
 
-Die vollständigen redaktionellen Notizen, Unsicherheiten und technischen Bildprüfungen stehen in `source_data/research-v11.json` und `source_data/image-audit.json`.
+## Nachvollziehbarkeit
+
+`source_data/research-v11-1.json` enthält Einzelentscheidungen, Motiverläuterungen, Quellen und Attributionen. `source_data/image-audit.json` enthält die technischen Prüfungen. 82 zusätzliche direkte Bildadressen wurden per HTTP GET und tatsächlicher Dekodierung geprüft; alle ausgewählten Motive anschließend visuell kontrolliert. Bei generischen Konzepten sind abweichende Ausführungen oder reine Materialproben ausdrücklich als Symbolfoto gekennzeichnet.
+
+Neue Produkte werden gleichberechtigt ergänzt. Es gibt keine Verkaufszahlen, Popularitätsnoten oder medizinischen Wirkungsversprechen. Die früheren Rechercheeingänge bleiben in `research-v11.json`, `research-run-01.json` und `variant-manufacturer-sources.json` erhalten.

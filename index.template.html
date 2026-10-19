@@ -32,6 +32,7 @@
       <fieldset><legend>Material</legend><div id="materials" class="chips"></div></fieldset>
       <div class="extra-filters"><label class="category"><span class="sr">Rubrik</span><select id="family" aria-label="Rubrik"><option value="">Alle Rubriken</option></select><span data-icon="chevron"></span></label><label class="check"><input type="checkbox" id="quiet">Leise</label><label class="check"><input type="checkbox" id="free">Kostenlos</label><label class="check"><input type="checkbox" id="variants" checked>Farbvarianten zeigen</label><button id="reset" class="textbutton">Zurücksetzen</button><span class="filter-note">Je Zeile: oder · zwischen Zeilen: und</span></div>
     </section>
+    <div id="view-actions" class="view-actions" hidden><span id="selection-summary"></span><button id="return-view" class="textbutton" hidden>← Zurück</button><button id="clear-view" class="textbutton">Zurücksetzen</button></div>
   </header>
   <main id="main">
     <section id="gallery" class="gallery" aria-label="Bildergalerie" tabindex="-1"></section>
@@ -40,6 +41,7 @@
     <p id="end" class="end" hidden>Alles gesehen.<button id="top" class="textbutton">Nach oben ↑</button></p>
     <noscript><p class="empty">Bitte JavaScript aktivieren, um den Katalog zu durchsuchen.</p></noscript>
   </main>
+  <button id="random" class="random-button" data-random aria-label="Zufälligen Eintrag aus der aktuellen Auswahl öffnen"><span data-icon="shuffle"></span><span>Zufall</span></button>
   <button id="jump-top" class="jump-top iconbutton" aria-label="Nach oben" hidden><span data-icon="up"></span></button>
   <dialog id="detail" class="detail-dialog" aria-labelledby="detail-title"><div id="detail-content"></div></dialog>
   <dialog id="data-dialog" class="data-dialog" aria-labelledby="data-title">

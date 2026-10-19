@@ -1,0 +1,2160 @@
+{
+  "researched_at": "2026-10-19",
+  "items": [
+    {
+      "id": "product-funfunction-hammock-chair",
+      "legacy_id": null,
+      "title": "Fun and Function – Hängesessel aus Stoff",
+      "description": "Offener Hängesessel mit breiter Stofffläche zum Sitzen und selbst gewähltem Vor-und-zurück-Schaukeln. Die Herstellerseite nennt Ausführungen für Kinder, Jugendliche und Erwachsene.",
+      "kind": "equipment",
+      "family": "Bewegung & Druck",
+      "subcategory": "Hängesessel",
+      "senses": [
+        "vestibular",
+        "proprioceptive"
+      ],
+      "material_raw": "Textil und Aufhängung; genaue Faserzusammensetzung je Ausführung prüfen",
+      "actions": [
+        "sitzen",
+        "schaukeln"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://funandfunction.com/products/hanging-hammock-chair",
+      "search": "Fun and Function – Hängesessel aus Stoff",
+      "action_prompt": "sitzen · schaukeln",
+      "safety": [],
+      "notes": "Herstellerangebot und Produktmedien am 2026-10-19 gelesen. Beschreibung nennt Bauform und Bewegung ohne klinische Wirksamkeitszusage. Traglast, Befestigung und erforderliche Freifläche nach konkreter Ausführung prüfen.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0956/9232/5146/files/cf9193_hanging_hammock_chair_comfort-size-_7__1.jpg?v=1773088668&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://funandfunction.com/products/hanging-hammock-chair",
+      "image_attribution": "Fun and Function · Herstellerfoto."
+    },
+    {
+      "id": "product-funfunction-mesh-swing",
+      "legacy_id": null,
+      "title": "Fun and Function – Netz-Hängeschaukel",
+      "description": "Atmungsaktive Hängeschaukel aus Netzgewebe. Man kann in ihr sitzen oder liegen und zwischen sanftem Wiegen und größerem Schwingen unterscheiden.",
+      "kind": "equipment",
+      "family": "Bewegung & Druck",
+      "subcategory": "Netzschaukeln",
+      "senses": [
+        "vestibular",
+        "tactile"
+      ],
+      "material_raw": "Netztextil; Aufhängung",
+      "actions": [
+        "liegen",
+        "schaukeln"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://funandfunction.com/products/mesh-therapy-swing",
+      "search": "Fun and Function – Netz-Hängeschaukel",
+      "action_prompt": "liegen · schaukeln",
+      "safety": [],
+      "notes": "Herstellerangebot und Produktmedien am 2026-10-19 gelesen. Beschreibung nennt Bauform und Bewegung ohne klinische Wirksamkeitszusage. Geeignete geprüfte Aufhängung und freie Schwingfläche erforderlich; Herstelleranleitung und Traglast beachten.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0956/9232/5146/files/mw6445_mesh_therapy_swing_active-_3.jpg?v=1773088514&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://funandfunction.com/products/mesh-therapy-swing",
+      "image_attribution": "Fun and Function · Herstellerfoto."
+    },
+    {
+      "id": "product-funfunction-space-explorer",
+      "legacy_id": null,
+      "title": "Fun and Function – Space Explorers Body Sock",
+      "description": "Dehnbarer Stoffsack mit Öffnung am Oberkörper: Arme und Beine können den Stoff von innen spannen. In mehreren körpergrößenabhängigen Ausführungen erhältlich.",
+      "kind": "object",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Dehnbare Körpersäcke",
+      "senses": [
+        "proprioceptive",
+        "tactile"
+      ],
+      "material_raw": "93 % Polyester, 7 % Elasthan; Polyester-Klettverschluss",
+      "actions": [
+        "dehnen",
+        "drücken",
+        "bewegen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://funandfunction.com/products/space-explorers-sensory-body-sock",
+      "search": "Fun and Function – Space Explorers Body Sock",
+      "action_prompt": "dehnen · drücken · bewegen",
+      "safety": [],
+      "notes": "Herstellerangebot und Produktmedien am 2026-10-19 gelesen. Beschreibung nennt Bauform und Bewegung ohne klinische Wirksamkeitszusage. Hersteller: Gesicht freihalten, nicht zum Schlafen, nicht für Kinder unter drei Jahren; Größen-/Nutzungsanleitung beachten.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0956/9232/5146/files/mw5636p_space_explorers_sensory_body_sock--_11__2_3433b991-da93-499b-b7c7-55a59cbfe177.jpg?v=1773088535&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://funandfunction.com/products/space-explorers-sensory-body-sock",
+      "image_attribution": "Fun and Function · Herstellerfoto."
+    },
+    {
+      "id": "product-funfunction-foam-beam",
+      "legacy_id": null,
+      "title": "Fun and Function – weicher Balancebalken",
+      "description": "Niedriger, breiter Balancebalken mit Schaumkörper. Seine lange schmale Oberseite lädt zu langsamen Schritten und balancierenden Gewichtsverlagerungen ein.",
+      "kind": "equipment",
+      "family": "Bewegung & Druck",
+      "subcategory": "Weiche Balanceelemente",
+      "senses": [
+        "vestibular",
+        "proprioceptive",
+        "tactile"
+      ],
+      "material_raw": "Schaumstoff mit abwischbarer Hülle; genaue Deckmaterialien prüfen",
+      "actions": [
+        "balancieren",
+        "gehen"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://funandfunction.com/products/sensasofttm-foam-balance-beam",
+      "search": "Fun and Function – weicher Balancebalken",
+      "action_prompt": "balancieren · gehen",
+      "safety": [],
+      "notes": "Herstellerangebot und Produktmedien am 2026-10-19 gelesen. Beschreibung nennt Bauform und Bewegung ohne klinische Wirksamkeitszusage. ",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0956/9232/5146/files/sp7215_sensasoft_foam_balance_beam_color_palette_1.jpg?v=1773088546&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://funandfunction.com/products/sensasofttm-foam-balance-beam",
+      "image_attribution": "Fun and Function · Herstellerfoto."
+    },
+    {
+      "id": "product-funfunction-half-barrel",
+      "legacy_id": null,
+      "title": "Fun and Function – gepolstertes Schaukel-Fass",
+      "description": "Halbrunde gepolsterte Schale zum seitlichen Wiegen. Umgedreht wird die gekrümmte Außenseite zu einem weichen Kletter- und Balanceelement.",
+      "kind": "equipment",
+      "family": "Bewegung & Druck",
+      "subcategory": "Schaukelmulden",
+      "senses": [
+        "vestibular",
+        "proprioceptive"
+      ],
+      "material_raw": "Schaumstoffgepolsterte Wände mit Hülle",
+      "actions": [
+        "wiegen",
+        "klettern"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://funandfunction.com/products/sensasofttm-rocking-half-barrel",
+      "search": "Fun and Function – gepolstertes Schaukel-Fass",
+      "action_prompt": "wiegen · klettern",
+      "safety": [],
+      "notes": "Herstellerangebot und Produktmedien am 2026-10-19 gelesen. Beschreibung nennt Bauform und Bewegung ohne klinische Wirksamkeitszusage. ",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0956/9232/5146/files/mw6999-sensasoft-rocking-half-barrel--_4_09dd71c7-673f-4649-a156-aeaf6223e139.jpg?v=1773088643&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://funandfunction.com/products/sensasofttm-rocking-half-barrel",
+      "image_attribution": "Fun and Function · Herstellerfoto."
+    },
+    {
+      "id": "product-bouncyband-peapod",
+      "legacy_id": null,
+      "title": "Bouncyband – Comfy Hugging Peapod",
+      "description": "Bootsförmiger aufblasbarer Sitz mit drei Luftkammern und weicher beflockter Oberfläche. Die hohen Seiten umgeben den Körper; der Sitz kann sich seitlich mitbewegen.",
+      "kind": "equipment",
+      "family": "Bewegung & Druck",
+      "subcategory": "Aufblasbare Umhüllung",
+      "senses": [
+        "tactile",
+        "proprioceptive",
+        "vestibular"
+      ],
+      "material_raw": "Beflocktes Vinyl",
+      "actions": [
+        "sitzen",
+        "anlehnen",
+        "wiegen"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://bouncyband.com/products/80-inch-peapod",
+      "search": "Bouncyband – Comfy Hugging Peapod",
+      "action_prompt": "sitzen · anlehnen · wiegen",
+      "safety": [],
+      "notes": "Herstellerangebot und Produktmedien am 2026-10-19 gelesen. Beschreibung nennt Bauform und Bewegung ohne klinische Wirksamkeitszusage. Große 80-Zoll-Ausführung als Bildbeispiel; Größen und Traglast unterscheiden sich. Herstelleranleitung beachten.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0036/5651/5684/files/SensoryPeapod80in-front.png?v=1755625323&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://bouncyband.com/products/80-inch-peapod",
+      "image_attribution": "Bouncyband · Herstellerfoto."
+    },
+    {
+      "id": "product-bouncyband-handy-hugger",
+      "legacy_id": null,
+      "title": "Bouncyband – Handy Hugger Körperwickel",
+      "description": "Verstellbarer gewichteter Stretch-Wickel für Rumpf oder Hüfte. Die überlappenden Enden erlauben es, den Umfang innerhalb der vorgesehenen Größe einzustellen.",
+      "kind": "object",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Verstellbarer Körperdruck",
+      "senses": [
+        "proprioceptive",
+        "tactile"
+      ],
+      "material_raw": "Dehnbares Textil mit Gewicht; genaue Faser-/Füllungszusammensetzung ungeklärt",
+      "actions": [
+        "anlegen",
+        "Druck einstellen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://bouncyband.com/products/handy-hugger-sensory-compression-tool-by-bouncyband%C2%AE",
+      "search": "Bouncyband – Handy Hugger Körperwickel",
+      "action_prompt": "anlegen · Druck einstellen",
+      "safety": [],
+      "notes": "Herstellerangebot und Produktmedien am 2026-10-19 gelesen. Beschreibung nennt Bauform und Bewegung ohne klinische Wirksamkeitszusage. Für Kindergrößen ausgelegt; passende Größe und eigenständige Bewegungsfreiheit nach Herstelleranleitung prüfen.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0036/5651/5684/files/Handyhugger-front.png?v=1752624104&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://bouncyband.com/products/handy-hugger-sensory-compression-tool-by-bouncyband%C2%AE",
+      "image_attribution": "Bouncyband · Herstellerfoto."
+    },
+    {
+      "id": "product-bouncyband-body-fidget",
+      "legacy_id": null,
+      "title": "Bouncyband – Body Fidget mit Griffen",
+      "description": "Gekreuzte elastische Schläuche mit gepolsterten Griffen. Hände oder Füße ziehen die Schlaufen auseinander und verändern so den spürbaren Widerstand.",
+      "kind": "object",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Widerstandsschlaufen",
+      "senses": [
+        "proprioceptive",
+        "tactile"
+      ],
+      "material_raw": "Elastische Schläuche mit Schaumstoffgriffen; Schlauchmaterial ungeklärt",
+      "actions": [
+        "ziehen",
+        "dehnen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://bouncyband.com/products/body-fidget-resistance-tube-with-handles-by-bouncyband%C2%AE",
+      "search": "Bouncyband – Body Fidget mit Griffen",
+      "action_prompt": "ziehen · dehnen",
+      "safety": [],
+      "notes": "Herstellerangebot und Produktmedien am 2026-10-19 gelesen. Beschreibung nennt Bauform und Bewegung ohne klinische Wirksamkeitszusage. Herstellergröße 51 × 51 cm; nicht mit starren Griffkrafttrainern gleichzusetzen.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0036/5651/5684/files/bodyfidget-front.png?v=1753392581&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://bouncyband.com/products/body-fidget-resistance-tube-with-handles-by-bouncyband%C2%AE",
+      "image_attribution": "Bouncyband · Herstellerfoto."
+    },
+    {
+      "id": "product-bouncyband-shoulder-wrap",
+      "legacy_id": null,
+      "title": "Bouncyband – Schulterauflage mit zwei Texturen",
+      "description": "Gewichtete Auflage mit weichen Noppen auf einer Seite und glattem Plüsch auf der anderen. Die längliche Form liegt quer über Schultern und oberem Rücken oder auf dem Schoß.",
+      "kind": "object",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Gewichtete Schulterauflagen",
+      "senses": [
+        "proprioceptive",
+        "tactile"
+      ],
+      "material_raw": "Fleece/Plüsch mit Gewicht; Füllungszusammensetzung ungeklärt",
+      "actions": [
+        "auflegen",
+        "Texturen fühlen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://bouncyband.com/products/sensory-weighted-dual-texture-shoulder-wrap-for-kids-by-bouncyband%C2%AE",
+      "search": "Bouncyband – Schulterauflage mit zwei Texturen",
+      "action_prompt": "auflegen · Texturen fühlen",
+      "safety": [],
+      "notes": "Herstellerangebot und Produktmedien am 2026-10-19 gelesen. Beschreibung nennt Bauform und Bewegung ohne klinische Wirksamkeitszusage. Hersteller nennt 5 lb Gewicht und Kindergröße 40 × 12 Zoll. Individuelle Passung und Herstelleranleitung beachten.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0036/5651/5684/files/WeightedShoulderWrap-front2.png?v=1754515305&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://bouncyband.com/products/sensory-weighted-dual-texture-shoulder-wrap-for-kids-by-bouncyband%C2%AE",
+      "image_attribution": "Bouncyband · Herstellerfoto."
+    },
+    {
+      "id": "product-amy-benton-rainbow-pop-ball",
+      "legacy_id": null,
+      "title": "Amy & Benton – Regenbogen Pop-Ball",
+      "description": "Runde 7-cm-Silikonhülle mit bunten Segmenten und eindrückbaren Blasen. Durch Zusammendrücken kehren die Blasen nach außen zurück.",
+      "kind": "object",
+      "family": "Popping & Drücken",
+      "subcategory": "Popping & Drücken",
+      "senses": [
+        "tactile",
+        "auditory"
+      ],
+      "material_raw": "Silikon",
+      "actions": [
+        "ploppen",
+        "drücken"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://www.amybentontoy.com/3d-squeeze-pop-ball-novelty-multi-color-sensory-stress-fidget-toys-product/",
+      "search": "Amy & Benton – Regenbogen Pop-Ball",
+      "action_prompt": "ploppen · drücken",
+      "safety": [],
+      "notes": "Herstellerseite am 2026-10-19 geprüft. Beschreibung auf sichtbare Eigenschaften und belegte Materialien beschränkt; keine Wirksamkeits- oder Beliebtheitsbehauptung. Extern verlinkte Herstellerfotos, keine freie Bildlizenz behauptet.",
+      "images": [
+        "https://www.amybentontoy.com/uploads/3D-Squeeze-Pop-Ball-1.jpg"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://www.amybentontoy.com/3d-squeeze-pop-ball-novelty-multi-color-sensory-stress-fidget-toys-product/",
+      "image_attribution": "Produktfoto des Herstellers; Rechte beim jeweiligen Anbieter."
+    },
+    {
+      "id": "product-ariel-eye-popping-ball",
+      "legacy_id": null,
+      "title": "Ariel Eye-Popping – Augen-Pop-Ball",
+      "description": "Weicher Silikonball mit Augenmotiv statt gleichförmiger Blasen. Die gewölbten Formen lassen sich eindrücken und zurückploppen.",
+      "kind": "object",
+      "family": "Popping & Drücken",
+      "subcategory": "Popping & Drücken",
+      "senses": [
+        "tactile",
+        "auditory"
+      ],
+      "material_raw": "Silikon",
+      "actions": [
+        "ploppen",
+        "drücken"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://www.arielpremium.com/product-detail/WGA-EP25BL",
+      "search": "Ariel Eye-Popping – Augen-Pop-Ball",
+      "action_prompt": "ploppen · drücken",
+      "safety": [],
+      "notes": "Herstellerseite am 2026-10-19 geprüft. Beschreibung auf sichtbare Eigenschaften und belegte Materialien beschränkt; keine Wirksamkeits- oder Beliebtheitsbehauptung. Extern verlinkte Herstellerfotos, keine freie Bildlizenz behauptet.",
+      "images": [
+        "https://d2b9vjwb3yw5iu.cloudfront.net/files/Primary/large/wga-ep25bl.jpg",
+        "https://d2b9vjwb3yw5iu.cloudfront.net/files/Primary/extra_photos/extra_medium/wga-ep25_extra01.jpg"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://www.arielpremium.com/product-detail/WGA-EP25BL",
+      "image_attribution": "Produktfoto des Herstellers; Rechte beim jeweiligen Anbieter."
+    },
+    {
+      "id": "product-playlearn-rugby-pop-ball",
+      "legacy_id": null,
+      "title": "Playlearn – Rugby Pop-It-Ball",
+      "description": "Aufblasbarer Pop-Ball in länglicher Rugbyform, 20 × 10 cm. Blasen eindrücken, anschließend durch Druck auf den Ball wieder nach außen drücken; Pumpe wird mitgeliefert.",
+      "kind": "object",
+      "family": "Popping & Drücken",
+      "subcategory": "Popping & Drücken",
+      "senses": [
+        "tactile",
+        "auditory"
+      ],
+      "material_raw": "Material auf Herstellerseite nicht angegeben",
+      "actions": [
+        "ploppen",
+        "drücken"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://www.play-learn.co.uk/product/sensory-rugby-shaped-pop-it-ball/",
+      "search": "Playlearn – Rugby Pop-It-Ball",
+      "action_prompt": "ploppen · drücken",
+      "safety": [],
+      "notes": "Herstellerseite am 2026-10-19 geprüft. Beschreibung auf sichtbare Eigenschaften und belegte Materialien beschränkt; keine Wirksamkeits- oder Beliebtheitsbehauptung. Extern verlinkte Herstellerfotos, keine freie Bildlizenz behauptet.",
+      "images": [
+        "https://www.play-learn.co.uk/wp-content/uploads/2022/10/Untitled-1200-x-1200-px-2026-05-25T085125.216.png",
+        "https://www.play-learn.co.uk/wp-content/uploads/2022/10/Untitled-1200-x-1200-px-2026-05-25T085236.501.png"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://www.play-learn.co.uk/product/sensory-rugby-shaped-pop-it-ball/",
+      "image_attribution": "Produktfoto des Herstellers; Rechte beim jeweiligen Anbieter."
+    },
+    {
+      "id": "product-moluk-oogi",
+      "legacy_id": null,
+      "title": "MOLUK Oogi – Saugnapf-Figur",
+      "description": "Dehnbare Figur mit Saugnäpfen an Kopf, Händen und Füßen. Strecken, verbinden oder von glatten Flächen lösen.",
+      "kind": "object",
+      "family": "Dehnen & Saugen",
+      "subcategory": "Dehnen & Saugen",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Silikon",
+      "actions": [
+        "ziehen",
+        "haften",
+        "lösen"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://moluk.com/oogi.php",
+      "search": "MOLUK Oogi – Saugnapf-Figur",
+      "action_prompt": "ziehen · haften · lösen",
+      "safety": [],
+      "notes": "Herstellerseite am 2026-10-19 geprüft. Beschreibung auf sichtbare Eigenschaften und belegte Materialien beschränkt; keine Wirksamkeits- oder Beliebtheitsbehauptung. Extern verlinkte Herstellerfotos, keine freie Bildlizenz behauptet.",
+      "images": [
+        "https://www.moluk.com/cdn/shop/files/oogi-blue-red-suction-cup-figure-pose-1.jpg?v=1764782976&width=3000",
+        "https://www.moluk.com/cdn/shop/files/oogi-red-suction-cup-figure-stretch.jpg?v=1764783024&width=3000"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://moluk.com/oogi.php",
+      "image_attribution": "Produktfoto des Herstellers; Rechte beim jeweiligen Anbieter."
+    },
+    {
+      "id": "product-moluk-mox",
+      "legacy_id": null,
+      "title": "MOLUK Mox – Silikonball mit Mund",
+      "description": "Kleiner Silikonball mit einem Schlitz als Mund. Durch Zusammendrücken verändert sich der Gesichtsausdruck; auch Stapeln und Rollen sind möglich.",
+      "kind": "object",
+      "family": "Formwandel",
+      "subcategory": "Formwandel",
+      "senses": [
+        "tactile",
+        "visual"
+      ],
+      "material_raw": "Silikon",
+      "actions": [
+        "drücken",
+        "rollen",
+        "stapeln"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://www.moluk.com/products/mox-sensory-ball",
+      "search": "MOLUK Mox – Silikonball mit Mund",
+      "action_prompt": "drücken · rollen · stapeln",
+      "safety": [],
+      "notes": "Herstellerseite am 2026-10-19 geprüft. Beschreibung auf sichtbare Eigenschaften und belegte Materialien beschränkt; keine Wirksamkeits- oder Beliebtheitsbehauptung. Extern verlinkte Herstellerfotos, keine freie Bildlizenz behauptet.",
+      "images": [
+        "https://www.moluk.com/cdn/shop/files/mox-sensory-ball-primary-colors.jpg?v=1755024282&width=3000",
+        "https://www.moluk.com/cdn/shop/files/mox-sensory-ball-blue-squeeze.jpg?v=1755024282&width=3000"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://www.moluk.com/products/mox-sensory-ball",
+      "image_attribution": "Produktfoto des Herstellers; Rechte beim jeweiligen Anbieter."
+    },
+    {
+      "id": "product-speks-gump-ball",
+      "legacy_id": null,
+      "title": "Speks Gump – Memory-Gel-Ball",
+      "description": "Samtig beschichtete, durchscheinende Hülle mit widerständiger Füllung. Der etwa 6 cm große Ball formt sich nach einem langsamen Druck zurück.",
+      "kind": "object",
+      "family": "Langsam rückformende Füllungen",
+      "subcategory": "Langsam rückformende Füllungen",
+      "senses": [
+        "tactile",
+        "visual"
+      ],
+      "material_raw": "TPR-Hülle; Maltosefüllung laut Hersteller",
+      "actions": [
+        "drücken",
+        "kneten"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://www.getspeks.com/products/gump-ball",
+      "search": "Speks Gump – Memory-Gel-Ball",
+      "action_prompt": "drücken · kneten",
+      "safety": [],
+      "notes": "Herstellerseite am 2026-10-19 geprüft. Beschreibung auf sichtbare Eigenschaften und belegte Materialien beschränkt; keine Wirksamkeits- oder Beliebtheitsbehauptung. Extern verlinkte Herstellerfotos, keine freie Bildlizenz behauptet.",
+      "images": [
+        "https://www.getspeks.com/cdn/shop/files/GumpSeaGlass_Ball_1920x2400_4557ec88-bd71-442d-8b61-621c33d317d3.jpg?v=1788348199",
+        "https://www.getspeks.com/cdn/shop/files/GumpDew_Desk_1920x2400_632c4690-48fa-4b32-ad54-658b51c5d438.jpg?v=1788348200&width=3840"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://www.getspeks.com/products/gump-ball",
+      "image_attribution": "Produktfoto des Herstellers; Rechte beim jeweiligen Anbieter."
+    },
+    {
+      "id": "product-speks-mini-gump-loop",
+      "legacy_id": null,
+      "title": "Speks Mini Gump Loop – Gel-Ringe",
+      "description": "Weiche kleine Ringe aus der Gump-Reihe, deren offene Form sich anders zusammendrücken lässt als ein geschlossener Ball. Sechs verschiedenfarbige Ringe im gezeigten Set.",
+      "kind": "object",
+      "family": "Langsam rückformende Füllungen",
+      "subcategory": "Langsam rückformende Füllungen",
+      "senses": [
+        "tactile",
+        "visual"
+      ],
+      "material_raw": "Gelgefüllte flexible Hülle; genaue Zusammensetzung auf dieser Produktseite prüfen",
+      "actions": [
+        "drücken",
+        "kneten"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://www.getspeks.com/products/mini-gump-loop",
+      "search": "Speks Mini Gump Loop – Gel-Ringe",
+      "action_prompt": "drücken · kneten",
+      "safety": [],
+      "notes": "Herstellerseite am 2026-10-19 geprüft. Beschreibung auf sichtbare Eigenschaften und belegte Materialien beschränkt; keine Wirksamkeits- oder Beliebtheitsbehauptung. Extern verlinkte Herstellerfotos, keine freie Bildlizenz behauptet.",
+      "images": [
+        "https://www.getspeks.com/cdn/shop/files/MiniLoopMix_product_1920x2400_17b1a2c9-a3c2-4b6b-b39a-0e7129b8752e.jpg?v=1788348228",
+        "https://www.getspeks.com/cdn/shop/files/MiniLoopMix_Hands_1920x2400_ce198a81-fda8-414d-9bc0-cb8628571a3c.jpg?v=1788348226&width=3840"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://www.getspeks.com/products/mini-gump-loop",
+      "image_attribution": "Produktfoto des Herstellers; Rechte beim jeweiligen Anbieter."
+    },
+    {
+      "id": "product-speks-blur-putty",
+      "legacy_id": null,
+      "title": "Speks Blur – matte Silikonknete",
+      "description": "Matte, samtig wirkende Knetmasse im Schraubbehälter. Kneten, dehnen oder zusammendrücken; in mehreren Farben erhältlich.",
+      "kind": "object",
+      "family": "Kneten & Formen",
+      "subcategory": "Kneten & Formen",
+      "senses": [
+        "tactile"
+      ],
+      "material_raw": "Silikonmasse laut Hersteller",
+      "actions": [
+        "kneten",
+        "ziehen",
+        "drücken"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://www.getspeks.com/products/blur",
+      "search": "Speks Blur – matte Silikonknete",
+      "action_prompt": "kneten · ziehen · drücken",
+      "safety": [],
+      "notes": "Herstellerseite am 2026-10-19 geprüft. Beschreibung auf sichtbare Eigenschaften und belegte Materialien beschränkt; keine Wirksamkeits- oder Beliebtheitsbehauptung. Extern verlinkte Herstellerfotos, keine freie Bildlizenz behauptet.",
+      "images": [
+        "https://www.getspeks.com/cdn/shop/files/BlurCitron_PuttyonJar_1920x2400_4c150bb5-e3a1-4e6e-ac62-7e739e2cac80.jpg?v=1788348215",
+        "https://www.getspeks.com/cdn/shop/files/BlurCitron_Desk_1920x2400_ec66b5fd-fba7-4ba5-b914-16f9afdaf7d2.jpg?v=1788348215&width=3840"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://www.getspeks.com/products/blur",
+      "image_attribution": "Produktfoto des Herstellers; Rechte beim jeweiligen Anbieter."
+    },
+    {
+      "id": "product-needoh-snow-ball-crunch",
+      "legacy_id": null,
+      "title": "NeeDoh Snow Ball Crunch",
+      "description": "Weiße weiche Kugel mit einer knirschenden Perlenfüllung. Bietet beim Drücken eine andere Struktur und ein anderes Geräusch als glatte Gelbälle.",
+      "kind": "object",
+      "family": "Texturierte Füllungen",
+      "subcategory": "Texturierte Füllungen",
+      "senses": [
+        "tactile",
+        "auditory"
+      ],
+      "material_raw": "Flexible Hülle mit Perlenfüllung; Zusammensetzung ungeklärt",
+      "actions": [
+        "drücken",
+        "knirschen"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://schylling.com/product/snow-ball-crunch/",
+      "search": "NeeDoh Snow Ball Crunch",
+      "action_prompt": "drücken · knirschen",
+      "safety": [],
+      "notes": "Herstellerseite am 2026-10-19 geprüft. Beschreibung auf sichtbare Eigenschaften und belegte Materialien beschränkt; keine Wirksamkeits- oder Beliebtheitsbehauptung. Extern verlinkte Herstellerfotos, keine freie Bildlizenz behauptet.",
+      "images": [
+        "https://schylling.com/wp-content/uploads/2020/product/01/SNBC-Snow-Ball-Crunch-Item-web-300x300.jpg"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://schylling.com/product/snow-ball-crunch/",
+      "image_attribution": "Produktfoto des Herstellers; Rechte beim jeweiligen Anbieter."
+    },
+    {
+      "id": "product-mathmos-astro-baby-silver",
+      "legacy_id": null,
+      "title": "Mathmos Astro Baby – Silber / Violett–Orange",
+      "description": "Schmale Lavalampe mit poliertem silbernem Fuß. Das gewählte Foto zeigt orange Wachsformen in violetter Flüssigkeit.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Lavalampe – schlanke Form",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Glas/Aluminium/Elektronik; Wachs- und Flüssigkeitsmischung ungeklärt",
+      "actions": [
+        "beobachten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://mathmos.com/product/astrobaby-lava-lamp-silver/",
+      "search": "Mathmos Astro Baby – Silber / Violett–Orange",
+      "action_prompt": "beobachten",
+      "safety": [],
+      "notes": "43 cm hohe Astro Baby; handgeformter Aluminiumfuß laut Hersteller. Netzbetrieb; wird heiß, Herstelleranleitung beachten. Herstellerseite am 2026-10-19 gelesen; direkte Bildadresse durch HTTP GET und Pillow-Dekodierung kontrolliert und auf Kontaktbogen visuell angesehen. Externes Herstellerfoto, keine Übertragung von Bildrechten; keine Beliebtheits- oder Wirksamkeitsbehauptung.",
+      "image_role": "reference_photo",
+      "image_source_url": "https://mathmos.com/product/astrobaby-lava-lamp-silver/",
+      "image_attribution": "Mathmos – externes Herstellerfoto; Quelle auf der verlinkten Produktseite.",
+      "images": [
+        "https://mathmos.com/app/uploads/sites/10/2022/06/mathmos_astrobaby_lava_lamp_violet_orange_main.jpg"
+      ]
+    },
+    {
+      "id": "product-mathmos-telstar-black",
+      "legacy_id": null,
+      "title": "Mathmos Telstar – schwarze Rakete / Blau–Gelb",
+      "description": "Lavalampe auf drei raketenartigen Beinen. Die gezeigte Kombination setzt gelbe Wachsformen gegen blaue Flüssigkeit.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Lavalampe – Raketenform",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Glas/Metall/Elektronik; Wachs- und Flüssigkeitsmischung ungeklärt",
+      "actions": [
+        "beobachten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://mathmos.com/product/telstar-rocket-lava-lamp-black/",
+      "search": "Mathmos Telstar – schwarze Rakete / Blau–Gelb",
+      "action_prompt": "beobachten",
+      "safety": [],
+      "notes": "Das Foto zeigt die schwarze Telstar in Blau/Gelb. Netzbetrieb und heiße Oberfläche; Herstelleranleitung beachten. Herstellerseite am 2026-10-19 gelesen; direkte Bildadresse durch HTTP GET und Pillow-Dekodierung kontrolliert und auf Kontaktbogen visuell angesehen. Externes Herstellerfoto, keine Übertragung von Bildrechten; keine Beliebtheits- oder Wirksamkeitsbehauptung.",
+      "image_role": "reference_photo",
+      "image_source_url": "https://mathmos.com/product/telstar-rocket-lava-lamp-black/",
+      "image_attribution": "Mathmos – externes Herstellerfoto; Quelle auf der verlinkten Produktseite.",
+      "images": [
+        "https://mathmos.com/app/uploads/sites/10/2022/06/MAIN_mathmos_telstar_rocket_lava_lamp_black_blue_yellow_m-1.jpg"
+      ]
+    },
+    {
+      "id": "product-mathmos-neo-copper",
+      "legacy_id": null,
+      "title": "Mathmos Neo – Kupfer / Violett–Pink",
+      "description": "Lavalampe mit einem geschwungenen kupferfarbenen Rahmen. Das Referenzfoto zeigt die pink-violette Farbkombination.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Lavalampe – geschwungener Rahmen",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Glas/Metall/Elektronik; Wachs- und Flüssigkeitsmischung ungeklärt",
+      "actions": [
+        "beobachten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://mathmos.com/product/neo-lava-lamp-for-children-adults-copper/",
+      "search": "Mathmos Neo – Kupfer / Violett–Pink",
+      "action_prompt": "beobachten",
+      "safety": [],
+      "notes": "Eigenes Gehäusemodell gegenüber Astro Baby und Telstar. Keine Aussage über aktuelle Lagerverfügbarkeit oder Verfügbarkeit außerhalb der Herstellerregion. Herstelleranleitung beachten. Herstellerseite am 2026-10-19 gelesen; direkte Bildadresse durch HTTP GET und Pillow-Dekodierung kontrolliert und auf Kontaktbogen visuell angesehen. Externes Herstellerfoto, keine Übertragung von Bildrechten; keine Beliebtheits- oder Wirksamkeitsbehauptung.",
+      "image_role": "reference_photo",
+      "image_source_url": "https://mathmos.com/product/neo-lava-lamp-for-children-adults-copper/",
+      "image_attribution": "Mathmos – externes Herstellerfoto; Quelle auf der verlinkten Produktseite.",
+      "images": [
+        "https://mathmos.com/app/uploads/sites/10/2022/06/MAIN_mathmos_neo_copper_lava_lamp_violet_pink.jpg"
+      ]
+    },
+    {
+      "id": "product-lava-rainbow-tricolor",
+      "legacy_id": null,
+      "title": "LAVA Rainbow – Regenbogen-Glaskolben",
+      "description": "Lavalampe mit dreifarbig bemaltem Glaskolben und Regenbogenmuster auf Fuß und Kappe. Im Inneren bewegen sich weiße Wachsformen in klarer Flüssigkeit.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Lavalampe – bemaltes Glas",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Glas/Aluminium/Elektronik; Wachs und Flüssigkeit ungeklärt",
+      "actions": [
+        "beobachten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://schylling.com/product/14-5-lava-lamp-rainbow-hndpt-tricl/",
+      "search": "LAVA Rainbow – Regenbogen-Glaskolben",
+      "action_prompt": "beobachten",
+      "safety": [],
+      "notes": "Hersteller beschreibt das Modell 2179, 14,5 Zoll. US-Netzversion (120 V) nicht ungeprüft am europäischen Netz verwenden. Heiße Oberfläche; Herstelleranleitung beachten. Herstellerseite am 2026-10-19 gelesen; direkte Bildadresse durch HTTP GET und Pillow-Dekodierung kontrolliert und auf Kontaktbogen visuell angesehen. Externes Herstellerfoto, keine Übertragung von Bildrechten; keine Beliebtheits- oder Wirksamkeitsbehauptung.",
+      "image_role": "reference_photo",
+      "image_source_url": "https://schylling.com/product/14-5-lava-lamp-rainbow-hndpt-tricl/",
+      "image_attribution": "Schylling – externes Herstellerfoto; Quelle auf der verlinkten Produktseite.",
+      "images": [
+        "https://schylling.com/wp-content/uploads/2020/09/21790401US-LavaLamp-14-5-Rainbow-web-800x800.jpg"
+      ]
+    },
+    {
+      "id": "product-lava-rainbow-glitter-gold",
+      "legacy_id": null,
+      "title": "LAVA Rainbow Glitter – Goldfuß",
+      "description": "Glitzerlampe mit goldenem Fuß und klarer Flüssigkeit. Kleine farbige Glitzerteilchen bewegen sich anstelle großer Wachsblasen.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Glitzerlampe",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Glas/Aluminium/Elektronik; Flüssigkeit und Glitzermaterial ungeklärt",
+      "actions": [
+        "beobachten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://schylling.com/product/14-5-lava-lamp-rainbow-glitter-cl-gd/",
+      "search": "LAVA Rainbow Glitter – Goldfuß",
+      "action_prompt": "beobachten",
+      "safety": [],
+      "notes": "Hersteller beschreibt Regenbogenglitzer in klarer Flüssigkeit, Modell 2131. Kein identischer Effekt wie große Lava-Wachsblasen. US-Netzversion (120 V); Herstelleranleitung beachten. Herstellerseite am 2026-10-19 gelesen; direkte Bildadresse durch HTTP GET und Pillow-Dekodierung kontrolliert und auf Kontaktbogen visuell angesehen. Externes Herstellerfoto, keine Übertragung von Bildrechten; keine Beliebtheits- oder Wirksamkeitsbehauptung.",
+      "image_role": "reference_photo",
+      "image_source_url": "https://schylling.com/product/14-5-lava-lamp-rainbow-glitter-cl-gd/",
+      "image_attribution": "Schylling – externes Herstellerfoto; Quelle auf der verlinkten Produktseite.",
+      "images": [
+        "https://schylling.com/wp-content/uploads/2020/09/21310401US-LavaLamp-14-5-Rainbow-Glitter-web-800x800.jpg"
+      ]
+    },
+    {
+      "id": "product-tickit-mood-pyramid",
+      "legacy_id": null,
+      "title": "tickit Sensory Mood Pyramid",
+      "description": "Leuchtende Pyramide als räumliches Lichtobjekt. Das Foto zeigt sie mit ruhigem rotem Licht.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Stimmungslicht – Pyramide",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Kunststoff/Elektronik",
+      "actions": [
+        "beobachten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://www.tickit.eu/products/sensory-mood-pyramid",
+      "search": "tickit Sensory Mood Pyramid",
+      "action_prompt": "beobachten",
+      "safety": [],
+      "notes": "Hohle Kunststoffpyramide mit Niederspannungsversorgung; keine Aussage über eine klinische Wirkung. Herstellerseite am 2026-10-19 gelesen; direkte Bildadresse durch HTTP GET und Pillow-Dekodierung kontrolliert und auf Kontaktbogen visuell angesehen. Externes Herstellerfoto, keine Übertragung von Bildrechten; keine Beliebtheits- oder Wirksamkeitsbehauptung.",
+      "image_role": "reference_photo",
+      "image_source_url": "https://www.tickit.eu/products/sensory-mood-pyramid",
+      "image_attribution": "tickit – externes Herstellerfoto; Quelle auf der verlinkten Produktseite.",
+      "images": [
+        "https://www.tickit.eu/cdn/shop/products/TickiT_Sensory_Mood_Pyramid_75550_A_3a6c0936-60ea-4b6e-9cd9-ae805d128b22.jpg?v=1754662107"
+      ]
+    },
+    {
+      "id": "product-tickit-dual-rainbow-cascade",
+      "legacy_id": null,
+      "title": "tickit Dual Rainbow Cascade – Flüssigkeitszylinder",
+      "description": "Durchsichtige Zylinder mit zwei farbigen Flüssigkeitsbahnen. Nach dem Umdrehen lassen sich Tropfen und Strömungen verfolgen.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Flüssigkeitstropfen",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Polycarbonat/Wasser/Mineralöl",
+      "actions": [
+        "wenden",
+        "beobachten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://www.tickit.eu/products/sensory-dual-rainbow-cascade",
+      "search": "tickit Dual Rainbow Cascade – Flüssigkeitszylinder",
+      "action_prompt": "wenden · beobachten",
+      "safety": [],
+      "notes": "Set aus drei Zylindern, Höhe 140 mm, Durchmesser 55 mm laut Hersteller; geschlossene Behälter. Herstellerseite am 2026-10-19 gelesen; direkte Bildadresse durch HTTP GET und Pillow-Dekodierung kontrolliert und auf Kontaktbogen visuell angesehen. Externes Herstellerfoto, keine Übertragung von Bildrechten; keine Beliebtheits- oder Wirksamkeitsbehauptung.",
+      "image_role": "reference_photo",
+      "image_source_url": "https://www.tickit.eu/products/sensory-dual-rainbow-cascade",
+      "image_attribution": "tickit – externes Herstellerfoto; Quelle auf der verlinkten Produktseite.",
+      "images": [
+        "https://www.tickit.eu/cdn/shop/files/92108_4.jpg?v=1764695041"
+      ]
+    },
+    {
+      "id": "product-tickit-wooden-sound-prisms",
+      "legacy_id": null,
+      "title": "tickit Wooden Sound Prisms – Klangprismen",
+      "description": "Holzprismen mit unterschiedlichen Füllungen für verschiedene Rasselklänge. Die Formen lassen sich einzeln anheben, schütteln und vergleichen.",
+      "kind": "object",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Klangprismen",
+      "senses": [
+        "auditory",
+        "tactile"
+      ],
+      "material_raw": "Holz; Füllmaterial ungeklärt",
+      "actions": [
+        "schütteln",
+        "vergleichen"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://www.tickit.eu/nl/products/geluid-prisma-set",
+      "search": "tickit Wooden Sound Prisms – Klangprismen",
+      "action_prompt": "schütteln · vergleichen",
+      "safety": [],
+      "notes": "Das Set bietet unterschiedliche Klänge, keine Lautstärkezusage. Hersteller nennt Holz; Füllstoffe auf der konkreten Seite nicht zuverlässig spezifiziert. Herstellerseite am 2026-10-19 gelesen; direkte Bildadresse durch HTTP GET und Pillow-Dekodierung kontrolliert und auf Kontaktbogen visuell angesehen. Externes Herstellerfoto, keine Übertragung von Bildrechten; keine Beliebtheits- oder Wirksamkeitsbehauptung.",
+      "image_role": "reference_photo",
+      "image_source_url": "https://www.tickit.eu/nl/products/geluid-prisma-set",
+      "image_attribution": "tickit – externes Herstellerfoto; Quelle auf der verlinkten Produktseite.",
+      "images": [
+        "https://www.tickit.eu/cdn/shop/products/73277_Anew.jpg?v=1754662141"
+      ]
+    },
+    {
+      "id": "product-mathmos-lava-projector-white",
+      "legacy_id": null,
+      "title": "Mathmos Lava Projector – Flüssigkeitsprojektion",
+      "description": "Ein Projektor wirft bewegte farbige Flüssigkeitsformen auf eine Wand. Das Referenzfoto zeigt gleichzeitig Gerät und projizierten Effekt.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Projektion – fließende Formen",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Kunststoff/Metall/Glas/Elektronik; Flüssigkeitsmischung ungeklärt",
+      "actions": [
+        "beobachten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-expansion-v11",
+      "source_url": "https://mathmos.com/product/lava-lamp-projector-white/",
+      "search": "Mathmos Lava Projector – Flüssigkeitsprojektion",
+      "action_prompt": "beobachten",
+      "safety": [],
+      "notes": "Zeigt Flüssigkeitsprojektion und keine reale Unterwasseraufnahme. Keine selbst erzeugte Computergrafik; Referenzfoto von Mathmos. Herstellerseite am 2026-10-19 gelesen; direkte Bildadresse durch HTTP GET und Pillow-Dekodierung kontrolliert und auf Kontaktbogen visuell angesehen. Externes Herstellerfoto, keine Übertragung von Bildrechten; keine Beliebtheits- oder Wirksamkeitsbehauptung.",
+      "image_role": "reference_photo",
+      "image_source_url": "https://mathmos.com/product/lava-lamp-projector-white/",
+      "image_attribution": "Mathmos – externes Herstellerfoto; Quelle auf der verlinkten Produktseite.",
+      "images": [
+        "https://mathmos.com/app/uploads/sites/10/2022/06/mathmos_lava_projector_white.jpg"
+      ]
+    }
+  ],
+  "image_overrides": [
+    {
+      "id": "product-bouncyband",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0036/5651/5684/files/BouncybandMSHS-front1.png?v=1755883012&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://bouncyband.com/products/bouncyband%C2%AE-student-edition-for-middle-high-school-chairs",
+      "image_attribution": "Bouncyband · Herstellerfoto des Stuhlbandes; konkrete Ausführung für 17–24-Zoll-Stuhlbreite."
+    },
+    {
+      "id": "R01-035",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0036/5651/5684/files/BouncybandMSHS-front1.png?v=1755883012&width=800"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://bouncyband.com/products/bouncyband%C2%AE-student-edition-for-middle-high-school-chairs",
+      "image_attribution": "Bouncyband · Symbolfoto eines Stuhl-Widerstandsbandes, konkretes Herstellerbeispiel; nicht jede Ausführung sieht so aus."
+    },
+    {
+      "id": "R01-040",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0036/5651/5684/files/SensoryLapPad-front.png?v=1754320200&width=800"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://bouncyband.com/products/lap-pads",
+      "image_attribution": "Bouncyband · Symbolfoto eines gewichteten Schoßkissens; konkretes Herstellerbeispiel mit Textilhülle und Glasperlenfüllung."
+    },
+    {
+      "id": "R01-042",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0956/9232/5146/files/mw6045_stretch_bands-_1__1.jpg?v=1773088628&width=800"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://funandfunction.com/products/stretch-bands",
+      "image_attribution": "Fun and Function · Symbolfoto eines dehnbaren Stretch-Bandes als Beispiel für Zugbewegungen; kein beliebiger starrer Yogagurt."
+    },
+    {
+      "id": "R01-046",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0036/5651/5684/files/Wobblestool-front.png?v=1752690415&width=800"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://bouncyband.com/products/wobble-seat-by-bouncyband%C2%AE",
+      "image_attribution": "Bouncyband · Symbolfoto eines Schaukelhockers; konkretes flexibles Sitzmodell."
+    },
+    {
+      "id": "R01-036",
+      "images": [
+        "https://www.humanscale.com/userFiles/images/footrests/fm100/17_humanscale_fm100_ergonomic_foot_rest_1.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.humanscale.com/products/footrockers/ergonomic-foot-rocker",
+      "image_attribution": "Humanscale · Symbolfoto eines Fußwippers aus Holz und Metall; konkretes Herstellerbeispiel."
+    },
+    {
+      "id": "R01-037",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Cork-Massage-Ball-Set-_1.jpg?v=1625206757&width=800"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.yogamatters.com/products/yogamatters-cork-massage-ball-set",
+      "image_attribution": "Yogamatters · Symbolfoto von Kork-Massagekugeln; Beispiel für eine Kugel unter der Fußsohle, kein dargestellter Nutzungsablauf."
+    },
+    {
+      "id": "R01-038",
+      "images": [
+        "https://www.sisseluk.com/media/catalog/product/cache/1122f040c39060cd0c78c0e4fa4754c8/b/m/bmxu958v.png"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.sisseluk.com/press-egg-by-sissel-hand-rehabilitation",
+      "image_attribution": "SISSEL UK · Symbolfoto des Press-Egg aus festem Schaum; Beispiel eines zusammendrückbaren Handtrainers, Widerstand je Variante unterschiedlich."
+    },
+    {
+      "id": "R01-047",
+      "images": [
+        "https://www.ikea.com/de/de/images/products/poaeng-schaukelstuhl-birkenfurnier-knisa-hellbeige__0571977_pe667212_s5.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.ikea.com/de/de/p/poaeng-schaukelstuhl-birkenfurnier-knisa-hellbeige-s29429256/",
+      "image_attribution": "IKEA · Symbolfoto des POÄNG Schaukelstuhls mit Holzgestell und Textilpolster; konkretes Beispiel der allgemeinen Objektidee."
+    },
+    {
+      "id": "R01-049",
+      "images": [
+        "https://cdn.webshopapp.com/shops/112202/files/497109474/320x400x1/wobbel-wobbel-original.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.wobbel.eu/en/shop/wobbel-original/",
+      "image_attribution": "Wobbel · Symbolfoto des Wobbel Original aus Buchenholz; Beispiel eines gebogenen Balancebretts, Unterseiten variieren zwischen Filz, Kork und ohne Auflage.",
+      "notes": "Symbolfoto: konkretes gebogenes Buchenholzbrett. Auflagen unterscheiden sich je Ausführung; das Bild belegt keine flachere Sonderkrümmung."
+    },
+    {
+      "id": "R01-055",
+      "images": [
+        "https://www.fatboy.com/dw/image/v2/BLBH_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4890057a/assets/image/102215/fatboy-original-beanbag-black-1920x1280-packshot-01-102215.jpg?q=80"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.fatboy.com/de-de/original-000003.html",
+      "image_attribution": "Fatboy · Symbolfoto des Original Nylon-Sitzsacks mit beweglicher EPS-Kugelfüllung; konkretes Herstellerbeispiel."
+    },
+    {
+      "id": "R01-121",
+      "images": [
+        "https://playjuggling.com/cdn/shop/files/792-contact-ball-acrylic.jpg?crop=center&height=1200&v=1746030337&width=1200"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://playjuggling.com/products/contact-ball-acrylic",
+      "image_attribution": "PLAY Juggling · Symbolfoto einer Acryl-Kontaktjonglagekugel; zeigt das Objekt, nicht die Bewegung."
+    },
+    {
+      "id": "R01-021",
+      "images": [
+        "https://www.adafruit.com/images/480x360/377-02.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.adafruit.com/product/377",
+      "image_attribution": "Adafruit Industries · Symbolfoto Rotary Encoder + Extras mit Rastpunkten und Knopf. Elektronikbauteil als Anschauungsbeispiel, kein fertiges geschlossenes Stim-Produkt.",
+      "notes": "Symbolfoto eines Elektronikbauteils; kein fertiges geschlossenes Fidget. Anschlüsse bzw. Montageelemente sind auf der Abbildung sichtbar."
+    },
+    {
+      "id": "product-kaiko-cog",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0014/2298/3223/files/Mini-Cog-by-Kaiko.jpg?v=1747990337&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://kaikofidgets.com/products/mini-cog",
+      "image_attribution": "Kaiko Fidgets · Herstellerfoto Mini Cog."
+    },
+    {
+      "id": "product-kaiko-caterpillar",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0014/2298/3223/products/HAND-Caterpillar-Fidget-by-Kaiko.png?v=1747989723&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://kaikofidgets.com/products/hand-caterpillar-fidget-by-kaiko",
+      "image_attribution": "Kaiko Fidgets · Herstellerfoto Hand Caterpillar Fidget."
+    },
+    {
+      "id": "product-kaiko-magstak",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0014/2298/3223/files/Magstak_each_sq-12_3b7d8180-4847-4b63-b940-01b722ddaa54.jpg?v=1773058118&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://kaikofidgets.com/products/magstak-core-textured-magnetic-sensory-stack-set-6-pieces",
+      "image_attribution": "Kaiko Fidgets · Herstellerfoto MagStak Core."
+    },
+    {
+      "id": "product-aroundsquare-begleri",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0121/4536/0953/products/IMG_01442.jpg?v=1637873994&width=800"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://www.aroundsquare.com/products/mini-hydras-titanium-delrin",
+      "image_attribution": "Aroundsquare · Herstellerfoto des Beispiels Mini Hydras Titanium/Delrin; die Begleri-Serie umfasst auch andere Formen und Materialien."
+    },
+    {
+      "id": "R01-101",
+      "images": [
+        "https://cdn11.bigcommerce.com/s-ghsrgu/products/968/images/7614/ark-robochew-chewable-pencil-toppers__76553.1746588261.600.600.png?c=2"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.arktherapeutic.com/ark-robochew-chewable-pencil-topper/",
+      "image_attribution": "Beispielfoto: ARK RoboChew Stift-Kauaufsatz. Herstellerfoto, kein Foto einer bestimmten DIY-Variante."
+    },
+    {
+      "id": "R01-096",
+      "images": [
+        "https://cdn11.bigcommerce.com/s-ghsrgu/products/243/images/8048/ark-tubing-flexible-straw__60568.1786129339.600.600.jpg?c=2"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.arktherapeutic.com/tubing-flexible-straws/",
+      "image_attribution": "Beispielfoto: ARK flexible Trinkhalm-Tubing. Kein Nachweis einer für jede Person passenden Trinkfestigkeit."
+    },
+    {
+      "id": "product-calm-strips",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/6a5503641089d25943d26116/78cf8c96-ba2e-4149-be46-38cfab2aa68b/Classroom+Packs+%28New%21%29.png"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://www.calmstrips.com/shop/p/calm-strips-classroom-pack",
+      "image_attribution": "Herstellerfoto eines Calm-Strips-Textursets. Designs und Packungen können variieren."
+    },
+    {
+      "id": "R01-003",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hook_and_loop_fastener_collage.png/960px-Hook_and_loop_fastener_collage.png"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Hook_and_loop_fastener_collage.png",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. Taylor 49 (talk) · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-012",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Gift_wrapping_with_long_white_silk_ribbon.jpg/960px-Gift_wrapping_with_long_white_silk_ribbon.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Gift_wrapping_with_long_white_silk_ribbon.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. W.carter · CC BY 4.0 · https://creativecommons.org/licenses/by/4.0. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-014",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ceramic_tile_rectangle_cream_color_mottled.jpg/960px-Ceramic_tile_rectangle_cream_color_mottled.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Ceramic_tile_rectangle_cream_color_mottled.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. Eric Polk · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-027",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Macrame_Basic_Knots.jpg/960px-Macrame_Basic_Knots.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Macrame_Basic_Knots.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. Stilfehler · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-028",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/cc/Chouchou.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Chouchou.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. User:Nami-ja · Public domain. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-094",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Chewing_gum.jpg/960px-Chewing_gum.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Chewing_gum.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. Fatimah Bello · CC0 · http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-097",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Pretzels.jpg/960px-Pretzels.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Pretzels.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. ProjectManhattan · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-098",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Dried_apricots.jpg/960px-Dried_apricots.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Dried_apricots.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. Vis M · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-099",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Glass_of_water.jpg/960px-Glass_of_water.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Glass_of_water.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. deavmi · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-130",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Seashell.jpg/960px-Seashell.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Seashell.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. Kriti.kuhoo · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-132",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Knitting_with_hands_by_Shagil_Kannur_2.jpg/960px-Knitting_with_hands_by_Shagil_Kannur_2.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Knitting_with_hands_by_Shagil_Kannur_2.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. Shagil Kannur · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-136",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Watercolors_with_a_brush.jpg/960px-Watercolors_with_a_brush.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Watercolors_with_a_brush.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. Michal Klajban · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-137",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Fabric_swatches.jpg/960px-Fabric_swatches.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Fabric_swatches.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. Thegreatmutata · CC0 · http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-138",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Corrugated_Cardboard.JPG/960px-Corrugated_Cardboard.JPG"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Corrugated_Cardboard.JPG",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. Richard Wheeler (Zephyris) · CC BY-SA 3.0 · http://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-139",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Rolhas_de_Corti%C3%A7a_Natural_-_Cork_stopper_for_a_wine_bottle.jpg/960px-Rolhas_de_Corti%C3%A7a_Natural_-_Cork_stopper_for_a_wine_bottle.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Rolhas_de_Corti%C3%A7a_Natural_-_Cork_stopper_for_a_wine_bottle.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. Hudson C. S. de Souza · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "v8-4004",
+      "images": [
+        "https://cdn11.bigcommerce.com/s-v2hc3tzxc5/images/stencil/1280x1280/products/1271/13645/Mini_Fidget_size_ruler_example_in_Navy_Blue__88809.1783493493.jpg?c=2"
+      ],
+      "image_role": "reference_photo",
+      "image_source_url": "https://blanketsbybrian.com/the-original-mini-fidget/",
+      "image_attribution": "Produktfoto: Blankets by Brian, The Original MINI Fidget. Aktuelle Herstellerseite anstelle des defekten alten Links.",
+      "source_url": "https://blanketsbybrian.com/the-original-mini-fidget/"
+    },
+    {
+      "id": "R01-128",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Pine_cone_detail_1.jpg/960px-Pine_cone_detail_1.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Pine_cone_detail_1.jpg",
+      "image_attribution": "Symbolfoto eines Kiefernzapfens, kein einzelnes spezifiziertes Tastobjekt. RoRo · CC0 · http://creativecommons.org/publicdomain/zero/1.0/deed.en. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-056",
+      "images": [
+        "https://www.k-m.de/media/88/79/0d/1790941374/16800-000-01_130bbf161f065f089bdb8f9d8e6f615c.jpg?ts=1790941374"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.k-m.de/stimmgabel/168-stimmgabel-vernickelt",
+      "image_attribution": "König & Meyer – Foto der 168-Stimmgabel. Beispiel einer echten Stimmgabel; feste Stimmung A 440 Hz, kein verstellbarer Ton.",
+      "title": "Stimmgabel (Klangstab)",
+      "search": "Stimmgabel Tuning Fork 440 Hz",
+      "description": "Eine Stimmgabel anschlagen und einen klaren Ton verklingen lassen. Das gezeigte Instrument hat eine feste Tonhöhe von 440 Hz; nicht direkt am Ohr anschlagen.",
+      "actions": [
+        "anschlagen",
+        "lauschen"
+      ],
+      "action_prompt": "Einen klaren Ton verklingen lassen, mit Abstand zum Ohr."
+    },
+    {
+      "id": "R01-058",
+      "images": [
+        "https://meinlsonicenergy.com/content/sonic-energy/Product%20Marketing/Steel%20Tongue%20Drum/image-thumb__46597__content-cols/MSTD1BK%20-%20MSTD2NB%20-%20MSTD3G.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://meinlsonicenergy.com/en/products/std1bk-m5419.html",
+      "image_attribution": "Meinl Sonic Energy – Herstellerfoto dreier Mini Steel Tongue Drums als Beispiel kleiner Zungentrommeln."
+    },
+    {
+      "id": "R01-060",
+      "images": [
+        "https://meinlsonicenergy.com/PIM/MeinlSonicEnergy/_Thumbnails/image-thumb__73754__product-list/22cddbcf-d2b1-4543-b3e8-4219c813407f.png"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://meinlsonicenergy.com/en/products/sb-u-2300-m223601.html",
+      "image_attribution": "Meinl Sonic Energy – Herstellerfoto einer Universal-Klangschale. Zeigt die Schale, keinen Filzschlägel."
+    },
+    {
+      "id": "R01-061",
+      "images": [
+        "https://www.homedics.com/cdn/shop/files/WFL-B170_PDP01_EN.webp?v=1761274482"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.homedics.com/en-ca/products/homedics%C2%AE-relaxation-fountain",
+      "image_attribution": "Homedics – Herstellerfoto des dreistufigen Relaxation Fountain als Beispiel eines Tisch-Wasserbrunnens."
+    },
+    {
+      "id": "R01-065",
+      "images": [
+        "https://global.hape.com/media/09/ae/5d/1756978008/E0606_1.jpg?ts=1772457664"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://global.hape.com/rainbow-xylophone-e0606",
+      "image_attribution": "Hape – Rainbow Xylophone E0606, externes Herstellerfoto als Beispiel für ein kleines Xylophon."
+    },
+    {
+      "id": "R01-074",
+      "images": [
+        "https://static1.squarespace.com/static/69e656f8aae3df74463a9c12/69e657cca2be997265eeedb0/69eb9e2091daf828bc69b272/1792078410929/piscesdrop1.jpg?format=1500w"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.cosmicoutlawstudio.com/shop/p/pisces-prism-drop",
+      "image_attribution": "Cosmic Outlaw Studio – Pisces Prism Drop, Foto eines dichroitischen Glas-Sonnenfängers am Fenster."
+    },
+    {
+      "id": "R01-075",
+      "images": [
+        "https://prismsuncatcher.com/cdn/shop/files/08_Front_Detail_AIMG_3389.jpg?v=1792012290&width=960"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.prismsuncatcher.com/",
+      "image_attribution": "SunRain Prism Suncatcher – echtes Detailfoto IMG_3389 eines Kristall-Sonnenfängers. Die auf derselben Seite vorkommenden ausdrücklich als ChatGPTImage benannten Bilder wurden ausgeschlossen."
+    },
+    {
+      "id": "R01-079",
+      "images": [
+        "https://www.pendulumswingsusa.com/wp-content/uploads/2016/03/pit-pendulum-P1100404.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.pendulumswingsusa.com/",
+      "image_attribution": "Grand Illusions / Pendulum Swings USA – Foto mehrerer echter Sandpendel als Beispiel der Tischkonstruktion."
+    },
+    {
+      "id": "R01-087",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d2/Black_%26_Blue_Lavender_Sachets.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Black_%26_Blue_Lavender_Sachets.jpg",
+      "image_attribution": "Le Petit Poulailler / Flickr, „Black & Blue Lavender Sachets“, Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Unverändert verlinktes Foto, Anzeige möglicherweise beschnitten."
+    },
+    {
+      "id": "R01-088",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/18/Ceder-blank.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Ceder-blank.jpg",
+      "image_attribution": "Tim van de Staak, „Ceder-blank.jpg“, Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Unverändert verlinktes Foto, Anzeige möglicherweise beschnitten. Beispiel einer Holzprobe; keine Prüfung einer Oberflächenbehandlung."
+    },
+    {
+      "id": "R01-089",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Coffee_beans_spilling_out_of_a_cup.jpg/1280px-Coffee_beans_spilling_out_of_a_cup.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Coffee_beans_spilling_out_of_a_cup.jpg",
+      "image_attribution": "Christoph / Pixabay, „Coffee beans spilling out of a cup“, Wikimedia Commons, CC0 (https://creativecommons.org/publicdomain/zero/1.0/). Zeigt ganze Bohnen als Materialbeispiel, keine fertig eingerichtete Riechdose."
+    },
+    {
+      "id": "R01-142",
+      "images": [
+        "https://www.ikea.com/ext/ingkadam/m/1e795c1c2eebf140/original/PH163641-crop001.jpg?f=s"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.ikea.com/sg/en/rooms/bedroom/how-to/a-quieter-life-with-sound-panels-pubf759df10/",
+      "image_attribution": "IKEA – Foto einer ODDLAUG-Textilinstallation als konkretes Beispiel schallabsorbierender Textilflächen. Keine Messung oder Wirksamkeitszusage."
+    }
+  ],
+  "reviews": [
+    {
+      "id": "v8-23",
+      "decision": "keep_illustration",
+      "reason": "Mesh-Ball ist fotografierbar. Im begrenzten Hersteller-/Tobar-Suchlauf vor allem Händlerangebote gefunden; für diesen Beitrag noch kein überprüftes, herkunftsklares Herstellerbild ausgewählt. Illustration vorerst behalten, keine Behauptung fehlender Fotos."
+    },
+    {
+      "id": "R01-019",
+      "decision": "keep_illustration",
+      "reason": "Mechanikidee verlangt ausdrücklich magnetfreies Reibgleiten. Die betrachteten Kaiko-Stacks sind magnetisch; deren Foto würde den entscheidenden Mechanismus falsch darstellen."
+    },
+    {
+      "id": "R01-020",
+      "decision": "keep_illustration",
+      "reason": "Ein Stempelbild zeigt nicht zuverlässig einen absichtlich tintenfreien Federmechanismus. Kein exakt passendes Herstellerbeispiel in diesem begrenzten Mechaniklauf festgelegt."
+    },
+    {
+      "id": "R01-021",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Adafruit Industries · Symbolfoto Rotary Encoder + Extras mit Rastpunkten und Knopf. Elektronikbauteil als Anschauungsbeispiel, kein fertiges geschlossenes Stim-Produkt.",
+      "source_url": "https://www.adafruit.com/product/377"
+    },
+    {
+      "id": "R01-022",
+      "decision": "keep_illustration",
+      "reason": "Silikon-Daumenrad ist eine spezifische Mechanik; die betrachteten Metall-Cogs würden Material und Rollwiderstand falsch vermitteln."
+    },
+    {
+      "id": "R01-023",
+      "decision": "keep_illustration",
+      "reason": "Metallkettenrollen und Kaiko-Perlenketten unterscheiden sich mechanisch. Das bekannte Caterpillar-Foto wird nur dem exakten Herstellerprodukt zugeordnet."
+    },
+    {
+      "id": "R01-024",
+      "decision": "keep_illustration",
+      "reason": "Holz-Kipphebel ist eine konzeptionelle Bauform. Keine verifizierte Produktabbildung ausgewählt, die genau diese Miniatur-Hebelbewegung zeigt."
+    },
+    {
+      "id": "R01-025",
+      "decision": "keep_illustration",
+      "reason": "Übliche lose Schrauben-/Flügelmutter-Fotos würden die geforderte feste Verbindung nicht belegen. Kein gesichertes mechanisches Anschauungsbeispiel in diesem Lauf gewählt."
+    },
+    {
+      "id": "R01-026",
+      "decision": "keep_illustration",
+      "reason": "Die geforderte gedämpfte Mini-Ratsche ist nicht mit beliebigem Drehencoder oder Spinner gleichzusetzen. Illustration vermeidet eine falsche Funktionszuordnung."
+    },
+    {
+      "id": "R01-035",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Bouncyband · Symbolfoto eines Stuhl-Widerstandsbandes, konkretes Herstellerbeispiel; nicht jede Ausführung sieht so aus.",
+      "source_url": "https://bouncyband.com/products/bouncyband%C2%AE-student-edition-for-middle-high-school-chairs"
+    },
+    {
+      "id": "R01-036",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Humanscale · Symbolfoto eines Fußwippers aus Holz und Metall; konkretes Herstellerbeispiel.",
+      "source_url": "https://www.humanscale.com/products/footrockers/ergonomic-foot-rocker"
+    },
+    {
+      "id": "R01-037",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Yogamatters · Symbolfoto von Kork-Massagekugeln; Beispiel für eine Kugel unter der Fußsohle, kein dargestellter Nutzungsablauf.",
+      "source_url": "https://www.yogamatters.com/products/yogamatters-cork-massage-ball-set"
+    },
+    {
+      "id": "R01-038",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. SISSEL UK · Symbolfoto des Press-Egg aus festem Schaum; Beispiel eines zusammendrückbaren Handtrainers, Widerstand je Variante unterschiedlich.",
+      "source_url": "https://www.sisseluk.com/press-egg-by-sissel-hand-rehabilitation"
+    },
+    {
+      "id": "R01-039",
+      "decision": "keep_illustration",
+      "reason": "Verstellbare Handtrainer sind fotografierbar; ein konkretes Decathlon-Angebot gelesen, direkter Abruf war jedoch HTTP 403. Kein ungeprüfter Bildlink übernommen."
+    },
+    {
+      "id": "R01-040",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Bouncyband · Symbolfoto eines gewichteten Schoßkissens; konkretes Herstellerbeispiel mit Textilhülle und Glasperlenfüllung.",
+      "source_url": "https://bouncyband.com/products/lap-pads"
+    },
+    {
+      "id": "R01-041",
+      "decision": "keep_illustration",
+      "reason": "Kompressionsärmel sind fotografierbar. Recherche führte zu allgemeinen Kompressionsshirts bzw. Arm-Sleeve-Angeboten; keine eindeutig passende, technisch verifizierte Einzelärmelabbildung übernommen."
+    },
+    {
+      "id": "R01-042",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Fun and Function · Symbolfoto eines dehnbaren Stretch-Bandes als Beispiel für Zugbewegungen; kein beliebiger starrer Yogagurt.",
+      "source_url": "https://funandfunction.com/products/stretch-bands"
+    },
+    {
+      "id": "R01-043",
+      "decision": "keep_illustration",
+      "reason": "Das entscheidende Merkmal ist selbst bestimmter Druck gegen eine Wand, nicht die Wand als Objekt. Ein beliebiges Wandfoto wäre wenig repräsentativ; konkrete Handlung als Illustration belassen."
+    },
+    {
+      "id": "R01-044",
+      "decision": "keep_illustration",
+      "reason": "Gegeneinander gerichteter Handdruck ist im Standbild nur als individuelle Pose sichtbar. Die abstrahierte Handdarstellung vermittelt die Bewegung ohne ein beliebiges Personenfoto."
+    },
+    {
+      "id": "R01-045",
+      "decision": "keep_illustration",
+      "reason": "Knie-/Oberschenkelkissen sind fotografierbar; ein Herstellerüberblick zu TEMPUR-Stützkissen gelesen, aber kein exakt passendes Druckkissen mit geprüftem Einzelbild festgelegt."
+    },
+    {
+      "id": "R01-046",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Bouncyband · Symbolfoto eines Schaukelhockers; konkretes flexibles Sitzmodell.",
+      "source_url": "https://bouncyband.com/products/wobble-seat-by-bouncyband%C2%AE"
+    },
+    {
+      "id": "R01-047",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. IKEA · Symbolfoto des POÄNG Schaukelstuhls mit Holzgestell und Textilpolster; konkretes Beispiel der allgemeinen Objektidee.",
+      "source_url": "https://www.ikea.com/de/de/p/poaeng-schaukelstuhl-birkenfurnier-knisa-hellbeige-s29429256/"
+    },
+    {
+      "id": "R01-048",
+      "decision": "keep_illustration",
+      "reason": "Der verifizierte Bouncyband Foot Swing hat zwei Metallpedale und ist kein hängendes Holz-Schaukelbrett. Daher kein irreführender Austausch; als separate Idee erhalten."
+    },
+    {
+      "id": "R01-049",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Wobbel · Symbolfoto des Wobbel Original aus Buchenholz; Beispiel eines gebogenen Balancebretts, Unterseiten variieren zwischen Filz, Kork und ohne Auflage.",
+      "source_url": "https://www.wobbel.eu/en/shop/wobbel-original/"
+    },
+    {
+      "id": "R01-050",
+      "decision": "keep_illustration",
+      "reason": "Stapelstein als mögliche Bildquelle geprüft. Der Hersteller beschreibt festes EPP, während dieser Eintrag ausdrücklich weiche Balance-Steine meint; Bildzuordnung deshalb verworfen."
+    },
+    {
+      "id": "R01-051",
+      "decision": "keep_illustration",
+      "reason": "Seitliches Wiegen ist eine Bewegung, die ein gewöhnliches Sitzfoto nicht erkennen lässt. Eine spezifische Personenaufnahme wurde im begrenzten Objektlauf nicht gesucht."
+    },
+    {
+      "id": "R01-052",
+      "decision": "keep_illustration",
+      "reason": "Rhythmisches Federn lässt sich aus einem einzelnen stehenden Personenfoto schlecht erkennen. Kein willkürliches Sportfoto eingefügt."
+    },
+    {
+      "id": "R01-053",
+      "decision": "keep_illustration",
+      "reason": "Pacing bezeichnet wiederholtes Gehen, nicht nur einen Weg oder Schuhe. Für diesen Lauf keine eindeutig repräsentative Bewegungsaufnahme ausgewählt."
+    },
+    {
+      "id": "R01-054",
+      "decision": "keep_illustration",
+      "reason": "Naturmaterial-Barfußpfad ist fotografierbar, aber die betrachteten Hersteller-Balanceelemente zeigen Kunststoff statt des geforderten Naturmaterialmixes."
+    },
+    {
+      "id": "R01-055",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Fatboy · Symbolfoto des Original Nylon-Sitzsacks mit beweglicher EPS-Kugelfüllung; konkretes Herstellerbeispiel.",
+      "source_url": "https://www.fatboy.com/de-de/original-000003.html"
+    },
+    {
+      "id": "R01-066",
+      "decision": "keep_illustration",
+      "reason": "Summen mit geschlossenem Mund ist als auditiver Vorgang in einem beliebigen Portraitfoto nicht erkennbar. Illustration bleibt die ehrlichere Repräsentation."
+    },
+    {
+      "id": "R01-067",
+      "decision": "keep_illustration",
+      "reason": "Wortwiederholung ist auditiv und individuell; Portrait-/Sprechfotos könnten das konkrete angenehme Wiederholen nicht sichtbar belegen."
+    },
+    {
+      "id": "R01-068",
+      "decision": "keep_illustration",
+      "reason": "Eine Tonfolge lässt sich in einem stummen Standbild nicht vermitteln. Kein beliebiges Sängerfoto als scheinbar genaues Beispiel gewählt."
+    },
+    {
+      "id": "R01-069",
+      "decision": "keep_illustration",
+      "reason": "Rhythmisches Silbenspiel hat keinen eindeutig fotografierbaren Gegenstand; Illustration statt austauschbarem Sprachfoto."
+    },
+    {
+      "id": "R01-070",
+      "decision": "keep_illustration",
+      "reason": "Lippenvibration ist ein Ablauf. Kein geeignetes, direkt überprüftes Bewegungsfoto im begrenzten Gegenstands-/Herstellerlauf ausgewählt."
+    },
+    {
+      "id": "R01-071",
+      "decision": "keep_illustration",
+      "reason": "Eine vertraute gepfiffene Melodie ist auditiv; ein Mundfoto würde die wesentliche Qualität nicht zeigen."
+    },
+    {
+      "id": "R01-072",
+      "decision": "keep_illustration",
+      "reason": "Leises Zungentippen ist von außen kaum fotografisch unterscheidbar. Illustration belassen."
+    },
+    {
+      "id": "R01-073",
+      "decision": "keep_illustration",
+      "reason": "Beatbox-Grundrhythmus ist ein akustischer Ablauf; ein generisches Mikrofonfoto wäre ein falscher Gegenstandsersatz."
+    },
+    {
+      "id": "R01-102",
+      "decision": "keep_illustration",
+      "reason": "Sitzflächenkontakt ist subjektive Körperwahrnehmung. Ein Stuhlfoto würde mit einem separaten Möbelangebot verwechselt; Illustration belassen."
+    },
+    {
+      "id": "R01-103",
+      "decision": "keep_illustration",
+      "reason": "Wahrnehmen der Fußsohlen ist eine persönliche Aufmerksamkeitshandlung. Ein Boden-/Fußfoto beweist diese Qualität nicht."
+    },
+    {
+      "id": "R01-104",
+      "decision": "keep_illustration",
+      "reason": "Handauflage auf dem Brustkorb ist eine individuell gewählte Handlung. Kein beliebiges Portrait als genaue Anleitung oder Wirksamkeitsnachweis verwendet."
+    },
+    {
+      "id": "R01-105",
+      "decision": "keep_illustration",
+      "reason": "Puls ertasten ist subjektiver taktiler Vorgang; die Illustration markiert den Kontaktpunkt eindeutiger als ein allgemeines Handfoto."
+    },
+    {
+      "id": "R01-106",
+      "decision": "keep_illustration",
+      "reason": "Warmes Stoffkissen ist fotografierbar, die Wärme selbst nicht. Keine technisch verifizierte duftfreie passende Wärmekissenabbildung in diesem Lauf ausgewählt."
+    },
+    {
+      "id": "R01-107",
+      "decision": "keep_illustration",
+      "reason": "Temperaturvorliebe ohne Extreme ist ein individueller Vergleich, kein bestimmtes Produkt; ein Heiß-/Eisfoto würde den Eintrag verfälschen."
+    },
+    {
+      "id": "R01-108",
+      "decision": "keep_illustration",
+      "reason": "Selbstumarmung bezeichnet selbst gewählten Druck. Kein beliebiges Personenfoto, das eine standardisierte Methode suggerieren könnte."
+    },
+    {
+      "id": "R01-109",
+      "decision": "keep_illustration",
+      "reason": "Digitaler Gefühl-/Reiz-Check-in ist eine Interface-Idee. Ein fremder App-Screenshot würde ein konkretes Angebot und Funktion versprechen; Illustration bleibt."
+    },
+    {
+      "id": "R01-119",
+      "decision": "keep_illustration",
+      "reason": "Finger-Figurentanz ist eine Bewegung ohne Objekt. Ein isoliertes Handfoto wäre weniger aussagekräftig; keine geeignete dokumentierte Bildsequenz gewählt."
+    },
+    {
+      "id": "R01-120",
+      "decision": "keep_illustration",
+      "reason": "Münze über Fingerknöchel rollen ist fotografierbar, verlangt aber eine spezifische Trickaufnahme. Kein reines Münz-Produktfoto als Ersatz."
+    },
+    {
+      "id": "R01-121",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. PLAY Juggling · Symbolfoto einer Acryl-Kontaktjonglagekugel; zeigt das Objekt, nicht die Bewegung.",
+      "source_url": "https://playjuggling.com/products/contact-ball-acrylic"
+    },
+    {
+      "id": "R01-122",
+      "decision": "keep_illustration",
+      "reason": "Chetki-Riemen unterscheidet sich in Aufbau und Handhabung von Begleri. Deshalb kein Aroundsquare-Begleri-Foto falsch zugeordnet."
+    },
+    {
+      "id": "R01-123",
+      "decision": "keep_illustration",
+      "reason": "Fingerstrecken ist ein Ablauf mit unterschiedlichen Positionen. Kein passendes primäres Foto mit eindeutiger Handlung in diesem begrenzten Herstellerlauf ausgewählt."
+    },
+    {
+      "id": "R01-124",
+      "decision": "keep_illustration",
+      "reason": "Baton-/Staff-Twirl ist fotografierbar, aber ein Produktfoto beliebiger Jonglierkeulen wäre eine andere Objektart. Kein exakt belegtes passendes Stabangebot in diesem Lauf gewählt."
+    },
+    {
+      "id": "R01-125",
+      "decision": "keep_illustration",
+      "reason": "Finger-Tutting lebt von wechselnden geometrischen Handpositionen. Ein beliebiges Handfoto wäre keine gute Erklärung; Illustration behalten."
+    },
+    {
+      "id": "R01-127",
+      "decision": "keep_illustration",
+      "reason": "Weiche Jonglierringe benötigen Textil-/Schaumvarianten. Klassische harte Kunststoffringe aus Suchergebnissen wären materialseitig falsch."
+    },
+    {
+      "id": "R01-143",
+      "decision": "keep_illustration",
+      "reason": "Bewegungsecke ist fotografierbar. Die gefundenen einzelnen Schaumgeräte zeigen kein vollständiges Bodenset; deren Fotos werden nur neuen konkreten Angeboten zugeordnet."
+    },
+    {
+      "id": "R01-144",
+      "decision": "keep_illustration",
+      "reason": "Gemeinsames freiwilliges Klatschen ist eine soziale Handlung; kein austauschbares Gruppen-/Publikumsfoto im Gegenstandslauf erzwungen."
+    },
+    {
+      "id": "R01-145",
+      "decision": "keep_illustration",
+      "reason": "Freier gemeinsamer Tanz ist individuell; kein kommerzielles Personenfoto als universelles Bild einer bestimmten Praxis eingesetzt."
+    },
+    {
+      "id": "product-bouncyband",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Bouncyband · Herstellerfoto des Stuhlbandes; konkrete Ausführung für 17–24-Zoll-Stuhlbreite.",
+      "source_url": "https://bouncyband.com/products/bouncyband%C2%AE-student-edition-for-middle-high-school-chairs"
+    },
+    {
+      "id": "product-kaiko-cog",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Kaiko Fidgets · Herstellerfoto Mini Cog.",
+      "source_url": "https://kaikofidgets.com/products/mini-cog"
+    },
+    {
+      "id": "product-kaiko-caterpillar",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Kaiko Fidgets · Herstellerfoto Hand Caterpillar Fidget.",
+      "source_url": "https://kaikofidgets.com/products/hand-caterpillar-fidget-by-kaiko"
+    },
+    {
+      "id": "product-aroundsquare-begleri",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Aroundsquare · Herstellerfoto des Beispiels Mini Hydras Titanium/Delrin; die Begleri-Serie umfasst auch andere Formen und Materialien.",
+      "source_url": "https://www.aroundsquare.com/products/mini-hydras-titanium-delrin"
+    },
+    {
+      "id": "product-kaiko-magstak",
+      "decision": "photo",
+      "reason": "Konkretes primäres Hersteller-/Anbieterbild gelesen, Motiv visuell geprüft und Datei per HTTP GET vollständig dekodiert. Kaiko Fidgets · Herstellerfoto MagStak Core.",
+      "source_url": "https://kaikofidgets.com/products/magstak-core-textured-magnetic-sensory-stack-set-6-pieces"
+    },
+    {
+      "id": "v8-4004",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Herstellerfoto des benannten Produkts.",
+      "source_url": "https://blanketsbybrian.com/the-original-mini-fidget/"
+    },
+    {
+      "id": "R01-001",
+      "decision": "keep_illustration",
+      "reason": "Ein Foto einer normalen Haarbürste passt weder zur weichen Borstenfläche noch zur Pad-Form. Keine hinreichend passende konkrete Fotoquelle in diesem Durchlauf gefunden."
+    },
+    {
+      "id": "R01-002",
+      "decision": "keep_illustration",
+      "reason": "Kein belegtes Foto genau eines gerillten Silikonstreifens gefunden; ein beliebiges Silikonfidget würde die Form und Textur falsch darstellen."
+    },
+    {
+      "id": "R01-003",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hook_and_loop_fastener_collage.png"
+    },
+    {
+      "id": "R01-004",
+      "decision": "keep_illustration",
+      "reason": "Calm-Strips-Foto wird bereits am konkreten Herstellerobjekt gezeigt. Für die verdeckte Montage unter einem Tisch fehlt ein passendes Foto; keine doppelte Produktkachel als angeblich genaue Darstellung."
+    },
+    {
+      "id": "R01-005",
+      "decision": "keep_illustration",
+      "reason": "Die charakteristische Wenderichtung der Pailletten ist auf den gefundenen allgemeinen Stoffbildern nicht erkennbar. Illustration bleibt vorerst."
+    },
+    {
+      "id": "R01-006",
+      "decision": "keep_illustration",
+      "reason": "Kein passendes dokumentiertes Foto eines Memory-Foam-Handblocks gefunden; Gelballfotos wären ein anderes Material und Rückstellverhalten."
+    },
+    {
+      "id": "R01-007",
+      "decision": "keep_illustration",
+      "reason": "Für die spezifische Waffelstruktur fehlt in den geprüften Quellen eine sauber zuordenbare Detailaufnahme."
+    },
+    {
+      "id": "R01-008",
+      "decision": "keep_illustration",
+      "reason": "Eine beliebige glatte Keramikfliese bildet die gesuchten fühlbaren Noppen nicht ab. Keine passend belegte Noppen-Keramikaufnahme gefunden."
+    },
+    {
+      "id": "R01-009",
+      "decision": "keep_illustration",
+      "reason": "Commons-Treffer waren überwiegend Mikroaufnahmen von Schimmel auf Lederproben oder ungeeignete historische Muster; deshalb verworfen."
+    },
+    {
+      "id": "R01-010",
+      "decision": "keep_illustration",
+      "reason": "Der gefundene Mesh-Suchtreffer zeigte kein eindeutig passendes Anti-Rutsch-Patch; deshalb verworfen."
+    },
+    {
+      "id": "R01-011",
+      "decision": "keep_illustration",
+      "reason": "Vorliegende echte Aufnahme zeigt Wasserfarbkasten mit einem einzelnen Pinsel und wird beim Malprozess R01-136 genutzt; sie repräsentiert kein Fingerspitzen-Pinselset."
+    },
+    {
+      "id": "R01-012",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gift_wrapping_with_long_white_silk_ribbon.jpg"
+    },
+    {
+      "id": "R01-013",
+      "decision": "keep_illustration",
+      "reason": "Kein aktuell belegtes Herstellerfoto eines kühlen Edelstahl-Handsteins gefunden; normale Mineralsteine würden das Material verwechseln."
+    },
+    {
+      "id": "R01-014",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ceramic_tile_rectangle_cream_color_mottled.jpg"
+    },
+    {
+      "id": "R01-015",
+      "decision": "keep_illustration",
+      "reason": "Kein Foto eines Taschenwärmekissens mit eindeutig dargestellter Hülle in den geprüften Quellen gefunden."
+    },
+    {
+      "id": "R01-016",
+      "decision": "keep_illustration",
+      "reason": "Ein stilles Foto eines generischen Pucks vermittelt die konkrete Vibration nicht, und ein passendes belegtes Gerät fehlt."
+    },
+    {
+      "id": "R01-017",
+      "decision": "keep_illustration",
+      "reason": "Senseez bietet vibrierende Kissen an; die belegten Varianten aktivieren sich durch Druck. Die beschriebene verstellbare Stärke ist damit nicht belegt, daher kein Ersatzfoto als vermeintlich exakt passende Darstellung."
+    },
+    {
+      "id": "R01-018",
+      "decision": "keep_illustration",
+      "reason": "Kein Foto gefunden, das an demselben Stein polierte und raue Seite klar erkennen lässt. Ein einseitiger Worry-Stone würde den Texturkontrast verlieren."
+    },
+    {
+      "id": "R01-027",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Macrame_Basic_Knots.jpg"
+    },
+    {
+      "id": "R01-028",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chouchou.jpg"
+    },
+    {
+      "id": "R01-029",
+      "decision": "keep_illustration",
+      "reason": "Einzelne Schleifen oder Bänder ersetzen kein Foto einer handgenähten Schlaufenleiste; in diesem Durchlauf keine passende Quelle gefunden."
+    },
+    {
+      "id": "R01-030",
+      "decision": "keep_illustration",
+      "reason": "Allgemeine Wollknäuel repräsentieren den großen fertigen Zopf nicht hinreichend; keine passende Aufnahme gefunden."
+    },
+    {
+      "id": "R01-031",
+      "decision": "keep_illustration",
+      "reason": "Die zugeordnete historische Chenille-Garnaufnahme ließ sich nicht als nutzbares Bild dekodieren; keine unbestätigte URL übernommen."
+    },
+    {
+      "id": "R01-032",
+      "decision": "keep_illustration",
+      "reason": "Kein belegtes Foto eines gewebten Bands mit dem beschriebenen beweglichen Schieber gefunden."
+    },
+    {
+      "id": "R01-033",
+      "decision": "keep_illustration",
+      "reason": "Ein Commons-Treffer mit dem Titel Fleece zeigte ein Personenporträt statt Material. Verworfen; kein bestätigtes Innenpatch-Foto."
+    },
+    {
+      "id": "R01-034",
+      "decision": "keep_illustration",
+      "reason": "Scrunchie-Foto wird bei R01-028 verwendet; es zeigt keinen Knotenloop und wird nicht zur scheinbar exakten Doppelabbildung eingesetzt."
+    },
+    {
+      "id": "R01-094",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chewing_gum.jpg"
+    },
+    {
+      "id": "R01-095",
+      "decision": "keep_illustration",
+      "reason": "ARK Krypto-Bite Tube wurde geprüft; der Hersteller nennt Elastomer, während dieser Eintrag explizit Silikon verlangt. Das Foto würde eine falsche Materialzuordnung nahelegen."
+    },
+    {
+      "id": "R01-096",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://www.arktherapeutic.com/tubing-flexible-straws/"
+    },
+    {
+      "id": "R01-097",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pretzels.jpg"
+    },
+    {
+      "id": "R01-098",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dried_apricots.jpg"
+    },
+    {
+      "id": "R01-099",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Glass_of_water.jpg"
+    },
+    {
+      "id": "R01-100",
+      "decision": "keep_illustration",
+      "reason": "Keine klar zuordenbare, einfache Fotoaufnahme eines milden Bonbons in den geprüften Quellen gefunden; Geschmack/Milde ist ohnehin nicht fotografisch belegbar."
+    },
+    {
+      "id": "R01-101",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://www.arktherapeutic.com/ark-robochew-chewable-pencil-topper/"
+    },
+    {
+      "id": "R01-110",
+      "decision": "keep_illustration",
+      "reason": "Eine statische Smartphone-Aufnahme zeigt die frei wählbaren Haptikmuster nicht. Darstellung bleibt bewusst konzeptionell."
+    },
+    {
+      "id": "R01-114",
+      "decision": "keep_illustration",
+      "reason": "Ein beliebiger Controller würde die Demosequenz und konkrete Vibrationssteuerung nicht zeigen. Konzept bleibt illustriert."
+    },
+    {
+      "id": "R01-118",
+      "decision": "keep_illustration",
+      "reason": "Für den bildschirmfreien vibrierenden Reminder-Puck fehlt ein belegtes konkret passendes Gerätefoto."
+    },
+    {
+      "id": "R01-128",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pine_cone_detail_1.jpg"
+    },
+    {
+      "id": "R01-129",
+      "decision": "keep_illustration",
+      "reason": "Verifiziertes Commons-Foto zeigt einen großen entwurzelten Baum am Strand. Als handliches Treibholz-Fühlstück unpassend; nach visueller Prüfung ausdrücklich verworfen."
+    },
+    {
+      "id": "R01-130",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Seashell.jpg"
+    },
+    {
+      "id": "R01-131",
+      "decision": "keep_illustration",
+      "reason": "Commons-Datei Pebbles.jpg zeigte eine Person statt Kieseln. Verworfen; kein passendes Foto einer Fühlbox gefunden."
+    },
+    {
+      "id": "R01-132",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Knitting_with_hands_by_Shagil_Kannur_2.jpg"
+    },
+    {
+      "id": "R01-133",
+      "decision": "keep_illustration",
+      "reason": "Kein Foto des einfachen Webbretts mit Stoffstreifen gefunden; Strickfoto zeigt eine andere Tätigkeit und wird nicht doppelt verwendet."
+    },
+    {
+      "id": "R01-134",
+      "decision": "keep_illustration",
+      "reason": "Kein ausreichend klares, fotografiertes Fingerlabyrinth gefunden; Illustration kann den nachfahrbaren Verlauf verständlicher zeigen."
+    },
+    {
+      "id": "R01-135",
+      "decision": "keep_illustration",
+      "reason": "Kein passendes Foto einer Bleistift-Kritzelspirale gefunden; allgemeine Stiftfotos zeigen nicht die Aktivität."
+    },
+    {
+      "id": "R01-136",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Watercolors_with_a_brush.jpg"
+    },
+    {
+      "id": "R01-137",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fabric_swatches.jpg"
+    },
+    {
+      "id": "R01-138",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Corrugated_Cardboard.JPG"
+    },
+    {
+      "id": "R01-139",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Symbolfoto eines passenden Materials oder Tätigkeitsbeispiels; keine exakte Produktidentität behauptet.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rolhas_de_Corti%C3%A7a_Natural_-_Cork_stopper_for_a_wine_bottle.jpg"
+    },
+    {
+      "id": "R01-141",
+      "decision": "keep_illustration",
+      "reason": "Kein Foto eines klar abgegrenzten Ruheplatzes mit gefalteter Decke gefunden; generisches Wohninterieur wäre zu beliebig."
+    },
+    {
+      "id": "R01-146",
+      "decision": "keep_illustration",
+      "reason": "Die vertraute persönliche Lieblingstextur ist individuell und lässt sich nicht durch ein beliebiges Produktfoto ersetzen."
+    },
+    {
+      "id": "R01-147",
+      "decision": "keep_illustration",
+      "reason": "Eine modulare sensorische Station ist ein konzeptioneller Aufbau. Keine passende dokumentierte Gesamtaufnahme gefunden; keine beliebige einzelne Ware als Gesamtstation ausgegeben."
+    },
+    {
+      "id": "product-calm-strips",
+      "decision": "photo",
+      "reason": "Technisch und visuell geprüftes Herstellerfoto des benannten Produkts.",
+      "source_url": "https://www.calmstrips.com/shop/p/calm-strips-classroom-pack"
+    },
+    {
+      "id": "R01-056",
+      "decision": "photo",
+      "reason": "König & Meyer – Foto der 168-Stimmgabel. Beispiel einer echten Stimmgabel; feste Stimmung A 440 Hz, kein verstellbarer Ton.",
+      "source_url": "https://www.k-m.de/stimmgabel/168-stimmgabel-vernickelt"
+    },
+    {
+      "id": "R01-057",
+      "decision": "keep_illustration",
+      "reason": "Die gesuchten gedämpften Handglöckchen wurden nicht eindeutig fotografisch belegt; ein normales ungedämpftes Glockenfoto würde die Klangbeschaffenheit falsch nahelegen."
+    },
+    {
+      "id": "R01-058",
+      "decision": "photo",
+      "reason": "Meinl Sonic Energy – Herstellerfoto dreier Mini Steel Tongue Drums als Beispiel kleiner Zungentrommeln.",
+      "source_url": "https://meinlsonicenergy.com/en/products/std1bk-m5419.html"
+    },
+    {
+      "id": "R01-059",
+      "decision": "keep_illustration",
+      "reason": "Crinkle in einer Stoffhülle ist fotografierbar, aber eine belastbare aktuelle Herstellerquelle für genau diese Konstruktion wurde in diesem Durchgang nicht gefunden; keine Verpackungsfüllung als Ersatz verwendet."
+    },
+    {
+      "id": "R01-060",
+      "decision": "photo",
+      "reason": "Meinl Sonic Energy – Herstellerfoto einer Universal-Klangschale. Zeigt die Schale, keinen Filzschlägel.",
+      "source_url": "https://meinlsonicenergy.com/en/products/sb-u-2300-m223601.html"
+    },
+    {
+      "id": "R01-061",
+      "decision": "photo",
+      "reason": "Homedics – Herstellerfoto des dreistufigen Relaxation Fountain als Beispiel eines Tisch-Wasserbrunnens.",
+      "source_url": "https://www.homedics.com/en-ca/products/homedics%C2%AE-relaxation-fountain"
+    },
+    {
+      "id": "R01-062",
+      "decision": "keep_illustration",
+      "reason": "Eine Naturklang-Schleife ist ein auditiver digitaler Ablauf. Ein Wald- oder Regenfoto würde keine tatsächliche Bedienoberfläche oder Schleife zeigen."
+    },
+    {
+      "id": "R01-063",
+      "decision": "keep_illustration",
+      "reason": "Die eigene Musikschleife ist individuell und kein konkretes abbildbares Produkt; beliebiges Kopfhörerfoto vermieden."
+    },
+    {
+      "id": "R01-064",
+      "decision": "keep_illustration",
+      "reason": "Keine konkrete freigegebene ASMR-Oberfläche ausgewählt. Die Klangbibliothek ist durch ein beliebiges Mikrofonfoto nicht ausreichend repräsentiert."
+    },
+    {
+      "id": "R01-065",
+      "decision": "photo",
+      "reason": "Hape – Rainbow Xylophone E0606, externes Herstellerfoto als Beispiel für ein kleines Xylophon.",
+      "source_url": "https://global.hape.com/rainbow-xylophone-e0606"
+    },
+    {
+      "id": "R01-074",
+      "decision": "photo",
+      "reason": "Cosmic Outlaw Studio – Pisces Prism Drop, Foto eines dichroitischen Glas-Sonnenfängers am Fenster.",
+      "source_url": "https://www.cosmicoutlawstudio.com/shop/p/pisces-prism-drop"
+    },
+    {
+      "id": "R01-075",
+      "decision": "photo",
+      "reason": "SunRain Prism Suncatcher – echtes Detailfoto IMG_3389 eines Kristall-Sonnenfängers. Die auf derselben Seite vorkommenden ausdrücklich als ChatGPTImage benannten Bilder wurden ausgeschlossen.",
+      "source_url": "https://www.prismsuncatcher.com/"
+    },
+    {
+      "id": "R01-076",
+      "decision": "keep_illustration",
+      "reason": "Moiré muss als überlagerte Bewegung erkennbar sein; kein passendes belegtes reales Folienkartenfoto gefunden."
+    },
+    {
+      "id": "R01-077",
+      "decision": "keep_illustration",
+      "reason": "Für eine Lentikular-Wackelbildkarte ohne ablenkende Lizenzfigur wurde keine passende Herstelleraufnahme in diesem Durchgang belegt."
+    },
+    {
+      "id": "R01-078",
+      "decision": "keep_illustration",
+      "reason": "Ein generisches holografisches Geschenkpapier würde die konkrete Folienkarte nur ungenau darstellen; bisher keine geeignete Aufnahme belegt."
+    },
+    {
+      "id": "R01-079",
+      "decision": "photo",
+      "reason": "Grand Illusions / Pendulum Swings USA – Foto mehrerer echter Sandpendel als Beispiel der Tischkonstruktion.",
+      "source_url": "https://www.pendulumswingsusa.com/"
+    },
+    {
+      "id": "R01-080",
+      "decision": "keep_illustration",
+      "reason": "Die gefundenen Mathmos-Projektionen zeigen Lavaflüssigkeit und keine Wasserwellen. Neues konkretes Projektorprodukt separat hinzugefügt, Wellenkonzept nicht falsch bebildert."
+    },
+    {
+      "id": "R01-081",
+      "decision": "keep_illustration",
+      "reason": "Das geprüfte Schylling-Marble-Kaleidoskop hat keine nachgewiesen wechselbaren Objekte. Deshalb nicht als Foto dieses spezifischen Konzepts verwendet."
+    },
+    {
+      "id": "R01-082",
+      "decision": "keep_illustration",
+      "reason": "Eine konkrete passende kinetische Pendelskulptur mit belastbarem Foto wurde in diesem Durchgang nicht gefunden; Sandpendel ist bereits separat bebildert."
+    },
+    {
+      "id": "R01-083",
+      "decision": "keep_illustration",
+      "reason": "Ein GIF-Strömungsloop ist selbst digital generiertes Bewegungsbild. Kein beliebiges Wasserfoto eingesetzt, das einen anderen Inhalt vortäuscht."
+    },
+    {
+      "id": "R01-084",
+      "decision": "keep_illustration",
+      "reason": "Generatives Partikelfeld ist ein digitales Konzept; ein echtes Produktfoto ist dafür kein sachgerechter Ersatz."
+    },
+    {
+      "id": "R01-085",
+      "decision": "keep_illustration",
+      "reason": "BlissLights-Ark-Herstellerseite geprüft; die ausgewählte Darstellung ist eine Geräte-/Effektmontage. Im Interesse echter Fotos nicht übernommen."
+    },
+    {
+      "id": "R01-086",
+      "decision": "keep_illustration",
+      "reason": "Wikimedia-Foto von Kräuter-/Gewürzgläsern technisch geprüft, aber visuell unruhige Speisekammer und teils Streudosen; für klar erkennbare Riechgläschen verworfen."
+    },
+    {
+      "id": "R01-087",
+      "decision": "photo",
+      "reason": "Le Petit Poulailler / Flickr, „Black & Blue Lavender Sachets“, Wikimedia Commons, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/). Unverändert verlinktes Foto, Anzeige möglicherweise beschnitten.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Black_%26_Blue_Lavender_Sachets.jpg"
+    },
+    {
+      "id": "R01-088",
+      "decision": "photo",
+      "reason": "Tim van de Staak, „Ceder-blank.jpg“, Wikimedia Commons, CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/). Unverändert verlinktes Foto, Anzeige möglicherweise beschnitten. Beispiel einer Holzprobe; keine Prüfung einer Oberflächenbehandlung.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ceder-blank.jpg"
+    },
+    {
+      "id": "R01-089",
+      "decision": "photo",
+      "reason": "Christoph / Pixabay, „Coffee beans spilling out of a cup“, Wikimedia Commons, CC0 (https://creativecommons.org/publicdomain/zero/1.0/). Zeigt ganze Bohnen als Materialbeispiel, keine fertig eingerichtete Riechdose.",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Coffee_beans_spilling_out_of_a_cup.jpg"
+    },
+    {
+      "id": "R01-092",
+      "decision": "keep_illustration",
+      "reason": "Geruchsneutralität lässt sich aus einem Foto nicht erkennen. Ein beliebiges Baumwollfoto würde eine überprüfte duftfreie Vergleichsprobe nur vortäuschen."
+    },
+    {
+      "id": "R01-093",
+      "decision": "keep_illustration",
+      "reason": "Keine fotografisch belegte konkrete Probenbox mit den genannten Materialien gefunden. Einzelne Holzprobe ersetzt nicht das gesamte Set."
+    },
+    {
+      "id": "R01-111",
+      "decision": "keep_illustration",
+      "reason": "Die virtuelle Bubble-Wrap-Simulation benötigt eine reale zugeordnete Benutzeroberfläche; physische Luftpolsterfolie wäre eine falsche Produktdarstellung."
+    },
+    {
+      "id": "R01-112",
+      "decision": "keep_illustration",
+      "reason": "Digitale Sandmalerei ist kein echtes Sandtablett. Keine verifizierte passende App-Aufnahme ausgewählt."
+    },
+    {
+      "id": "R01-113",
+      "decision": "keep_illustration",
+      "reason": "Shader-Flächen sind selbst computergenerierte visuelle Anwendungen; kein unbelegtes Bildschirmbild verwendet."
+    },
+    {
+      "id": "R01-115",
+      "decision": "keep_illustration",
+      "reason": "Ein physisches Pendel wäre eine andere Aktivität als das Browser-Pendel. Kein verifizierter tatsächlicher Screenshot gefunden."
+    },
+    {
+      "id": "R01-116",
+      "decision": "keep_illustration",
+      "reason": "Ohne konkrete benannte Sequencer-Anwendung wäre ein Interface-Screenshot eine falsche Zuordnung."
+    },
+    {
+      "id": "R01-117",
+      "decision": "keep_illustration",
+      "reason": "Kein konkreter lizenzierter Geräuschmixer-Screenshot ausgewählt; generische Naturbilder würden die Bedienfunktion nicht zeigen."
+    },
+    {
+      "id": "R01-140",
+      "decision": "keep_illustration",
+      "reason": "Reizarme Ecke ist eine individuelle Raumsituation. Das geprüfte IKEA-Bettfoto ist visuell dicht und belegt keine passende reizarme Lichtumgebung."
+    },
+    {
+      "id": "R01-142",
+      "decision": "photo",
+      "reason": "IKEA – Foto einer ODDLAUG-Textilinstallation als konkretes Beispiel schallabsorbierender Textilflächen. Keine Messung oder Wirksamkeitszusage.",
+      "source_url": "https://www.ikea.com/sg/en/rooms/bedroom/how-to/a-quieter-life-with-sound-panels-pubf759df10/"
+    }
+  ],
+  "scope_note": "All 152 previously illustrated entries received a recorded image-suitability review. This is not a claim of exhaustive individual web searches. Concrete photo candidates were checked against primary pages and by actual image decoding; private body sensations and abstract operations retain explicit illustrations."
+}

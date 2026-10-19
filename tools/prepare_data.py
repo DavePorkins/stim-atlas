@@ -31,8 +31,9 @@ def main():
  examples=json.loads((ROOT/'source_data/visual-examples.json').read_text(encoding='utf-8'))
  extra=json.loads((ROOT/'source_data/extra-objects.json').read_text(encoding='utf-8'))
  research=json.loads((ROOT/'source_data/research-v11.json').read_text(encoding='utf-8'))
- extra += research['items']
- overrides={i['id']:i for i in research.get('image_overrides',[])}
+ expansion=json.loads((ROOT/'source_data/research-v11-1.json').read_text(encoding='utf-8'))
+ extra += research['items']+expansion['items']
+ overrides={i['id']:i for i in research.get('image_overrides',[])+expansion.get('image_overrides',[])}
  result=[]
  for seq,old in enumerate(source['items']+extra):
   old={**old,**overrides.get(old['id'],{})}
@@ -62,20 +63,21 @@ def main():
   file=ROOT/item['illustration'];file.parent.mkdir(parents=True,exist_ok=True);file.write_text(svg,encoding='utf-8')
   result.append(item)
  # Quietly varied opening wall. No per-user ranking or random changes during scroll.
- opening=['v8-6','v8-1','v8-54','product-fidget-wear-bead-pocket-hoodie','product-scentco-geladough','v8-8004','v8-32','v8-4001','v8-63','v8-8003','v8-22','v8-12','product-ark-chewable-bangle-bracelet','product-scentco-smillows','v8-4013','v8-45','v8-27','v8-8012','v8-35','v8-4025','v8-4004','v8-8009','v8-46','v8-4009','v8-19','v8-8002','v8-9','v8-33']
+ opening=['v8-6','v8-1','product-mathmos-astro-baby-silver','product-amy-benton-rainbow-pop-ball','product-funfunction-hammock-chair','v8-54','product-fidget-wear-bead-pocket-hoodie','product-scentco-geladough','v8-8004','v8-32','v8-4001','v8-63','v8-8003','v8-22','v8-12','product-ark-chewable-bangle-bracelet','product-scentco-smillows','v8-4013','v8-45','v8-27','v8-8012','v8-35','v8-4025','v8-4004','v8-8009','v8-46','v8-4009','v8-19','v8-8002','v8-9','v8-33']
  photos=[i for i in result if i['images']]; concepts=[i for i in result if not i['images']]
  photos.sort(key=lambda i:(opening.index(i['id']) if i['id'] in opening else 999,hashlib.sha256(i['id'].encode()).hexdigest()))
  concepts.sort(key=lambda i:hashlib.sha256(i['id'].encode()).hexdigest())
- # A small number of activity studies stays discoverable before the photo-only run ends.
- activities=[i for i in concepts if i['kind']=='activity' and i['free']]
- order=[]
- for n,p in enumerate(photos):
-  order.append(p)
-  if n%24==23 and activities:order.append(activities.pop(0))
- order += [i for i in concepts if i not in order]
+ # Keep every part of the wall mixed, including its final screens.
+ lead=photos[:8]; photos=photos[8:];order=lead[:]
+ total=len(photos)+len(concepts);p=c=0
+ for slot in range(total):
+  if c < (slot+1)*len(concepts)//total:
+   order.append(concepts[c]);c+=1
+  else:
+   order.append(photos[p]);p+=1
  for rank,item in enumerate(order):item['rank']=rank
  media_count=sum(bool(i['images']) for i in result)
- catalog={'visual_example_count':len(examples),'version':'v11','updated':'2026-10-19','total':len(result),'senses':SENSES,'materials':MATERIALS,'photo_items':media_count,'illustrated_items':len(result)-media_count,'notes':'All original v9 IDs preserved; 21 additional sourced clothing, scent and activity examples in research-v11.json. Image GET/decoding is a technical check, not verification of photo identity, rights or lasting hotlink availability. Research ideas are not verified retail products.','items':result}
+ catalog={'visual_example_count':len(examples),'version':'v11.1','updated':'2026-10-19','total':len(result),'senses':SENSES,'materials':MATERIALS,'photo_items':media_count,'illustrated_items':len(result)-media_count,'notes':'All original v9 IDs preserved. Sourced additions are retained in research-v11.json and research-v11-1.json. Every previously illustrated entry has an explicit image-suitability review in research-v11-1.json. Image GET/decoding is a technical check, not verification of photo identity, rights or lasting hotlink availability. Research ideas are not verified retail products.','items':result}
  (ROOT/'data').mkdir(exist_ok=True)
  (ROOT/'data/catalog.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2),encoding='utf-8')
  print(f"{len(result)} items / {media_count} photo references / {len(result)-media_count} illustrations")
