@@ -11,9 +11,9 @@ TERMS={
  'metall':r'metall|edelstahl|aluminium|messing|titan|kupfer|stahl|eisen|draht|\bmünze\b',
  'glas':r'\bglas\b|\bglass\b',
  'textil':r'textil|baumwolle|fleece|plüsch|minky|filz|samt|chenille|seide|wolle|garn|leinen|polyester|nylon|satin|gewebe|kordel|velours|lycra|denim|patchwork|ripsband|satinband|stoffrest|\bstoff\b|elasthan',
- 'silikon':r'silikon|silicone', 'gummi':r'gummi|latex|rubber|elastomer|\btpe\b',
+ 'silikon':r'silikon|silicone', 'gummi':r'gummi|latex|rubber|elastomer|\btpe\b|\btpr\b',
  'kunststoff':r'kunststoff|plastic|plastik|\babs\b|\bpla\b|\bpvc\b|acryl|harz|resin|3d-druck|\bpetg\b|kunstleder',
- 'papier':r'papier|karton', 'pflanzen':r'pflanz|blumen|lavendel|kräuter|cedern|zedern|kaffee|orangenschale|bohnen|muschel|holzspan|tannenzapfen',
+ 'papier':r'papier|karton', 'pflanzen':r'pflanz|blumen|lavendel|kräuter|cedern|zedern|kaffee|orangenschale|bohnen|muschel|holzspan|tannenzapfen|zirbe|trockene linsen|hülsenfrüchte|\breis\b|\bsamen\b',
  'gel':r'\bgel\b|knete|putty|foam clay|schleim|slime|schaum|memory foam',
  'wasser':r'wasser|liquid|flüssigkeit|getränk', 'elektronik':r'elektronik|screen|bildschirm|smartphone|browser|gamepad|projektor|\bled\b|audio'}
 
@@ -32,12 +32,15 @@ def main():
  extra=json.loads((ROOT/'source_data/extra-objects.json').read_text(encoding='utf-8'))
  research=json.loads((ROOT/'source_data/research-v11.json').read_text(encoding='utf-8'))
  expansion=json.loads((ROOT/'source_data/research-v11-1.json').read_text(encoding='utf-8'))
- extra += research['items']+expansion['items']
+ curation=json.loads((ROOT/'source_data/research-v11-2.json').read_text(encoding='utf-8'))
+ extra += research['items']+expansion['items']+curation['items']
  overrides={i['id']:i for i in research.get('image_overrides',[])+expansion.get('image_overrides',[])}
+ for patch in curation['overrides']:
+  overrides[patch['id']]={**overrides.get(patch['id'],{}),**patch}
  result=[]
  for seq,old in enumerate(source['items']+extra):
   old={**old,**overrides.get(old['id'],{})}
-  item={k:old.get(k) for k in ['id','legacy_id','title','description','kind','family','subcategory','senses','material_raw','actions','quiet','portable','status','provenance','source_url','search','action_prompt','safety','notes','image_role','image_source_url','image_attribution']}
+  item={k:old.get(k) for k in ['id','legacy_id','title','description','kind','family','subcategory','senses','material_raw','actions','quiet','portable','status','provenance','source_url','search','action_prompt','safety','notes','image_role','image_source_url','image_attribution','material_evidence','everyday_alternative','explore_terms','source_record_ids','illustration_hint']}
   raw=item['material_raw'] or 'Unbekannt';item['material_raw']=raw
   item['materials']=materials(raw)
   item['images']=[u for u in old['images'] if audit.get(u,{}).get('ok')]
@@ -56,7 +59,7 @@ def main():
   item['image_role']=item['image_role'] or ('reference_photo' if item['images'] else 'illustration')
   item['free']=item['kind']=='activity' and raw.lower() in ('kein material','ohne material')
   item['sequence']=seq
-  item['search_terms']=[SENSES.get(s,s) for s in item['senses']]+[MATERIALS.get(m,m) for m in item['materials']]
+  item['search_terms']=[SENSES.get(s,s) for s in item['senses']]+[MATERIALS.get(m,m) for m in item['materials']]+item['actions']
   item['image_status']='http_get_decoded_2026-10-19' if item['images'] else 'local_representative_illustration'
   motif,svg=illustration(item);item['illustration_motif']=motif
   item['illustration']='assets/illustrations/'+item['id']+'.svg'
@@ -77,7 +80,7 @@ def main():
    order.append(photos[p]);p+=1
  for rank,item in enumerate(order):item['rank']=rank
  media_count=sum(bool(i['images']) for i in result)
- catalog={'visual_example_count':len(examples),'version':'v11.1','updated':'2026-10-19','total':len(result),'senses':SENSES,'materials':MATERIALS,'photo_items':media_count,'illustrated_items':len(result)-media_count,'notes':'All original v9 IDs preserved. Sourced additions are retained in research-v11.json and research-v11-1.json. Every previously illustrated entry has an explicit image-suitability review in research-v11-1.json. Image GET/decoding is a technical check, not verification of photo identity, rights or lasting hotlink availability. Research ideas are not verified retail products.','items':result}
+ catalog={'visual_example_count':len(examples),'version':'v11.2','updated':'2026-10-20','total':len(result),'senses':SENSES,'materials':MATERIALS,'photo_items':media_count,'illustrated_items':len(result)-media_count,'proposal_decisions':curation['decisions'],'notes':'All prior catalogue IDs preserved. Gemini proposals are editorially curated in research-v11-2.json. All original v9 IDs preserved. Sourced additions are retained in research-v11.json and research-v11-1.json. Every previously illustrated entry has an explicit image-suitability review in research-v11-1.json. Image GET/decoding is a technical check, not verification of photo identity, rights or lasting hotlink availability. Research ideas are not verified retail products.','items':result}
  (ROOT/'data').mkdir(exist_ok=True)
  (ROOT/'data/catalog.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2),encoding='utf-8')
  print(f"{len(result)} items / {media_count} photo references / {len(result)-media_count} illustrations")

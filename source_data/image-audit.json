@@ -3918,14 +3918,14 @@
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hook_and_loop_fastener_collage.png/960px-Hook_and_loop_fastener_collage.png": {
     "ok": true,
-    "checked_at": "2026-10-19",
-    "method": "HTTP GET + Pillow decode",
-    "status": 200,
     "width": 960,
     "height": 608,
     "bytes": 1192344,
+    "checked_at": "2026-10-19T18:17:11.702359+00:00",
+    "method": "HTTP GET + Pillow decode",
+    "status": 200,
     "content_type": "image/png",
-    "final_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hook_and_loop_fastener_collage.png/960px-Hook_and_loop_fastener_collage.png"
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hook_and_loop_fastener_collage.png"
   },
   "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Gift_wrapping_with_long_white_silk_ribbon.jpg/960px-Gift_wrapping_with_long_white_silk_ribbon.jpg": {
     "ok": true,
@@ -4352,5 +4352,104 @@
     "bytes": 892106,
     "format": "JPEG",
     "final_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Black_%26_Blue_Lavender_Sachets.jpg"
+  },
+  "https://pickypumicestone.com/cdn/shop/products/IMG_E2605_1200x1200.jpg?v=1661017641": {
+    "ok": true,
+    "width": 1200,
+    "height": 1200,
+    "bytes": 222264,
+    "checked_at": "2026-10-19T18:17:11.674841+00:00",
+    "method": "HTTP GET + Pillow decode",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "source_url": "https://pickypumicestone.com/products/copy-of-picky-pumice-fully-covered-picking-stone-hot-pink-color"
+  },
+  "https://cdn.baodingballs.com/wordpress/wp-content/uploads/2019/06/topchi-stainless-38.1-2-768x768.jpg": {
+    "ok": true,
+    "width": 768,
+    "height": 768,
+    "bytes": 64118,
+    "checked_at": "2026-10-19T18:17:11.639842+00:00",
+    "method": "HTTP GET + Pillow decode",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "source_url": "https://www.baodingballs.com/product/solid-stainless-steel-baoding-balls/"
+  },
+  "https://www.komusodesign.com/cdn/shop/files/ClassicProductImage4Rose.jpg?crop=center&height=800&v=1767893375&width=800": {
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "bytes": 92173,
+    "checked_at": "2026-10-19T18:17:11.636841+00:00",
+    "method": "HTTP GET + Pillow decode",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "source_url": "https://www.komusodesign.com/products/the-classic-shift"
+  },
+  "https://www.loopearplugs.com/cdn/shop/files/PDP_ENGAGE2_CLEAR_01-917223.png?v=1715087473&width=800": {
+    "ok": true,
+    "width": 800,
+    "height": 800,
+    "bytes": 59297,
+    "checked_at": "2026-10-19T18:17:11.652841+00:00",
+    "method": "HTTP GET + Pillow decode",
+    "status": 200,
+    "content_type": "image/png",
+    "source_url": "https://www.loopearplugs.com/products/engage"
+  },
+  "https://shop.mtr-designs.com/cdn/shop/products/black-store2.png?v=1668701651&width=800": {
+    "ok": true,
+    "width": 688,
+    "height": 688,
+    "bytes": 148186,
+    "checked_at": "2026-10-19T18:17:11.660841+00:00",
+    "method": "HTTP GET + Pillow decode",
+    "status": 200,
+    "content_type": "image/png",
+    "source_url": "https://shop.mtr-designs.com/products/ferroflow-automatic-ferrofluid-display-black"
+  },
+  "https://res.cloudinary.com/theraspecs/image/upload/t_category_image/brooks_black_angled_flpro35.jpg": {
+    "ok": true,
+    "width": 640,
+    "height": 384,
+    "bytes": 10976,
+    "checked_at": "2026-10-19T18:17:11.643841+00:00",
+    "method": "HTTP GET + Pillow decode",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "source_url": "https://www.theraspecs.com/fl-pro/"
+  },
+  "https://images.squarespace-cdn.com/content/v1/592946dfd2b857159c78ad9c/1495883444407-9718636XLT6RLXLFSXME/SMALL+TELEIDOSCOPE.jpg?format=800w": {
+    "ok": true,
+    "width": 1000,
+    "height": 664,
+    "bytes": 101160,
+    "checked_at": "2026-10-19T18:17:11.636841+00:00",
+    "method": "HTTP GET + Pillow decode",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "source_url": "https://www.handmadekaleidoscopes.com/shop-home"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/1990s_NSK_Nippon_Seiko_Kabushiki_gaisha_ball_bearing_608Z_made_in_Japan.jpg/960px-1990s_NSK_Nippon_Seiko_Kabushiki_gaisha_ball_bearing_608Z_made_in_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260313172420": {
+    "ok": true,
+    "width": 960,
+    "height": 958,
+    "bytes": 264941,
+    "checked_at": "2026-10-19T18:17:12.446927+00:00",
+    "method": "HTTP GET + Pillow decode",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:1990s_NSK_Nippon_Seiko_Kabushiki_gaisha_ball_bearing_608Z_made_in_Japan.jpg"
+  },
+  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Puy_lentils_wooden_bowl.jpg/960px-Puy_lentils_wooden_bowl.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20110403004057": {
+    "ok": true,
+    "width": 960,
+    "height": 715,
+    "bytes": 112558,
+    "checked_at": "2026-10-19T18:17:11.645842+00:00",
+    "method": "HTTP GET + Pillow decode",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Puy_lentils_wooden_bowl.jpg"
   }
 }

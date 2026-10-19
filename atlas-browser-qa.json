@@ -1,111 +1,49 @@
 {
-  "narrow": {
-    "count": "488 Bilder",
-    "height": 800,
-    "overflow": false,
-    "random": {
-      "bottom": 788.0022506713867,
-      "height": 43.99553680419922,
-      "left": 214.5982208251953,
-      "right": 297.28795623779297,
-      "top": 744.0067138671875
-    },
-    "width": 320
-  },
-  "mobileDialog": {
-    "open": true,
-    "random": {
-      "bottom": 68.70535850524902,
-      "height": 43.99553680419922,
-      "top": 24.709821701049805,
-      "width": 43.99553680419922
-    },
-    "title": "Kinetischer Flow-Ring",
-    "toolbar": {
-      "bottom": 73.41518020629883,
-      "left": 9.709821701049805,
-      "right": 299.56474113464355,
-      "top": 20.71428680419922
-    },
-    "width": 320
-  },
-  "single": {
-    "disabled": true,
-    "title": "Fun and Function – Space Explorers Body Sock"
-  },
-  "empty": {
-    "count": "0 Bilder",
-    "randomDisabled": true,
-    "resetVisible": true
-  },
-  "returnChain": {
-    "familyView": {
-      "count": "20 Bilder",
-      "overflow": false,
-      "query": "",
-      "summary": "Licht, Muster & visuelle Effekte"
-    },
-    "returnedFamily": "Licht, Muster & visuelle Effekte",
-    "query": "Lava"
-  },
-  "browserBack": {
-    "dialog": false,
-    "query": "Lava",
-    "summary": "Suche: Lava"
-  },
-  "deepReturn": {
-    "before": {
-      "rendered": 72,
-      "scrollY": 2848.571533203125,
-      "title": "Angenehme Handauflage auf Brustkorb"
-    },
-    "after": {
-      "focused": "Angenehme Handauflage auf Brustkorb – Details öffnen",
-      "rendered": 72,
-      "scrollY": 2848.571533203125
-    }
-  },
-  "desktop": {
-    "count": "488 Bilder",
-    "height": 800,
-    "overflow": false,
-    "scriptSources": [
-      "assets/core.js?v=1cff40f7fe",
-      "assets/site.js?v=d713100f62"
+  "version": "v11.2",
+  "date": "2026-10-20",
+  "automated_checks": 28,
+  "total_entries": 432,
+  "photo_entries": 324,
+  "illustration_entries": 108,
+  "gallery_tiles": 503,
+  "preserved_previous_ids_and_photo_urls": 417,
+  "browser": {
+    "desktop_css_width": 1280,
+    "mobile_css_widths": [
+      390,
+      320
     ],
-    "visiblePending": [],
-    "width": 1200
-  },
-  "mobile": {
-    "count": "3 Bilder",
-    "height": 844,
-    "overflow": false,
-    "photos": [
-      {
-        "alt": "Amy & Benton – Regenbogen Pop-Ball",
-        "illustration": false,
-        "loaded": true
-      },
-      {
-        "alt": "Ariel Eye-Popping – Augen-Pop-Ball",
-        "illustration": false,
-        "loaded": true
-      },
-      {
-        "alt": "Playlearn – Rugby Pop-It-Ball",
-        "illustration": false,
-        "loaded": true
-      }
+    "horizontal_overflow": false,
+    "detail_horizontal_overflow": false,
+    "detail_random_button_css_size": [
+      44,
+      44
     ],
-    "width": 390
+    "touch_gallery_favorite_css_size": [
+      44,
+      44
+    ],
+    "keyboard_disclosure_enter": true,
+    "escape_returns_focus": true,
+    "favorite_survives_reload": true,
+    "test_favorite_removed_afterwards": true,
+    "sense_or_material_and_result_count": 7,
+    "infinite_scroll_tile_counts": [
+      72,
+      108
+    ],
+    "console_errors": []
   },
-  "version": "v11.1",
-  "date": "2026-10-19",
-  "automated_checks": 24,
-  "total_entries": 417,
-  "photo_entries": 314,
-  "illustration_entries": 103,
-  "gallery_tiles": 488,
-  "reviewed_illustration_ids": 152,
-  "new_image_urls_decoded": 82
+  "image_checks": {
+    "new_source_images_get_and_decode": 10,
+    "review_date": "2026-10-19",
+    "visually_reviewed_contact_sheet": true,
+    "new_objects_with_external_images": 9,
+    "existing_teleidoscope_gained_photo": true,
+    "new_activities_with_named_local_illustrations": 6
+  },
+  "limitations": [
+    "External images require internet and may change; existing historical image checks were not all repeated in this release.",
+    "Responsive widths were tested in a desktop browser; physical phone hardware was not used."
+  ]
 }

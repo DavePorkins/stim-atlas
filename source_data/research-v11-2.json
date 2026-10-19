@@ -1,0 +1,3275 @@
+{
+  "version": "v11.2",
+  "reviewed_at": "2026-10-19",
+  "items": [
+    {
+      "id": "R02-001",
+      "legacy_id": null,
+      "title": "Einzelnes Kugellager (608 / Skate-Bearing)",
+      "description": "Ein handliches Kugellager hat einen Innen- und einen Außenring, die sich gegeneinander drehen lassen. Beim langsamen Drehen oder Auspendeln sind Bewegung, Gewicht und Reibung spürbar.",
+      "kind": "object",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Drehlager",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Metall; Werkstoff und Ausführung je nach Lager",
+      "actions": [
+        "drehen",
+        "auspendeln",
+        "Gewicht fühlen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "608 Kugellager Handobjekt skate bearing fidget",
+      "action_prompt": "drehen · auspendeln · Gewicht fühlen",
+      "safety": [],
+      "notes": "Einzelne Lager unterscheiden sich in Größe, Leichtlauf und Laufgeräusch. Nur saubere, unbeschädigte Lager ohne scharfe Kanten als Handobjekt verwenden.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:1990s_NSK_Nippon_Seiko_Kabushiki_gaisha_ball_bearing_608Z_made_in_Japan.jpg",
+      "image_attribution": "Symbolfoto eines einzelnen 608Z-Kugellagers von NSK aus den 1990ern. R. Henrik Nilsson · CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/1990s_NSK_Nippon_Seiko_Kabushiki_gaisha_ball_bearing_608Z_made_in_Japan.jpg/960px-1990s_NSK_Nippon_Seiko_Kabushiki_gaisha_ball_bearing_608Z_made_in_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20260313172420"
+      ],
+      "everyday_alternative": "Eine bereits vorhandene große, glatte Mutter oder Unterlegscheibe lässt sich als einfaches Tastobjekt bewegen; die Drehbewegung ist anders.",
+      "explore_terms": [
+        "608 Kugellager Handobjekt",
+        "skate bearing fidget"
+      ],
+      "source_record_ids": [
+        "R02-001"
+      ],
+      "illustration_hint": "bearing"
+    },
+    {
+      "id": "R02-002",
+      "legacy_id": null,
+      "title": "Fühlschale mit trockenen Linsen oder Bohnen",
+      "description": "Trockene Linsen, Bohnen oder Reis in einer Schale mit den Händen bewegen, locker greifen und wieder zwischen den Fingern rieseln lassen. Dabei entstehen viele kleine Berührungen und ein leises Rascheln.",
+      "kind": "object",
+      "family": "Naturmaterialien",
+      "subcategory": "Schüttgut",
+      "senses": [
+        "tactile",
+        "auditory"
+      ],
+      "material_raw": "Trockene Hülsenfrüchte oder Reis; Schale",
+      "actions": [
+        "eintauchen",
+        "greifen",
+        "rieseln lassen"
+      ],
+      "quiet": false,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "dry rice sensory bin Linsen Fühlschale",
+      "action_prompt": "eintauchen · greifen · rieseln lassen",
+      "safety": [],
+      "notes": "Trocken und sauber aufbewahren; kleine Körner sind für Personen, die Gegenstände in den Mund nehmen, kein geeignetes loses Spielmaterial.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Puy_lentils_wooden_bowl.jpg",
+      "image_attribution": "Symbolfoto einer Schale trockener Puy-Linsen. Jessica Spengler · CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Puy_lentils_wooden_bowl.jpg/960px-Puy_lentils_wooden_bowl.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20110403004057"
+      ],
+      "everyday_alternative": "Eine vorhandene Schale und etwas trockener Reis oder Linsen können dafür separat als Tastmaterial genutzt werden.",
+      "explore_terms": [
+        "dry rice sensory bin",
+        "Linsen Fühlschale"
+      ],
+      "source_record_ids": [
+        "R02-002"
+      ],
+      "illustration_hint": "grain-bowl"
+    },
+    {
+      "id": "R02-003",
+      "legacy_id": null,
+      "title": "Gefüllter Bimsstein zum Picken",
+      "description": "Ein poröser Bimsstein mit dafür vorgesehener elastischer Füllung: Kleine Stücke lassen sich aus den Vertiefungen herausziehen. Die raue Steinoberfläche und das langsame Picken stehen im Vordergrund.",
+      "kind": "object",
+      "family": "Kreativ & Material",
+      "subcategory": "Picking-Steine",
+      "senses": [
+        "tactile",
+        "visual"
+      ],
+      "material_raw": "Bimsstein mit elastischer Füllung; Zusammensetzung je nach Anbieter",
+      "actions": [
+        "picken",
+        "herausziehen",
+        "Oberfläche fühlen"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "picking stone pumice picking fidget",
+      "action_prompt": "picken · herausziehen · Oberfläche fühlen",
+      "safety": [],
+      "notes": "Die Füllung kann Latex enthalten; Anbieterangaben beachten. Abgelöste Stücke sind kein Kau- oder Lebensmittel. Keine Leimschicht auf der Haut als Alternative.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://pickypumicestone.com/products/copy-of-picky-pumice-fully-covered-picking-stone-hot-pink-color",
+      "image_attribution": "Symbolfoto / konkretes Produktbeispiel: Picky Pumice Fully Covered Picking Stone, Purple. © Picky Pumice Stone; Rechte verbleiben beim Anbieter.",
+      "images": [
+        "https://pickypumicestone.com/cdn/shop/products/IMG_E2605_1200x1200.jpg?v=1661017641"
+      ],
+      "everyday_alternative": "",
+      "explore_terms": [
+        "picking stone",
+        "pumice picking fidget"
+      ],
+      "source_record_ids": [
+        "R02-003"
+      ],
+      "illustration_hint": "picking-stone"
+    },
+    {
+      "id": "R02-004",
+      "legacy_id": null,
+      "title": "Baoding-Kugeln ohne Klangwerk",
+      "description": "Zwei glatte Kugeln in einer Hand langsam umeinander führen. Größe, Gewicht und Abstand verändern, wie sich das Kreisen und Balancieren anfühlt; auch massive Kugeln können beim Berühren hörbar aneinanderstoßen.",
+      "kind": "object",
+      "family": "Geschicklichkeit & Flow",
+      "subcategory": "Handkugeln",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Metall oder Stein, je nach Ausführung",
+      "actions": [
+        "kreisen",
+        "balancieren",
+        "Gewicht fühlen"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "Baoding balls solid no chime Baoding Kugeln ohne Klang",
+      "action_prompt": "kreisen · balancieren · Gewicht fühlen",
+      "safety": [],
+      "notes": "Ein eingebautes Klangwerk fehlt bei dieser Variante; völlig geräuschlos sind die Kugeln dadurch nicht.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.baodingballs.com/product/solid-stainless-steel-baoding-balls/",
+      "image_attribution": "Symbolfoto / Produktbeispiel: Top Chi 1.5 inch Solid Stainless Steel Baoding Balls, ohne inneres Klangwerk. © BaodingBalls.com / Top Chi; Rechte verbleiben beim Anbieter.",
+      "images": [
+        "https://cdn.baodingballs.com/wordpress/wp-content/uploads/2019/06/topchi-stainless-38.1-2-768x768.jpg"
+      ],
+      "everyday_alternative": "Zwei große, saubere Walnüsse können eine leichtere, unregelmäßige Alternative zum Kreisen in der Hand sein.",
+      "explore_terms": [
+        "Baoding balls solid no chime",
+        "Baoding Kugeln ohne Klang"
+      ],
+      "source_record_ids": [
+        "R02-004"
+      ],
+      "illustration_hint": "baoding"
+    },
+    {
+      "id": "R02-005",
+      "legacy_id": null,
+      "title": "Klettband-Fühlpatch – raue Hakenseite",
+      "description": "Mit den Fingerkuppen leicht über die feste Hakenseite eines Klettverschlusses streichen. Je nach Klettband fühlen sich die kleinen Haken rau, kantig oder federnd an.",
+      "kind": "object",
+      "family": "Taktile Texturen",
+      "subcategory": "Klettflächen",
+      "senses": [
+        "tactile"
+      ],
+      "material_raw": "Kunststoff-Kletthaken mit textilem Träger",
+      "actions": [
+        "streichen",
+        "leicht drücken",
+        "Struktur vergleichen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "hook side sensory patch Klett Hakenseite Fühlpatch",
+      "action_prompt": "streichen · leicht drücken · Struktur vergleichen",
+      "safety": [],
+      "notes": "Nur mit angenehmem Druck auf unverletzter Haut verwenden; raue Haken können kratzen. Kein schmerzorientierter Stim und keine Zusage von Verletzungsfreiheit.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Hook_and_loop_fastener_collage.png",
+      "image_attribution": "Symbolfoto / Materialbeispiel, nicht das genaue katalogisierte Objekt. Taylor 49 (talk) · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hook_and_loop_fastener_collage.png/960px-Hook_and_loop_fastener_collage.png"
+      ],
+      "everyday_alternative": "Eine vorhandene Klettlasche an Tasche oder Jacke bietet eine ähnliche Tastfläche.",
+      "explore_terms": [
+        "hook side sensory patch",
+        "Klett Hakenseite Fühlpatch"
+      ],
+      "source_record_ids": [
+        "R02-005"
+      ],
+      "illustration_hint": "fabric"
+    },
+    {
+      "id": "R02-014",
+      "legacy_id": null,
+      "title": "Atem-Anhänger mit Röhrchen",
+      "description": "Ein Schmuckanhänger mit kleinem Luftkanal, durch den sich entspannt ausatmen lässt. Die Form erinnert an ein kurzes Metallröhrchen; neben der Atemwahrnehmung bietet der Anhänger eine glatte Oberfläche zum Anfassen.",
+      "kind": "object",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Atemwahrnehmung",
+      "senses": [
+        "interoceptive",
+        "tactile"
+      ],
+      "material_raw": "Metall; genaue Legierung je nach Anbieter",
+      "actions": [
+        "anfassen",
+        "locker ausatmen",
+        "Atem wahrnehmen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "breathing necklace tube Atem Anhänger Röhrchen",
+      "action_prompt": "anfassen · locker ausatmen · Atem wahrnehmen",
+      "safety": [],
+      "notes": "Natürlich und ohne Pressen, Luftanhalten oder erzwungene lange Ausatmung verwenden. Kein Kaugegenstand und keine zugesicherte Puls- oder Nervenwirkung.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.komusodesign.com/products/the-classic-shift",
+      "image_attribution": "Symbolfoto / Produktbeispiel eines röhrenförmigen Atemanhängers: Komuso Classic Shift in Roségold. © Komuso Design; Rechte verbleiben beim Anbieter. Keine Übernahme von Wirkversprechen.",
+      "images": [
+        "https://www.komusodesign.com/cdn/shop/files/ClassicProductImage4Rose.jpg?crop=center&height=800&v=1767893375&width=800"
+      ],
+      "everyday_alternative": "Den eigenen ruhigen Atem ohne Hilfsmittel wahrnehmen; ein Röhrchen ist dafür nicht nötig.",
+      "explore_terms": [
+        "breathing necklace tube",
+        "Atem Anhänger Röhrchen"
+      ],
+      "source_record_ids": [
+        "R02-014"
+      ],
+      "illustration_hint": "tube-pendant"
+    },
+    {
+      "id": "R02-018",
+      "legacy_id": null,
+      "title": "Ohrstöpsel mit akustischem Filter",
+      "description": "Wiederverwendbare Ohrstöpsel mit akustischem Filter verändern und dämpfen Umgebungsgeräusche. Dämpfung, Klang und Sitz unterscheiden sich je nach Ausführung; Herstellerangaben beschreiben den jeweiligen Einsatzzweck.",
+      "kind": "equipment",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Geräuschdämpfung",
+      "senses": [
+        "auditory"
+      ],
+      "material_raw": "Silikon oder Kunststoff; Filteraufbau je nach Modell",
+      "actions": [
+        "einsetzen",
+        "Klang vergleichen",
+        "herausnehmen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "filtered earplugs manufacturer Ohrstöpsel akustischer Filter",
+      "action_prompt": "einsetzen · Klang vergleichen · herausnehmen",
+      "safety": [],
+      "notes": "Nicht jedes Produkt zur Klangveränderung ist geprüfter Gehörschutz. Für laute Arbeits- oder Veranstaltungsumgebungen ist die ausgewiesene Schutzwirkung entscheidend; Gespräche bleiben nicht bei jedem Modell gleich verständlich.",
+      "image_role": "manufacturer_render",
+      "image_source_url": "https://www.loopearplugs.com/products/engage",
+      "image_attribution": "Herstellerdarstellung / Produktbeispiel: Loop Engage 2 mit akustischem Filter. © Loop Earplugs; Rechte verbleiben beim Anbieter.",
+      "images": [
+        "https://www.loopearplugs.com/cdn/shop/files/PDP_ENGAGE2_CLEAR_01-917223.png?v=1715087473&width=800"
+      ],
+      "everyday_alternative": "",
+      "explore_terms": [
+        "filtered earplugs manufacturer",
+        "Ohrstöpsel akustischer Filter"
+      ],
+      "source_record_ids": [
+        "R02-018"
+      ],
+      "illustration_hint": "earplugs"
+    },
+    {
+      "id": "R02-020",
+      "legacy_id": null,
+      "title": "Geschlossenes Ferrofluid-Display mit Magnet",
+      "description": "In einem geschlossenen transparenten Behälter verändert eine magnetische Flüssigkeit ihre Form. Ein vorgesehener Außenmagnet oder eine integrierte Steuerung bewegt die dunklen Muster und Spitzen. Das Foto zeigt ein automatisches Display mit zusätzlichem Handmagneten.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Magnetische Flüssigkeitsbilder",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Geschlossener Glas- oder Kunststoffbehälter mit Ferrofluid; Magnet",
+      "actions": [
+        "Magnet bewegen",
+        "Muster verändern",
+        "beobachten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "sealed ferrofluid display Ferrofluid Display Magnet",
+      "action_prompt": "Magnet bewegen · Muster verändern · beobachten",
+      "safety": [
+        "small_magnets_check"
+      ],
+      "notes": "Das gezeigte MTR-Display verwendet Glas und starke Magnete und wird vom Hersteller ab 16 Jahren empfohlen. Es ist ein konkretes Beispiel für das allgemeinere Display-Konzept.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://shop.mtr-designs.com/products/ferroflow-automatic-ferrofluid-display-black",
+      "image_attribution": "Symbolfoto / konkretes geschlossenes Display: MTR Designs Ferroflow, schwarzes Ferrofluid. © MTR Designs; Rechte verbleiben beim Anbieter.",
+      "images": [
+        "https://shop.mtr-designs.com/cdn/shop/products/black-store2.png?v=1668701651&width=800"
+      ],
+      "everyday_alternative": "",
+      "explore_terms": [
+        "sealed ferrofluid display",
+        "Ferrofluid Display Magnet"
+      ],
+      "source_record_ids": [
+        "R02-020"
+      ],
+      "illustration_hint": "ferrofluid"
+    },
+    {
+      "id": "R02-022",
+      "legacy_id": null,
+      "title": "Rosa getönte Filterbrille (FL-41)",
+      "description": "Eine Brille mit rosafarben getönten Gläsern verändert beim Aufsetzen Helligkeit und Farbwahrnehmung. Unter der Bezeichnung FL-41 werden verschiedene Ausführungen und Tönungsstärken angeboten.",
+      "kind": "equipment",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Getönte Brillen",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Getönte optische Linsen und Gestell; Werkstoffe je nach Ausführung ungeklärt",
+      "actions": [
+        "aufsetzen",
+        "Lichteindruck vergleichen",
+        "absetzen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "FL-41 tinted lenses manufacturer rosa getönte Filterbrille",
+      "action_prompt": "aufsetzen · Lichteindruck vergleichen · absetzen",
+      "safety": [],
+      "notes": "Die Tönung ist weder eine universelle Lösung gegen Reizüberflutung noch automatisch eine Sonnen- oder Schutzbrille. Konkrete optische Eigenschaften nach Anbieter prüfen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.theraspecs.com/fl-pro/",
+      "image_attribution": "Symbolfoto / konkretes Produktbeispiel: TheraSpecs Brooks mit rosafarbenen FL-Pro-FL41-Gläsern. © TheraSpecs; Rechte verbleiben beim Anbieter. Keine klinische Wirkzusage.",
+      "images": [
+        "https://res.cloudinary.com/theraspecs/image/upload/t_category_image/brooks_black_angled_flpro35.jpg"
+      ],
+      "everyday_alternative": "",
+      "explore_terms": [
+        "FL-41 tinted lenses manufacturer",
+        "rosa getönte Filterbrille"
+      ],
+      "source_record_ids": [
+        "R02-022"
+      ],
+      "illustration_hint": "glasses"
+    },
+    {
+      "id": "R02-024",
+      "legacy_id": null,
+      "title": "Beine bequem hochlegen",
+      "description": "Im Liegen die Unterschenkel auf einem geeigneten Kissen oder einer niedrigen Unterlage ablegen. Eine bequeme Position ohne erzwungenen Winkel wählen und die Auflageflächen wahrnehmen.",
+      "kind": "activity",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Bequeme Ruhepositionen",
+      "senses": [
+        "interoceptive",
+        "proprioceptive"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "hinlegen",
+        "Beine ablegen",
+        "Kontakt wahrnehmen"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "bequeme Ruheposition Beine hochlegen",
+      "action_prompt": "hinlegen · Beine ablegen · Kontakt wahrnehmen",
+      "safety": [],
+      "notes": "Keine Inversion und kein Gewicht auf dem Bauch erforderlich. Position wechseln, sobald sie unangenehm wird; keine Behauptung einer physiologischen Herzfrequenzsenkung.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Ein vorhandenes Kissen oder eine passende niedrige Ablage verwenden.",
+      "explore_terms": [
+        "bequeme Ruheposition Beine hochlegen"
+      ],
+      "source_record_ids": [
+        "R02-024"
+      ],
+      "illustration_hint": "leg-rest"
+    },
+    {
+      "id": "R02-027",
+      "legacy_id": null,
+      "title": "Hände und Schultern locker ausschütteln",
+      "description": "Hände locker bewegen und die Schultern mit kleinen, freien Bewegungen ausschütteln. Tempo, Umfang und Dauer selbst wählen; der Körper muss dabei nichts Bestimmtes erreichen.",
+      "kind": "activity",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Freie Bewegung",
+      "senses": [
+        "proprioceptive"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "ausschütteln",
+        "Schultern bewegen",
+        "pausieren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "Hände ausschütteln lockere Bewegung",
+      "action_prompt": "ausschütteln · Schultern bewegen · pausieren",
+      "safety": [],
+      "notes": "Gewöhnliche lockere Bewegung; kein erzwungenes Zittern, kein Trauma-Verfahren und kein Versprechen, Stressenergie abzuführen.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "",
+      "explore_terms": [
+        "Hände ausschütteln lockere Bewegung"
+      ],
+      "source_record_ids": [
+        "R02-027"
+      ],
+      "illustration_hint": "hands"
+    },
+    {
+      "id": "R02-028",
+      "legacy_id": null,
+      "title": "Sanft im Wechsel links und rechts klopfen",
+      "description": "Mit den Fingerspitzen abwechselnd leicht auf den linken und rechten Oberarm oder Oberschenkel tippen. Einen eigenen angenehmen Takt wählen und die beiden Kontaktstellen wahrnehmen.",
+      "kind": "activity",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Wechselnder Tastkontakt",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "leicht tippen",
+        "Seiten wechseln",
+        "Rhythmus wählen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "alternating tactile tapping rhythmisches Fingertippen Oberarme",
+      "action_prompt": "leicht tippen · Seiten wechseln · Rhythmus wählen",
+      "safety": [],
+      "notes": "Eine freiwillige rhythmische Tastaktivität ohne Therapieanleitung oder Aussage darüber, welche Gehirnhälfte aktiv wird.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "",
+      "explore_terms": [
+        "alternating tactile tapping",
+        "rhythmisches Fingertippen Oberarme"
+      ],
+      "source_record_ids": [
+        "R02-028"
+      ],
+      "illustration_hint": "hug"
+    },
+    {
+      "id": "R02-029",
+      "legacy_id": null,
+      "title": "Oberarme sanft ausstreichen",
+      "description": "Mit einer Hand langsam über den anderen Oberarm oder dessen Stoffärmel streichen. Richtung, Tempo und Druck frei wählen und die Unterschiede zwischen Hand, Haut und Stoff wahrnehmen.",
+      "kind": "activity",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Streichender Tastkontakt",
+      "senses": [
+        "tactile",
+        "interoceptive"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "streichen",
+        "Druck wählen",
+        "Kontakt wahrnehmen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "sanfter Tastkontakt Oberarm self touch sleeve texture",
+      "action_prompt": "streichen · Druck wählen · Kontakt wahrnehmen",
+      "safety": [],
+      "notes": "Gewöhnliche freiwillige Selbstberührung ohne Havening-Protokoll, festgelegte Geschwindigkeit oder Zusagen über Hormone und Gehirnwellen.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "",
+      "explore_terms": [
+        "sanfter Tastkontakt Oberarm",
+        "self touch sleeve texture"
+      ],
+      "source_record_ids": [
+        "R02-029"
+      ],
+      "illustration_hint": "arm-stroke"
+    },
+    {
+      "id": "R02-035",
+      "legacy_id": null,
+      "title": "Licht mit den Händen abschirmen",
+      "description": "Die Augen locker schließen und die gewölbten Handflächen mit Abstand davor halten, sodass weniger Licht einfällt. Dabei entsteht ein kurzer dunklerer Blickraum ohne zusätzliches Hilfsmittel.",
+      "kind": "activity",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Lichtpause",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "Augen schließen",
+        "Licht abschirmen",
+        "Hände lösen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "Licht mit Händen abschirmen comfortable eye shade hands",
+      "action_prompt": "Augen schließen · Licht abschirmen · Hände lösen",
+      "safety": [],
+      "notes": "Nicht auf die Augen drücken und die Hände nicht heißreiben. Keine Behauptung einer Behandlung von Sehnerven oder einer besonderen Infrarotwirkung.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "",
+      "explore_terms": [
+        "Licht mit Händen abschirmen",
+        "comfortable eye shade hands"
+      ],
+      "source_record_ids": [
+        "R02-035"
+      ],
+      "illustration_hint": "palming"
+    },
+    {
+      "id": "R02-036",
+      "legacy_id": null,
+      "title": "Den Blick im Raum wandern lassen",
+      "description": "Den Blick vom Bildschirm lösen und in angenehmem Tempo durch den Raum wandern lassen. An einem interessanten Detail, einer Farbe oder einer ruhigen Fläche verweilen und bei Bedarf weitersehen.",
+      "kind": "activity",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Visuelle Erkundung",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "umschauen",
+        "Detail auswählen",
+        "verweilen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research02",
+      "source_url": "",
+      "search": "visuelle Umgebung erkunden Raumdetails beobachten",
+      "action_prompt": "umschauen · Detail auswählen · verweilen",
+      "safety": [],
+      "notes": "Blick und Kopf nur bequem bewegen; keine lange extreme Augenposition, kein Warten auf Gähnen und kein Nervensystem-Reset als Ziel.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Vorhandene Dinge im Raum oder der Ausblick aus einem Fenster genügen.",
+      "explore_terms": [
+        "visuelle Umgebung erkunden",
+        "Raumdetails beobachten"
+      ],
+      "source_record_ids": [
+        "R02-036"
+      ],
+      "illustration_hint": "room"
+    }
+  ],
+  "overrides": [
+    {
+      "id": "R01-001",
+      "actions": [
+        "über weiche Borsten streichen",
+        "Fingerspitzen auflegen"
+      ],
+      "action_prompt": "über weiche Borsten streichen · Fingerspitzen auflegen"
+    },
+    {
+      "id": "R01-002",
+      "actions": [
+        "Rillen mit dem Daumen reiben",
+        "Kanten nachfahren"
+      ],
+      "action_prompt": "Rillen mit dem Daumen reiben · Kanten nachfahren"
+    },
+    {
+      "id": "R01-003",
+      "actions": [
+        "über den Flausch streichen",
+        "Textur mit den Fingern vergleichen"
+      ],
+      "action_prompt": "über den Flausch streichen · Textur mit den Fingern vergleichen"
+    },
+    {
+      "id": "R01-004",
+      "actions": [
+        "Sticker unter dem Tisch ertasten",
+        "Relief mit dem Daumen nachfahren"
+      ],
+      "action_prompt": "Sticker unter dem Tisch ertasten · Relief mit dem Daumen nachfahren"
+    },
+    {
+      "id": "R01-005",
+      "actions": [
+        "Pailletten in eine Richtung streichen",
+        "Oberfläche zurückwenden",
+        "Muster verändern"
+      ],
+      "action_prompt": "Pailletten in eine Richtung streichen · Oberfläche zurückwenden · Muster verändern"
+    },
+    {
+      "id": "R01-006",
+      "actions": [
+        "Schaum langsam eindrücken",
+        "loslassen",
+        "Rückformung beobachten"
+      ],
+      "action_prompt": "Schaum langsam eindrücken · loslassen · Rückformung beobachten"
+    },
+    {
+      "id": "R01-007",
+      "actions": [
+        "Gewebemulden ertasten",
+        "über die Waffelstruktur streichen"
+      ],
+      "action_prompt": "Gewebemulden ertasten · über die Waffelstruktur streichen"
+    },
+    {
+      "id": "R01-008",
+      "actions": [
+        "Noppen mit den Fingern nachfahren",
+        "Formen ertasten"
+      ],
+      "action_prompt": "Noppen mit den Fingern nachfahren · Formen ertasten"
+    },
+    {
+      "id": "R01-009",
+      "actions": [
+        "Ledernarbe mit dem Daumen reiben",
+        "glatte und strukturierte Stellen ertasten"
+      ],
+      "action_prompt": "Ledernarbe mit dem Daumen reiben · glatte und strukturierte Stellen ertasten"
+    },
+    {
+      "id": "R01-010",
+      "actions": [
+        "Maschenstruktur ertasten",
+        "Mesh leicht dehnen",
+        "Widerstand fühlen"
+      ],
+      "action_prompt": "Maschenstruktur ertasten · Mesh leicht dehnen · Widerstand fühlen"
+    },
+    {
+      "id": "R01-011",
+      "actions": [
+        "Pinsel über Fingerspitzen führen",
+        "feine und weiche Borsten vergleichen"
+      ],
+      "action_prompt": "Pinsel über Fingerspitzen führen · feine und weiche Borsten vergleichen"
+    },
+    {
+      "id": "R01-012",
+      "actions": [
+        "über das Band gleiten",
+        "Saum zwischen den Fingern führen"
+      ],
+      "action_prompt": "über das Band gleiten · Saum zwischen den Fingern führen"
+    },
+    {
+      "id": "R01-013",
+      "actions": [
+        "Handstein halten",
+        "glatte Fläche mit dem Daumen streichen",
+        "Gewicht spüren"
+      ],
+      "action_prompt": "Handstein halten · glatte Fläche mit dem Daumen streichen · Gewicht spüren. Nicht extrem kühlen."
+    },
+    {
+      "id": "R01-014",
+      "actions": [
+        "glatte Keramik berühren",
+        "Temperatur mit der Hand vergleichen"
+      ],
+      "action_prompt": "glatte Keramik berühren · Temperatur mit der Hand vergleichen. Nur angenehm temperierte Plättchen ohne scharfe Kanten verwenden."
+    },
+    {
+      "id": "R01-015",
+      "actions": [
+        "Wärmekissen in der Hülle halten",
+        "Wärme an den Händen wahrnehmen"
+      ],
+      "action_prompt": "Wärmekissen in der Hülle halten · Wärme an den Händen wahrnehmen. Nur angenehm warm verwenden; Verbrennungen vermeiden."
+    },
+    {
+      "id": "R01-016",
+      "actions": [
+        "Vibration einschalten",
+        "Puck an die Hand legen",
+        "Stärke selbst wählen"
+      ],
+      "action_prompt": "Vibration einschalten · Puck an die Hand legen · Stärke selbst wählen"
+    },
+    {
+      "id": "R01-017",
+      "actions": [
+        "Hände auf das Kissen legen",
+        "Vibrationsstärke einstellen",
+        "flächige Vibration wahrnehmen"
+      ],
+      "action_prompt": "Hände auf das Kissen legen · Vibrationsstärke einstellen · flächige Vibration wahrnehmen"
+    },
+    {
+      "id": "R01-018",
+      "actions": [
+        "Stein wenden",
+        "glatte und raue Seite ertasten",
+        "Oberflächen vergleichen"
+      ],
+      "action_prompt": "Stein wenden · glatte und raue Seite ertasten · Oberflächen vergleichen"
+    },
+    {
+      "id": "R01-019",
+      "actions": [
+        "Schieber langsam verschieben",
+        "gleitend zurückführen",
+        "Reibung spüren"
+      ],
+      "action_prompt": "Schieber langsam verschieben · gleitend zurückführen · Reibung spüren"
+    },
+    {
+      "id": "R01-020",
+      "actions": [
+        "Stempel herunterdrücken",
+        "Federwiderstand fühlen",
+        "langsam loslassen"
+      ],
+      "action_prompt": "Stempel herunterdrücken · Federwiderstand fühlen · langsam loslassen"
+    },
+    {
+      "id": "R01-021",
+      "actions": [
+        "Knopf drehen",
+        "Rastpunkte einzeln durchlaufen",
+        "Drehrichtung wechseln"
+      ],
+      "action_prompt": "Knopf drehen · Rastpunkte einzeln durchlaufen · Drehrichtung wechseln"
+    },
+    {
+      "id": "R01-022",
+      "actions": [
+        "Daumenrad rollen",
+        "Drehrichtung wechseln",
+        "Rollwiderstand fühlen"
+      ],
+      "action_prompt": "Daumenrad rollen · Drehrichtung wechseln · Rollwiderstand fühlen"
+    },
+    {
+      "id": "R01-023",
+      "actions": [
+        "Kettenglieder rhythmisch abrollen",
+        "zwischen den Fingern weiterführen"
+      ],
+      "action_prompt": "Kettenglieder rhythmisch abrollen · zwischen den Fingern weiterführen"
+    },
+    {
+      "id": "R01-024",
+      "actions": [
+        "Holzhebel kippen",
+        "zurückführen",
+        "Bewegung wiederholen"
+      ],
+      "action_prompt": "Holzhebel kippen · zurückführen · Bewegung wiederholen"
+    },
+    {
+      "id": "R01-025",
+      "actions": [
+        "Flügelmutter drehen",
+        "Drehrichtung wechseln",
+        "Gewindegang verfolgen"
+      ],
+      "action_prompt": "Flügelmutter drehen · Drehrichtung wechseln · Gewindegang verfolgen. Nur eine Ausführung mit fest verbundenen Teilen verwenden."
+    },
+    {
+      "id": "R01-026",
+      "actions": [
+        "Ratschenrad drehen",
+        "Rastpunkte durchlaufen",
+        "gedämpfte Klicks hören"
+      ],
+      "action_prompt": "Ratschenrad drehen · Rastpunkte durchlaufen · gedämpfte Klicks hören"
+    },
+    {
+      "id": "R01-027",
+      "actions": [
+        "Knoten einzeln ertasten",
+        "Kordel durch die Finger gleiten lassen"
+      ],
+      "action_prompt": "Knoten einzeln ertasten · Kordel durch die Finger gleiten lassen"
+    },
+    {
+      "id": "R01-028",
+      "actions": [
+        "Stoff falten",
+        "Scrunchie drehen",
+        "zusammendrücken"
+      ],
+      "action_prompt": "Stoff falten · Scrunchie drehen · zusammendrücken"
+    },
+    {
+      "id": "R01-029",
+      "actions": [
+        "Finger durch Schlaufen führen",
+        "von Schlaufe zu Schlaufe wechseln"
+      ],
+      "action_prompt": "Finger durch Schlaufen führen · von Schlaufe zu Schlaufe wechseln"
+    },
+    {
+      "id": "R01-030",
+      "actions": [
+        "Wollstränge greifen",
+        "Zopf zwischen den Händen bewegen"
+      ],
+      "action_prompt": "Wollstränge greifen · Zopf zwischen den Händen bewegen"
+    },
+    {
+      "id": "R01-031",
+      "actions": [
+        "Chenille locker um Finger legen",
+        "wieder abwickeln",
+        "Flausch ertasten"
+      ],
+      "action_prompt": "Chenille locker um Finger legen · wieder abwickeln · Flausch ertasten. Auf saubere Enden achten und Finger nicht einschnüren."
+    },
+    {
+      "id": "R01-032",
+      "actions": [
+        "Schieber über das Band führen",
+        "zurückschieben",
+        "Stoff unter den Fingern fühlen"
+      ],
+      "action_prompt": "Schieber über das Band führen · zurückschieben · Stoff unter den Fingern fühlen"
+    },
+    {
+      "id": "R01-033",
+      "actions": [
+        "Patch in der Tasche ertasten",
+        "über das Fleece streichen"
+      ],
+      "action_prompt": "Patch in der Tasche ertasten · über das Fleece streichen"
+    },
+    {
+      "id": "R01-034",
+      "actions": [
+        "Loop leicht ziehen",
+        "falten",
+        "zwischen den Fingern drehen"
+      ],
+      "action_prompt": "Loop leicht ziehen · falten · zwischen den Fingern drehen"
+    },
+    {
+      "id": "R01-035",
+      "actions": [
+        "Band mit den Füßen drücken",
+        "Widerstand lösen",
+        "rhythmisch wiederholen"
+      ],
+      "action_prompt": "Band mit den Füßen drücken · Widerstand lösen · rhythmisch wiederholen"
+    },
+    {
+      "id": "R01-036",
+      "actions": [
+        "Füße auf die Wippe stellen",
+        "vor und zurück wippen"
+      ],
+      "action_prompt": "Füße auf die Wippe stellen · vor und zurück wippen"
+    },
+    {
+      "id": "R01-037",
+      "actions": [
+        "Kugel unter der Fußsohle rollen",
+        "Druck selbst dosieren"
+      ],
+      "action_prompt": "Kugel unter der Fußsohle rollen · Druck selbst dosieren"
+    },
+    {
+      "id": "R01-038",
+      "actions": [
+        "Schaumtrainer greifen",
+        "langsam zusammendrücken",
+        "Griff wieder öffnen"
+      ],
+      "action_prompt": "Schaumtrainer greifen · langsam zusammendrücken · Griff wieder öffnen"
+    },
+    {
+      "id": "R01-039",
+      "actions": [
+        "Widerstand einstellen",
+        "Handtrainer zusammendrücken",
+        "kontrolliert lösen"
+      ],
+      "action_prompt": "Widerstand einstellen · Handtrainer zusammendrücken · kontrolliert lösen. Belastung nach persönlichem Komfort wählen."
+    },
+    {
+      "id": "R01-040",
+      "actions": [
+        "Kissen auf die Oberschenkel legen",
+        "Gewicht wahrnehmen",
+        "Position selbst anpassen"
+      ],
+      "action_prompt": "Kissen auf die Oberschenkel legen · Gewicht wahrnehmen · Position selbst anpassen"
+    },
+    {
+      "id": "R01-041",
+      "actions": [
+        "Ärmel anziehen",
+        "leichten Druck wahrnehmen",
+        "Passform prüfen"
+      ],
+      "action_prompt": "Ärmel anziehen · leichten Druck wahrnehmen · Passform prüfen. Eine passende, angenehm sitzende Größe wählen."
+    },
+    {
+      "id": "R01-042",
+      "actions": [
+        "elastischen Gurt leicht ziehen",
+        "Zug dosieren",
+        "langsam nachgeben"
+      ],
+      "action_prompt": "elastischen Gurt leicht ziehen · Zug dosieren · langsam nachgeben"
+    },
+    {
+      "id": "R01-043",
+      "actions": [
+        "sanft drücken",
+        "Widerstand wahrnehmen",
+        "lösen"
+      ],
+      "action_prompt": "sanft drücken · Widerstand wahrnehmen · lösen",
+      "description": "Mit flachen Händen leicht gegen eine stabile Wand drücken, den selbst gewählten Widerstand kurz wahrnehmen und wieder lösen. Es geht um eine angenehme Bewegung und nicht um maximale Kraft.",
+      "notes": "Ohne Pressen, Luftanhalten, starre Zeitvorgabe oder ruckartiges Loslassen. Die vorhandene Aktivität „Handflächen gegeneinander drücken“ ist eine platzsparende Alternative.",
+      "everyday_alternative": "Die eigenen Handflächen sanft gegeneinander drücken; siehe vorhandenen Eintrag R01-044.",
+      "explore_terms": [
+        "Wall Push sanft",
+        "Handflächen gegeneinander drücken"
+      ],
+      "source_record_ids": [
+        "R02-026"
+      ]
+    },
+    {
+      "id": "R01-044",
+      "actions": [
+        "Handflächen aneinanderlegen",
+        "gegeneinander drücken",
+        "Druck lösen"
+      ],
+      "action_prompt": "Handflächen aneinanderlegen · gegeneinander drücken · Druck lösen"
+    },
+    {
+      "id": "R01-045",
+      "actions": [
+        "Kissen zwischen die Beine legen",
+        "sanft zusammendrücken",
+        "locker lassen"
+      ],
+      "action_prompt": "Kissen zwischen die Beine legen · sanft zusammendrücken · locker lassen"
+    },
+    {
+      "id": "R01-046",
+      "actions": [
+        "Gewicht im Sitzen verlagern",
+        "kleinräumig wippen",
+        "wieder mittig sitzen"
+      ],
+      "action_prompt": "Gewicht im Sitzen verlagern · kleinräumig wippen · wieder mittig sitzen"
+    },
+    {
+      "id": "R01-047",
+      "actions": [
+        "im Stuhl vor und zurück schaukeln",
+        "eigenen Rhythmus wählen"
+      ],
+      "action_prompt": "im Stuhl vor und zurück schaukeln · eigenen Rhythmus wählen"
+    },
+    {
+      "id": "R01-048",
+      "actions": [
+        "Füße auf das Schaukelbrett stellen",
+        "im Sitzen vor und zurück schwingen"
+      ],
+      "action_prompt": "Füße auf das Schaukelbrett stellen · im Sitzen vor und zurück schwingen"
+    },
+    {
+      "id": "R01-049",
+      "actions": [
+        "Gewicht auf dem Board verlagern",
+        "kleine Kippbewegungen ausführen",
+        "Gleichgewicht finden"
+      ],
+      "action_prompt": "Gewicht auf dem Board verlagern · kleine Kippbewegungen ausführen · Gleichgewicht finden"
+    },
+    {
+      "id": "R01-050",
+      "actions": [
+        "auf weiche Balance-Steine treten",
+        "Gewicht verlagern",
+        "Schrittfolge wiederholen"
+      ],
+      "action_prompt": "auf weiche Balance-Steine treten · Gewicht verlagern · Schrittfolge wiederholen"
+    },
+    {
+      "id": "R01-051",
+      "actions": [
+        "wiegen",
+        "Rhythmus finden",
+        "Bewegung wahrnehmen"
+      ],
+      "action_prompt": "wiegen · Rhythmus finden · Bewegung wahrnehmen",
+      "description": "Im sicheren Sitzen den Oberkörper in einem selbst gewählten kleinen Rhythmus langsam von einer Seite zur anderen wiegen. Bewegungsweite und Tempo dürfen sich danach richten, was gerade angenehm ist.",
+      "notes": "Das Gleichgewicht und die wiederkehrende Bewegung stehen im Vordergrund. Keine Zusage über Gehirnwellen, Herzschlag oder das autonome Nervensystem.",
+      "everyday_alternative": "Auf einem vorhandenen stabilen Sitz ausprobieren; kein Schaukelmöbel erforderlich.",
+      "explore_terms": [
+        "seated rocking sensory movement",
+        "Seitwärtswiegen Sitzen"
+      ],
+      "source_record_ids": [
+        "R02-025"
+      ]
+    },
+    {
+      "id": "R01-052",
+      "actions": [
+        "im Stand sanft auf und ab federn",
+        "Bewegungshöhe selbst wählen"
+      ],
+      "action_prompt": "im Stand sanft auf und ab federn · Bewegungshöhe selbst wählen"
+    },
+    {
+      "id": "R01-053",
+      "actions": [
+        "rhythmisch gehen",
+        "gleichmäßige Schritte wiederholen",
+        "Tempo selbst wählen"
+      ],
+      "action_prompt": "rhythmisch gehen · gleichmäßige Schritte wiederholen · Tempo selbst wählen"
+    },
+    {
+      "id": "R01-054",
+      "actions": [
+        "barfuß über Texturen gehen",
+        "Untergründe an den Sohlen vergleichen"
+      ],
+      "action_prompt": "barfuß über Texturen gehen · Untergründe an den Sohlen vergleichen"
+    },
+    {
+      "id": "R01-055",
+      "actions": [
+        "in den Sitzsack sinken",
+        "Füllung verlagern",
+        "Sitzposition verändern"
+      ],
+      "action_prompt": "in den Sitzsack sinken · Füllung verlagern · Sitzposition verändern"
+    },
+    {
+      "id": "R01-056",
+      "actions": [
+        "anschlagen",
+        "lauschen",
+        "verklingen lassen"
+      ],
+      "action_prompt": "anschlagen · lauschen · verklingen lassen",
+      "description": "Eine Stimmgabel anschlagen und den klaren Ton mit Abstand zum Ohr verklingen lassen. Das vorhandene Referenzfoto zeigt eine Stimmgabel mit 440 Hz; andere Bauformen und Tonhöhen klingen anders.",
+      "notes": "Gewichtete Stimmgabeln sind eine weitere Bauform. Die Vorlage vorgeschlagene Anwendung auf Brustbein oder Schlüsselbein wird nicht übernommen; keine Behauptung einer Wirkung tief im Körper.",
+      "everyday_alternative": "",
+      "explore_terms": [
+        "Stimmgabel Klangvergleich",
+        "weighted tuning fork instrument"
+      ],
+      "source_record_ids": [
+        "R02-015"
+      ]
+    },
+    {
+      "id": "R01-057",
+      "actions": [
+        "Glöckchen leicht bewegen",
+        "kurze Töne erzeugen",
+        "ausklingen lassen"
+      ],
+      "action_prompt": "Glöckchen leicht bewegen · kurze Töne erzeugen · ausklingen lassen"
+    },
+    {
+      "id": "R01-058",
+      "actions": [
+        "Zungen sanft anschlagen",
+        "einfache Tonfolge spielen",
+        "Tonmuster wiederholen"
+      ],
+      "action_prompt": "Zungen sanft anschlagen · einfache Tonfolge spielen · Tonmuster wiederholen"
+    },
+    {
+      "id": "R01-059",
+      "actions": [
+        "Stoffhülle kneten",
+        "Knisterpapier zusammendrücken",
+        "feines Knistern hören"
+      ],
+      "action_prompt": "Stoffhülle kneten · Knisterpapier zusammendrücken · feines Knistern hören"
+    },
+    {
+      "id": "R01-060",
+      "actions": [
+        "Klangschale mit Filzschlägel anschlagen",
+        "Ton ausklingen lassen",
+        "zuhören"
+      ],
+      "action_prompt": "Klangschale mit Filzschlägel anschlagen · Ton ausklingen lassen · zuhören"
+    },
+    {
+      "id": "R01-061",
+      "actions": [
+        "Brunnen einschalten",
+        "Plätschern zuhören",
+        "Wasserbewegung beobachten"
+      ],
+      "action_prompt": "Brunnen einschalten · Plätschern zuhören · Wasserbewegung beobachten"
+    },
+    {
+      "id": "R01-062",
+      "actions": [
+        "Naturklang auswählen",
+        "in einer Schleife anhören",
+        "Lautstärke selbst wählen"
+      ],
+      "action_prompt": "Naturklang auswählen · in einer Schleife anhören · Lautstärke selbst wählen"
+    },
+    {
+      "id": "R01-063",
+      "actions": [
+        "auswählen",
+        "wiederholen",
+        "mitsummen"
+      ],
+      "action_prompt": "auswählen · wiederholen · mitsummen",
+      "description": "Ein vertrautes Lied, ein Ambient-Motiv oder einen Videospiel-Soundtrack mit der Repeat-Funktion erneut anhören. Wiederkehrende Melodien, Übergänge und Rhythmus machen die musikalische Schleife aus.",
+      "notes": "Dauer und Lautstärke nach eigenem Gefallen wählen. Vertrautheit ist keine Garantie dafür, dass Musik in jeder Situation angenehm bleibt.",
+      "everyday_alternative": "Die Wiederholfunktion eines bereits vorhandenen Musikplayers verwenden.",
+      "explore_terms": [
+        "song looping auditory stimming",
+        "Lieblingsmusik Wiederholung"
+      ],
+      "source_record_ids": [
+        "R02-017"
+      ]
+    },
+    {
+      "id": "R01-064",
+      "actions": [
+        "angenehmen Klang auswählen",
+        "leise anhören",
+        "bei Bedarf wechseln"
+      ],
+      "action_prompt": "angenehmen Klang auswählen · leise anhören · bei Bedarf wechseln"
+    },
+    {
+      "id": "R01-065",
+      "actions": [
+        "Klangplatten anschlagen",
+        "kleine Tonmuster spielen",
+        "Tonfolge wiederholen"
+      ],
+      "action_prompt": "Klangplatten anschlagen · kleine Tonmuster spielen · Tonfolge wiederholen"
+    },
+    {
+      "id": "R01-066",
+      "actions": [
+        "summen",
+        "Ton verändern",
+        "Vibration wahrnehmen"
+      ],
+      "action_prompt": "summen · Ton verändern · Vibration wahrnehmen",
+      "description": "Mit locker geschlossenen Lippen einen angenehmen Ton summen und die leise Vibration an Lippen oder Gesicht wahrnehmen. Tonhöhe und Lautstärke frei wählen und zwischendurch natürlich weiteratmen.",
+      "notes": "Die eigene Stimme ist das Klangobjekt. Keine erzwungen lange Ausatmung, kein besonders tiefer Ton als Vorgabe und keine Aussage über Nervenstimulation.",
+      "everyday_alternative": "Ohne Hilfsmittel mit der eigenen Stimme ausprobieren.",
+      "explore_terms": [
+        "Summen Eigenvibration",
+        "humming sensory sound"
+      ],
+      "source_record_ids": [
+        "R02-034"
+      ]
+    },
+    {
+      "id": "R01-067",
+      "actions": [
+        "angenehmes Wort aussprechen",
+        "Klang wiederholen",
+        "Mundbewegung wahrnehmen"
+      ],
+      "action_prompt": "angenehmes Wort aussprechen · Klang wiederholen · Mundbewegung wahrnehmen"
+    },
+    {
+      "id": "R01-068",
+      "actions": [
+        "einfache Tonfolge singen",
+        "Melodie leise wiederholen"
+      ],
+      "action_prompt": "einfache Tonfolge singen · Melodie leise wiederholen"
+    },
+    {
+      "id": "R01-069",
+      "actions": [
+        "Silben aneinanderreihen",
+        "Sprechrhythmus variieren",
+        "Lautmuster wiederholen"
+      ],
+      "action_prompt": "Silben aneinanderreihen · Sprechrhythmus variieren · Lautmuster wiederholen"
+    },
+    {
+      "id": "R01-070",
+      "actions": [
+        "Lippen locker vibrieren lassen",
+        "kurze entspannte Lautfolge bilden"
+      ],
+      "action_prompt": "Lippen locker vibrieren lassen · kurze entspannte Lautfolge bilden. Ohne Pressen; Pausen nach eigenem Bedarf."
+    },
+    {
+      "id": "R01-071",
+      "actions": [
+        "vertraute Melodie pfeifen",
+        "Phrasen wiederholen",
+        "eigenes Tempo wählen"
+      ],
+      "action_prompt": "vertraute Melodie pfeifen · Phrasen wiederholen · eigenes Tempo wählen"
+    },
+    {
+      "id": "R01-072",
+      "actions": [
+        "Zunge leicht antippen lassen",
+        "leisen Rhythmus wiederholen"
+      ],
+      "action_prompt": "Zunge leicht antippen lassen · leisen Rhythmus wiederholen. Ohne Außenobjekt und ohne Druck."
+    },
+    {
+      "id": "R01-073",
+      "actions": [
+        "einfache Beatbox-Laute formen",
+        "Grundrhythmus wiederholen",
+        "Pausen setzen"
+      ],
+      "action_prompt": "einfache Beatbox-Laute formen · Grundrhythmus wiederholen · Pausen setzen"
+    },
+    {
+      "id": "R01-074",
+      "actions": [
+        "Sonnenfänger aus verschiedenen Winkeln betrachten",
+        "Farbwechsel beobachten"
+      ],
+      "action_prompt": "Sonnenfänger aus verschiedenen Winkeln betrachten · Farbwechsel beobachten"
+    },
+    {
+      "id": "R01-075",
+      "actions": [
+        "drehen",
+        "Licht beobachten",
+        "Farben vergleichen"
+      ],
+      "action_prompt": "drehen · Licht beobachten · Farben vergleichen",
+      "description": "Ein Glasprisma am Fenster erzeugt bei passendem einfallendem Licht farbige Spektren. Beim Drehen ändern sich Lage und Form der Lichtflecken an Wand oder Boden.",
+      "notes": "Das Foto zeigt ein echtes Sonnenfänger-Beispiel. Nicht in die Sonne oder direkt in starke Lichtquellen schauen; das interessante Motiv ist der projizierte Lichtfleck.",
+      "everyday_alternative": "An einer vorhandenen CD lassen sich bei gewöhnlichem Raumlicht andere schillernde Farbeffekte vergleichen; das ersetzt kein Glasprisma.",
+      "explore_terms": [
+        "optical prism sun catcher",
+        "Prisma Regenbogen Fenster"
+      ],
+      "source_record_ids": [
+        "R02-021"
+      ]
+    },
+    {
+      "id": "R01-076",
+      "actions": [
+        "Linienfolien übereinanderschieben",
+        "Moiré-Muster verändern",
+        "Bewegung beobachten"
+      ],
+      "action_prompt": "Linienfolien übereinanderschieben · Moiré-Muster verändern · Bewegung beobachten"
+    },
+    {
+      "id": "R01-077",
+      "actions": [
+        "Karte langsam neigen",
+        "zwischen den Bildansichten wechseln"
+      ],
+      "action_prompt": "Karte langsam neigen · zwischen den Bildansichten wechseln"
+    },
+    {
+      "id": "R01-078",
+      "actions": [
+        "Folie im Licht kippen",
+        "Schimmer beobachten",
+        "Winkel verändern"
+      ],
+      "action_prompt": "Folie im Licht kippen · Schimmer beobachten · Winkel verändern"
+    },
+    {
+      "id": "R01-079",
+      "actions": [
+        "Pendel sanft anstoßen",
+        "Sandspuren beobachten",
+        "Muster entstehen lassen"
+      ],
+      "action_prompt": "Pendel sanft anstoßen · Sandspuren beobachten · Muster entstehen lassen"
+    },
+    {
+      "id": "R01-080",
+      "actions": [
+        "Projektionslicht einschalten",
+        "Wellenmuster beobachten",
+        "Tempo nach Möglichkeit einstellen"
+      ],
+      "action_prompt": "Projektionslicht einschalten · Wellenmuster beobachten · Tempo nach Möglichkeit einstellen"
+    },
+    {
+      "id": "R01-081",
+      "actions": [
+        "durchblicken",
+        "schwenken",
+        "Muster vergleichen"
+      ],
+      "action_prompt": "durchblicken · schwenken · Muster vergleichen",
+      "description": "Durch ein Spiegel-Kaleidoskop wechselnde symmetrische Muster betrachten. Bei der Teleidoskop-Variante wird ein Ausschnitt der echten Umgebung durch eine Linse vervielfacht; langsames Schwenken verändert das Muster.",
+      "notes": "Ein klassisches Kaleidoskop kann bewegliche Teile im Inneren enthalten; das Teleidoskop nutzt dagegen Motive aus der Umgebung. Beides bleibt hier unter dem vorhandenen Eintrag für wechselnde Spiegelmotive auffindbar.",
+      "everyday_alternative": "",
+      "explore_terms": [
+        "teleidoscope environment lens",
+        "Teleidoskop Umgebungs Kaleidoskop"
+      ],
+      "source_record_ids": [
+        "R02-019"
+      ],
+      "title": "Spiegel-Kaleidoskop / Teleidoskop",
+      "search": "Spiegel Kaleidoskop Teleidoskop Umgebung Wechselobjekt",
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/592946dfd2b857159c78ad9c/1495883444407-9718636XLT6RLXLFSXME/SMALL+TELEIDOSCOPE.jpg?format=800w"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.handmadekaleidoscopes.com/shop-home",
+      "image_attribution": "Symbolfoto / Bauformbeispiel: Small Teleidoscope. © Handmade Kaleidoscopes London; Rechte verbleiben beim Anbieter. Ein Teleidoskop verwendet die betrachtete Umgebung als Motiv, keine eingefüllten Wechselobjekte."
+    },
+    {
+      "id": "R01-082",
+      "actions": [
+        "Pendel in Bewegung setzen",
+        "Bewegungsbahn verfolgen",
+        "auspendeln lassen"
+      ],
+      "action_prompt": "Pendel in Bewegung setzen · Bewegungsbahn verfolgen · auspendeln lassen"
+    },
+    {
+      "id": "R01-083",
+      "actions": [
+        "sanften GIF-Loop auswählen",
+        "Strömung beobachten",
+        "Wiederholung verfolgen"
+      ],
+      "action_prompt": "sanften GIF-Loop auswählen · Strömung beobachten · Wiederholung verfolgen"
+    },
+    {
+      "id": "R01-084",
+      "actions": [
+        "Partikel per Zeiger bewegen",
+        "Bewegungsmuster verändern",
+        "ruhige Animation beobachten"
+      ],
+      "action_prompt": "Partikel per Zeiger bewegen · Bewegungsmuster verändern · ruhige Animation beobachten"
+    },
+    {
+      "id": "R01-085",
+      "actions": [
+        "Aurora-Projektion einschalten",
+        "langsame Farbwechsel beobachten",
+        "Helligkeit selbst wählen"
+      ],
+      "action_prompt": "Aurora-Projektion einschalten · langsame Farbwechsel beobachten · Helligkeit selbst wählen"
+    },
+    {
+      "id": "R01-086",
+      "actions": [
+        "Kräuterglas öffnen",
+        "aus angenehmem Abstand riechen",
+        "Glas wieder schließen"
+      ],
+      "action_prompt": "Kräuterglas öffnen · aus angenehmem Abstand riechen · Glas wieder schließen"
+    },
+    {
+      "id": "R01-087",
+      "actions": [
+        "Säckchen in der Hand halten",
+        "Lavendelduft kurz wahrnehmen",
+        "Abstand selbst wählen"
+      ],
+      "action_prompt": "Säckchen in der Hand halten · Lavendelduft kurz wahrnehmen · Abstand selbst wählen"
+    },
+    {
+      "id": "R01-088",
+      "actions": [
+        "drehen",
+        "Oberfläche fühlen",
+        "riechen"
+      ],
+      "action_prompt": "drehen · Oberfläche fühlen · riechen",
+      "description": "Eine unbehandelte Zedernholzprobe zwischen den Fingern drehen und Oberfläche sowie holzigen Eigengeruch wahrnehmen. Als Variante können saubere, splitterfreie Holzspäne in einem geschlossenen Stoffbeutel ertastet werden.",
+      "notes": "Holzarten, Verarbeitung und Alter verändern den Eigengeruch. Keine Aussage über Herzfrequenz oder beruhigende Pflanzenwirkstoffe.",
+      "everyday_alternative": "Ein vorhandenes unbehandeltes, glattes Holzstück bietet eine andere Holzoberfläche zum Vergleichen.",
+      "explore_terms": [
+        "Zedernholz Duftprobe",
+        "Zirbenspäne Stoffbeutel"
+      ],
+      "source_record_ids": [
+        "R02-007"
+      ]
+    },
+    {
+      "id": "R01-089",
+      "actions": [
+        "öffnen",
+        "riechen",
+        "schließen"
+      ],
+      "action_prompt": "öffnen · riechen · schließen",
+      "description": "Ein kleines verschließbares Gefäß mit ganzen gerösteten Kaffeebohnen kurz öffnen, aus angenehmem Abstand daran riechen und wieder schließen. Gefäß und Abstand machen die Geruchsintensität selbst wählbar.",
+      "notes": "Ein eigenes Duftbeispiel für kurze Pausen. Kaffeebohnen werden hier nicht als verlässlicher Neutralisierer der Geruchswahrnehmung beschrieben.",
+      "everyday_alternative": "Einige ohnehin vorhandene Kaffeebohnen in einem sauberen verschließbaren Glas nutzen.",
+      "explore_terms": [
+        "Kaffeebohnen Riechdose",
+        "coffee beans scent jar"
+      ],
+      "source_record_ids": [
+        "R02-009"
+      ]
+    },
+    {
+      "id": "R01-090",
+      "actions": [
+        "Orangenschalenglas öffnen",
+        "Zitrusduft wahrnehmen",
+        "Glas wieder schließen"
+      ],
+      "action_prompt": "Orangenschalenglas öffnen · Zitrusduft wahrnehmen · Glas wieder schließen"
+    },
+    {
+      "id": "R01-091",
+      "actions": [
+        "an der geschlossenen Duftkarte riechen",
+        "Teearomen vergleichen",
+        "Abstand selbst wählen"
+      ],
+      "action_prompt": "an der geschlossenen Duftkarte riechen · Teearomen vergleichen · Abstand selbst wählen"
+    },
+    {
+      "id": "R01-092",
+      "actions": [
+        "neutrale Probe riechen",
+        "mit einer duftenden Probe vergleichen"
+      ],
+      "action_prompt": "neutrale Probe riechen · mit einer duftenden Probe vergleichen"
+    },
+    {
+      "id": "R01-093",
+      "actions": [
+        "Proben nacheinander erkunden",
+        "Oberflächen ertasten",
+        "Eigengerüche vergleichen"
+      ],
+      "action_prompt": "Proben nacheinander erkunden · Oberflächen ertasten · Eigengerüche vergleichen"
+    },
+    {
+      "id": "R01-094",
+      "actions": [
+        "kauen",
+        "Festigkeit vergleichen",
+        "Geschmack wahrnehmen"
+      ],
+      "action_prompt": "kauen · Festigkeit vergleichen · Geschmack wahrnehmen",
+      "description": "Ein als Lebensmittel angebotenes Kaugummi mit einer persönlich angenehmen Konsistenz kauen. Verschiedene Sorten unterscheiden sich in Geschmack, Elastizität und darin, wie sich ihre Festigkeit beim Kauen verändert.",
+      "notes": "Nicht jedes Harz ist Kaugummi. Festigkeit ist eine Geschmacks- und Komfortfrage; hohe Kaubelastung wird hier nicht als Vorteil oder Behandlung beworben.",
+      "everyday_alternative": "",
+      "explore_terms": [
+        "Kaugummi Konsistenz vergleichen",
+        "chewing gum texture"
+      ],
+      "source_record_ids": [
+        "R02-011"
+      ]
+    },
+    {
+      "id": "R01-095",
+      "actions": [
+        "auf geeignetem Kauschlauch kauen",
+        "Beißwiderstand wählen"
+      ],
+      "action_prompt": "auf geeignetem Kauschlauch kauen · Beißwiderstand wählen. Hygiene beachten und nur eine dafür geeignete Ausführung verwenden."
+    },
+    {
+      "id": "R01-096",
+      "actions": [
+        "trinken",
+        "kleine Schlucke nehmen",
+        "Mundgefühl vergleichen"
+      ],
+      "action_prompt": "trinken · kleine Schlucke nehmen · Mundgefühl vergleichen",
+      "description": "Mit einem geeigneten Trinkhalm ein angenehm trinkbares Getränk in kleinen Schlucken trinken. Halmweite und Getränkekonsistenz verändern das Mundgefühl; die vorhandene Abbildung zeigt einen dafür angebotenen Trinkhalm.",
+      "notes": "Kein möglichst enger Halm, kein maximales Ansaugen und keine Atemübung. Die Kombination soll bequemes Trinken erlauben.",
+      "everyday_alternative": "Ein vorhandener geeigneter Trinkhalm und ein vertrautes Getränk reichen zum Vergleichen des Mundgefühls.",
+      "explore_terms": [
+        "Trinkhalm Mundgefühl",
+        "smoothie straw texture"
+      ],
+      "source_record_ids": [
+        "R02-012"
+      ]
+    },
+    {
+      "id": "R01-097",
+      "actions": [
+        "geeignete knusprige Textur kosten",
+        "kauen",
+        "Knacken und Konsistenz wahrnehmen"
+      ],
+      "action_prompt": "geeignete knusprige Textur kosten · kauen · Knacken und Konsistenz wahrnehmen"
+    },
+    {
+      "id": "R01-098",
+      "actions": [
+        "geeignete weich-zähe Textur kosten",
+        "langsam kauen",
+        "Konsistenz wahrnehmen"
+      ],
+      "action_prompt": "geeignete weich-zähe Textur kosten · langsam kauen · Konsistenz wahrnehmen"
+    },
+    {
+      "id": "R01-099",
+      "actions": [
+        "kleinen Schluck trinken",
+        "angenehme Kühle wahrnehmen"
+      ],
+      "action_prompt": "kleinen Schluck trinken · angenehme Kühle wahrnehmen. Nicht eiskalt verwenden."
+    },
+    {
+      "id": "R01-100",
+      "actions": [
+        "lutschen",
+        "Geschmack wahrnehmen",
+        "Textur vergleichen"
+      ],
+      "action_prompt": "lutschen · Geschmack wahrnehmen · Textur vergleichen",
+      "description": "Ein vertrautes mildes Minz- oder Fruchtbonbon langsam lutschen und Geschmack, Oberfläche und die Veränderung beim Auflösen bemerken. Süße, leichte Säure und Minzgeschmack lassen sich nach eigener Vorliebe vergleichen.",
+      "notes": "Normale angenehme Geschmacksintensität; keine extrem sauren, scharfen oder gefrorenen Reize und kein Versprechen gegen Panik oder Gedankenschleifen.",
+      "everyday_alternative": "",
+      "explore_terms": [
+        "milde Fruchtbonbons Geschmack",
+        "candy sensory texture"
+      ],
+      "source_record_ids": [
+        "R02-013"
+      ]
+    },
+    {
+      "id": "R01-101",
+      "actions": [
+        "geeignete Stift-Kauhilfe aufsetzen",
+        "auf dem Aufsatz kauen"
+      ],
+      "action_prompt": "geeignete Stift-Kauhilfe aufsetzen · auf dem Aufsatz kauen. Nur eine zum Kauen vorgesehene Ausführung verwenden."
+    },
+    {
+      "id": "R01-102",
+      "actions": [
+        "Kontakt zur Sitzfläche wahrnehmen",
+        "Berührungspunkte unterscheiden"
+      ],
+      "action_prompt": "Kontakt zur Sitzfläche wahrnehmen · Berührungspunkte unterscheiden"
+    },
+    {
+      "id": "R01-103",
+      "actions": [
+        "Fußsohlen auf den Boden setzen",
+        "Gewichtspunkte wahrnehmen",
+        "Gewicht leicht verlagern"
+      ],
+      "action_prompt": "Fußsohlen auf den Boden setzen · Gewichtspunkte wahrnehmen · Gewicht leicht verlagern"
+    },
+    {
+      "id": "R01-104",
+      "actions": [
+        "Hand angenehm auf den Brustkorb legen",
+        "Atembewegung beobachten"
+      ],
+      "action_prompt": "Hand angenehm auf den Brustkorb legen · Atembewegung beobachten. Die Atmung beobachten, statt sie absichtlich zu verändern."
+    },
+    {
+      "id": "R01-105",
+      "actions": [
+        "Puls sanft ertasten",
+        "eigenen Rhythmus wahrnehmen"
+      ],
+      "action_prompt": "Puls sanft ertasten · eigenen Rhythmus wahrnehmen. Optional; ohne starken Druck."
+    },
+    {
+      "id": "R01-106",
+      "actions": [
+        "Stoffkissen leicht berühren",
+        "angenehme Wärme wahrnehmen",
+        "Kontakt selbst wählen"
+      ],
+      "action_prompt": "Stoffkissen leicht berühren · angenehme Wärme wahrnehmen · Kontakt selbst wählen"
+    },
+    {
+      "id": "R01-107",
+      "actions": [
+        "angenehme Temperaturen vergleichen",
+        "eigene Vorliebe wahrnehmen"
+      ],
+      "action_prompt": "angenehme Temperaturen vergleichen · eigene Vorliebe wahrnehmen. Nur sichere Temperaturbereiche ohne Extreme verwenden."
+    },
+    {
+      "id": "R01-108",
+      "actions": [
+        "Arme um den eigenen Körper legen",
+        "sanften Druck selbst wählen",
+        "wieder lösen"
+      ],
+      "action_prompt": "Arme um den eigenen Körper legen · sanften Druck selbst wählen · wieder lösen"
+    },
+    {
+      "id": "R01-109",
+      "actions": [
+        "aktuellen Zustand benennen",
+        "Reizintensität einschätzen",
+        "Check-in eintragen"
+      ],
+      "action_prompt": "aktuellen Zustand benennen · Reizintensität einschätzen · Check-in eintragen"
+    },
+    {
+      "id": "R01-110",
+      "actions": [
+        "Haptikmuster auswählen",
+        "Vibrationsstärke einstellen",
+        "kurze Impulse auslösen"
+      ],
+      "action_prompt": "Haptikmuster auswählen · Vibrationsstärke einstellen · kurze Impulse auslösen"
+    },
+    {
+      "id": "R01-111",
+      "actions": [
+        "virtuelle Luftpolster antippen",
+        "visuelles Ploppen auslösen",
+        "Muster abarbeiten"
+      ],
+      "action_prompt": "virtuelle Luftpolster antippen · visuelles Ploppen auslösen · Muster abarbeiten"
+    },
+    {
+      "id": "R01-112",
+      "actions": [
+        "mit dem Finger über den Bildschirm wischen",
+        "digitale Sandlinien zeichnen",
+        "Spuren neu anlegen"
+      ],
+      "action_prompt": "mit dem Finger über den Bildschirm wischen · digitale Sandlinien zeichnen · Spuren neu anlegen"
+    },
+    {
+      "id": "R01-113",
+      "actions": [
+        "geometrische Parameter verändern",
+        "Symmetrien langsam wandeln",
+        "Muster beobachten"
+      ],
+      "action_prompt": "geometrische Parameter verändern · Symmetrien langsam wandeln · Muster beobachten"
+    },
+    {
+      "id": "R01-114",
+      "actions": [
+        "Demosequenz steuern",
+        "Controller-Vibration wahrnehmen",
+        "Stärke selbst wählen"
+      ],
+      "action_prompt": "Demosequenz steuern · Controller-Vibration wahrnehmen · Stärke selbst wählen"
+    },
+    {
+      "id": "R01-115",
+      "actions": [
+        "virtuelles Pendel mit dem Zeiger ziehen",
+        "loslassen",
+        "Schwingung verfolgen"
+      ],
+      "action_prompt": "virtuelles Pendel mit dem Zeiger ziehen · loslassen · Schwingung verfolgen"
+    },
+    {
+      "id": "R01-116",
+      "actions": [
+        "Schritte im Klangraster setzen",
+        "Klangschichten kombinieren",
+        "Rhythmus wiederholen"
+      ],
+      "action_prompt": "Schritte im Klangraster setzen · Klangschichten kombinieren · Rhythmus wiederholen"
+    },
+    {
+      "id": "R01-117",
+      "actions": [
+        "anhören",
+        "Klangfarbe vergleichen",
+        "mischen"
+      ],
+      "action_prompt": "anhören · Klangfarbe vergleichen · mischen",
+      "description": "In einem Geräusch-Mixer verschiedene Rauschfarben und Naturklänge anhören und nach Vorliebe kombinieren. Tiefes Brown Noise und helleres White Noise unterscheiden sich hörbar in ihrer Klangfarbe; die Lautstärke bleibt angenehm.",
+      "notes": "Ein gleichmäßiger Klanghintergrund ist eine persönliche Hörvorliebe. Keine zugesicherte Wirkung auf ADHS, Aufmerksamkeit oder innere Gedankensprünge.",
+      "everyday_alternative": "Ein vorhandener Audioplayer mit einer passenden Rausch- oder Naturklangaufnahme kann bereits genügen.",
+      "explore_terms": [
+        "Brown Noise Klangvergleich",
+        "colored noise mixer",
+        "Naturklang Mixer"
+      ],
+      "source_record_ids": [
+        "R02-016"
+      ]
+    },
+    {
+      "id": "R01-118",
+      "actions": [
+        "Vibrationsimpuls selbst auslösen",
+        "Stärke wählen",
+        "Impuls wahrnehmen"
+      ],
+      "action_prompt": "Vibrationsimpuls selbst auslösen · Stärke wählen · Impuls wahrnehmen. Freiwillig verwenden, ohne feste Reaktionsvorgabe."
+    },
+    {
+      "id": "R01-119",
+      "actions": [
+        "Finger einzeln bewegen",
+        "kleine Bewegungsfolge bilden",
+        "Sequenz wiederholen"
+      ],
+      "action_prompt": "Finger einzeln bewegen · kleine Bewegungsfolge bilden · Sequenz wiederholen"
+    },
+    {
+      "id": "R01-120",
+      "actions": [
+        "Münze über Fingerknöchel rollen",
+        "zum nächsten Finger weitergeben",
+        "Ablauf wiederholen"
+      ],
+      "action_prompt": "Münze über Fingerknöchel rollen · zum nächsten Finger weitergeben · Ablauf wiederholen"
+    },
+    {
+      "id": "R01-121",
+      "actions": [
+        "Acrylkugel über die Hände rollen",
+        "gleitend weiterführen",
+        "Bewegung verfolgen"
+      ],
+      "action_prompt": "Acrylkugel über die Hände rollen · gleitend weiterführen · Bewegung verfolgen"
+    },
+    {
+      "id": "R01-122",
+      "actions": [
+        "Perlen und Riemen durch die Finger führen",
+        "rhythmisch umlegen",
+        "Bewegungsfolge wiederholen"
+      ],
+      "action_prompt": "Perlen und Riemen durch die Finger führen · rhythmisch umlegen · Bewegungsfolge wiederholen"
+    },
+    {
+      "id": "R01-123",
+      "actions": [
+        "Finger sanft strecken",
+        "locker beugen",
+        "einfache Sequenz wiederholen"
+      ],
+      "action_prompt": "Finger sanft strecken · locker beugen · einfache Sequenz wiederholen"
+    },
+    {
+      "id": "R01-124",
+      "actions": [
+        "Stab um die eigene Achse drehen",
+        "zwischen den Fingern weiterführen",
+        "Drehfolge wiederholen"
+      ],
+      "action_prompt": "Stab um die eigene Achse drehen · zwischen den Fingern weiterführen · Drehfolge wiederholen"
+    },
+    {
+      "id": "R01-125",
+      "actions": [
+        "Finger zu Winkeln formen",
+        "Handposition wechseln",
+        "Formsequenz wiederholen"
+      ],
+      "action_prompt": "Finger zu Winkeln formen · Handposition wechseln · Formsequenz wiederholen"
+    },
+    {
+      "id": "R01-126",
+      "actions": [
+        "Papier präzise falten",
+        "Kanten nachstreichen",
+        "Faltfolge wiederholen"
+      ],
+      "action_prompt": "Papier präzise falten · Kanten nachstreichen · Faltfolge wiederholen"
+    },
+    {
+      "id": "R01-127",
+      "actions": [
+        "weiche Ringe werfen",
+        "auffangen",
+        "Wurfrhythmus wiederholen"
+      ],
+      "action_prompt": "weiche Ringe werfen · auffangen · Wurfrhythmus wiederholen"
+    },
+    {
+      "id": "R01-128",
+      "actions": [
+        "Zapfenschuppen vorsichtig ertasten",
+        "Zapfen in der Hand drehen",
+        "Struktur nachfahren"
+      ],
+      "action_prompt": "Zapfenschuppen vorsichtig ertasten · Zapfen in der Hand drehen · Struktur nachfahren"
+    },
+    {
+      "id": "R01-129",
+      "actions": [
+        "Treibholz in der Hand drehen",
+        "gerundete Oberfläche ertasten",
+        "über die Maserung streichen"
+      ],
+      "action_prompt": "Treibholz in der Hand drehen · gerundete Oberfläche ertasten · über die Maserung streichen"
+    },
+    {
+      "id": "R01-130",
+      "actions": [
+        "Muschel in der Hand halten",
+        "Rippen nachfahren",
+        "Rundungen ertasten"
+      ],
+      "action_prompt": "Muschel in der Hand halten · Rippen nachfahren · Rundungen ertasten. Nur eine Muschel ohne scharfe Kanten verwenden."
+    },
+    {
+      "id": "R01-131",
+      "actions": [
+        "Kiesel einzeln ertasten",
+        "nach Größe oder Form sortieren",
+        "in der Box umordnen"
+      ],
+      "action_prompt": "Kiesel einzeln ertasten · nach Größe oder Form sortieren · in der Box umordnen"
+    },
+    {
+      "id": "R01-132",
+      "actions": [
+        "Maschen stricken",
+        "Garn durch die Finger führen",
+        "Maschenfolge wiederholen"
+      ],
+      "action_prompt": "Maschen stricken · Garn durch die Finger führen · Maschenfolge wiederholen"
+    },
+    {
+      "id": "R01-133",
+      "actions": [
+        "Stoffstreifen ein- und ausweben",
+        "Reihen anschieben",
+        "Webrhythmus wiederholen"
+      ],
+      "action_prompt": "Stoffstreifen ein- und ausweben · Reihen anschieben · Webrhythmus wiederholen"
+    },
+    {
+      "id": "R01-134",
+      "actions": [
+        "Linie mit dem Finger verfolgen",
+        "Kurven nachfahren",
+        "Labyrinth erneut durchlaufen"
+      ],
+      "action_prompt": "Linie mit dem Finger verfolgen · Kurven nachfahren · Labyrinth erneut durchlaufen"
+    },
+    {
+      "id": "R01-135",
+      "actions": [
+        "Spiralen zeichnen",
+        "Bleistift gleiten lassen",
+        "Linienfolge wiederholen"
+      ],
+      "action_prompt": "Spiralen zeichnen · Bleistift gleiten lassen · Linienfolge wiederholen"
+    },
+    {
+      "id": "R01-136",
+      "actions": [
+        "Pinsel sanft aufsetzen",
+        "Farbe verlaufen lassen",
+        "Pinseldruck variieren"
+      ],
+      "action_prompt": "Pinsel sanft aufsetzen · Farbe verlaufen lassen · Pinseldruck variieren"
+    },
+    {
+      "id": "R01-137",
+      "actions": [
+        "Stoffreste ertasten",
+        "Texturen vergleichen",
+        "nach Gefühl sortieren"
+      ],
+      "action_prompt": "Stoffreste ertasten · Texturen vergleichen · nach Gefühl sortieren"
+    },
+    {
+      "id": "R01-138",
+      "actions": [
+        "Kartonrillen nachfahren",
+        "über das Relief streichen",
+        "Richtungen vergleichen"
+      ],
+      "action_prompt": "Kartonrillen nachfahren · über das Relief streichen · Richtungen vergleichen"
+    },
+    {
+      "id": "R01-139",
+      "actions": [
+        "Korkgriff in der Hand halten",
+        "federnde Oberfläche ertasten",
+        "mit dem Daumen reiben"
+      ],
+      "action_prompt": "Korkgriff in der Hand halten · federnde Oberfläche ertasten · mit dem Daumen reiben"
+    },
+    {
+      "id": "R01-140",
+      "actions": [
+        "Licht dimmen",
+        "passende Helligkeit wählen",
+        "reizarmen Platz einrichten"
+      ],
+      "action_prompt": "Licht dimmen · passende Helligkeit wählen · reizarmen Platz einrichten"
+    },
+    {
+      "id": "R01-141",
+      "actions": [
+        "Decke falten",
+        "Ruheplatz vorbereiten",
+        "weiche Auflage ertasten"
+      ],
+      "action_prompt": "Decke falten · Ruheplatz vorbereiten · weiche Auflage ertasten"
+    },
+    {
+      "id": "R01-142",
+      "actions": [
+        "Textilfläche im Raum anordnen",
+        "Klangreflexionen vergleichen",
+        "passenden Platz wählen"
+      ],
+      "action_prompt": "Textilfläche im Raum anordnen · Klangreflexionen vergleichen · passenden Platz wählen"
+    },
+    {
+      "id": "R01-143",
+      "actions": [
+        "Bewegungsfläche freiräumen",
+        "auf weichem Boden bewegen",
+        "Bewegung selbst wählen"
+      ],
+      "action_prompt": "Bewegungsfläche freiräumen · auf weichem Boden bewegen · Bewegung selbst wählen"
+    },
+    {
+      "id": "R01-144",
+      "actions": [
+        "gemeinsam klatschen",
+        "Rhythmus abstimmen",
+        "spielerisch versetzt klatschen"
+      ],
+      "action_prompt": "gemeinsam klatschen · Rhythmus abstimmen · spielerisch versetzt klatschen. Nur freiwillig mitmachen."
+    },
+    {
+      "id": "R01-145",
+      "actions": [
+        "gemeinsam frei tanzen",
+        "einfachen Rhythmus aufgreifen",
+        "Bewegung selbst wählen"
+      ],
+      "action_prompt": "gemeinsam frei tanzen · einfachen Rhythmus aufgreifen · Bewegung selbst wählen"
+    },
+    {
+      "id": "R01-146",
+      "actions": [
+        "vertraute Textur bereitlegen",
+        "am Lieblingsplatz ertasten",
+        "wiederholt darüberstreichen"
+      ],
+      "action_prompt": "vertraute Textur bereitlegen · am Lieblingsplatz ertasten · wiederholt darüberstreichen"
+    },
+    {
+      "id": "R01-147",
+      "actions": [
+        "sensorische Stationen zusammenstellen",
+        "Materialien austauschen",
+        "nach persönlichem Geschmack erkunden"
+      ],
+      "action_prompt": "sensorische Stationen zusammenstellen · Materialien austauschen · nach persönlichem Geschmack erkunden"
+    },
+    {
+      "id": "v8-1001",
+      "material_raw": "Kunststoffhülle mit Magneten; genaue Polymermischung versionsabhängig",
+      "material_evidence": {
+        "source_url": "https://stimara.com/en-ca/products/prof-w-adhd-stimagz-series-ii-quiet",
+        "evidence_level": "manufacturer",
+        "reason": "Hersteller beschreibt Polypropylen, bei Series II zusätzlich TPR. Die allgemeine Katalogbezeichnung und gemischten älteren Bilder erlauben keine einheitliche Rezeptur."
+      }
+    },
+    {
+      "id": "v8-1002",
+      "material_raw": "Metall: Aluminium 6061 oder Edelstahl, je nach Ausführung",
+      "material_evidence": {
+        "source_url": "https://getono.com/products/ono-roller-acupressure",
+        "evidence_level": "manufacturer",
+        "reason": "Acupressure ist laut Hersteller in Aluminium und Stahl erhältlich; abgebildete Variante nicht hinreichend bestimmt."
+      }
+    },
+    {
+      "id": "v8-1003",
+      "material_raw": "Silikonhülle um Ferritmagnete",
+      "material_evidence": {
+        "source_url": "https://getono.com/products/signets-set",
+        "evidence_level": "manufacturer",
+        "reason": "Hersteller nennt Ferritmagnete in mehreren Silikontexturen."
+      }
+    },
+    {
+      "id": "v8-1004",
+      "material_raw": "Metall: Neodym-Eisen-Bor-Magnete, Nickel- und Polymerbeschichtung",
+      "material_evidence": {
+        "source_url": "https://getspeks.gorgias.help/en-US/articles/product-questions-233385",
+        "evidence_level": "manufacturer",
+        "reason": "Hersteller-Support erläutert Magnetkern und Beschichtung."
+      }
+    },
+    {
+      "id": "v8-1005",
+      "material_raw": "Keramik / Ferritmagnete; Oberflächenbeschichtung nicht spezifiziert",
+      "material_evidence": {
+        "source_url": "https://www.getspeks.com/products/small-crags?variant=44221934534743",
+        "evidence_level": "manufacturer",
+        "reason": "Hersteller nennt Ferritsteine. Keine Natursteine; metallischer Glanz begründet keine bestimmte Metalllegierung."
+      }
+    },
+    {
+      "id": "v8-1007",
+      "material_raw": "Silikon mit eingebetteten Magneten",
+      "material_evidence": {
+        "source_url": "https://www.getspeks.com/blogs/speksed/meet-fleks",
+        "evidence_level": "manufacturer",
+        "reason": "Hersteller beschreibt Fleks ausdrücklich als magnetisches Silikonobjekt."
+      }
+    },
+    {
+      "id": "v8-1009",
+      "material_raw": "Kunststoff: PLA; Magnete",
+      "material_evidence": {
+        "source_url": "https://www.etsy.com/listing/4397438096/og-flipster-magnetic-fidget-slider-3d",
+        "evidence_level": "maker_listing",
+        "reason": "Die vom Hersteller selbst eingestellte Etsy-Produktseite benennt PLA als Material."
+      }
+    },
+    {
+      "id": "v8-1010",
+      "material_raw": "Metall: Edelstahl",
+      "material_evidence": {
+        "source_url": "https://unquiethands.com/products/revolver-knuckle-roller-stainless-steel",
+        "evidence_level": "manufacturer",
+        "reason": "Exakte Herstellerseite bezeichnet den verlinkten Revolver als Stainless Steel."
+      }
+    },
+    {
+      "id": "v8-1011",
+      "material_raw": "Metall: Aluminium bei der 100-g-Ausführung; andere Ausführungen abweichend",
+      "material_evidence": {
+        "source_url": "https://kaikofidgets.com/products/spikey-hand-roller-by-kaiko-100g-with-high-sensory-input-safe-ouch",
+        "evidence_level": "manufacturer",
+        "reason": "Hersteller benennt für den abgebildeten Oil-Slick-Spikey-Hand-Roller 100 g Aluminium. Nicht auf alle Kaiko-Produkte verallgemeinern."
+      }
+    },
+    {
+      "id": "v8-1012",
+      "material_raw": "Kunststoff; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://littleouchies.com/products/little-ouchie-grippie-ergo",
+        "evidence_level": "manufacturer",
+        "reason": "Die exakte Ergo-Seite beschreibt Kunststoffspitzen; keine bestimmte Kunststoffsorte angegeben."
+      }
+    },
+    {
+      "id": "v8-1024",
+      "material_raw": "Glas, Metall, Sand und Holzrahmen (Walnuss oder Buche)",
+      "material_evidence": {
+        "source_url": "https://www.uncommongoods.com/product/desktop-sand-windows",
+        "evidence_level": "primary_seller",
+        "reason": "Verlinkte Seite enthält eine explizite Materialliste zum konkreten Sandbild."
+      }
+    },
+    {
+      "id": "v8-1028",
+      "material_raw": "LED-Elektronik und Textil-/Nylonkordel; weiches Gehäusematerial ungeklärt",
+      "material_evidence": {
+        "source_url": "https://ignispixel.com/product/bubble-led-poi-16-48-leds-basic",
+        "evidence_level": "manufacturer",
+        "reason": "Exakte Herstellerseite bestätigt LEDs und Nylon beziehungsweise geflochtene Kordel. Ein Vergleich mit Silikonpoi belegt kein Silikongehäuse."
+      }
+    },
+    {
+      "id": "v8-1031",
+      "material_raw": "Silikon",
+      "material_evidence": {
+        "source_url": "https://www.fufusquishy.com/products/big-octopus-squishy",
+        "evidence_level": "maker_listing",
+        "reason": "Die konkrete Anbieter-Produktseite nennt Silikon in den Material-FAQ."
+      }
+    },
+    {
+      "id": "v8-3000",
+      "material_raw": "Metall: eloxiertes Aluminium 6061; Magnete",
+      "material_evidence": {
+        "source_url": "https://fluxxdesign.com/products/aluminum-indx-black-anodized",
+        "evidence_level": "manufacturer",
+        "reason": "Exaktes verlinktes Modell nennt Aluminium 6061. Andere INDX-Ausführungen sind nicht gemeint."
+      }
+    },
+    {
+      "id": "v8-3003",
+      "material_raw": "Metall: Aluminium 6061 und Edelstahl-Rollkugel",
+      "material_evidence": {
+        "source_url": "https://getono.com/products/scroller-alu",
+        "evidence_level": "manufacturer",
+        "reason": "ONO nennt Aluminium 6061 für den Scroller Alu und eine Stahl-Rollkugel."
+      }
+    },
+    {
+      "id": "v8-3004",
+      "material_raw": "Metall: Titan Grad 5 und Edelstahl-Gleitplatte; Magnete",
+      "material_evidence": {
+        "source_url": "https://urbanedc.com/products/novel-carry-x-urban-delta-tile-chaos-seigaiha",
+        "evidence_level": "primary_collaboration_seller",
+        "reason": "Exklusive Zusammenarbeit direkt vom beteiligten Verkäufer: Titan-Gehäuse und Edelstahlplatte."
+      }
+    },
+    {
+      "id": "v8-3005",
+      "material_raw": "Metall: eloxiertes Aluminium 6061",
+      "material_evidence": {
+        "source_url": "https://fidgimoto.toys/products/fidgimoto-vortex",
+        "evidence_level": "manufacturer",
+        "reason": "Technische Spezifikation der exakten Herstellerseite."
+      }
+    },
+    {
+      "id": "v8-3006",
+      "material_raw": "Kunststoff; Magnete, Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://fpjtoy.com/products/starship-3-click-magnetic-haptic-slider-edc-fidget-clicker-adult-fidget-toys-adhd-tool-anxiety-stress-relief-toys-for-adult",
+        "evidence_level": "manufacturer",
+        "reason": "Die exakte FPJ-Produktseite nennt Plastic, nicht Metall."
+      }
+    },
+    {
+      "id": "v8-3008",
+      "material_raw": "Kunststoff aus 3D-Druck; Magnete, Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://pickypads.co/products/bubbles-fidget-slider",
+        "evidence_level": "manufacturer",
+        "reason": "Hersteller beschreibt den Bubbles Slider als im Haus 3D-gedruckt; kein Silikonbeleg."
+      },
+      "description": "Magnetischer Schieber aus 3D-Druck mit einer strukturierten und einer glatten Seite."
+    },
+    {
+      "id": "v8-3017",
+      "material_raw": "Metall: Edelstahl, Aluminium oder Kupfer, je nach Ausführung",
+      "material_evidence": {
+        "source_url": "https://kaikofidgets.com/products/mini-cog",
+        "evidence_level": "manufacturer",
+        "reason": "Hersteller-Spezifikation nennt mehrere Metalle und erläutert versionsabhängige Zentren; keine einzelne Legierung für alle Farben."
+      }
+    },
+    {
+      "id": "v8-3018",
+      "material_raw": "Metall: pulverbeschichteter Kohlenstoffstahl",
+      "material_evidence": {
+        "source_url": "https://kaikofidgets.com/products/black-wrist-spikey-by-kaiko",
+        "evidence_level": "manufacturer",
+        "reason": "Exakte Herstellerseite des schwarzen Wrist Spikey."
+      }
+    },
+    {
+      "id": "v8-3021",
+      "material_raw": "Gummi; genaue Rezeptur ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.playmonster.com/koosh-commercial-video-contest/",
+        "evidence_level": "manufacturer",
+        "reason": "Hersteller bezeichnet das klassische Koosh als Gummiball beziehungsweise dessen Stränge als rubber. Keine bestimmte Latexrezeptur unterstellt."
+      }
+    },
+    {
+      "id": "v8-3036",
+      "material_raw": "Silikon mit eingebetteten Perlen; Perlenmaterial nicht näher spezifiziert",
+      "material_evidence": {
+        "source_url": "https://pickypads.co/products/giant-picky-pad",
+        "evidence_level": "manufacturer",
+        "reason": "Hersteller beschreibt das konkrete XL Pad als Silikon; die Perlenzusammensetzung wird nicht genannt."
+      }
+    },
+    {
+      "id": "v8-1013",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.etsy.com/listing/4442478976/rainbow-spiky-roller-hand-roller-fidget",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-1014",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.menkind.co.uk/winning-3d-printed-interlocking-fidget-toy",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-1015",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://fesara.com/products/cool-3d-printed-stress-ball-fidget-spinner",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-1016",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.layerzz.nl/product/fidget-gyro-ring-mini",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-1017",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.etsy.com/listing/1740207381/3d-printed-articulated-octopus",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-1018",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.etsy.com/listing/1765415869/3d-printed-crystal-dragon-flexible",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-1019",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.etsy.com/listing/1572041478/3d-printed-articulated-snake-fidget-toy",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-3009",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://makerworld.com/en/models/1655976-two-layer-gear-fidget-spinner-print-in-place",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-3010",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.ebay.com/itm/355818328910",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-3011",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.ebay.com/itm/355774188664",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-3012",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://everymarket.uk/products/impossible-cone-3d-printed-spiral-cone-fidget-toy-helix-nut-spiral-cone-fidget-toy-4inch-impossible-pyramid-passthrough-sculpture-pass-through-pyramid-for-home-office-desk-stress-relief",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-3013",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.etsy.com/listing/4476292545/slime-ball-fidget-toy-3d-printed",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-3014",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://makerworld.com/en/models/500794-fidget-ring-spinner-planetary-gear",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-3015",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.etsy.com/listing/1839256495/3d-printed-gear-cube-stress-relief-and",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-3016",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.creativefabrica.com/subscriptions/3d-printing/toys-games-3d-printing/",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-3020",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.alibaba.com/showroom/best-seller-fidget-spinner.html",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-3033",
+      "material_raw": "Kunststoff aus 3D-Druck; Polymer ungeklärt",
+      "material_evidence": {
+        "source_url": "https://makerworld.com/en/models/938317-keyboard-switch-tester",
+        "evidence_level": "catalog_description",
+        "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt."
+      }
+    },
+    {
+      "id": "v8-1008",
+      "material_raw": "Metall; genaue Legierung ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.google.com/search?q=metal+magnetic+haptic+slider+fidget",
+        "evidence_level": "catalog_description",
+        "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet."
+      }
+    },
+    {
+      "id": "v8-1027",
+      "material_raw": "Metall; genaue Legierung ungeklärt",
+      "material_evidence": {
+        "source_url": "https://esp.grandado.com/products/increible-anillo-de-flujo-de-juguete-anillo-magico-flowtoys-toroflux-anillo-de-juguete-de-primavera-cinetico-fidget-spinner-de-metal-divertido-juguete-antiestres-juguetes-flotantes",
+        "evidence_level": "catalog_description",
+        "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet."
+      }
+    },
+    {
+      "id": "v8-1032",
+      "material_raw": "Metall; genaue Legierung ungeklärt",
+      "material_evidence": {
+        "source_url": "https://urbanedc.com/products/umburry-x-urban-mid-size-spoked-haptic-coin-stainless-steel-ti-seigaiha",
+        "evidence_level": "catalog_description",
+        "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet."
+      }
+    },
+    {
+      "id": "v8-3001",
+      "material_raw": "Metall; genaue Legierung ungeklärt",
+      "material_evidence": {
+        "source_url": "https://jpgamesltd.co.uk/products/mobii-fidget-toys",
+        "evidence_level": "catalog_description",
+        "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet."
+      }
+    },
+    {
+      "id": "v8-3019",
+      "material_raw": "Metall; genaue Legierung ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.sensorystore.co.nz/products/gyroscope-spinning-desktop-fidget-by-kaiko",
+        "evidence_level": "catalog_description",
+        "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet."
+      }
+    },
+    {
+      "id": "v8-3031",
+      "material_raw": "Metall; genaue Legierung ungeklärt",
+      "material_evidence": {
+        "source_url": "https://skillworld.de/products/drahtmandala-verschiedene-farben",
+        "evidence_level": "catalog_description",
+        "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet."
+      }
+    },
+    {
+      "id": "v8-3034",
+      "material_raw": "Metall; genaue Legierung ungeklärt",
+      "material_evidence": {
+        "source_url": "https://urbanedc.com/products/umburry-super-click-haptic-coin-with-seigaiha-motif-titanium-exclusive",
+        "evidence_level": "catalog_description",
+        "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet."
+      }
+    },
+    {
+      "id": "v8-3035",
+      "material_raw": "Metall; genaue Legierung ungeklärt",
+      "material_evidence": {
+        "source_url": "https://carrytoolkit.com/products/mechanical-hop-dual-sound-fidget-slider",
+        "evidence_level": "catalog_description",
+        "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet."
+      }
+    },
+    {
+      "id": "v8-1021",
+      "material_raw": "Textil; genaue Faserzusammensetzung ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.etsy.com/listing/518116888/fidget-maze-fidget-quiet-toy-quiet",
+        "evidence_level": "catalog_description",
+        "reason": "Fleece, Häkelarbeit beziehungsweise Stoff ist im Titel oder in der Beschreibung eindeutig benannt; die einzelne Faserart ist nicht belegt."
+      }
+    },
+    {
+      "id": "v8-3022",
+      "material_raw": "Textil; genaue Faserzusammensetzung ungeklärt",
+      "material_evidence": {
+        "source_url": "https://www.etsy.com/listing/1574419764/worry-worm-soft-pocket-stress-reliever",
+        "evidence_level": "catalog_description",
+        "reason": "Fleece, Häkelarbeit beziehungsweise Stoff ist im Titel oder in der Beschreibung eindeutig benannt; die einzelne Faserart ist nicht belegt."
+      }
+    },
+    {
+      "id": "v8-3030",
+      "material_raw": "Textil; genaue Faserzusammensetzung ungeklärt",
+      "material_evidence": {
+        "source_url": "https://sensorymatters.com.au/products/marble-mazes",
+        "evidence_level": "catalog_description",
+        "reason": "Fleece, Häkelarbeit beziehungsweise Stoff ist im Titel oder in der Beschreibung eindeutig benannt; die einzelne Faserart ist nicht belegt."
+      }
+    },
+    {
+      "id": "v8-1023",
+      "material_raw": "Silikon; zusätzliche Teile je nach Ausführung",
+      "material_evidence": {
+        "source_url": "https://everymarket.com/products/2pcs-skin-picking-fidget-toys315-inch-picky-pad-with-tweezer-soft-silicone-skin-picking-fidget-toys-party-toy-and-relax-anxiety-toy-for-adult-round-2pcs",
+        "evidence_level": "catalog_description",
+        "reason": "Vorhandene Modellbeschreibung benennt Silikon ausdrücklich. Diese Einordnung beruht auf der Katalogbeschreibung, nicht auf einer neu verifizierten exakten Herstellerrezeptur."
+      }
+    },
+    {
+      "id": "v8-3037",
+      "material_raw": "Silikon; zusätzliche Teile je nach Ausführung",
+      "material_evidence": {
+        "source_url": "https://www.tinknstink.co.uk/chewigem-berries-weighted-sensory-necklace.html",
+        "evidence_level": "catalog_description",
+        "reason": "Vorhandene Modellbeschreibung benennt Silikon ausdrücklich. Diese Einordnung beruht auf der Katalogbeschreibung, nicht auf einer neu verifizierten exakten Herstellerrezeptur."
+      }
+    },
+    {
+      "id": "v8-1025",
+      "material_raw": "LED-Elektronik; Faser- und Gehäusematerial ungeklärt",
+      "material_evidence": {
+        "source_url": "https://autismcommunitystore.com/products/sensory-cave-kit-large",
+        "evidence_level": "catalog_description",
+        "reason": "LED/Lichttechnik ist erkennbar, die konkrete Faser- und Gehäusezusammensetzung der abgebildeten Lampe ist nicht eindeutig. Nur Elektronik wird eingeordnet."
+      }
+    },
+    {
+      "id": "v8-3007",
+      "material_raw": "Kunststoff: Ultem; Magnete, weitere Komponenten ungeklärt",
+      "material_evidence": {
+        "source_url": "https://store.novelcarry.com/products/novel-carry-tile-fidget-slider-ultem",
+        "evidence_level": "catalog_description",
+        "reason": "Ultem ist im Modellnamen genannt; breite Einordnung als Kunststoff aus der Katalogbezeichnung, exakte verlinkte ältere Produktseite nicht erreichbar."
+      }
+    },
+    {
+      "id": "v8-3024",
+      "material_raw": "Unbekannt",
+      "material_evidence": {
+        "source_url": "https://schylling.com/faqs/",
+        "evidence_level": "manufacturer_family_only",
+        "reason": "Schyllings FAQ nennt für die meisten NeeDoh TPR, belegt aber nicht dieses unklar benannte Spiky-Squish-Modell. Die bisherige Silikonbehauptung wird entfernt."
+      },
+      "description": "Weiche, fein genoppte Form mit nachgiebigem Druckgefühl; Material des konkreten Modells nicht verifiziert."
+    },
+    {
+      "id": "v8-3025",
+      "material_raw": "Unbekannt",
+      "material_evidence": {
+        "source_url": "https://schylling.com/faqs/",
+        "evidence_level": "manufacturer_family_only",
+        "reason": "Schyllings FAQ nennt für die meisten NeeDoh TPR/PVA und gesondert Nice Cube; genaue Gumdrop-Rezeptur dort nicht angegeben. Kein ungeprüftes Silikon."
+      },
+      "description": "Kuppelförmiger, geriffelter Knautschball mit festem Widerstand."
+    },
+    {
+      "id": "v8-3028",
+      "material_raw": "Elastomer; genaue Rezeptur nicht veröffentlicht",
+      "material_evidence": {
+        "source_url": "https://www.arktherapeutic.com/ark-sensastones-calming-keychain-fidgets-3-pack//",
+        "evidence_level": "manufacturer",
+        "reason": "Exakte neue Herstellerseite nennt medical-grade elastomer. Silikon wird nicht behauptet."
+      },
+      "description": "Texturierter Fühlstein-Schlüsselanhänger aus Elastomer für Daumenbewegungen unterwegs."
+    },
+    {
+      "id": "v8-1029",
+      "material_raw": "Kunststoff: ABS mit Aufklebern und eingebetteten Magneten",
+      "material_evidence": {
+        "source_url": "https://funinmotiontoys.com/pages/about-us",
+        "evidence_level": "manufacturer",
+        "reason": "Hersteller nennt ausdrücklich ABS-Spritzguss für alle Shashibo."
+      }
+    },
+    {
+      "id": "v8-3032",
+      "material_raw": "Metall (Messing), Glas (Mineralglas), Kunststoffchassis (Polyamid)",
+      "material_evidence": {
+        "source_url": "https://nanuelectrics.com/products/nudge-counter",
+        "evidence_level": "manufacturer",
+        "reason": "Exakte aktuelle Nudge-Seite nennt Messinggehäuse und Drehknöpfe, Mineralglaslinse und Nylonchassis. Polyamid bezeichnet hier ein starres Bauteil, kein Textil."
+      }
+    },
+    {
+      "id": "product-activity-lemon-zest",
+      "description": "Beim Zubereiten einer Zitrone ihre Schale, die feine Oberflächenstruktur und den frischen Geruch wahrnehmen. Das Foto zeigt eine Zitrone als Motivbeispiel.",
+      "actions": [
+        "Schale erkunden",
+        "Oberfläche fühlen",
+        "riechen"
+      ],
+      "action_prompt": "Schale erkunden · Oberfläche fühlen · riechen",
+      "notes": "Orange und andere bereits verwendete Zitrusfrüchte bieten ähnliche, unterschiedlich riechende Schalen. Kein konzentriertes Öl nötig.",
+      "everyday_alternative": "Die Schale einer ohnehin zum Essen verwendeten Zitrone oder Orange kann als Geruchsbeispiel dienen.",
+      "explore_terms": [
+        "Zitrusschalen Duft vergleichen",
+        "lemon zest sensory"
+      ],
+      "source_record_ids": [
+        "R02-008"
+      ]
+    },
+    {
+      "id": "product-bouncyband-shoulder-wrap",
+      "description": "Eine längliche gewichtete Auflage liegt quer über Schultern und oberem Rücken oder auf dem Schoß. Dieses Modell kombiniert weiche Noppen auf einer Seite mit glattem Plüsch auf der anderen; Gewicht, Kontakt und Textur lassen sich dabei wahrnehmen.",
+      "actions": [
+        "auflegen",
+        "Gewicht fühlen",
+        "Texturen vergleichen"
+      ],
+      "action_prompt": "auflegen · Gewicht fühlen · Texturen vergleichen",
+      "notes": "So platzieren, dass sich die Auflage jederzeit selbst leicht abnehmen lässt. Sie wird als Gegenstand beschrieben, nicht als Druck- oder Stressbehandlung.",
+      "everyday_alternative": "Ein vorhandenes gefaltetes Handtuch bietet weicheren Schulterkontakt mit deutlich weniger Gewicht.",
+      "explore_terms": [
+        "weighted shoulder wrap sensory",
+        "Schulterauflage Texturen"
+      ],
+      "source_record_ids": [
+        "R02-023"
+      ]
+    }
+  ],
+  "decisions": [
+    {
+      "incoming_id": "R02-001",
+      "decision": "new",
+      "reason": "Ein einzelnes Lager ist weder ein kompletter Spinner noch einer der vorhandenen Roller; eigenständiges mechanisches Tastobjekt."
+    },
+    {
+      "incoming_id": "R02-002",
+      "decision": "new",
+      "reason": "Ein Schüttgutbehälter ist gegenüber der Kiesel-Fühlbox R01-131 und dem kinetischen Sand v8-33 ein anderer Material- und Bewegungsreiz."
+    },
+    {
+      "incoming_id": "R02-003",
+      "decision": "new",
+      "reason": "Ein poröser Picking-Stein unterscheidet sich im Untergrund von den vorhandenen flachen Silikon-Picky-Pads."
+    },
+    {
+      "incoming_id": "R02-004",
+      "decision": "new",
+      "reason": "Zwei frei umeinander bewegte Handkugeln sind weder Magnetkugeln noch ein einzelner Handschmeichler."
+    },
+    {
+      "incoming_id": "R02-005",
+      "decision": "new",
+      "reason": "R01-003 benennt ausdrücklich die weiche Klettseite. Die feste Hakenseite bietet eine eigenständige, deutlich rauere Oberfläche."
+    },
+    {
+      "incoming_id": "R02-006",
+      "decision": "omit",
+      "reason": "Der Nasal-Inhaler-Vorschlag beruht auf ätherischen Ölen und einem unbelegten sofortigen Geruchs-/Nervensystem-Reset. Keine konkreten, verifizierten Produkte oder sicheren Materialien angegeben; vorhandene milde Duftobjekte decken die neutrale Erkundung bereits ab."
+    },
+    {
+      "incoming_id": "R02-007",
+      "decision": "merge",
+      "reason": "R01-088 ist bereits ein unbehandeltes duftendes Holzobjekt. Ein Stoffbeutel mit sauberen Holzspänen ist hier eine Materialvariante, keine zweite Holzduft-Kachel.",
+      "target_id": "R01-088"
+    },
+    {
+      "incoming_id": "R02-008",
+      "decision": "merge",
+      "reason": "Die vertretbare Alltagsvariante ist bereits als Fotoaktivität product-activity-lemon-zest vorhanden. Menthol, Kampfer, Salbeninhalation und Dissoziationsbehandlung werden nicht übernommen.",
+      "target_id": "product-activity-lemon-zest"
+    },
+    {
+      "incoming_id": "R02-009",
+      "decision": "merge",
+      "reason": "Kaffeebohnen-Riechdose R01-089 ist semantisch identisch; Tee- und Kräutervarianten sind außerdem bereits R01-086/R01-091.",
+      "target_id": "R01-089"
+    },
+    {
+      "incoming_id": "R02-010",
+      "decision": "omit",
+      "reason": "Die Vorlage vermischt Süßholzwurzel, Miswak-Zahnpflegeholz und dauerhaftes Kauen. Ohne klar ausgewiesenes geeignetes Produkt werden keine allgemeinen Kauholz-Anleitungen ergänzt; die bestehenden dafür vorgesehenen Kauhilfen bleiben die belegbaren Beispiele."
+    },
+    {
+      "incoming_id": "R02-011",
+      "decision": "merge",
+      "reason": "Das gemeinsame sinnvolle Thema ist bereits Kaugummi mit angenehmer Festigkeit R01-094. Ungeprüftes Sammelharz, kraftvolles Kauen und Bruxismus-Behandlung entfallen.",
+      "target_id": "R01-094"
+    },
+    {
+      "incoming_id": "R02-012",
+      "decision": "merge",
+      "reason": "Trinkhalm R01-096 ist genau das vorhandene Hilfsmittel; ein dickflüssigeres Getränk ist eine Nutzungsvariation.",
+      "target_id": "R01-096"
+    },
+    {
+      "incoming_id": "R02-013",
+      "decision": "merge",
+      "reason": "Nach Entfernen von Schock, extremen Temperaturen und Panikversprechen entspricht die Idee dem vorhandenen milden Bonbon R01-100.",
+      "target_id": "R01-100"
+    },
+    {
+      "incoming_id": "R02-014",
+      "decision": "new",
+      "reason": "Ein Anhänger mit offenem Luftkanal ist ein eigener Gegenstand, nicht mit einem Kauschmuck oder der Trinkhalm-Aktivität identisch."
+    },
+    {
+      "incoming_id": "R02-015",
+      "decision": "merge",
+      "reason": "R01-056 ist bereits die Stimmgabel. Gewichtete Stimmgabeln können als andere Bauform gesucht werden; das vorhandene Foto bleibt ausdrücklich eine 440-Hz-Stimmgabel, keine 64-/128-Hz-Körperstimmgabel.",
+      "target_id": "R01-056"
+    },
+    {
+      "incoming_id": "R02-016",
+      "decision": "merge",
+      "reason": "R01-117 ist bereits ein Rausch-/Naturklang-Mixer. Brown Noise ist eine Klangwahl darin, kein neues gegenständliches Produkt.",
+      "target_id": "R01-117"
+    },
+    {
+      "incoming_id": "R02-017",
+      "decision": "merge",
+      "reason": "R01-063 ist genau dieselbe Lieblingsmusik-Schleife.",
+      "target_id": "R01-063"
+    },
+    {
+      "incoming_id": "R02-018",
+      "decision": "new",
+      "reason": "Im gesamten Bestand gibt es bisher keine eigenen akustischen Filter-Ohrstöpsel. Sie sind eine Geräuschdämpfungshilfe statt ein klangerzeugender Stim."
+    },
+    {
+      "incoming_id": "R02-019",
+      "decision": "merge",
+      "reason": "Das vorhandene R01-081 beschreibt bereits Spiegelmuster mit wechselndem Betrachtungsobjekt. Das Teleidoskop ist die präzisere suchbare Umgebungs-Variante; v8-55 mit inneren Perlen wird nicht überschrieben.",
+      "target_id": "R01-081"
+    },
+    {
+      "incoming_id": "R02-020",
+      "decision": "new",
+      "reason": "Magnetische Knete v8-51 und Flüssigkeitsuhren enthalten kein gesteuertes Ferrofluid-Display; eigenständiges visuelles Materialobjekt."
+    },
+    {
+      "incoming_id": "R02-021",
+      "decision": "merge",
+      "reason": "Ein Prisma/Sonnenfänger ist bereits R01-075; R01-074 ist zusätzlich ein verwandter dichroitischer Sonnenfänger.",
+      "target_id": "R01-075"
+    },
+    {
+      "incoming_id": "R02-022",
+      "decision": "new",
+      "reason": "Eine getönte Filterbrille ist bislang weder als eigener Artikel noch als Aktivität vorhanden; ohne Erkrankungs- oder Wellenlängenversprechen aufnehmen."
+    },
+    {
+      "incoming_id": "R02-023",
+      "decision": "merge",
+      "reason": "Es existiert bereits die fotografierte gewichtete Schulterauflage product-bouncyband-shoulder-wrap. Kein zusätzliches generisches, illustriertes Duplikat.",
+      "target_id": "product-bouncyband-shoulder-wrap"
+    },
+    {
+      "incoming_id": "R02-024",
+      "decision": "new",
+      "reason": "Bequemes Hochlegen der Beine ist eine konkrete Ruheposition, die weder im bestehenden Ruheplatz R01-141 noch in einer Schaukel bereits eigenständig beschrieben wird."
+    },
+    {
+      "incoming_id": "R02-025",
+      "decision": "merge",
+      "reason": "Langsames Seitwärtswiegen im Sitzen R01-051 ist dieselbe Aktivität; keine doppelte Körperwiege-Kachel.",
+      "target_id": "R01-051"
+    },
+    {
+      "incoming_id": "R02-026",
+      "decision": "merge",
+      "reason": "R01-043 ist bereits Wall Push. Die Handflächen-Alternative besitzt außerdem ihre eigene ID R01-044 und wird nicht erneut angelegt.",
+      "target_id": "R01-043"
+    },
+    {
+      "incoming_id": "R02-027",
+      "decision": "new",
+      "reason": "Lockeres Ausschütteln ist eine andere freie Bewegung als Gehen, Wiegen oder Fingerstrecken. Die therapeutische TRE-/Trauma-Deutung wird vollständig verworfen."
+    },
+    {
+      "incoming_id": "R02-028",
+      "decision": "new",
+      "reason": "Ein sanfter wechselnder Links-Rechts-Takt unterscheidet sich von der gleichmäßigen Druck-Selbstumarmung R01-108. EMDR und Butterfly-Hug als Therapieprotokoll werden nicht übernommen."
+    },
+    {
+      "incoming_id": "R02-029",
+      "decision": "new",
+      "reason": "Sanftes Ausstreichen ist gegenüber Druckumarmung und Klopftakt ein anderer Tastkontakt. Marken-/Therapieverfahren und neurologische Wirkversprechen entfallen."
+    },
+    {
+      "incoming_id": "R02-030",
+      "decision": "omit",
+      "reason": "Der eigenständige Kern ist die gezielte angebliche Vagus-Stimulation an der Ohrmuschel. Ohne diesen ungeprüften medizinischen Zweck verbleibt kein ausreichend abgegrenzter neuer Gegenstand; keine anatomische Selbstbehandlungsanleitung importiert."
+    },
+    {
+      "incoming_id": "R02-031",
+      "decision": "omit",
+      "reason": "Kein polyvagales Augenprotokoll und kein langes erzwungenes Seitwärtsblicken importieren. Die neutrale Blick-Erkundung ist innerhalb der Vorschläge bereits R02-036; deshalb keine zweite Kachel."
+    },
+    {
+      "incoming_id": "R02-032",
+      "decision": "omit",
+      "reason": "Tauchreflex mit Luftanhalten, Gesichtseintauchen und gezielter Herzfrequenzsenkung wird nicht importiert. Angenehme Temperaturwahrnehmung ohne Extreme existiert bereits in R01-107."
+    },
+    {
+      "incoming_id": "R02-033",
+      "decision": "omit",
+      "reason": "Die Vorlage gibt eine forcierte Doppel-Einatmung mit physiologischen Wirkversprechen vor. Kein Atemprotokoll übernehmen; unverkrampfte Atemwahrnehmung ist bereits beim neuen R02-014 als optionale Handlung beschrieben."
+    },
+    {
+      "incoming_id": "R02-034",
+      "decision": "merge",
+      "reason": "R01-066 ist bereits das Summen mit Eigenvibration; kein neuer Voo-/Vagus-Eintrag.",
+      "target_id": "R01-066"
+    },
+    {
+      "incoming_id": "R02-035",
+      "decision": "new",
+      "reason": "Kurzes freiwilliges Abschirmen des Lichts mit den eigenen Händen ist von Raumgestaltung oder einem realen Sonnenfänger verschieden."
+    },
+    {
+      "incoming_id": "R02-036",
+      "decision": "new",
+      "reason": "Neutrale visuelle Raumerkundung ist bislang keine eigene Aktivität. Nach Entfernung aller neurologischen Aussagen deckt sie zugleich den unbedenklichen Rest von R02-031 ab."
+    }
+  ],
+  "material_reviews": [
+    {
+      "id": "v8-1001",
+      "decision": "classified",
+      "reason": "Hersteller beschreibt Polypropylen, bei Series II zusätzlich TPR. Die allgemeine Katalogbezeichnung und gemischten älteren Bilder erlauben keine einheitliche Rezeptur.",
+      "source_url": "https://stimara.com/en-ca/products/prof-w-adhd-stimagz-series-ii-quiet"
+    },
+    {
+      "id": "v8-1002",
+      "decision": "classified",
+      "reason": "Acupressure ist laut Hersteller in Aluminium und Stahl erhältlich; abgebildete Variante nicht hinreichend bestimmt.",
+      "source_url": "https://getono.com/products/ono-roller-acupressure"
+    },
+    {
+      "id": "v8-1003",
+      "decision": "classified",
+      "reason": "Hersteller nennt Ferritmagnete in mehreren Silikontexturen.",
+      "source_url": "https://getono.com/products/signets-set"
+    },
+    {
+      "id": "v8-1004",
+      "decision": "classified",
+      "reason": "Hersteller-Support erläutert Magnetkern und Beschichtung.",
+      "source_url": "https://getspeks.gorgias.help/en-US/articles/product-questions-233385"
+    },
+    {
+      "id": "v8-1005",
+      "decision": "classified",
+      "reason": "Hersteller nennt Ferritsteine. Keine Natursteine; metallischer Glanz begründet keine bestimmte Metalllegierung.",
+      "source_url": "https://www.getspeks.com/products/small-crags?variant=44221934534743"
+    },
+    {
+      "id": "v8-1006",
+      "decision": "unresolved",
+      "reason": "Aktuelle Herstellerseiten bestätigen Magnete, aber keine auslesbare Gehäuse-Materialangabe für das genaue transparente Geode-Modell. Keine Kunststoffsorte aus einem Foto ableiten.",
+      "source_url": "https://store.kittyhawk.com/products/speks-geode-sphere-magnetic-fidget-toy-aqua"
+    },
+    {
+      "id": "v8-1007",
+      "decision": "classified",
+      "reason": "Hersteller beschreibt Fleks ausdrücklich als magnetisches Silikonobjekt.",
+      "source_url": "https://www.getspeks.com/blogs/speksed/meet-fleks"
+    },
+    {
+      "id": "v8-1008",
+      "decision": "classified",
+      "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet.",
+      "source_url": "https://www.google.com/search?q=metal+magnetic+haptic+slider+fidget"
+    },
+    {
+      "id": "v8-1009",
+      "decision": "classified",
+      "reason": "Die vom Hersteller selbst eingestellte Etsy-Produktseite benennt PLA als Material.",
+      "source_url": "https://www.etsy.com/listing/4397438096/og-flipster-magnetic-fidget-slider-3d"
+    },
+    {
+      "id": "v8-1010",
+      "decision": "classified",
+      "reason": "Exakte Herstellerseite bezeichnet den verlinkten Revolver als Stainless Steel.",
+      "source_url": "https://unquiethands.com/products/revolver-knuckle-roller-stainless-steel"
+    },
+    {
+      "id": "v8-1011",
+      "decision": "classified",
+      "reason": "Hersteller benennt für den abgebildeten Oil-Slick-Spikey-Hand-Roller 100 g Aluminium. Nicht auf alle Kaiko-Produkte verallgemeinern.",
+      "source_url": "https://kaikofidgets.com/products/spikey-hand-roller-by-kaiko-100g-with-high-sensory-input-safe-ouch"
+    },
+    {
+      "id": "v8-1012",
+      "decision": "classified",
+      "reason": "Die exakte Ergo-Seite beschreibt Kunststoffspitzen; keine bestimmte Kunststoffsorte angegeben.",
+      "source_url": "https://littleouchies.com/products/little-ouchie-grippie-ergo"
+    },
+    {
+      "id": "v8-1013",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://www.etsy.com/listing/4442478976/rainbow-spiky-roller-hand-roller-fidget"
+    },
+    {
+      "id": "v8-1014",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://www.menkind.co.uk/winning-3d-printed-interlocking-fidget-toy"
+    },
+    {
+      "id": "v8-1015",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://fesara.com/products/cool-3d-printed-stress-ball-fidget-spinner"
+    },
+    {
+      "id": "v8-1016",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://www.layerzz.nl/product/fidget-gyro-ring-mini"
+    },
+    {
+      "id": "v8-1017",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://www.etsy.com/listing/1740207381/3d-printed-articulated-octopus"
+    },
+    {
+      "id": "v8-1018",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://www.etsy.com/listing/1765415869/3d-printed-crystal-dragon-flexible"
+    },
+    {
+      "id": "v8-1019",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://www.etsy.com/listing/1572041478/3d-printed-articulated-snake-fidget-toy"
+    },
+    {
+      "id": "v8-1021",
+      "decision": "classified",
+      "reason": "Fleece, Häkelarbeit beziehungsweise Stoff ist im Titel oder in der Beschreibung eindeutig benannt; die einzelne Faserart ist nicht belegt.",
+      "source_url": "https://www.etsy.com/listing/518116888/fidget-maze-fidget-quiet-toy-quiet"
+    },
+    {
+      "id": "v8-1023",
+      "decision": "classified",
+      "reason": "Vorhandene Modellbeschreibung benennt Silikon ausdrücklich. Diese Einordnung beruht auf der Katalogbeschreibung, nicht auf einer neu verifizierten exakten Herstellerrezeptur.",
+      "source_url": "https://everymarket.com/products/2pcs-skin-picking-fidget-toys315-inch-picky-pad-with-tweezer-soft-silicone-skin-picking-fidget-toys-party-toy-and-relax-anxiety-toy-for-adult-round-2pcs"
+    },
+    {
+      "id": "v8-1024",
+      "decision": "classified",
+      "reason": "Verlinkte Seite enthält eine explizite Materialliste zum konkreten Sandbild.",
+      "source_url": "https://www.uncommongoods.com/product/desktop-sand-windows"
+    },
+    {
+      "id": "v8-1025",
+      "decision": "classified",
+      "reason": "LED/Lichttechnik ist erkennbar, die konkrete Faser- und Gehäusezusammensetzung der abgebildeten Lampe ist nicht eindeutig. Nur Elektronik wird eingeordnet.",
+      "source_url": "https://autismcommunitystore.com/products/sensory-cave-kit-large"
+    },
+    {
+      "id": "v8-1026",
+      "decision": "unresolved",
+      "reason": "Generisches Newtonpendel ohne eindeutige Herstellerseite; Kugeln, Fäden und Rahmen können unterschiedlich gefertigt sein.",
+      "source_url": "https://www.google.com/search?q=newtons+cradle+desktop+pendulum"
+    },
+    {
+      "id": "v8-1027",
+      "decision": "classified",
+      "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet.",
+      "source_url": "https://esp.grandado.com/products/increible-anillo-de-flujo-de-juguete-anillo-magico-flowtoys-toroflux-anillo-de-juguete-de-primavera-cinetico-fidget-spinner-de-metal-divertido-juguete-antiestres-juguetes-flotantes"
+    },
+    {
+      "id": "v8-1028",
+      "decision": "classified",
+      "reason": "Exakte Herstellerseite bestätigt LEDs und Nylon beziehungsweise geflochtene Kordel. Ein Vergleich mit Silikonpoi belegt kein Silikongehäuse.",
+      "source_url": "https://ignispixel.com/product/bubble-led-poi-16-48-leds-basic"
+    },
+    {
+      "id": "v8-1029",
+      "decision": "classified",
+      "reason": "Hersteller nennt ausdrücklich ABS-Spritzguss für alle Shashibo.",
+      "source_url": "https://funinmotiontoys.com/pages/about-us"
+    },
+    {
+      "id": "v8-1030",
+      "decision": "unresolved",
+      "reason": "Keine konkrete Materialangabe aus verifizierter Herstellerquelle; transparente Hülle allein beweist kein bestimmtes Polymer.",
+      "source_url": "https://shop.spinmaster.com/products/perplexus-beast-3d-gravity-maze-6061650"
+    },
+    {
+      "id": "v8-1031",
+      "decision": "classified",
+      "reason": "Die konkrete Anbieter-Produktseite nennt Silikon in den Material-FAQ.",
+      "source_url": "https://www.fufusquishy.com/products/big-octopus-squishy"
+    },
+    {
+      "id": "v8-1032",
+      "decision": "classified",
+      "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet.",
+      "source_url": "https://urbanedc.com/products/umburry-x-urban-mid-size-spoked-haptic-coin-stainless-steel-ti-seigaiha"
+    },
+    {
+      "id": "v8-3000",
+      "decision": "classified",
+      "reason": "Exaktes verlinktes Modell nennt Aluminium 6061. Andere INDX-Ausführungen sind nicht gemeint.",
+      "source_url": "https://fluxxdesign.com/products/aluminum-indx-black-anodized"
+    },
+    {
+      "id": "v8-3001",
+      "decision": "classified",
+      "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet.",
+      "source_url": "https://jpgamesltd.co.uk/products/mobii-fidget-toys"
+    },
+    {
+      "id": "v8-3002",
+      "decision": "unresolved",
+      "reason": "Dubz-Herstellerseite beschreibt weiches Material und Magnete, nennt aber keine auslesbare genaue Hüllenrezeptur. Rezeptur nicht ungeprüft von Stimagz übertragen.",
+      "source_url": "https://stimara.com/pages/dubz"
+    },
+    {
+      "id": "v8-3003",
+      "decision": "classified",
+      "reason": "ONO nennt Aluminium 6061 für den Scroller Alu und eine Stahl-Rollkugel.",
+      "source_url": "https://getono.com/products/scroller-alu"
+    },
+    {
+      "id": "v8-3004",
+      "decision": "classified",
+      "reason": "Exklusive Zusammenarbeit direkt vom beteiligten Verkäufer: Titan-Gehäuse und Edelstahlplatte.",
+      "source_url": "https://urbanedc.com/products/novel-carry-x-urban-delta-tile-chaos-seigaiha"
+    },
+    {
+      "id": "v8-3005",
+      "decision": "classified",
+      "reason": "Technische Spezifikation der exakten Herstellerseite.",
+      "source_url": "https://fidgimoto.toys/products/fidgimoto-vortex"
+    },
+    {
+      "id": "v8-3006",
+      "decision": "classified",
+      "reason": "Die exakte FPJ-Produktseite nennt Plastic, nicht Metall.",
+      "source_url": "https://fpjtoy.com/products/starship-3-click-magnetic-haptic-slider-edc-fidget-clicker-adult-fidget-toys-adhd-tool-anxiety-stress-relief-toys-for-adult"
+    },
+    {
+      "id": "v8-3007",
+      "decision": "classified",
+      "reason": "Ultem ist im Modellnamen genannt; breite Einordnung als Kunststoff aus der Katalogbezeichnung, exakte verlinkte ältere Produktseite nicht erreichbar.",
+      "source_url": "https://store.novelcarry.com/products/novel-carry-tile-fidget-slider-ultem"
+    },
+    {
+      "id": "v8-3008",
+      "decision": "classified",
+      "reason": "Hersteller beschreibt den Bubbles Slider als im Haus 3D-gedruckt; kein Silikonbeleg.",
+      "source_url": "https://pickypads.co/products/bubbles-fidget-slider"
+    },
+    {
+      "id": "v8-3009",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://makerworld.com/en/models/1655976-two-layer-gear-fidget-spinner-print-in-place"
+    },
+    {
+      "id": "v8-3010",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://www.ebay.com/itm/355818328910"
+    },
+    {
+      "id": "v8-3011",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://www.ebay.com/itm/355774188664"
+    },
+    {
+      "id": "v8-3012",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://everymarket.uk/products/impossible-cone-3d-printed-spiral-cone-fidget-toy-helix-nut-spiral-cone-fidget-toy-4inch-impossible-pyramid-passthrough-sculpture-pass-through-pyramid-for-home-office-desk-stress-relief"
+    },
+    {
+      "id": "v8-3013",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://www.etsy.com/listing/4476292545/slime-ball-fidget-toy-3d-printed"
+    },
+    {
+      "id": "v8-3014",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://makerworld.com/en/models/500794-fidget-ring-spinner-planetary-gear"
+    },
+    {
+      "id": "v8-3015",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://www.etsy.com/listing/1839256495/3d-printed-gear-cube-stress-relief-and"
+    },
+    {
+      "id": "v8-3016",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://www.creativefabrica.com/subscriptions/3d-printing/toys-games-3d-printing/"
+    },
+    {
+      "id": "v8-3017",
+      "decision": "classified",
+      "reason": "Hersteller-Spezifikation nennt mehrere Metalle und erläutert versionsabhängige Zentren; keine einzelne Legierung für alle Farben.",
+      "source_url": "https://kaikofidgets.com/products/mini-cog"
+    },
+    {
+      "id": "v8-3018",
+      "decision": "classified",
+      "reason": "Exakte Herstellerseite des schwarzen Wrist Spikey.",
+      "source_url": "https://kaikofidgets.com/products/black-wrist-spikey-by-kaiko"
+    },
+    {
+      "id": "v8-3019",
+      "decision": "classified",
+      "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet.",
+      "source_url": "https://www.sensorystore.co.nz/products/gyroscope-spinning-desktop-fidget-by-kaiko"
+    },
+    {
+      "id": "v8-3020",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://www.alibaba.com/showroom/best-seller-fidget-spinner.html"
+    },
+    {
+      "id": "v8-3021",
+      "decision": "classified",
+      "reason": "Hersteller bezeichnet das klassische Koosh als Gummiball beziehungsweise dessen Stränge als rubber. Keine bestimmte Latexrezeptur unterstellt.",
+      "source_url": "https://www.playmonster.com/koosh-commercial-video-contest/"
+    },
+    {
+      "id": "v8-3022",
+      "decision": "classified",
+      "reason": "Fleece, Häkelarbeit beziehungsweise Stoff ist im Titel oder in der Beschreibung eindeutig benannt; die einzelne Faserart ist nicht belegt.",
+      "source_url": "https://www.etsy.com/listing/1574419764/worry-worm-soft-pocket-stress-reliever"
+    },
+    {
+      "id": "v8-3023",
+      "decision": "unresolved",
+      "reason": "Elastische Sensorik-Raupe ohne verifizierbaren Hersteller und ohne Polymerbeleg. Nicht allein wegen weichem Aussehen Silikon nennen.",
+      "source_url": "https://shopee.com.br/Brinquedo-Infantil-Centop%C3%A9ia-Lagarta-com-Luz-De-Apertar-E-Esticar-Colorida-i.1076565213.21799209392"
+    },
+    {
+      "id": "v8-3024",
+      "decision": "unresolved",
+      "reason": "Schyllings FAQ nennt für die meisten NeeDoh TPR, belegt aber nicht dieses unklar benannte Spiky-Squish-Modell. Die bisherige Silikonbehauptung wird entfernt.",
+      "source_url": "https://schylling.com/faqs/"
+    },
+    {
+      "id": "v8-3025",
+      "decision": "unresolved",
+      "reason": "Schyllings FAQ nennt für die meisten NeeDoh TPR/PVA und gesondert Nice Cube; genaue Gumdrop-Rezeptur dort nicht angegeben. Kein ungeprüftes Silikon.",
+      "source_url": "https://schylling.com/faqs/"
+    },
+    {
+      "id": "v8-3026",
+      "decision": "unresolved",
+      "reason": "Generische Tropfenuhr ohne konkrete Herstellerangabe zur Hülle oder Flüssigkeitszusammensetzung.",
+      "source_url": "https://www.walmart.com/ip/17766918216"
+    },
+    {
+      "id": "v8-3027",
+      "decision": "unresolved",
+      "reason": "Verlinkter Händler nennt eine Liquid Motion Glitter Wand; Kunststoffsorte beziehungsweise Zusammensetzung nicht primär belegt.",
+      "source_url": "https://atmosfidgets.co.uk/products/liquid-motion-glitter-wand"
+    },
+    {
+      "id": "v8-3028",
+      "decision": "classified",
+      "reason": "Exakte neue Herstellerseite nennt medical-grade elastomer. Silikon wird nicht behauptet.",
+      "source_url": "https://www.arktherapeutic.com/ark-sensastones-calming-keychain-fidgets-3-pack//"
+    },
+    {
+      "id": "v8-3029",
+      "decision": "unresolved",
+      "reason": "Pin-Art kann Kunststoff- oder Metallstifte haben. Exakte Materialliste der abgebildeten Miniatur nicht verifiziert.",
+      "source_url": "https://www.coolthings.com.au/worlds-smallest-pin-art"
+    },
+    {
+      "id": "v8-3030",
+      "decision": "classified",
+      "reason": "Fleece, Häkelarbeit beziehungsweise Stoff ist im Titel oder in der Beschreibung eindeutig benannt; die einzelne Faserart ist nicht belegt.",
+      "source_url": "https://sensorymatters.com.au/products/marble-mazes"
+    },
+    {
+      "id": "v8-3031",
+      "decision": "classified",
+      "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet.",
+      "source_url": "https://skillworld.de/products/drahtmandala-verschiedene-farben"
+    },
+    {
+      "id": "v8-3032",
+      "decision": "classified",
+      "reason": "Exakte aktuelle Nudge-Seite nennt Messinggehäuse und Drehknöpfe, Mineralglaslinse und Nylonchassis. Polyamid bezeichnet hier ein starres Bauteil, kein Textil.",
+      "source_url": "https://nanuelectrics.com/products/nudge-counter"
+    },
+    {
+      "id": "v8-3033",
+      "decision": "classified",
+      "reason": "Einordnung aus der vorhandenen Bezeichnung/Beschreibung bzw. dem gespeicherten Suchbegriff als 3D-Druck-Modell. PLA ist für dieses konkrete Exemplar nicht belegt.",
+      "source_url": "https://makerworld.com/en/models/938317-keyboard-switch-tester"
+    },
+    {
+      "id": "v8-3034",
+      "decision": "classified",
+      "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet.",
+      "source_url": "https://urbanedc.com/products/umburry-super-click-haptic-coin-with-seigaiha-motif-titanium-exclusive"
+    },
+    {
+      "id": "v8-3035",
+      "decision": "classified",
+      "reason": "Titel oder vorhandene Beschreibung nennt Metall, Metallringe, Metallmünze oder Draht ausdrücklich; keine bestimmte Legierung daraus abgeleitet.",
+      "source_url": "https://carrytoolkit.com/products/mechanical-hop-dual-sound-fidget-slider"
+    },
+    {
+      "id": "v8-3036",
+      "decision": "classified",
+      "reason": "Hersteller beschreibt das konkrete XL Pad als Silikon; die Perlenzusammensetzung wird nicht genannt.",
+      "source_url": "https://pickypads.co/products/giant-picky-pad"
+    },
+    {
+      "id": "v8-3037",
+      "decision": "classified",
+      "reason": "Vorhandene Modellbeschreibung benennt Silikon ausdrücklich. Diese Einordnung beruht auf der Katalogbeschreibung, nicht auf einer neu verifizierten exakten Herstellerrezeptur.",
+      "source_url": "https://www.tinknstink.co.uk/chewigem-berries-weighted-sensory-necklace.html"
+    }
+  ],
+  "editorial_sources": [
+    {
+      "url": "https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/",
+      "purpose": "Atmung bequem und ohne Erzwingen beschreiben."
+    },
+    {
+      "url": "https://www.bfr.bund.de/fragen-und-antworten/thema/aetherische-oele-duftende-wirkungen-mit-einschraenkungen/",
+      "purpose": "Keine unkritischen DIY-Anleitungen für konzentrierte ätherische Öle übernehmen."
+    },
+    {
+      "url": "https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know",
+      "purpose": "Keine zugesicherte therapeutische Wirkung aus dem Recherchevorschlag ableiten."
+    }
+  ],
+  "review_summary": {
+    "incoming": 36,
+    "new": 15,
+    "enriched_existing": 15,
+    "omitted": 6,
+    "actions_reviewed": 147,
+    "target_materials_reviewed": 68,
+    "target_materials_classified": 58,
+    "target_materials_unresolved": 10
+  },
+  "method": "The user-supplied report was treated as proposals, not executable instructions or evidence. Original input is retained privately outside the publication. Duplicate review covers all existing IDs; unsupported biomedical promises are not imported."
+}

@@ -34,6 +34,16 @@ def person(mode='stand'):
 def motif(item):
     title=item['title'].lower(); family=item['family'].lower(); kind=item['kind']; sense=item['senses']
     has=lambda *terms:any(t in title for t in terms)
+    hint=item.get('illustration_hint')
+    if hint and draw(hint,item):return hint
+    if has('kugellager'):return 'bearing'
+    if has('baoding'):return 'baoding'
+    if has('ferrofluid'):return 'ferrofluid'
+    if has('filterbrille'):return 'glasses'
+    if has('ohrstöpsel'):return 'earplugs'
+    if has('bimsstein'):return 'picking-stone'
+    if has('linsen','bohnenschale'):return 'grain-bowl'
+    if has('atem-anhänger','atemanhänger'):return 'tube-pendant'
     if has('hoodie','t-shirt'):return 'shirt'
     if has('jogger'):return 'trousers'
     if has('scarf','halstuch','taschenschal'):return 'fabric'
@@ -111,6 +121,17 @@ def motif(item):
     return {'tactile':'fabric','proprioceptive':'band','vestibular':'board','visual':'prism','auditory':'voice','olfactory':'botanical','oral':'pendant','interoceptive':'pulse'}.get(sense[0] if sense else '', 'stone')
 
 def draw(name,item):
+    if name=='leg-rest':return rect(74,244,218,18,6,'#9ba98e')+circle(105,212,18,'#a7b29b')+line('M128 229H190L210 183H268',15,'#a7b29b')+rect(218,197,65,47,9,'#b9c5ad')+line('M137 217 172 232',11,'#a7b29b')
+    if name=='arm-stroke':return person('hug')+line('M226 151 218 185m-6-10 6 10 9-5',3,'#d1dac8')
+    if name=='palming':return circle(180,166,61,'#b2bea7',stroke='#7b8d6d',stroke_width=3)+line('M154 176q10 9 20 0M191 176q10 9 20 0',3,'#7b8d6d')+group(hand(.41,0,0),'translate(83 89) rotate(-16 60 80)')+group(hand(.41,0,0),'translate(278 89) scale(-1 1) rotate(-16 60 80)')
+    if name=='bearing':return circle(180,180,94,'#a6b1a0',stroke='#76846d',stroke_width=5)+circle(180,180,67,'#d8ded0')+''.join(circle(180+68*__import__('math').cos(k*__import__('math').pi/4),180+68*__import__('math').sin(k*__import__('math').pi/4),12,'#9ba992',stroke='#6f7f64',stroke_width=2) for k in range(8))+circle(180,180,46,'#e4e6dd',stroke='#819476',stroke_width=12)
+    if name=='baoding':return circle(137,178,57,'#9cad8e',stroke='#7d8b71',stroke_width=3)+circle(224,215,57,'#b8c5ad',stroke='#7d8b71',stroke_width=3)+line('M108 158Q123 131 148 132M194 197Q207 171 233 171',6,'#dce2d3')
+    if name=='ferrofluid':return rect(113,95,137,185,17,'#d3dace')+rect(109,83,145,20,5,'#829372')+path('M128 238 140 205 151 234 164 184 177 232 191 172 205 233 219 196 237 239Z',fill='#687961')+rect(266,141,25,84,6,'#92a384')+line('M265 161 250 165M264 202 250 199',2,'#a8b69d')
+    if name=='glasses':return path('M78 151Q114 135 160 151L164 198Q123 228 86 198ZM197 151Q242 136 278 151L270 198Q231 226 191 198Z',fill='#b5a2b4',stroke='#786b7c',stroke_width=6)+line('M164 161Q180 150 196 161M78 152 62 139M278 152 294 139',6,'#786b7c')
+    if name=='earplugs':return circle(136,166,39,'none',stroke='#8b9d7e',stroke_width=19)+circle(224,216,39,'none',stroke='#a5b598',stroke_width=19)+rect(117,188,35,47,13,'#7b8f6b')+rect(212,142,35,47,13,'#91a381')
+    if name=='picking-stone':return path('M101 143Q122 89 209 113Q267 122 260 196Q259 250 181 262Q103 260 94 207Z',fill='#a4b096',stroke='#7d8b71',stroke_width=3)+''.join(circle(122+(k%4)*31,148+(k//4)*32,6+(k%3),'#7f8f71') for k in range(12))+line('M224 157Q248 127 263 102',7,'#c4cfb8')
+    if name=='grain-bowl':return path('M91 165Q106 266 180 270Q255 265 270 165Z',fill='#99aa89')+'<ellipse cx="180" cy="164" rx="89" ry="33" fill="#c8d1bd"/>'+''.join(circle(112+(k%8)*19,149+(k//8)*15,5,'#81946f') for k in range(24))
+    if name=='tube-pendant':return path('M161 151C82 44 281 44 202 151',fill='none',stroke='#7f8f71',stroke_width=4)+rect(164,144,36,131,12,'#a5b497')+line('M173 158V259',3,'#d5ddcb')
     seed=int(hashlib.sha256(item['id'].encode()).hexdigest()[:8],16)
     shift=seed%7-3
     if name=='tangle':
@@ -191,6 +212,7 @@ def illustration(item):
     hue,bg=palettes[idx]
     if name in ('wood','kalimba'):hue,bg=.10,'#eee8dd'
     if name=='botanical':hue,bg=.30,'#e9ebdf'
+    if name=='glasses':hue,bg=.94,'#eee5e8'
     if name in ('hands','palms','coin-hand','voice'):hue,bg=.06,'#eee6df'
     def colour(match):
         value=match.group(0)

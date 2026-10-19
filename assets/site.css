@@ -38,3 +38,5 @@
 .end{padding-bottom:45px}
 @media(max-width:620px){.random-button{right:12px;bottom:max(12px,env(safe-area-inset-bottom));padding:0 13px}.detail-tools{margin:0;padding:4px 6px;min-height:52px}.detail-tools .iconbutton{width:40px;height:44px}.view-actions{padding:0 10px;gap:8px;min-height:40px}.view-actions .textbutton{min-height:40px}.attribute-filter{min-height:36px;padding:7px 8px}}
 @media(pointer:coarse){.attribute-filter{min-height:44px}.view-actions .textbutton{min-height:44px}}
+
+.extra-ideas{font-size:11px;border-top:1px solid var(--line);padding-top:10px}.extra-ideas summary{cursor:pointer;min-height:32px;line-height:1.5;color:var(--muted)}.extra-ideas summary:focus-visible{outline:2px solid var(--focus);outline-offset:3px}.detail-info .extra-ideas p{font-size:11px;margin:4px 0 9px}.explore-links{display:flex;flex-wrap:wrap;gap:6px}.explore-links a{display:inline-flex;align-items:center;gap:4px;font-size:10px;text-decoration:none;border:1px solid var(--line);border-radius:4px;padding:7px}.explore-links .icon{width:12px;height:12px}@media(pointer:coarse){.extra-ideas summary{min-height:44px}.explore-links a{min-height:44px}}
