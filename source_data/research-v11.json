@@ -1,0 +1,711 @@
+{
+  "researched_at": "2026-10-19",
+  "items": [
+    {
+      "id": "product-fidget-wear-bead-pocket-hoodie",
+      "legacy_id": null,
+      "title": "Fidget-Wear Hoodie – Perlenbeutel in der Tasche",
+      "description": "Hoodie mit einem eingebauten, verdeckten Perlenbeutel in der Fronttasche. Die Perlen lassen sich durch den Stoff mit den Fingern bewegen.",
+      "kind": "object",
+      "family": "Stimming-Kleidung",
+      "subcategory": "Hoodies mit integrierten Fidgets",
+      "senses": [
+        "tactile"
+      ],
+      "material_raw": "Textil; Perlenfüllung, genaue Zusammensetzung ungeklärt",
+      "actions": [
+        "rollen",
+        "kneten"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://fidget-wear.com/products/fidget-wear-hoodie-inspiring-indigo",
+      "search": "Fidget-Wear Hoodie – Perlenbeutel in der Tasche",
+      "action_prompt": "rollen · kneten",
+      "safety": [],
+      "notes": "Hersteller nennt einen bead pouch, aber auf der konkreten Produktseite keine verlässliche Faser- oder Perlenzusammensetzung. Die gewählte blaue Ansicht ist ein Beispiel des Hoodies; weitere Farben sind keine eigenen Objekttypen. Recherche: Herstellerseite und Produktmetadaten am 2026-10-19 gelesen. Keine klinischen Wirksamkeitsbehauptungen übernommen. Bild technisch per HTTP GET und Bilddekodierung geprüft; keine Prüfung von Bildrechten oder dauerhafter Verfügbarkeit.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0710/5626/1356/files/adult-blue-plain-lrg.jpg?v=1758894874"
+      ]
+    },
+    {
+      "id": "product-fidget-wear-squishy-hem-shirt",
+      "legacy_id": null,
+      "title": "Fidget-Wear T-Shirt – weicher Squish-Saum",
+      "description": "T-Shirt mit einem weichen, drückbaren Schlauch im Saum und einem glatten Satinlabel als zusätzlicher Tastfläche.",
+      "kind": "object",
+      "family": "Stimming-Kleidung",
+      "subcategory": "T-Shirts mit Saum-Fidget",
+      "senses": [
+        "tactile"
+      ],
+      "material_raw": "Textil und Satinlabel; Schlauch und Fasermischung ungeklärt",
+      "actions": [
+        "drücken",
+        "streichen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://fidget-wear.com/products/fidget-wear-youth-t-shirt-soft-squishy-hem-copy",
+      "search": "Fidget-Wear T-Shirt – weicher Squish-Saum",
+      "action_prompt": "drücken · streichen",
+      "safety": [],
+      "notes": "Materialbeleg: Hersteller nennt soft satin und squishy tube, aber keine Zusammensetzung des Schlauchs. Inkonsistenz: Seitentitel/Größen nennen Adult, Fließtext und URL Youth. Daher keine Alters-/Passformzusage. Unterschied zum Pellet-Shirt ist der drückbare Schlauch, nicht bloß die Farbe. Recherche: Herstellerseite und Produktmetadaten am 2026-10-19 gelesen. Keine klinischen Wirksamkeitsbehauptungen übernommen. Bild technisch per HTTP GET und Bilddekodierung geprüft; keine Prüfung von Bildrechten oder dauerhafter Verfügbarkeit.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0710/5626/1356/files/Adult_squishy_tshirt_1.png?v=1781554683"
+      ]
+    },
+    {
+      "id": "product-fidget-wear-pellet-hem-shirt",
+      "legacy_id": null,
+      "title": "Fidget-Wear T-Shirt – Pellet-Saum",
+      "description": "T-Shirt mit eingenähten Pellets im Saum: durch den Stoff rollen und zwischen den Fingern bewegen; zusätzlich ein glattes Satinlabel.",
+      "kind": "object",
+      "family": "Stimming-Kleidung",
+      "subcategory": "T-Shirts mit Saum-Fidget",
+      "senses": [
+        "tactile"
+      ],
+      "material_raw": "Textil und Satinlabel; gewichtete Pellets, genaue Zusammensetzung ungeklärt",
+      "actions": [
+        "rollen",
+        "zwicken"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://fidget-wear.com/products/fidget-wear-adult-t-shirt-soothing-pellet-hem",
+      "search": "Fidget-Wear T-Shirt – Pellet-Saum",
+      "action_prompt": "rollen · zwicken",
+      "safety": [],
+      "notes": "Materialbeleg: Produkttext nennt weighted pellets und soft satin, keine präzise Fasermischung oder Pelletart. Seitentitel Adult, Fließtext Youth: Alters-/Passformangaben nicht übernommen. Eigenes Tastprinzip gegenüber Squish-Saum. Recherche: Herstellerseite und Produktmetadaten am 2026-10-19 gelesen. Keine klinischen Wirksamkeitsbehauptungen übernommen. Bild technisch per HTTP GET und Bilddekodierung geprüft; keine Prüfung von Bildrechten oder dauerhafter Verfügbarkeit.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0710/5626/1356/files/adult_pellet_tshirt.png?v=1781554675"
+      ]
+    },
+    {
+      "id": "product-diverse-cross-neck-fidget-hoodie",
+      "legacy_id": null,
+      "title": "Diverse MMX Cross-Neck Hoodie",
+      "description": "Hoodie mit Fidgets an den Bündchen, Daumenöffnungen, einem abnehmbaren Kauaufsatz und einem kurzen Reißverschluss zum wiederholten Auf- und Zuziehen.",
+      "kind": "object",
+      "family": "Stimming-Kleidung",
+      "subcategory": "Hoodies mit integrierten Fidgets",
+      "senses": [
+        "tactile",
+        "oral"
+      ],
+      "material_raw": "Baumwolltextil laut Hersteller; Kauaufsatz und Fidget-Mischmaterialien ungeklärt",
+      "actions": [
+        "nesteln",
+        "ziehen",
+        "kauen"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://diverseclothing.co.uk/product/sensory-hoodie/",
+      "search": "Diverse MMX Cross-Neck Hoodie",
+      "action_prompt": "nesteln · ziehen · kauen",
+      "safety": [
+        "Hersteller: Hals-Kauteile erst ab 5 Jahren und nur beaufsichtigt; Erstickungsrisiko beachten."
+      ],
+      "notes": "Materialbeleg: Hersteller beschreibt seine Textilien als recycled cottons; genaue Mischung dieser Ausführung fehlt. Kauaufsatz wird als medical grade materials bezeichnet, Polymer nicht genannt. Fidget-Auswahl: Twiddling Velcro oder Go no-where zip. Geräuscharmut hängt von Klett-/Reißverschlusswahl ab. Hersteller nennt für Hals-Kauteile 5+ und beaufsichtigtes Tragen. OG-Bilddateiname enthält Photoroom, Bearbeitungsumfang ungeklärt. Recherche: Herstellerseite und Produktmetadaten am 2026-10-19 gelesen. Keine klinischen Wirksamkeitsbehauptungen übernommen. Bild technisch per HTTP GET und Bilddekodierung geprüft; keine Prüfung von Bildrechten oder dauerhafter Verfügbarkeit.",
+      "images": [
+        "https://diverseclothing.co.uk/wp-content/uploads/2026/03/Photoroom-20260327_114103378.png"
+      ]
+    },
+    {
+      "id": "product-diverse-twiddle-tag-joggers",
+      "legacy_id": null,
+      "title": "Diverse MMX Jogger – Twiddle-Tags",
+      "description": "Jogginghose mit kleinen äußeren Stofflabels an den Taschen und einem weiteren Label zum wiederholten Fingern und Reiben.",
+      "kind": "object",
+      "family": "Stimming-Kleidung",
+      "subcategory": "Hosen mit Tastdetails",
+      "senses": [
+        "tactile"
+      ],
+      "material_raw": "Aufgerautes Fleece/Baumwolltextil laut Hersteller; genaue Fasermischung ungeklärt",
+      "actions": [
+        "reiben",
+        "nesteln"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://diverseclothing.co.uk/product/2-point-sensory-fidget-sweat-pants-joggers-adult/",
+      "search": "Diverse MMX Jogger – Twiddle-Tags",
+      "action_prompt": "reiben · nesteln",
+      "safety": [],
+      "notes": "Materialbeleg: Produkttext nennt brushed back fleece sowie recycled cotton, ohne prozentuale Mischung. Beschreibung benennt ausdrücklich äußere Twiddle-Labels; nicht mit den ebenfalls angebotenen Hosen ohne Fidgets verwechseln. OG-Bilddateiname enthält Photoroom, Bearbeitungsumfang ungeklärt. Recherche: Herstellerseite und Produktmetadaten am 2026-10-19 gelesen. Keine klinischen Wirksamkeitsbehauptungen übernommen. Bild technisch per HTTP GET und Bilddekodierung geprüft; keine Prüfung von Bildrechten oder dauerhafter Verfügbarkeit.",
+      "images": [
+        "https://diverseclothing.co.uk/wp-content/uploads/2026/03/Photoroom-20260325_151625099.png"
+      ]
+    },
+    {
+      "id": "product-cloudnine-stressball-hoodie",
+      "legacy_id": null,
+      "title": "Cloud Nine Cloud Hoodie – Ärmel-Stressbälle",
+      "description": "Schwerer Hoodie mit weichen Stressbällen in den Bündchen, die sich herausnehmen lassen. Daumenöffnungen und eine große Fronttasche ergänzen die Ärmel-Fidgets.",
+      "kind": "object",
+      "family": "Stimming-Kleidung",
+      "subcategory": "Hoodies mit integrierten Fidgets",
+      "senses": [
+        "tactile"
+      ],
+      "material_raw": "Baumwolle, Polyester und Elasthan; plüschartige Füllung der Stressbälle",
+      "actions": [
+        "drücken",
+        "kneten"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://www.cloudnineclothing.ca/products/cloud-hoodie",
+      "search": "Cloud Nine Cloud Hoodie – Ärmel-Stressbälle",
+      "action_prompt": "drücken · kneten",
+      "safety": [],
+      "notes": "Materialbeleg: Hersteller nennt Cotton + Polyester + Spandex, 360 GSM und etwa 1 kg; FAQ beschreibt Stressballfüllung als ähnlich Plüschtierfüllung, keine genaue Faserart. Schwere Alltagskleidung, keine nachgewiesene medizinische Drucktherapie. Blau als ein Farbbeispiel. Recherche: Herstellerseite und Produktmetadaten am 2026-10-19 gelesen. Keine klinischen Wirksamkeitsbehauptungen übernommen. Bild technisch per HTTP GET und Bilddekodierung geprüft; keine Prüfung von Bildrechten oder dauerhafter Verfügbarkeit.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0714/5868/5233/files/Blue_1.jpg?v=1763964609"
+      ]
+    },
+    {
+      "id": "product-ark-chewable-bangle-bracelet",
+      "legacy_id": null,
+      "title": "ARK Chewable Bangle – Kauarmreif",
+      "description": "Offener, flexibler Kauarmreif zum An- und Ablegen durch Drehen. In mehreren Farben und drei farbcodierten Festigkeitsstufen angeboten.",
+      "kind": "object",
+      "family": "Stimming-Kleidung",
+      "subcategory": "Kauarmreifen",
+      "senses": [
+        "oral",
+        "tactile"
+      ],
+      "material_raw": "Medizinisches Elastomer laut Hersteller",
+      "actions": [
+        "kauen",
+        "biegen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://www.arktherapeutic.com/ark-chewable-bangle-bracelet/",
+      "search": "ARK Chewable Bangle – Kauarmreif",
+      "action_prompt": "kauen · biegen",
+      "safety": [
+        "Hersteller: ab 3 Jahren, direkte Aufsicht; regelmäßig auf Schäden prüfen und bei Verschleiß ersetzen."
+      ],
+      "notes": "Materialbeleg: konkrete Spezifikationen nennen medical-grade elastomer; nicht pauschal als Silikon eingestuft. Farben entsprechen teilweise verschiedenen Festigkeiten und sind nicht nur Optik. Kein Duplikat des vorhandenen Kaiko-Stachelarmbands: eigenständiger zum Kauen vorgesehener Armreif. Recherche: Herstellerseite und Produktmetadaten am 2026-10-19 gelesen. Keine klinischen Wirksamkeitsbehauptungen übernommen. Bild technisch per HTTP GET und Bilddekodierung geprüft; keine Prüfung von Bildrechten oder dauerhafter Verfügbarkeit.",
+      "images": [
+        "https://cdn11.bigcommerce.com/s-ghsrgu/products/512/images/7482/ark-chewy-bangle-bracelets-oral-fidgets__13822.1745975410.600.600.png?c=2"
+      ]
+    },
+    {
+      "id": "product-stimm-tactile-touch-pendant",
+      "legacy_id": null,
+      "title": "Stimm Tactile Touch Pendant",
+      "description": "Runder Anhänger mit einer weichen, leicht erhabenen Gummioberfläche zum Überstreichen mit dem Daumen; an einer langen Edelstahlkette.",
+      "kind": "object",
+      "family": "Stimming-Kleidung",
+      "subcategory": "Tastschmuck",
+      "senses": [
+        "tactile"
+      ],
+      "material_raw": "Soft-Touch-Gummi auf Edelstahl; Edelstahlkette",
+      "actions": [
+        "streichen",
+        "tasten"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://stimm.jewelry/products/pendant-rubber",
+      "search": "Stimm Tactile Touch Pendant",
+      "action_prompt": "streichen · tasten",
+      "safety": [],
+      "notes": "Materialbeleg: Produktdaten nennen soft-touch rubber on stainless steel und Edelstahlkette. Etwa 30 mm Anhänger und 80 cm Kette laut Hersteller. Herstellerseite erklärt einige Produkt-/Lifestylebilder als KI-erzeugt oder verbessert; Zuordnung für dieses konkrete Bild nicht gesichert. Deshalb nicht als dokumentarisch verifiziertes Produktfoto ausgeben. Shop meldet vorübergehende Versandpause bis 1. November; keine Lieferverfügbarkeitszusage. Recherche: Herstellerseite und Produktmetadaten am 2026-10-19 gelesen. Keine klinischen Wirksamkeitsbehauptungen übernommen. Bild technisch per HTTP GET und Bilddekodierung geprüft; keine Prüfung von Bildrechten oder dauerhafter Verfügbarkeit.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0575/7298/2954/products/stimm-rubber-necklace-275916.jpg?v=1709374601"
+      ],
+      "image_role": "manufacturer_render"
+    },
+    {
+      "id": "product-sensory-direct-comfort-scarf",
+      "legacy_id": null,
+      "title": "Sensory Direct Comfort Scarf – Frottee-Mundtuch",
+      "description": "Schmales, saugfähiges Halstuch, das zum Mund geführt werden kann. Ein Klettverschluss ermöglicht das Abnehmen; es ist als Alternative zum Benetzen und Bekauen normaler Kleidung gedacht.",
+      "kind": "object",
+      "family": "Stimming-Kleidung",
+      "subcategory": "Schals und Mundtücher",
+      "senses": [
+        "tactile",
+        "oral"
+      ],
+      "material_raw": "100 % Baumwoll-Frottee laut Hersteller; Klettverschluss",
+      "actions": [
+        "fühlen",
+        "zum Mund führen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://www.sensorydirect.com/comfort-scarf",
+      "search": "Sensory Direct Comfort Scarf – Frottee-Mundtuch",
+      "action_prompt": "fühlen · zum Mund führen",
+      "safety": [
+        "Hersteller: ab 3 Jahren, erwachsene Aufsicht; selbstständig abnehmbar; nicht beim Schlafen, Sport oder aktiven Spielen tragen; bei Verschleiß ersetzen."
+      ],
+      "notes": "Materialbeleg: Produktseite nennt 100% Terry Cotton Fleece und Herstellung durch Sensory Direct in Großbritannien. Kein harter Kaugegenstand. Eigenständige weiche Mundtextur, nicht bloß ein Kauanhänger. Recherche: Herstellerseite und Produktmetadaten am 2026-10-19 gelesen. Keine klinischen Wirksamkeitsbehauptungen übernommen. Bild technisch per HTTP GET und Bilddekodierung geprüft; keine Prüfung von Bildrechten oder dauerhafter Verfügbarkeit.",
+      "images": [
+        "https://cdn.sensorydirect.com/MAG_live/catalog/product/c/o/comfort_scarf_2.png?canvas.width=800&canvas.height=800&canvas.color=ffffff&canvas.opacity=0&w=800&h=800"
+      ]
+    },
+    {
+      "id": "product-fun-function-weighted-pocket-scarf",
+      "legacy_id": null,
+      "title": "Fun and Function Weighted Pocket Scarf",
+      "description": "Gewichteter Schal mit zwei weichen Taschen, in denen die Finger nesteln oder ein eigenes Fidget halten können. Liegt über Schultern und Nacken.",
+      "kind": "object",
+      "family": "Stimming-Kleidung",
+      "subcategory": "Gewichtete Schals mit Taschen",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "80 % Polyester, 20 % Baumwolle; Glas-Pellets in Futter aus 65 % Polyester und 35 % Baumwolle",
+      "actions": [
+        "nesteln",
+        "Gewicht spüren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://funandfunction.com/products/weighted-pocket-scarftm",
+      "search": "Fun and Function Weighted Pocket Scarf",
+      "action_prompt": "nesteln · Gewicht spüren",
+      "safety": [
+        "Hersteller: ab 5 Jahren; Alters- und Gewichtshinweise der beiliegenden Anleitung beachten."
+      ],
+      "notes": "Materialbeleg: Herstellerdetails nennen die vollständige Mischung und Glas-Pellets. Etwa 590 g (1,3 lb), circa 124 x 18 cm. Hersteller ist Fun and Function. Kein Wirksamkeitsversprechen für das zusätzliche Gewicht übernommen. Recherche: Herstellerseite und Produktmetadaten am 2026-10-19 gelesen. Keine klinischen Wirksamkeitsbehauptungen übernommen. Bild technisch per HTTP GET und Bilddekodierung geprüft; keine Prüfung von Bildrechten oder dauerhafter Verfügbarkeit.",
+      "images": [
+        "https://funandfunction.com/cdn/shop/files/dr4957_weighted_pocket_scarf--_2.jpg?v=1773088649"
+      ]
+    },
+    {
+      "id": "product-scentco-geladough",
+      "legacy_id": null,
+      "title": "Scentco Geladough – duftende Knete",
+      "description": "Weiche, dehnbare Duftknete im wiederverschließbaren Behälter. Verschiedene Duftpaare und separate Beimischungen verbinden Geruch, Farbe und veränderbare Textur.",
+      "kind": "object",
+      "family": "Duft & Geruch",
+      "subcategory": "Duftknete",
+      "senses": [
+        "olfactory",
+        "tactile"
+      ],
+      "material_raw": "Duftknete; genaue Zusammensetzung ungeklärt",
+      "actions": [
+        "kneten",
+        "ziehen",
+        "formen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://scentcoinc.com/products/geladough",
+      "search": "Scentco Geladough – duftende Knete",
+      "action_prompt": "kneten · ziehen · formen",
+      "safety": [
+        "allergy_and_scent_check"
+      ],
+      "notes": "Hersteller nennt 180 g, sechs Duftpaare und nicht essbare Beimischungen. Keine Therapie- oder Wirksamkeitsaussagen übernommen. Nicht zum Essen.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0568/8783/6861/files/Geladough_Dough_CherryStrawberry.jpg?v=1755014669",
+        "https://cdn.shopify.com/s/files/1/0568/8783/6861/files/Geladough_Primary_CherryStrawberry.jpg?v=1755014669"
+      ]
+    },
+    {
+      "id": "product-scentco-smelly-ballz-sporty",
+      "legacy_id": null,
+      "title": "Scentco Smelly Ballz Sporty",
+      "description": "Duftende Schaumstoffbälle mit Sportmotiven. Die nachgiebige Oberfläche lässt sich mit der Hand zusammendrücken; die Serie kombiniert verschiedene Motive und Düfte.",
+      "kind": "object",
+      "family": "Duft & Geruch",
+      "subcategory": "Duftende Quetschbälle",
+      "senses": [
+        "olfactory",
+        "tactile"
+      ],
+      "material_raw": "Schaumstoff; Polymerart ungeklärt",
+      "actions": [
+        "drücken",
+        "loslassen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://scentcoinc.com/products/smelly-ballz-sporty",
+      "search": "Scentco Smelly Ballz Sporty",
+      "action_prompt": "drücken · loslassen",
+      "safety": [
+        "allergy_and_scent_check"
+      ],
+      "notes": "Hersteller nennt sechs Bälle in drei Zweierpacks und unter anderem Creamsicle, Bubble Gum, Raspberry, Watermelon, Root Beer und Lemon Lime. Keine genaue Duft-Motiv-Zuordnung behauptet.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0568/8783/6861/files/SMelly_Balls_Sports_Baseball_Final.png?v=1770914632",
+        "https://cdn.shopify.com/s/files/1/0568/8783/6861/files/SmellyBallz_Sports_Squeeze_1.png?v=1770914632"
+      ]
+    },
+    {
+      "id": "product-scentco-original-smencils",
+      "legacy_id": null,
+      "title": "Scentco Original Smencils",
+      "description": "Duftende HB-Bleistifte mit einem Schaft aus gerolltem Recycling-Zeitungspapier. Einzelne Stifte werden in verschließbaren Kunststoffröhrchen aufbewahrt.",
+      "kind": "object",
+      "family": "Duft & Geruch",
+      "subcategory": "Duftende Schreibwaren",
+      "senses": [
+        "olfactory",
+        "visual"
+      ],
+      "material_raw": "Recycling-Zeitungspapier, Graphit; Kunststoffröhrchen",
+      "actions": [
+        "zeichnen",
+        "kritzeln",
+        "Duft vergleichen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://scentcoinc.com/products/original-smencils",
+      "search": "Scentco Original Smencils",
+      "action_prompt": "zeichnen · kritzeln · Duft vergleichen",
+      "safety": [
+        "allergy_and_scent_check"
+      ],
+      "notes": "Material aus Herstellerbeschreibung; kein Holzschaft. Duftsorten unter anderem Jelly Donut, Orange Soda und Pineapple Swirl; Sortimentszusammenstellung kann variieren.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0568/8783/6861/files/Smencils_Everyday_5Pk_Tubes.png?v=1770938005",
+        "https://cdn.shopify.com/s/files/1/0568/8783/6861/files/Smencils_Everyday_Tubes.png?v=1770938005"
+      ]
+    },
+    {
+      "id": "product-scentco-smillows",
+      "legacy_id": null,
+      "title": "Scentco Smillows – duftendes Plüschkissen",
+      "description": "Weiche, parfümierte Plüschkissen in Obst- und Dessertformen. Ananas, Wassermelone, Donut und weitere Motive verbinden einen Duft mit einer deutlich anderen Oberfläche als Knete oder Schaumstoff.",
+      "kind": "object",
+      "family": "Duft & Geruch",
+      "subcategory": "Duftplüsch",
+      "senses": [
+        "olfactory",
+        "tactile"
+      ],
+      "material_raw": "Plüschtextil; Faser- und Füllstoffzusammensetzung ungeklärt",
+      "actions": [
+        "streichen",
+        "halten",
+        "drücken"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://scentcoinc.com/products/smillows",
+      "search": "Scentco Smillows – duftendes Plüschkissen",
+      "action_prompt": "streichen · halten · drücken",
+      "safety": [
+        "allergy_and_scent_check"
+      ],
+      "notes": "Hersteller beschreibt duftenden Plüsch; keine unbelegte Polyesterangabe. Duft ist im Produkt und lässt sich nicht wie bei einer Dose einfach verschließen.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0568/8783/6861/products/Smillows_Pineapple_Front.jpg?v=1681320634",
+        "https://cdn.shopify.com/s/files/1/0568/8783/6861/products/Smillows_Watermelon_Front.jpg?v=1681320634"
+      ]
+    },
+    {
+      "id": "product-ooly-macarons-scented-erasers",
+      "legacy_id": null,
+      "title": "OOLY Macarons – Vanille-Radierer",
+      "description": "Sechs kleine Radierer in Macaronform und verschiedenen Farben. Die vanilleduftenden Teile lassen sich auseinandernehmen und neu zusammensetzen.",
+      "kind": "object",
+      "family": "Duft & Geruch",
+      "subcategory": "Duftende Steckradierer",
+      "senses": [
+        "olfactory",
+        "tactile"
+      ],
+      "material_raw": "Radiermaterial; genaue Zusammensetzung ungeklärt",
+      "actions": [
+        "auseinandernehmen",
+        "zusammensetzen",
+        "radieren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://www.ooly.com/products/macarons-vanilla-scented-erasers",
+      "search": "OOLY Macarons – Vanille-Radierer",
+      "action_prompt": "auseinandernehmen · zusammensetzen · radieren",
+      "safety": [
+        "allergy_and_scent_check"
+      ],
+      "notes": "Hersteller belegt Vanilleduft, sechs Farben und Puzzlefunktion. Nicht essbar; kleine Teile. Kein konkretes Polymer behauptet.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2486/2582/products/112-052-Macarons-Scented-Puzzle-Erasers-O4.png?v=1646769965",
+        "https://cdn.shopify.com/s/files/1/2486/2582/products/112-052-Macarons-Scented-Puzzle-Erasers-E1.png?v=1646769965"
+      ]
+    },
+    {
+      "id": "product-ooly-cotton-candy-scented-stickers",
+      "legacy_id": null,
+      "title": "OOLY Stickiville – Zuckerwatte-Duftsticker",
+      "description": "Beduftete Papieraufkleber in Rosa-, Blau- und Violetttönen mit Tier- und Sternmotiven. Ein flaches, leichtes Beispiel für Duft auf einer Oberfläche.",
+      "kind": "object",
+      "family": "Duft & Geruch",
+      "subcategory": "Duftsticker",
+      "senses": [
+        "olfactory",
+        "visual"
+      ],
+      "material_raw": "Papieraufkleber",
+      "actions": [
+        "aufkleben",
+        "anschauen",
+        "Duft entdecken"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://www.ooly.com/products/stickiville-fluffy-cotton-candy-scented-stickers",
+      "search": "OOLY Stickiville – Zuckerwatte-Duftsticker",
+      "action_prompt": "aufkleben · anschauen · Duft entdecken",
+      "safety": [
+        "allergy_and_scent_check"
+      ],
+      "notes": "Hersteller nennt zwei Stickerbögen plus sechs Einzelsticker und Zuckerwatteduft. Keine unbelegte Rubbelaktivierung behauptet.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/2486/2582/files/120-182_Stickiville_CottonCandy_ScentedStickers-O1-1200px.png?v=1687816139",
+        "https://cdn.shopify.com/s/files/1/2486/2582/files/120-182_Stickiville_CottonCandy_ScentedStickers-CU1-1200px.png?v=1687816139"
+      ]
+    },
+    {
+      "id": "product-crazy-aarons-banana-split",
+      "legacy_id": null,
+      "title": "Crazy Aaron’s Banana Split SCENTsory",
+      "description": "Gelbe, duftende Putty-Masse mit Bananenduft. Die Masse lässt sich kneten, ziehen und verdrehen; sie ist ein konkretes Beispiel für die SCENTsory-Serie.",
+      "kind": "object",
+      "family": "Duft & Geruch",
+      "subcategory": "Duft-Putty",
+      "senses": [
+        "olfactory",
+        "tactile"
+      ],
+      "material_raw": "Putty; genaue Zusammensetzung ungeklärt",
+      "actions": [
+        "kneten",
+        "ziehen",
+        "verdrehen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://www.crazyaarons.com/products/scentsory-banana-split-2-75-thinking-putty-tin",
+      "search": "Crazy Aaron’s Banana Split SCENTsory",
+      "action_prompt": "kneten · ziehen · verdrehen",
+      "safety": [
+        "allergy_and_scent_check"
+      ],
+      "notes": "Hersteller belegt Bananenduft und SCENTsory-Produktreihe. Nicht essbar. Keine therapeutischen Versprechen übernommen.",
+      "images": [
+        "https://cdn.shopify.com/s/files/1/1089/2120/files/01-faire-banana-split-scentsory-putty-main.jpg?v=1776711223",
+        "https://cdn.shopify.com/s/files/1/1089/2120/files/05-banana-split-scentsory-putty-stretch-bounce-twist.jpg?v=1776711223"
+      ]
+    },
+    {
+      "id": "product-lush-honey-soap",
+      "legacy_id": null,
+      "title": "Lush Honey I Washed the Kids – Seife",
+      "description": "Gelb-goldene feste Seife mit Wabenoberfläche und Karamellduft. Ein Alltagsobjekt, bei dem Duft und fühlbare Form zusammenkommen.",
+      "kind": "object",
+      "family": "Duft & Geruch",
+      "subcategory": "Duftende Alltagsobjekte",
+      "senses": [
+        "olfactory",
+        "tactile"
+      ],
+      "material_raw": "Feste Seife auf Basis von Raps- und Kokosöl; Honig, Duftstoffe",
+      "actions": [
+        "Oberfläche fühlen",
+        "beim Händewaschen erkunden"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "hersteller",
+      "provenance": "research-v11",
+      "source_url": "https://www.lush.com/de/de/p/honey-i-washed-the-kids-soap",
+      "search": "Lush Honey I Washed the Kids – Seife",
+      "action_prompt": "Oberfläche fühlen · beim Händewaschen erkunden",
+      "safety": [
+        "allergy_and_scent_check"
+      ],
+      "notes": "Herstellerprodukt, kein speziell entwickeltes Stim-Tool. Zutatenliste und Karamellduft sind belegt. Kosmetik gemäß Hersteller verwenden; Duftstoffe und Hautverträglichkeit beachten.",
+      "images": [
+        "https://unicorn.lush.com/media/thumbnails/products/honey_i_washed_the_kids_soap_2020_thumbnail_256.png"
+      ]
+    },
+    {
+      "id": "product-activity-herb-leaves",
+      "legacy_id": null,
+      "title": "Frische Kräuterblätter erkunden",
+      "description": "Bekannte Küchenkräuter wie Minze, Salbei oder Rosmarin ansehen, berühren und ihre Gerüche vergleichen. Das Foto zeigt Rosmarin als repräsentatives Beispiel.",
+      "kind": "activity",
+      "family": "Duft & Geruch",
+      "subcategory": "Frische Kräuter",
+      "senses": [
+        "olfactory",
+        "tactile"
+      ],
+      "material_raw": "Frische Kräuterblätter",
+      "actions": [
+        "berühren",
+        "vergleichen",
+        "riechen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11",
+      "source_url": "https://www.rhs.org.uk/getmedia/626de3eb-e869-4366-b47b-3fa4a3cc0da1/Sensory-herb-activities.pdf",
+      "search": "Frische Kräuterblätter erkunden",
+      "action_prompt": "berühren · vergleichen · riechen",
+      "safety": [
+        "allergy_and_scent_check"
+      ],
+      "notes": "Alltagsaktivität, keine Behandlung. Repräsentatives Foto: Rosmarin-Auswahl aus dem RHS-Gartenführer https://www.rhs.org.uk/herbs/rosemary/grow-your-own. Nur bekannte, verträgliche Pflanzen verwenden; Verzehr ist kein Bestandteil dieser Idee.",
+      "images": [
+        "https://assets.rhs.org.uk/05836e9f-2692-012f-b4fe-e3f22d127fa9/42e31425-f57f-4b9f-a760-0cf2977f09f3/rosemary-selection.jpg?w=1200&fit=clip&fm=jpg&auto=format"
+      ],
+      "image_role": "representative_photo"
+    },
+    {
+      "id": "product-activity-lemon-zest",
+      "legacy_id": null,
+      "title": "Zitronenschale beim Zubereiten erkunden",
+      "description": "Beim Vorbereiten einer Zitrone die gelbe Schale, ihre Oberfläche und ihren frischen Geruch wahrnehmen. Das Foto zeigt eine Zitrone als Motivbeispiel.",
+      "kind": "activity",
+      "family": "Duft & Geruch",
+      "subcategory": "Zitrusschale",
+      "senses": [
+        "olfactory",
+        "tactile"
+      ],
+      "material_raw": "Zitrone und Zitronenschale",
+      "actions": [
+        "Oberfläche fühlen",
+        "Schale erkunden",
+        "riechen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11",
+      "source_url": "https://www.microplaneintl.com/en/food-guide/lemon",
+      "search": "Zitronenschale beim Zubereiten erkunden",
+      "action_prompt": "Oberfläche fühlen · Schale erkunden · riechen",
+      "safety": [
+        "allergy_and_scent_check"
+      ],
+      "notes": "Repräsentatives Foto aus dem Microplane-Lebensmittelguide; kein Produktangebot für einen Stim-Gegenstand. Eine Reibe ist nicht erforderlich. Bei Zubereitung übliche Küchenvorsicht beachten.",
+      "images": [
+        "https://www.microplaneintl.com/application/files/9814/7073/1199/food_guide_lemon.jpg"
+      ],
+      "image_role": "representative_photo"
+    },
+    {
+      "id": "product-activity-fragrant-flowers",
+      "legacy_id": null,
+      "title": "Duftende Blüten im Garten entdecken",
+      "description": "An einem bekannten duftenden Strauch vorbeigehen, die Blüten ansehen und den Geruch mit selbst gewähltem Abstand wahrnehmen. Das Foto zeigt einen Pfeifenstrauch.",
+      "kind": "activity",
+      "family": "Duft & Geruch",
+      "subcategory": "Blütendüfte",
+      "senses": [
+        "olfactory",
+        "visual"
+      ],
+      "material_raw": "Blüten und Pflanzen",
+      "actions": [
+        "anschauen",
+        "Duft entdecken",
+        "Abstand wählen"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11",
+      "source_url": "https://www.rhs.org.uk/plants/for-places/for-scent-fragrance",
+      "search": "Duftende Blüten im Garten entdecken",
+      "action_prompt": "anschauen · Duft entdecken · Abstand wählen",
+      "safety": [
+        "allergy_and_scent_check"
+      ],
+      "notes": "Repräsentatives Foto: Philadelphus „Manteau d’Hermine“ aus dem RHS-Artikel. Pflanzen nicht essen; individuelle Duftempfindlichkeit beachten.",
+      "images": [
+        "https://assets.rhs.org.uk/05836e9f-2692-012f-b4fe-e3f22d127fa9/43aa3864-3546-4a0c-b89b-10f5b4641049/philadelphus-manteau-d-hermine.jpg?fm=jpg&auto=format&w=400&fit=clip"
+      ],
+      "image_role": "representative_photo"
+    }
+  ],
+  "image_overrides": [
+    {
+      "id": "R01-091",
+      "images": [
+        "https://www.sonnentor.com/at/product-images/00209/117286/image-thumb__117286__lightbox-img-product/00209_pfefferminze_1.6c66267f.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://www.sonnentor.com/de-at/onlineshop/tee/kraeuter-pur/pfefferminze-lose-bio",
+      "image_attribution": "SONNENTOR · Symbolfoto von losem Pfefferminztee; zeigt das Pflanzenmaterial, keine fertige Duftkarte.",
+      "notes": "Symbolfoto: getrocknete Pfefferminze als Beispiel für lose Teeblätter. Das Foto zeigt weder die geschlossene Karte noch ein fertiges Stim-Produkt."
+    },
+    {
+      "id": "R01-090",
+      "images": [
+        "https://muenchner-kraeutergarten.com/wp-content/uploads/2026/07/88229-orangenschalen-1-scaled-600x401.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://muenchner-kraeutergarten.com/produkt/bio-orangenschalen-geschnitten-kba-getrocknet/",
+      "image_attribution": "Münchner Kräutergarten GmbH · Symbolfoto getrockneter Orangenschalen; zeigt das Pflanzenmaterial, kein Riechglas.",
+      "notes": "Symbolfoto von getrockneten, geschnittenen Orangenschalen; keine genaue Produktabbildung einer selbst befüllten Geruchsdose."
+    },
+    {
+      "id": "R01-126",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/10/Cranes_made_by_Origami_paper.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Cranes_made_by_Origami_paper.jpg",
+      "image_attribution": "Laitche · Public domain · Wikimedia Commons. Symbolfoto gefalteter Kraniche; zeigt keine bestimmte Durchführung."
+    }
+  ]
+}

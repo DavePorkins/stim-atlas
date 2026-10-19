@@ -1,0 +1,4725 @@
+{
+  "project": "STIM STUDIO",
+  "version": "Research Run 01",
+  "created": "2026-10-19",
+  "basis": {
+    "filename": "stim_studio_v8_katalog.json",
+    "total": 214,
+    "categories": {
+      "Drehen & Formen": 24,
+      "Fühlen & Tasten": 33,
+      "Klicken & Schalten": 21,
+      "Drücken & Quetschen": 12,
+      "Ziehen & Dehnen": 7,
+      "Kauen & Oral": 3,
+      "Klang & Rhythmus": 3,
+      "Sehen & Staunen": 12,
+      "Kreativ & Material": 6,
+      "Bewegung & Druck": 14,
+      "Magnetisch": 16,
+      "3D-Druck & Flexi": 20,
+      "Textil & Stoff": 28,
+      "Naturmaterialien": 5,
+      "Pen Spinning": 1,
+      "Geschicklichkeit & Tricks": 5,
+      "Schmuck & Wearables": 4
+    }
+  },
+  "taxonomy": {
+    "metadata": {
+      "version": "Research Run 01",
+      "date": "2026-10-19",
+      "status": "curated taxonomy proposal, NOT imported into v8",
+      "basis": "214 existing v8 records"
+    },
+    "sensory_systems": {
+      "tactile": [
+        "glatt",
+        "rau",
+        "geriffelt",
+        "noppig",
+        "flauschig",
+        "samtig",
+        "rutschig",
+        "klebrig",
+        "körnig",
+        "weich",
+        "fest",
+        "elastisch",
+        "kühl",
+        "warm",
+        "vibrierend",
+        "feucht/trocken",
+        "leicht/starkes Berühren"
+      ],
+      "proprioceptive": [
+        "sanfter Druck",
+        "fester Druck",
+        "Kompression",
+        "Zug",
+        "Dehnung",
+        "Muskelwiderstand",
+        "Halten",
+        "Squeeze",
+        "Gewicht",
+        "Gelenkposition"
+      ],
+      "vestibular": [
+        "wiegen",
+        "wippen",
+        "schaukeln",
+        "balancieren",
+        "rotieren",
+        "hüpfen",
+        "rhythmisches Gehen"
+      ],
+      "visual": [
+        "fließen",
+        "rotieren",
+        "rieseln",
+        "glitzern",
+        "Farbwechsel",
+        "Licht/Schatten",
+        "Geometrie",
+        "Moiré",
+        "Symmetrie",
+        "Augenbewegung"
+      ],
+      "auditory": [
+        "klicken",
+        "rascheln",
+        "knistern",
+        "rasseln",
+        "summen",
+        "rhythmisch",
+        "tief/hoch",
+        "Naturklang",
+        "Stille/Abschirmung"
+      ],
+      "olfactory": [
+        "holzartig",
+        "kräuterig",
+        "fruchtig",
+        "warm/süß",
+        "frisch",
+        "vertraut",
+        "neutral/geruchsfrei"
+      ],
+      "gustatory_oral": [
+        "kauen",
+        "beißen",
+        "saugen",
+        "knuspern",
+        "weiche Textur",
+        "stark/mild",
+        "kühl/warm"
+      ],
+      "interoceptive": [
+        "Atembewegung wahrnehmen",
+        "Puls wahrnehmen",
+        "innere Anspannung",
+        "Hunger/Durst",
+        "Wärmegefühl",
+        "Körperkontakt/Unterlage"
+      ]
+    },
+    "actions": [
+      "streichen",
+      "rubbeln",
+      "knibbeln",
+      "kratzen",
+      "rollen",
+      "drehen",
+      "klappen",
+      "klicken",
+      "drücken",
+      "quetschen",
+      "kneten",
+      "ziehen",
+      "dehnen",
+      "falten",
+      "schwingen",
+      "balancieren",
+      "jonglieren",
+      "tippen",
+      "kritzeln",
+      "sortieren",
+      "hören",
+      "singen",
+      "summen",
+      "riechen",
+      "kauen",
+      "beobachten",
+      "atmen (ohne Vorgabe)",
+      "wiegen",
+      "gehen"
+    ],
+    "experience_properties": {
+      "rhythm": [
+        "frei",
+        "regelmäßig",
+        "wechselnd",
+        "einzelner Impuls"
+      ],
+      "input_strength": [
+        "sehr sanft",
+        "sanft",
+        "deutlich",
+        "kräftig",
+        "unbekannt"
+      ],
+      "feedback": [
+        "kontinuierlich",
+        "rastend",
+        "federnd",
+        "reibung",
+        "klickend",
+        "verzögert",
+        "zufällig",
+        "vorhersehbar"
+      ],
+      "attention": [
+        "automatisch/nebenbei",
+        "leicht aufmerksam",
+        "voll fokussiert"
+      ],
+      "repetition": [
+        "endlose Schleife",
+        "Serie",
+        "einzelne Wiederholung",
+        "Trick/Lernkurve"
+      ],
+      "tempo": [
+        "langsam",
+        "variabel",
+        "schnell"
+      ],
+      "hand_usage": [
+        "keine Hände",
+        "eine Hand",
+        "beide Hände",
+        "ganzer Körper"
+      ]
+    },
+    "desired_effects": [
+      "Ruhe finden",
+      "Fokus unterstützen",
+      "wach werden",
+      "Anspannung lösen",
+      "Freude ausdrücken",
+      "Spannung/Neugier",
+      "Grounding",
+      "Übergang begleiten",
+      "Warten überbrücken",
+      "Gedanken sortieren",
+      "Kreativer Flow",
+      "angenehme Wahrnehmung genießen"
+    ],
+    "experience_modes": [
+      {
+        "id": "micro",
+        "name": "Mikro-Stim",
+        "description": "Winzige, oft unbemerkte Stims mit wenig Aufwand"
+      },
+      {
+        "id": "flow",
+        "name": "Flow / Skill",
+        "description": "Wiederholung mit Fingerspitzengefühl und Lernkurve"
+      },
+      {
+        "id": "ground",
+        "name": "Grounding",
+        "description": "Körperkontakt, vertraute Texturen, Rhythmus"
+      },
+      {
+        "id": "pressure",
+        "name": "Druck & Widerstand",
+        "description": "Spürbarer Muskel- und Gelenkwiderstand"
+      },
+      {
+        "id": "soothe",
+        "name": "Sanft & weich",
+        "description": "Geringe Intensität, angenehme Texturen"
+      },
+      {
+        "id": "energize",
+        "name": "Aktivieren",
+        "description": "Bewegen, wippen, kräftig drücken, rhythmisch werden"
+      },
+      {
+        "id": "visual",
+        "name": "Visuelles Versinken",
+        "description": "Muster, Schleifen, Licht oder fließende Effekte"
+      },
+      {
+        "id": "sound",
+        "name": "Klang & Stimme",
+        "description": "Rhythmus, Töne, Summen, Wiederholung"
+      },
+      {
+        "id": "explore",
+        "name": "Materiallabor",
+        "description": "Unbekannte Oberflächen und Gegensätze vergleichen"
+      },
+      {
+        "id": "playful",
+        "name": "Freude & Ausdruck",
+        "description": "Bewegung, Tanz, freies Spiel"
+      },
+      {
+        "id": "recovery",
+        "name": "Reizarm zurückziehen",
+        "description": "Reizlast reduzieren, bevorzugte Reize zulassen"
+      },
+      {
+        "id": "creative",
+        "name": "Machen & Gestalten",
+        "description": "Kreative Handarbeit, taktile Prozessmedien"
+      }
+    ],
+    "situations": [
+      {
+        "id": "vorlesung",
+        "name": "Vorlesung / Schule",
+        "constraints": [
+          "leise",
+          "nicht ablenkend",
+          "sauber",
+          "oft einhändig"
+        ]
+      },
+      {
+        "id": "seminar",
+        "name": "Seminar / Meeting",
+        "constraints": [
+          "leise",
+          "unauffällig falls gewünscht",
+          "unter Tisch möglich"
+        ]
+      },
+      {
+        "id": "bibliothek",
+        "name": "Bibliothek",
+        "constraints": [
+          "lautlos",
+          "klein",
+          "geruchsneutral"
+        ]
+      },
+      {
+        "id": "schreibtisch",
+        "name": "Schreibtisch / Lernen",
+        "constraints": [
+          "nebenbei oder Lernpause",
+          "wenig Platz"
+        ]
+      },
+      {
+        "id": "digital",
+        "name": "Bildschirmarbeit",
+        "constraints": [
+          "Hände ggf. belegt",
+          "auch Fuß oder Audio"
+        ]
+      },
+      {
+        "id": "telefon",
+        "name": "Telefonat / Gespräch",
+        "constraints": [
+          "einseitige Aufmerksamkeit",
+          "einfach"
+        ]
+      },
+      {
+        "id": "soziales",
+        "name": "Gesellige Gruppe",
+        "constraints": [
+          "tragbar",
+          "selbstbestimmt sichtbar/unauffällig"
+        ]
+      },
+      {
+        "id": "pendeln",
+        "name": "Bus / Bahn / Pendeln",
+        "constraints": [
+          "pocket",
+          "verlustarm",
+          "andere nicht stören"
+        ]
+      },
+      {
+        "id": "warten",
+        "name": "Wartezimmer / Schlange",
+        "constraints": [
+          "tragbar",
+          "hygienisch",
+          "ruhig"
+        ]
+      },
+      {
+        "id": "reisen",
+        "name": "Reisen",
+        "constraints": [
+          "robust",
+          "kompakt",
+          "transportierbar"
+        ]
+      },
+      {
+        "id": "unterwegs",
+        "name": "Spaziergang / Draußen",
+        "constraints": [
+          "robust",
+          "frei beweglich",
+          "Naturmaterialien"
+        ]
+      },
+      {
+        "id": "zuhause",
+        "name": "Zu Hause allein",
+        "constraints": [
+          "viel Freiheit",
+          "auch hörbar/groß"
+        ]
+      },
+      {
+        "id": "sofa",
+        "name": "Sofa / Film",
+        "constraints": [
+          "nebenbei",
+          "bequem",
+          "leise"
+        ]
+      },
+      {
+        "id": "bett",
+        "name": "Abends / im Bett",
+        "constraints": [
+          "sanft",
+          "kein grelles Licht",
+          "kein harter Kleinteilekram"
+        ]
+      },
+      {
+        "id": "morgen",
+        "name": "Morgens aktiv werden",
+        "constraints": [
+          "bewegungsfreundlich",
+          "regulierbare Intensität"
+        ]
+      },
+      {
+        "id": "ueberlastet",
+        "name": "Nach Reizüberflutung",
+        "constraints": [
+          "kontrollierbar",
+          "geringer Input",
+          "schnell abbrechbar"
+        ]
+      },
+      {
+        "id": "wechsel",
+        "name": "Übergänge zwischen Tätigkeiten",
+        "constraints": [
+          "kurz",
+          "wiederholbar",
+          "mitnehmbar"
+        ]
+      },
+      {
+        "id": "kreativ",
+        "name": "Atelier / kreatives Arbeiten",
+        "constraints": [
+          "Handarbeit",
+          "experimentell",
+          "auch größere Objekte"
+        ]
+      },
+      {
+        "id": "bewegung",
+        "name": "Bewegungspause",
+        "constraints": [
+          "mehr Raum",
+          "Körperbewegung"
+        ]
+      },
+      {
+        "id": "familie",
+        "name": "Gemeinsamer Raum mit Kindern",
+        "constraints": [
+          "altersgerecht",
+          "sichere Größe",
+          "keine freien starken Magnete"
+        ]
+      },
+      {
+        "id": "arbeit",
+        "name": "Werkstatt / Arbeitsplatz",
+        "constraints": [
+          "nicht in Sicherheitsabläufe eingreifen",
+          "hygienisch"
+        ]
+      },
+      {
+        "id": "ruhe",
+        "name": "Rückzugsort / sensory corner",
+        "constraints": [
+          "individuell abstimmbar",
+          "low sensory"
+        ]
+      }
+    ],
+    "materials": [
+      "Holz",
+      "Kork",
+      "Stein",
+      "Keramik",
+      "Metall",
+      "Glas",
+      "Baumwolle",
+      "Leinen",
+      "Wolle",
+      "Filz",
+      "Samt",
+      "Fleece",
+      "Minky",
+      "Seide/Satin",
+      "Leder",
+      "Kunstleder",
+      "Naturgummi/Latex",
+      "Silikon",
+      "Kunststoff",
+      "PLA/3D-Druck",
+      "Papier",
+      "Wachs",
+      "Sand",
+      "Wasser/Flüssigkeit",
+      "Gel/Knete",
+      "Elektronik",
+      "Pflanzen/Natur"
+    ],
+    "object_forms": [
+      "handheld object",
+      "wearable",
+      "body equipment",
+      "activity / no purchase",
+      "digital experience",
+      "room/environment"
+    ],
+    "negative_preferences": [
+      "kein Plastik",
+      "kein Metall",
+      "keine Tiermaterialien",
+      "kein Latex",
+      "kein Duft",
+      "kein Ton",
+      "kein Lichtblinken",
+      "keine Kleinteile",
+      "keine Magnete",
+      "keine klebrigen Materialien",
+      "nichts zum Kauen",
+      "kein direkter Hautkontakt",
+      "keine öffentlichen sichtbaren Stims",
+      "kein großer Kraftaufwand"
+    ],
+    "research_fields_needed": [
+      "stim_form",
+      "modality_primary",
+      "modality_secondary",
+      "subtype",
+      "actions",
+      "materials_exact",
+      "sound_level_tested",
+      "stimulus_intensity",
+      "requires_attention",
+      "one_hand",
+      "visibility_preference",
+      "washable",
+      "adult_suitability",
+      "child_suitability",
+      "allergy_info",
+      "hazards",
+      "source_url",
+      "photo_provenance",
+      "evidence_level",
+      "personal_feedback"
+    ]
+  },
+  "new_research_leads": [
+    {
+      "research_id": "R01-001",
+      "title": "Bürsten-Fühlpad mit weichen Borsten",
+      "family": "Taktile Texturen",
+      "subcategory": "Bürsten & Fasern",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Synthetikfasern/Holz",
+      "contexts": [
+        "zuhause",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Sanftes wiederholtes Darüberstreichen",
+      "research_sources_family": [
+        "OT",
+        "REDDIT",
+        "ADULTS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-002",
+      "title": "Silikon-Texturstreifen mit Rillen",
+      "family": "Taktile Texturen",
+      "subcategory": "Rillen & Rippen",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Silikon",
+      "contexts": [
+        "seminar",
+        "pendeln"
+      ],
+      "experience_to_try": "Wiederholtes Daumenreiben an Kanten",
+      "research_sources_family": [
+        "OT",
+        "REDDIT",
+        "ADULTS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-003",
+      "title": "Klettband-Fühlpatch (weiche Seite)",
+      "family": "Taktile Texturen",
+      "subcategory": "Haken & Flausch",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Kunststoff/Textil",
+      "contexts": [
+        "schreibtisch",
+        "vorlesung"
+      ],
+      "experience_to_try": "Reibungsimpuls, grob oder flauschig",
+      "research_sources_family": [
+        "OT",
+        "REDDIT",
+        "ADULTS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-004",
+      "title": "Taktile Sticker für Tisch-Unterseite",
+      "family": "Taktile Texturen",
+      "subcategory": "Verdeckte Oberflächen",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Silikon/Kunststoff",
+      "contexts": [
+        "bibliothek",
+        "seminar"
+      ],
+      "experience_to_try": "Unter dem Tisch unauffällig ertasten",
+      "research_sources_family": [
+        "OT",
+        "REDDIT",
+        "ADULTS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-005",
+      "title": "Umkehrbarer Pailletten-Stoffstreifen",
+      "family": "Taktile Texturen",
+      "subcategory": "Richtungstexturen",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Textil/Pailletten",
+      "contexts": [
+        "zuhause",
+        "sofa"
+      ],
+      "experience_to_try": "Oberfläche verändert sich mit Streichen",
+      "research_sources_family": [
+        "OT",
+        "REDDIT",
+        "ADULTS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-006",
+      "title": "Memory-Foam-Fühlblock",
+      "family": "Taktile Texturen",
+      "subcategory": "Nachgebende Masse",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Schaumstoff",
+      "contexts": [
+        "schreibtisch",
+        "sofa"
+      ],
+      "experience_to_try": "Langsame Rückformung und Eindrücken",
+      "research_sources_family": [
+        "OT",
+        "REDDIT",
+        "ADULTS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-007",
+      "title": "Waffelstruktur-Gewebepad",
+      "family": "Taktile Texturen",
+      "subcategory": "Gewebe",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Baumwolle",
+      "contexts": [
+        "vorlesung",
+        "sofa"
+      ],
+      "experience_to_try": "Grob gewebte Mulden ertasten",
+      "research_sources_family": [
+        "OT",
+        "REDDIT",
+        "ADULTS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-008",
+      "title": "Noppen-Texturtafel aus Keramik",
+      "family": "Taktile Texturen",
+      "subcategory": "Harte Reliefs",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Keramik",
+      "contexts": [
+        "zuhause",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Wiederholbares Nachfahren präziser Formen",
+      "research_sources_family": [
+        "OT",
+        "REDDIT",
+        "ADULTS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-009",
+      "title": "Leder-Texturkärtchen (oder veganes Leder)",
+      "family": "Taktile Texturen",
+      "subcategory": "Griffige Oberflächen",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Leder/Kunstleder",
+      "contexts": [
+        "pendeln",
+        "arbeit"
+      ],
+      "experience_to_try": "Natur-/Kunstnarbe als Reibungsgefühl",
+      "research_sources_family": [
+        "OT",
+        "REDDIT",
+        "ADULTS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-010",
+      "title": "Anti-Rutsch-Mesh-Patch",
+      "family": "Taktile Texturen",
+      "subcategory": "Gitter & Netz",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Gummi/Textil",
+      "contexts": [
+        "schreibtisch"
+      ],
+      "experience_to_try": "Zellstruktur und elastischen Widerstand fühlen",
+      "research_sources_family": [
+        "OT",
+        "REDDIT",
+        "ADULTS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-011",
+      "title": "Pinsel-Fühlset für Fingerspitzen",
+      "family": "Taktile Texturen",
+      "subcategory": "Pinsel & Feder",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Kunstfaser/Holz",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Abwechselnd weiche feine Pinselhärte ausprobieren",
+      "research_sources_family": [
+        "OT",
+        "REDDIT",
+        "ADULTS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-012",
+      "title": "Silk-Ribbon-Sample mit Saum",
+      "family": "Taktile Texturen",
+      "subcategory": "Glattes Textil",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Seide/Satin",
+      "contexts": [
+        "seminar",
+        "sofa"
+      ],
+      "experience_to_try": "Wechsel glatter Fläche und Kante",
+      "research_sources_family": [
+        "OT",
+        "REDDIT",
+        "ADULTS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-013",
+      "title": "Kühler Edelstahl-Handstein",
+      "family": "Temperatur & Vibration",
+      "subcategory": "Temperaturkontakt",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Edelstahl",
+      "contexts": [
+        "zuhause",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Kühl, glatt und gewichtig; kein Extremkühlen",
+      "research_sources_family": [
+        "ADULTS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "avoid_temperature_extremes"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-014",
+      "title": "Keramik-Kühlplättchen",
+      "family": "Temperatur & Vibration",
+      "subcategory": "Temperaturkontakt",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Keramik",
+      "contexts": [
+        "sofa",
+        "zuhause"
+      ],
+      "experience_to_try": "Temperaturwechsel ohne scharfe Kanten",
+      "research_sources_family": [
+        "ADULTS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "avoid_temperature_extremes"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-015",
+      "title": "Taschen-Wärmekissen mit Hülle",
+      "family": "Temperatur & Vibration",
+      "subcategory": "Wärme & Druck",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Textil/Wärmekern",
+      "contexts": [
+        "zuhause",
+        "sofa"
+      ],
+      "experience_to_try": "Angenehm temperiertes Halten; Verbrennungen vermeiden",
+      "research_sources_family": [
+        "ADULTS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "avoid_temperature_extremes"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-016",
+      "title": "Sanft vibrierender Sensorik-Puck",
+      "family": "Temperatur & Vibration",
+      "subcategory": "Vibration",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Elektronik/Silikon",
+      "contexts": [
+        "zuhause",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Kontrollierbare pulsierende Berührung",
+      "research_sources_family": [
+        "ADULTS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "avoid_temperature_extremes"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-017",
+      "title": "Vibrationskissen mit verstellbarer Stärke",
+      "family": "Temperatur & Vibration",
+      "subcategory": "Vibration",
+      "form": "body equipment",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Textil/Elektronik",
+      "contexts": [
+        "zuhause",
+        "ruhe"
+      ],
+      "experience_to_try": "Sanftes großflächiges Vibrieren",
+      "research_sources_family": [
+        "ADULTS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "avoid_temperature_extremes"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-018",
+      "title": "Wendestein mit polierter und rauer Seite",
+      "family": "Temperatur & Vibration",
+      "subcategory": "Temperatur + Struktur",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Stein",
+      "contexts": [
+        "pendeln",
+        "zuhause"
+      ],
+      "experience_to_try": "Kontrast zwischen glatter und rauer Fläche",
+      "research_sources_family": [
+        "ADULTS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "avoid_temperature_extremes"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-019",
+      "title": "Magnetfreier Schieberegler mit Reibung",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Lineares Gleiten",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Metall/Holz",
+      "contexts": [
+        "bibliothek",
+        "seminar"
+      ],
+      "experience_to_try": "Sanftes Gleiten ohne Klick",
+      "research_sources_family": [
+        "HAPTIC",
+        "OT"
+      ],
+      "safety_review_flags": [
+        "small_magnets_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-020",
+      "title": "Federdruck-Stempel ohne Tinte",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Federrücklauf",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Metall/Kunststoff",
+      "contexts": [
+        "schreibtisch"
+      ],
+      "experience_to_try": "Kurzer Widerstand und Rückfedern",
+      "research_sources_family": [
+        "HAPTIC",
+        "OT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-021",
+      "title": "Rastender Drehencoder-Knopf",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Detents",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Metall/Kunststoff",
+      "contexts": [
+        "schreibtisch",
+        "vorlesung"
+      ],
+      "experience_to_try": "Einzelne definierte Rastpunkte",
+      "research_sources_family": [
+        "HAPTIC",
+        "OT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-022",
+      "title": "Silikon-Daumenrad",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Daumenrotation",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Silikon",
+      "contexts": [
+        "pendeln",
+        "seminar"
+      ],
+      "experience_to_try": "Rollwiderstand ohne lautes Geräusch",
+      "research_sources_family": [
+        "HAPTIC",
+        "OT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-023",
+      "title": "Geräuscharmes Kettenrollen-Fidget",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Kette & Rollwiderstand",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Metall",
+      "contexts": [
+        "pendeln",
+        "vorlesung"
+      ],
+      "experience_to_try": "Rhythmisches Abrollen mit wenig Klang",
+      "research_sources_family": [
+        "HAPTIC",
+        "OT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-024",
+      "title": "Mikro-Hebelmechanik aus Holz",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Hebel & Schalter",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Holz",
+      "contexts": [
+        "zuhause",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Mechanische Wiederholung durch Kipphebel",
+      "research_sources_family": [
+        "HAPTIC",
+        "OT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-025",
+      "title": "Gewindeschraube mit großer Flügelmutter",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Schrauben",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Metall",
+      "contexts": [
+        "schreibtisch"
+      ],
+      "experience_to_try": "Endlose Drehbewegung (fest verbundene Teile)",
+      "research_sources_family": [
+        "HAPTIC",
+        "OT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-026",
+      "title": "Mini-Ratschenrad mit Dämpfung",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Ratschen",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Metall/Kunststoff",
+      "contexts": [
+        "zuhause",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Klickwiderstand mit geringerer Lautstärke",
+      "research_sources_family": [
+        "HAPTIC",
+        "OT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-027",
+      "title": "Makramee-Knotenkette",
+      "family": "Textil, Knoten & Kleidung",
+      "subcategory": "Knoten",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Baumwollkordel",
+      "contexts": [
+        "pendeln",
+        "sofa"
+      ],
+      "experience_to_try": "Knoten ertasten und gleiten lassen",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-028",
+      "title": "Breites weiches Scrunchie",
+      "family": "Textil, Knoten & Kleidung",
+      "subcategory": "Textile Wearables",
+      "form": "wearable",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Stoff/Gummi",
+      "contexts": [
+        "seminar",
+        "unterwegs"
+      ],
+      "experience_to_try": "Stoff falten, drehen, zusammendrücken",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-029",
+      "title": "Handgenähte Schlaufenleiste",
+      "family": "Textil, Knoten & Kleidung",
+      "subcategory": "Schlaufen",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Baumwolle/Band",
+      "contexts": [
+        "vorlesung",
+        "sofa"
+      ],
+      "experience_to_try": "Finger durch einzelne Schlaufen führen",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-030",
+      "title": "Dicker Woll-Zopf zum Umlegen",
+      "family": "Textil, Knoten & Kleidung",
+      "subcategory": "Geflochtene Fasern",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Wolle/Polyester",
+      "contexts": [
+        "sofa",
+        "zuhause"
+      ],
+      "experience_to_try": "Dicke Stränge greifen und bewegen",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-031",
+      "title": "Chenille-Schnur-Fingerwicklung",
+      "family": "Textil, Knoten & Kleidung",
+      "subcategory": "Fasern & Wickeln",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Chenille/Textil",
+      "contexts": [
+        "zuhause",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Flauschig wickeln, auf saubere Enden achten",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-032",
+      "title": "Gewebtes Band mit Schieber",
+      "family": "Textil, Knoten & Kleidung",
+      "subcategory": "Textiler Schieber",
+      "form": "wearable",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Baumwolle/Kunststoff",
+      "contexts": [
+        "pendeln",
+        "seminar"
+      ],
+      "experience_to_try": "Schieber kontinuierlich auf Stoff führen",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-033",
+      "title": "Fleece-Handtaschen-Innenpatch",
+      "family": "Textil, Knoten & Kleidung",
+      "subcategory": "Unauffällige Textilien",
+      "form": "wearable",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Fleece",
+      "contexts": [
+        "pendeln",
+        "soziales"
+      ],
+      "experience_to_try": "Verstecktes Streichen in Kleidung/Tasche",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-034",
+      "title": "Haargummi-Knotenloop",
+      "family": "Textil, Knoten & Kleidung",
+      "subcategory": "Elastische Schlaufen",
+      "form": "wearable",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Textilgummi",
+      "contexts": [
+        "pendeln",
+        "soziales"
+      ],
+      "experience_to_try": "Ziehen, falten und mit Fingern drehen",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-035",
+      "title": "Stuhlbein-Widerstandsband für Füße",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Fußdruck",
+      "form": "body equipment",
+      "sensory_systems": [
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Latex/latexfrei",
+      "contexts": [
+        "vorlesung",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Unter dem Stuhl rhythmisch drücken",
+      "research_sources_family": [
+        "ASC",
+        "OT",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-036",
+      "title": "Fußwippe unter dem Tisch",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Wippen",
+      "form": "body equipment",
+      "sensory_systems": [
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Holz/Metall",
+      "contexts": [
+        "schreibtisch",
+        "digital"
+      ],
+      "experience_to_try": "Rhythmische Fußbewegung",
+      "research_sources_family": [
+        "ASC",
+        "OT",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-037",
+      "title": "Fußmassage-Kugel unter dem Tisch",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Fußkontakt",
+      "form": "body equipment",
+      "sensory_systems": [
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Kork/Holz",
+      "contexts": [
+        "schreibtisch",
+        "seminar"
+      ],
+      "experience_to_try": "Sohlenkontakt und kontrollierter Druck",
+      "research_sources_family": [
+        "ASC",
+        "OT",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-038",
+      "title": "Handtrainer aus weichem Schaum",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Kompression",
+      "form": "handheld object",
+      "sensory_systems": [
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Schaumstoff",
+      "contexts": [
+        "schreibtisch",
+        "pendeln"
+      ],
+      "experience_to_try": "Greifen und langsames Loslassen",
+      "research_sources_family": [
+        "ASC",
+        "OT",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-039",
+      "title": "Handtrainer mit verstellbarem Widerstand",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Greifkraft",
+      "form": "handheld object",
+      "sensory_systems": [
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Metall/Kunststoff",
+      "contexts": [
+        "zuhause",
+        "bewegung"
+      ],
+      "experience_to_try": "Deutlicher Widerstand, Belastung anpassen",
+      "research_sources_family": [
+        "ASC",
+        "OT",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-040",
+      "title": "Gewichtetes Schoßkissen",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Tiefer Druck",
+      "form": "body equipment",
+      "sensory_systems": [
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Textil/Füllung",
+      "contexts": [
+        "zuhause",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Gleichmäßiges Gewicht auf den Oberschenkeln",
+      "research_sources_family": [
+        "ASC",
+        "OT",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "pressure_and_fit_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "possible variant or overlap – verify manually",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification",
+      "potential_v8_overlap": [
+        {
+          "id": 4011,
+          "name": "Gewichtetes Fühlkissen",
+          "similarity": 0.88
+        }
+      ]
+    },
+    {
+      "research_id": "R01-041",
+      "title": "Kompressionsärmel mit angenehmem Druck",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Körperkontakt",
+      "form": "wearable",
+      "sensory_systems": [
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Textil/Elasthan",
+      "contexts": [
+        "arbeit",
+        "vorlesung"
+      ],
+      "experience_to_try": "Konstanter leichter Druck; passende Größe",
+      "research_sources_family": [
+        "ASC",
+        "OT",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "pressure_and_fit_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-042",
+      "title": "Elastischer Yogagurt für Zugspiele",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Zugkraft",
+      "form": "body equipment",
+      "sensory_systems": [
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Textil",
+      "contexts": [
+        "bewegung",
+        "zuhause"
+      ],
+      "experience_to_try": "Körpergrenzen durch kontrolliertes Ziehen",
+      "research_sources_family": [
+        "ASC",
+        "OT",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-043",
+      "title": "Wall-Push / Druck gegen Wand",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Isometrische Bewegung",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "bewegung",
+        "wechsel"
+      ],
+      "experience_to_try": "Selbstbestimmter kurzer Muskelwiderstand",
+      "research_sources_family": [
+        "ASC",
+        "OT",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-044",
+      "title": "Handflächen gegeneinander drücken",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Isometrische Bewegung",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "warten",
+        "seminar"
+      ],
+      "experience_to_try": "Leises Muskelgefühl ohne Objekt",
+      "research_sources_family": [
+        "ASC",
+        "OT",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-045",
+      "title": "Knie-/Oberschenkelkissen zum Drücken",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Squeeze",
+      "form": "body equipment",
+      "sensory_systems": [
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Textil/Schaum",
+      "contexts": [
+        "zuhause",
+        "sofa"
+      ],
+      "experience_to_try": "Sanfter großer Druck mit Beinen",
+      "research_sources_family": [
+        "ASC",
+        "OT",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-046",
+      "title": "Schaukelhocker / Wobble Stool",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Aktives Sitzen",
+      "form": "body equipment",
+      "sensory_systems": [
+        "vestibular"
+      ],
+      "material_hypothesis": "Holz/Kunststoff",
+      "contexts": [
+        "schreibtisch",
+        "vorlesung"
+      ],
+      "experience_to_try": "Kleine Gewichtsverlagerung beim Sitzen",
+      "research_sources_family": [
+        "ASC",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "falls_or_dizziness_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-047",
+      "title": "Schaukelstuhl",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Rhythmisches Schaukeln",
+      "form": "body equipment",
+      "sensory_systems": [
+        "vestibular"
+      ],
+      "material_hypothesis": "Holz/Textil",
+      "contexts": [
+        "zuhause",
+        "sofa"
+      ],
+      "experience_to_try": "Sanftes Vor- und Zurückwiegen",
+      "research_sources_family": [
+        "ASC",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "falls_or_dizziness_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-048",
+      "title": "Untertisch-Schaukelbrett für Füße",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Fußbewegung",
+      "form": "body equipment",
+      "sensory_systems": [
+        "vestibular"
+      ],
+      "material_hypothesis": "Holz/Metall",
+      "contexts": [
+        "schreibtisch"
+      ],
+      "experience_to_try": "Schaukeln bei sitzender Arbeit",
+      "research_sources_family": [
+        "ASC",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "falls_or_dizziness_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-049",
+      "title": "Balance-Board mit flachem Radius",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Balance",
+      "form": "body equipment",
+      "sensory_systems": [
+        "vestibular"
+      ],
+      "material_hypothesis": "Holz/Kork",
+      "contexts": [
+        "zuhause",
+        "bewegung"
+      ],
+      "experience_to_try": "Kleiner kontrollierter Lagewechsel",
+      "research_sources_family": [
+        "ASC",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "falls_or_dizziness_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-050",
+      "title": "Weiche Balance-Steine für Schritte",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Balancieren",
+      "form": "body equipment",
+      "sensory_systems": [
+        "vestibular"
+      ],
+      "material_hypothesis": "Schaum/Kunststoff",
+      "contexts": [
+        "zuhause",
+        "bewegung"
+      ],
+      "experience_to_try": "Weg aus wechselnden weichen Höhen",
+      "research_sources_family": [
+        "ASC",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "falls_or_dizziness_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-051",
+      "title": "Langsames Seitwärtswiegen im Sitzen",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Wiegen",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "vestibular"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "seminar",
+        "sofa"
+      ],
+      "experience_to_try": "Kleine wiederkehrende Körperbewegung",
+      "research_sources_family": [
+        "ASC",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "falls_or_dizziness_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-052",
+      "title": "Rhythmisches Auf-und-ab-Federn im Stehen",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Federn",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "vestibular"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "bewegung",
+        "zuhause"
+      ],
+      "experience_to_try": "Vertikale Körperrhythmik",
+      "research_sources_family": [
+        "ASC",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "falls_or_dizziness_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-053",
+      "title": "Pacing / rhythmisches Gehen",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Gehen",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "vestibular"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "unterwegs",
+        "wechsel"
+      ],
+      "experience_to_try": "Gleichmäßige Schrittfolgen",
+      "research_sources_family": [
+        "ASC",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "falls_or_dizziness_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-054",
+      "title": "Barfuß-Pfad aus natürlichen Materialien",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Fußtexturen",
+      "form": "room/environment",
+      "sensory_systems": [
+        "vestibular"
+      ],
+      "material_hypothesis": "Kork/Textil/Stein",
+      "contexts": [
+        "zuhause",
+        "ruhe"
+      ],
+      "experience_to_try": "Wechselnde Textur beim Gehen",
+      "research_sources_family": [
+        "ASC",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "falls_or_dizziness_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-055",
+      "title": "Sitzsack mit umlagerbarer Füllung",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Position & Druck",
+      "form": "body equipment",
+      "sensory_systems": [
+        "vestibular"
+      ],
+      "material_hypothesis": "Textil/Füllung",
+      "contexts": [
+        "sofa",
+        "zuhause"
+      ],
+      "experience_to_try": "Nachgebendes Einsinken und Lage ändern",
+      "research_sources_family": [
+        "ASC",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [
+        "falls_or_dizziness_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-056",
+      "title": "Stimmbarer Daumen-Klangstab (Tuning Fork)",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Resonanz",
+      "form": "handheld object",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Metall",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Einen klaren Ton verklingen lassen, nicht am Ohr anschlagen",
+      "research_sources_family": [
+        "NAS_STIM",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-057",
+      "title": "Hand-Glöckchen mit gedämpftem Klang",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Klingeln",
+      "form": "handheld object",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Metall",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Kurze helle Tonimpulse",
+      "research_sources_family": [
+        "NAS_STIM",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-058",
+      "title": "Kleine Steel Tongue Drum",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Melodische Wiederholung",
+      "form": "handheld object",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Metall",
+      "contexts": [
+        "zuhause",
+        "kreativ"
+      ],
+      "experience_to_try": "Wiederholte weiche Tonfolgen",
+      "research_sources_family": [
+        "NAS_STIM",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-059",
+      "title": "Crinkle-Papier in Stoffhülle",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Rascheln",
+      "form": "handheld object",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Textil/Papier",
+      "contexts": [
+        "zuhause",
+        "sofa"
+      ],
+      "experience_to_try": "Kontrolliertes feines Knistergeräusch",
+      "research_sources_family": [
+        "NAS_STIM",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-060",
+      "title": "Klangschale mit Filzschlägel",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Resonanz",
+      "form": "handheld object",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Metall/Holz",
+      "contexts": [
+        "zuhause",
+        "ruhe"
+      ],
+      "experience_to_try": "Lang ausklingender Ton",
+      "research_sources_family": [
+        "NAS_STIM",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-061",
+      "title": "Tisch-Wasserbrunnen",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Wasserklang",
+      "form": "room/environment",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Wasser/Elektronik",
+      "contexts": [
+        "zuhause",
+        "ruhe"
+      ],
+      "experience_to_try": "Gleichmäßiges Plätschern",
+      "research_sources_family": [
+        "NAS_STIM",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-062",
+      "title": "Naturklang-Loop (Regen, Blätter)",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Ambient Sound",
+      "form": "digital experience",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Audio",
+      "contexts": [
+        "schreibtisch",
+        "ruhe"
+      ],
+      "experience_to_try": "Vorhersagbare sich wiederholende Klänge",
+      "research_sources_family": [
+        "NAS_STIM",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-063",
+      "title": "Eigene Lieblingsmusik-Schleife",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Wiederholtes Hören",
+      "form": "digital experience",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Audio",
+      "contexts": [
+        "unterwegs",
+        "zuhause"
+      ],
+      "experience_to_try": "Vertraute musikalische Wiederholung",
+      "research_sources_family": [
+        "NAS_STIM",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-064",
+      "title": "ASMR-Klangbibliothek (optional)",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Feine Geräusche",
+      "form": "digital experience",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Audio",
+      "contexts": [
+        "zuhause",
+        "ruhe"
+      ],
+      "experience_to_try": "Leises Schaben, Bürsten oder Klickklänge",
+      "research_sources_family": [
+        "NAS_STIM",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-065",
+      "title": "Tonfolge auf einem kleinen Xylophon",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Rhythmische Musik",
+      "form": "handheld object",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Holz/Metall",
+      "contexts": [
+        "zuhause",
+        "kreativ"
+      ],
+      "experience_to_try": "Kleine wiederkehrende Tonmuster",
+      "research_sources_family": [
+        "NAS_STIM",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-066",
+      "title": "Summen mit geschlossenem Mund",
+      "family": "Stimmen & vokale Stims",
+      "subcategory": "Vokale Resonanz",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "auditory",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause",
+        "unterwegs"
+      ],
+      "experience_to_try": "Eigenvibration und gleichmäßiger Ton",
+      "research_sources_family": [
+        "NHS",
+        "NAS_STIM",
+        "KAPP"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-067",
+      "title": "Wiederholen eines angenehm klingenden Wortes",
+      "family": "Stimmen & vokale Stims",
+      "subcategory": "Wortklang",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "auditory",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause",
+        "sofa"
+      ],
+      "experience_to_try": "Klang und Mundbewegung wiederholen",
+      "research_sources_family": [
+        "NHS",
+        "NAS_STIM",
+        "KAPP"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-068",
+      "title": "Freies leises Singen einer Tonfolge",
+      "family": "Stimmen & vokale Stims",
+      "subcategory": "Melodische Stimme",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "auditory",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause",
+        "unterwegs"
+      ],
+      "experience_to_try": "Melodische Wiederholung",
+      "research_sources_family": [
+        "NHS",
+        "NAS_STIM",
+        "KAPP"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-069",
+      "title": "Rhythmisches Silbenspiel",
+      "family": "Stimmen & vokale Stims",
+      "subcategory": "Rhythmus & Sprache",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "auditory",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause",
+        "kreativ"
+      ],
+      "experience_to_try": "Gleichmäßige lautliche Muster",
+      "research_sources_family": [
+        "NHS",
+        "NAS_STIM",
+        "KAPP"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-070",
+      "title": "Sanfte Lippenvibration / Lip Trill",
+      "family": "Stimmen & vokale Stims",
+      "subcategory": "Mundmotorik",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "auditory",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Kurze entspannte Lippenbewegung ohne Pressen",
+      "research_sources_family": [
+        "NHS",
+        "NAS_STIM",
+        "KAPP"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-071",
+      "title": "Pfeifen einer vertrauten Melodie",
+      "family": "Stimmen & vokale Stims",
+      "subcategory": "Pfeifton",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "auditory",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "unterwegs",
+        "zuhause"
+      ],
+      "experience_to_try": "Gleichmäßiger Pfeifklang",
+      "research_sources_family": [
+        "NHS",
+        "NAS_STIM",
+        "KAPP"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-072",
+      "title": "Leises rhythmisches Zungentippen",
+      "family": "Stimmen & vokale Stims",
+      "subcategory": "Mundrhythmus",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "auditory",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause",
+        "seminar"
+      ],
+      "experience_to_try": "Kleine Mundbewegungen ohne Außenobjekt",
+      "research_sources_family": [
+        "NHS",
+        "NAS_STIM",
+        "KAPP"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-073",
+      "title": "Beatbox-Grundrhythmus",
+      "family": "Stimmen & vokale Stims",
+      "subcategory": "Vokale Perkussion",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "auditory",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause",
+        "kreativ"
+      ],
+      "experience_to_try": "Wiederholte rhythmische Lautmuster",
+      "research_sources_family": [
+        "NHS",
+        "NAS_STIM",
+        "KAPP"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-074",
+      "title": "Dichroitischer Sonnenfänger",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Farbspektrum",
+      "form": "room/environment",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Glas/Kunststoff",
+      "contexts": [
+        "zuhause",
+        "ruhe"
+      ],
+      "experience_to_try": "Farbwechsel je nach Blickwinkel",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-075",
+      "title": "Prisma am Fenster",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Regenbogenlicht",
+      "form": "room/environment",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Glas",
+      "contexts": [
+        "zuhause",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Lichtbrechung und wandernde Regenbögen",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-076",
+      "title": "Moiré-Folienkarten",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Interferenzmuster",
+      "form": "handheld object",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Kunststoff/Papier",
+      "contexts": [
+        "schreibtisch",
+        "zuhause"
+      ],
+      "experience_to_try": "Überlagernde Linien verschieben",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-077",
+      "title": "Lentikular-Wackelbildkarte",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Kippbilder",
+      "form": "handheld object",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Kunststoff",
+      "contexts": [
+        "pendeln",
+        "sofa"
+      ],
+      "experience_to_try": "Bildwechsel bei Neigung",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-078",
+      "title": "Holografische Folie in Karte",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Irisieren",
+      "form": "handheld object",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Folie/Karton",
+      "contexts": [
+        "schreibtisch",
+        "pendeln"
+      ],
+      "experience_to_try": "Schimmernde Muster abhängig vom Winkel",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-079",
+      "title": "Kleiner mechanischer Sandpendel-Tisch",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Spuren & Muster",
+      "form": "room/environment",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Sand/Metall",
+      "contexts": [
+        "zuhause",
+        "kreativ"
+      ],
+      "experience_to_try": "Langsame Musterbildung beobachten",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-080",
+      "title": "Langsames Wasser-Wellenprojektionslicht",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Wellen & Projektion",
+      "form": "room/environment",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Elektronik",
+      "contexts": [
+        "zuhause",
+        "ruhe"
+      ],
+      "experience_to_try": "Sanft wandernde Lichtmuster",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-081",
+      "title": "Spiegel-Kaleidoskop mit Wechselobjekt",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Kaleidoskopische Symmetrie",
+      "form": "handheld object",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Glas/Karton",
+      "contexts": [
+        "zuhause",
+        "sofa"
+      ],
+      "experience_to_try": "Repetitive Symmetrie der Muster",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-082",
+      "title": "Kinetische Pendelskulptur",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Zyklische Bewegung",
+      "form": "room/environment",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Metall/Holz",
+      "contexts": [
+        "zuhause",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Regelmäßige Bewegungsbahn",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-083",
+      "title": "GIF-Loop mit sanfter Strömung",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Video-Schleife",
+      "form": "digital experience",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Bildschirm",
+      "contexts": [
+        "schreibtisch",
+        "sofa"
+      ],
+      "experience_to_try": "Kontinuierlich wiederholte Animation",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-084",
+      "title": "Generatives Partikelfeld ohne Blinken",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Interaktive Lichtteilchen",
+      "form": "digital experience",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Bildschirm",
+      "contexts": [
+        "digital",
+        "ruhe"
+      ],
+      "experience_to_try": "Selbst veränderbare visuelle Rückmeldung",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-085",
+      "title": "Weiche Aurora-Deckenprojektion",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Farbflächen",
+      "form": "room/environment",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Elektronik",
+      "contexts": [
+        "zuhause",
+        "ruhe"
+      ],
+      "experience_to_try": "Langsame Licht-Farb-Änderungen",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT",
+        "LIST101"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-086",
+      "title": "Riechgläschen mit getrockneten Kräutern",
+      "family": "Duft & Geruch",
+      "subcategory": "Kräuteraromen",
+      "form": "handheld object",
+      "sensory_systems": [
+        "olfactory"
+      ],
+      "material_hypothesis": "Glas/Pflanzen",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Kontrollierter Geruchstest",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT"
+      ],
+      "safety_review_flags": [
+        "allergy_and_scent_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-087",
+      "title": "Kleines Lavendelsäckchen",
+      "family": "Duft & Geruch",
+      "subcategory": "Pflanzenduft",
+      "form": "handheld object",
+      "sensory_systems": [
+        "olfactory"
+      ],
+      "material_hypothesis": "Baumwolle/Pflanzen",
+      "contexts": [
+        "sofa",
+        "zuhause"
+      ],
+      "experience_to_try": "Familiarer Duft, sensitivitätsabhängig",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT"
+      ],
+      "safety_review_flags": [
+        "allergy_and_scent_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-088",
+      "title": "Unbehandelte Zedernholzprobe",
+      "family": "Duft & Geruch",
+      "subcategory": "Holzduft",
+      "form": "handheld object",
+      "sensory_systems": [
+        "olfactory"
+      ],
+      "material_hypothesis": "Holz",
+      "contexts": [
+        "schreibtisch",
+        "zuhause"
+      ],
+      "experience_to_try": "Holziger Geruch und Haptik",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT"
+      ],
+      "safety_review_flags": [
+        "allergy_and_scent_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-089",
+      "title": "Kaffeebohnen-Riechdose",
+      "family": "Duft & Geruch",
+      "subcategory": "Kaffeearoma",
+      "form": "handheld object",
+      "sensory_systems": [
+        "olfactory"
+      ],
+      "material_hypothesis": "Bohnen/Dose",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Intensität selbst dosieren",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT"
+      ],
+      "safety_review_flags": [
+        "allergy_and_scent_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-090",
+      "title": "Getrocknete Orangenschale im Glas",
+      "family": "Duft & Geruch",
+      "subcategory": "Zitrusduft",
+      "form": "handheld object",
+      "sensory_systems": [
+        "olfactory"
+      ],
+      "material_hypothesis": "Pflanzen/Glas",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Fruchtig frische Geruchsprobe",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT"
+      ],
+      "safety_review_flags": [
+        "allergy_and_scent_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-091",
+      "title": "Tee-Duftkarte mit losen Blättern (geschlossen)",
+      "family": "Duft & Geruch",
+      "subcategory": "Tee-Aroma",
+      "form": "handheld object",
+      "sensory_systems": [
+        "olfactory"
+      ],
+      "material_hypothesis": "Pflanzen/Papier",
+      "contexts": [
+        "zuhause",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Unterschiedliche milde Aromen erforschen",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT"
+      ],
+      "safety_review_flags": [
+        "allergy_and_scent_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-092",
+      "title": "Unparfümierte neutrale Vergleichsprobe",
+      "family": "Duft & Geruch",
+      "subcategory": "Geruchsneutralität",
+      "form": "handheld object",
+      "sensory_systems": [
+        "olfactory"
+      ],
+      "material_hypothesis": "Baumwolle/Papier",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Vergleich von neutral und duftend",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT"
+      ],
+      "safety_review_flags": [
+        "allergy_and_scent_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-093",
+      "title": "Parfümfreie Naturmaterialien-Probenbox",
+      "family": "Duft & Geruch",
+      "subcategory": "Geruch + Material",
+      "form": "handheld object",
+      "sensory_systems": [
+        "olfactory"
+      ],
+      "material_hypothesis": "Holz/Kork/Stein",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Bewusstes Erkunden ohne Duftzugabe",
+      "research_sources_family": [
+        "NAS_STIM",
+        "REDDIT"
+      ],
+      "safety_review_flags": [
+        "allergy_and_scent_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-094",
+      "title": "Kaugummi mit individuell angenehmer Festigkeit",
+      "family": "Oral, Geschmack & Mundgefühl",
+      "subcategory": "Kauen",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "gustatory_oral"
+      ],
+      "material_hypothesis": "Lebensmittel",
+      "contexts": [
+        "unterwegs",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Rhythmischer Kieferwiderstand",
+      "research_sources_family": [
+        "NAS_STIM",
+        "CHEW"
+      ],
+      "safety_review_flags": [
+        "food_or_chew_safety_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-095",
+      "title": "Silikon-Kauschlauch in abgestufter Festigkeit",
+      "family": "Oral, Geschmack & Mundgefühl",
+      "subcategory": "Kauen",
+      "form": "handheld object",
+      "sensory_systems": [
+        "gustatory_oral"
+      ],
+      "material_hypothesis": "Silikon",
+      "contexts": [
+        "zuhause",
+        "unterwegs"
+      ],
+      "experience_to_try": "Definierter Beißwiderstand; Hygiene beachten",
+      "research_sources_family": [
+        "NAS_STIM",
+        "CHEW"
+      ],
+      "safety_review_flags": [
+        "food_or_chew_safety_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-096",
+      "title": "Trinkhalm mit geeignetem Widerstand",
+      "family": "Oral, Geschmack & Mundgefühl",
+      "subcategory": "Saugen",
+      "form": "handheld object",
+      "sensory_systems": [
+        "gustatory_oral"
+      ],
+      "material_hypothesis": "Silikon/Edelstahl",
+      "contexts": [
+        "zuhause",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Trinken und Sauggefühl, keine Atemübungen",
+      "research_sources_family": [
+        "NAS_STIM",
+        "CHEW"
+      ],
+      "safety_review_flags": [
+        "food_or_chew_safety_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-097",
+      "title": "Knusprige Lebensmittel-Texturprobe",
+      "family": "Oral, Geschmack & Mundgefühl",
+      "subcategory": "Crunch",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "gustatory_oral"
+      ],
+      "material_hypothesis": "Lebensmittel",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Knackiger Klang und Konsistenz",
+      "research_sources_family": [
+        "NAS_STIM",
+        "CHEW"
+      ],
+      "safety_review_flags": [
+        "food_or_chew_safety_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-098",
+      "title": "Weich-zähe Lebensmittel-Texturprobe",
+      "family": "Oral, Geschmack & Mundgefühl",
+      "subcategory": "Zähe Konsistenz",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "gustatory_oral"
+      ],
+      "material_hypothesis": "Lebensmittel",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Länger andauerndes Kauen",
+      "research_sources_family": [
+        "NAS_STIM",
+        "CHEW"
+      ],
+      "safety_review_flags": [
+        "food_or_chew_safety_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-099",
+      "title": "Angenehm kühles Getränk (nicht eiskalt)",
+      "family": "Oral, Geschmack & Mundgefühl",
+      "subcategory": "Temperatur im Mund",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "gustatory_oral"
+      ],
+      "material_hypothesis": "Getränk",
+      "contexts": [
+        "zuhause",
+        "unterwegs"
+      ],
+      "experience_to_try": "Kontrollierter Temperaturkontrast",
+      "research_sources_family": [
+        "NAS_STIM",
+        "CHEW"
+      ],
+      "safety_review_flags": [
+        "food_or_chew_safety_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-100",
+      "title": "Mildes Minz- oder Fruchtbonbon",
+      "family": "Oral, Geschmack & Mundgefühl",
+      "subcategory": "Geschmack",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "gustatory_oral"
+      ],
+      "material_hypothesis": "Lebensmittel",
+      "contexts": [
+        "unterwegs"
+      ],
+      "experience_to_try": "Lange anhaltende vertraute Geschmacksnote",
+      "research_sources_family": [
+        "NAS_STIM",
+        "CHEW"
+      ],
+      "safety_review_flags": [
+        "food_or_chew_safety_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-101",
+      "title": "Wiederverwendbares Kau-Hilfsmittel für Stift",
+      "family": "Oral, Geschmack & Mundgefühl",
+      "subcategory": "Stiftaufsatz-Alternative",
+      "form": "handheld object",
+      "sensory_systems": [
+        "gustatory_oral"
+      ],
+      "material_hypothesis": "Silikon",
+      "contexts": [
+        "vorlesung",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Geeignete chew-grade Ausführung für vorhandenen Stift",
+      "research_sources_family": [
+        "NAS_STIM",
+        "CHEW"
+      ],
+      "safety_review_flags": [
+        "food_or_chew_safety_check"
+      ],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-102",
+      "title": "Körperkontakt-Check mit Sitzfläche",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Kontaktpunkte",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "interoceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "seminar",
+        "sofa"
+      ],
+      "experience_to_try": "Wo berührt der Körper den Sitz?",
+      "research_sources_family": [
+        "ASC",
+        "NAS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-103",
+      "title": "Fußsohlen am Boden wahrnehmen",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Kontaktpunkte",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "interoceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "warten",
+        "seminar"
+      ],
+      "experience_to_try": "Wechsel der Gewichtspunkte unter den Füßen",
+      "research_sources_family": [
+        "ASC",
+        "NAS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-104",
+      "title": "Angenehme Handauflage auf Brustkorb",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Atembewegung",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "interoceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause",
+        "ruhe"
+      ],
+      "experience_to_try": "Atembewegung beobachten statt verändern",
+      "research_sources_family": [
+        "ASC",
+        "NAS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-105",
+      "title": "Puls sanft ertasten",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Herzrhythmus",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "interoceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause",
+        "ruhe"
+      ],
+      "experience_to_try": "Körperrhythmus wahrnehmen; optional",
+      "research_sources_family": [
+        "ASC",
+        "NAS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-106",
+      "title": "Leichter Kontakt mit warmem Stoffkissen",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Wärme/Schwere",
+      "form": "body equipment",
+      "sensory_systems": [
+        "interoceptive"
+      ],
+      "material_hypothesis": "Textil",
+      "contexts": [
+        "zuhause",
+        "sofa"
+      ],
+      "experience_to_try": "Angenehme Berührung als Anker",
+      "research_sources_family": [
+        "ASC",
+        "NAS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-107",
+      "title": "Wärme-Kälte-Vorliebe-Check ohne Extreme",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Temperaturwahrnehmung",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "interoceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Nur angenehme sichere Temperaturbereiche vergleichen",
+      "research_sources_family": [
+        "ASC",
+        "NAS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-108",
+      "title": "Sanfte Selbstumarmung als Druckstim",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Eigener Druck",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "interoceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause",
+        "sofa"
+      ],
+      "experience_to_try": "Selbst gewählter gleichmäßiger Kontakt",
+      "research_sources_family": [
+        "ASC",
+        "NAS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-109",
+      "title": "Digitaler Gefühl-und-Reiz-Check-in",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Selbstbeobachtung",
+      "form": "digital experience",
+      "sensory_systems": [
+        "interoceptive"
+      ],
+      "material_hypothesis": "Bildschirm",
+      "contexts": [
+        "schreibtisch",
+        "wechsel"
+      ],
+      "experience_to_try": "Aktuellen Zustand und Intensität benennen",
+      "research_sources_family": [
+        "ASC",
+        "NAS"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-110",
+      "title": "Smartphone-Haptikmuster mit Intensitätswahl",
+      "family": "Digital, Haptik & Spiele",
+      "subcategory": "Vibration",
+      "form": "digital experience",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Smartphone",
+      "contexts": [
+        "unterwegs",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Kurze wiederholte Vibrationssequenzen",
+      "research_sources_family": [
+        "HANDYCAT",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-111",
+      "title": "Virtuelle Bubble-Wrap-Simulation",
+      "family": "Digital, Haptik & Spiele",
+      "subcategory": "Touch & Bild",
+      "form": "digital experience",
+      "sensory_systems": [
+        "visual",
+        "tactile"
+      ],
+      "material_hypothesis": "Bildschirm",
+      "contexts": [
+        "digital",
+        "zuhause"
+      ],
+      "experience_to_try": "Visuelles Ploppen ohne echtes Material",
+      "research_sources_family": [
+        "HANDYCAT",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-112",
+      "title": "Digitale Sandmalerei mit Finger/Wischgeste",
+      "family": "Digital, Haptik & Spiele",
+      "subcategory": "Spuren zeichnen",
+      "form": "digital experience",
+      "sensory_systems": [
+        "visual",
+        "tactile"
+      ],
+      "material_hypothesis": "Bildschirm",
+      "contexts": [
+        "digital",
+        "sofa"
+      ],
+      "experience_to_try": "Unendliche Strukturen malen",
+      "research_sources_family": [
+        "HANDYCAT",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-113",
+      "title": "Interaktive geometrische Shader-Flächen",
+      "family": "Digital, Haptik & Spiele",
+      "subcategory": "Visual Loops",
+      "form": "digital experience",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Bildschirm",
+      "contexts": [
+        "digital",
+        "zuhause"
+      ],
+      "experience_to_try": "Langsame Symmetrieveränderung",
+      "research_sources_family": [
+        "HANDYCAT",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-114",
+      "title": "Controller-Vibration in spielbarer Demosequenz",
+      "family": "Digital, Haptik & Spiele",
+      "subcategory": "Controller-Haptik",
+      "form": "digital experience",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Gamepad",
+      "contexts": [
+        "zuhause",
+        "digital"
+      ],
+      "experience_to_try": "Kontrollierbare Rückmeldung in der Hand",
+      "research_sources_family": [
+        "HANDYCAT",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-115",
+      "title": "Browser-Pendel mit sanftem Mauszug",
+      "family": "Digital, Haptik & Spiele",
+      "subcategory": "Dynamische Bewegung",
+      "form": "digital experience",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Browser",
+      "contexts": [
+        "digital"
+      ],
+      "experience_to_try": "Eigene repetitive Bewegung erzeugen",
+      "research_sources_family": [
+        "HANDYCAT",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-116",
+      "title": "Virtuelles Klang-Raster / Step Sequencer",
+      "family": "Digital, Haptik & Spiele",
+      "subcategory": "Pattern-Music",
+      "form": "digital experience",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Browser",
+      "contexts": [
+        "kreativ",
+        "digital"
+      ],
+      "experience_to_try": "Klangmuster schichten und wiederholen",
+      "research_sources_family": [
+        "HANDYCAT",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-117",
+      "title": "Geräusch-Mixer mit Rauschen/Naturklängen",
+      "family": "Digital, Haptik & Spiele",
+      "subcategory": "Auditive Schichtung",
+      "form": "digital experience",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Browser/Audio",
+      "contexts": [
+        "schreibtisch",
+        "ruhe"
+      ],
+      "experience_to_try": "Gewünschten Ambient-Sound gestalten",
+      "research_sources_family": [
+        "HANDYCAT",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-118",
+      "title": "Bildschirmfreier vibrierender Reminder-Puck",
+      "family": "Digital, Haptik & Spiele",
+      "subcategory": "Unauffällige Haptik",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Elektronik",
+      "contexts": [
+        "seminar",
+        "zuhause"
+      ],
+      "experience_to_try": "Sanfte selbst ausgelöste Impulse (kein Zwang)",
+      "research_sources_family": [
+        "HANDYCAT",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-119",
+      "title": "Finger-Figurentanz ohne Objekt",
+      "family": "Geschicklichkeit & Flow",
+      "subcategory": "Fingerchoreografie",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause",
+        "seminar"
+      ],
+      "experience_to_try": "Kleine sequenzielle Bewegungen wiederholen",
+      "research_sources_family": [
+        "KAPP",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-120",
+      "title": "Münze über Fingerknöchel rollen",
+      "family": "Geschicklichkeit & Flow",
+      "subcategory": "Coin Roll",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Münze",
+      "contexts": [
+        "zuhause",
+        "sofa"
+      ],
+      "experience_to_try": "Wiederholter Geschicklichkeitsablauf",
+      "research_sources_family": [
+        "KAPP",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-121",
+      "title": "Kontaktjonglage mit großer Acrylkugel",
+      "family": "Geschicklichkeit & Flow",
+      "subcategory": "Kontaktjonglage",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Acryl",
+      "contexts": [
+        "zuhause",
+        "kreativ"
+      ],
+      "experience_to_try": "Großflächig gleitende rollende Bewegung",
+      "research_sources_family": [
+        "KAPP",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-122",
+      "title": "Chetki-Riemen-Fidget",
+      "family": "Geschicklichkeit & Flow",
+      "subcategory": "Skill Toy Perlen",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Holz/Textil",
+      "contexts": [
+        "zuhause",
+        "sofa"
+      ],
+      "experience_to_try": "Finger-Rhythmus mit Perlen und Riemen",
+      "research_sources_family": [
+        "KAPP",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-123",
+      "title": "Finger-Yoga und repetitives Fingerstrecken",
+      "family": "Geschicklichkeit & Flow",
+      "subcategory": "Handmotorik",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "seminar",
+        "wechsel"
+      ],
+      "experience_to_try": "Sanfte einfache Fingersequenzen",
+      "research_sources_family": [
+        "KAPP",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-124",
+      "title": "Kleiner Staff-/Baton-Twirl-Stab",
+      "family": "Geschicklichkeit & Flow",
+      "subcategory": "Stabtricks",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Kunststoff/Holz",
+      "contexts": [
+        "zuhause",
+        "bewegung"
+      ],
+      "experience_to_try": "Wiederholte Achsenbewegung",
+      "research_sources_family": [
+        "KAPP",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-125",
+      "title": "Finger-Tutting-Muster",
+      "family": "Geschicklichkeit & Flow",
+      "subcategory": "Geometrische Gesten",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "zuhause",
+        "kreativ"
+      ],
+      "experience_to_try": "Finger und Hände bilden Formsequenzen",
+      "research_sources_family": [
+        "KAPP",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-126",
+      "title": "Origami-Faltsequenz als Wiederholungsritual",
+      "family": "Geschicklichkeit & Flow",
+      "subcategory": "Falten",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Papier",
+      "contexts": [
+        "kreativ",
+        "sofa"
+      ],
+      "experience_to_try": "Wiederkehrende präzise Handgriffe",
+      "research_sources_family": [
+        "KAPP",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-127",
+      "title": "Ring-Juggling mit weichen Ringen",
+      "family": "Geschicklichkeit & Flow",
+      "subcategory": "Jonglage",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Textil/Schaum",
+      "contexts": [
+        "zuhause",
+        "bewegung"
+      ],
+      "experience_to_try": "Schwebender Bewegungsrhythmus",
+      "research_sources_family": [
+        "KAPP",
+        "REDDIT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-128",
+      "title": "Tannenzapfen als Tastobjekt",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Naturstruktur",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Pflanze",
+      "contexts": [
+        "zuhause",
+        "unterwegs"
+      ],
+      "experience_to_try": "Wiederkehrende Schuppenstruktur",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-129",
+      "title": "Unbehandeltes Treibholz-Fühlstück",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Holzmaserung",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Holz",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Organisch gerundete Oberfläche",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-130",
+      "title": "Große glatte Muschel ohne scharfe Kanten",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Naturstruktur",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Muschelschale",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Kühle Rundungen und Rippen",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-131",
+      "title": "Kleine Fühlbox mit großen Kieseln",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Natursteine",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Stein/Box",
+      "contexts": [
+        "zuhause"
+      ],
+      "experience_to_try": "Steine sortieren und ertasten",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-132",
+      "title": "Strickprojekt mit repetitiver Masche",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Handarbeit",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Garn",
+      "contexts": [
+        "sofa",
+        "kreativ"
+      ],
+      "experience_to_try": "Wiederkehrendes Verweben",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-133",
+      "title": "Einfaches Webbrett mit Stoffstreifen",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Weben",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Holz/Textil",
+      "contexts": [
+        "zuhause",
+        "kreativ"
+      ],
+      "experience_to_try": "Vorhersehbarer Ein-Aus-Rhythmus",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-134",
+      "title": "Fingerlabyrinth auf Papier",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Linien folgen",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Papier",
+      "contexts": [
+        "bibliothek",
+        "schreibtisch"
+      ],
+      "experience_to_try": "Mit dem Finger endlosen Linien folgen",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-135",
+      "title": "Kritzelspiralen mit weichem Bleistift",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Doodling",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Papier/Bleistift",
+      "contexts": [
+        "vorlesung",
+        "kreativ"
+      ],
+      "experience_to_try": "Wiederkehrende Gleitbewegung",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-136",
+      "title": "Pinseldruck und langsame Wasserfarbe-Verläufe",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Fließende Kunst",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Papier/Farbe",
+      "contexts": [
+        "kreativ",
+        "zuhause"
+      ],
+      "experience_to_try": "Langsame Farbbewegung und Pinselwiderstand",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-137",
+      "title": "Stoffreste-Sortierlabor",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Texturvergleich",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Stoffreste",
+      "contexts": [
+        "kreativ",
+        "zuhause"
+      ],
+      "experience_to_try": "Kontraste nach Gefühl sammeln",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-138",
+      "title": "Rillen-Karton aus Verpackung",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Recyceltes Relief",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Karton",
+      "contexts": [
+        "schreibtisch",
+        "zuhause"
+      ],
+      "experience_to_try": "Kostenlose Reliefstruktur",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-139",
+      "title": "DIY-Korken-Fühlgriff",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Upcycling",
+      "form": "handheld object",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Kork",
+      "contexts": [
+        "unterwegs",
+        "zuhause"
+      ],
+      "experience_to_try": "Trockene federnde Struktur ertasten",
+      "research_sources_family": [
+        "REDDIT",
+        "REDDIT2"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-140",
+      "title": "Reizarme Ecke mit dimmbarem Licht",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Low-stim Umgebung",
+      "form": "room/environment",
+      "sensory_systems": [
+        "visual"
+      ],
+      "material_hypothesis": "Raum/Licht",
+      "contexts": [
+        "ruhe",
+        "zuhause"
+      ],
+      "experience_to_try": "Reize selbst steuern",
+      "research_sources_family": [
+        "NAS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-141",
+      "title": "Ruheplatz mit gefalteter Decke",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Begrenzter Rückzugsraum",
+      "form": "room/environment",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Textil",
+      "contexts": [
+        "zuhause",
+        "ruhe"
+      ],
+      "experience_to_try": "Vorhersagbare weiche Oberflächen",
+      "research_sources_family": [
+        "NAS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-142",
+      "title": "Schallschluckende Textilfläche",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Klangreduktion",
+      "form": "room/environment",
+      "sensory_systems": [
+        "auditory"
+      ],
+      "material_hypothesis": "Textil",
+      "contexts": [
+        "ruhe",
+        "arbeit"
+      ],
+      "experience_to_try": "Weniger scharfe Klangreflexionen",
+      "research_sources_family": [
+        "NAS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-143",
+      "title": "Bewegungsecke mit weichem Boden",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Freie Körperbewegung",
+      "form": "room/environment",
+      "sensory_systems": [
+        "vestibular",
+        "proprioceptive"
+      ],
+      "material_hypothesis": "Matte/Boden",
+      "contexts": [
+        "zuhause",
+        "bewegung"
+      ],
+      "experience_to_try": "Freie größere Bewegungen",
+      "research_sources_family": [
+        "NAS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-144",
+      "title": "Gemeinsam rhythmisch klatschen (freiwillig)",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Gemeinsamer Rhythmus",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "auditory",
+        "vestibular"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "soziales",
+        "zuhause"
+      ],
+      "experience_to_try": "Synchron oder spielerisch asynchron",
+      "research_sources_family": [
+        "NAS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-145",
+      "title": "Gemeinsamer einfacher Tanzrhythmus",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Expressive Bewegung",
+      "form": "activity / no purchase",
+      "sensory_systems": [
+        "auditory",
+        "vestibular"
+      ],
+      "material_hypothesis": "kein Material",
+      "contexts": [
+        "soziales",
+        "zuhause"
+      ],
+      "experience_to_try": "Freie positive Bewegung ohne Choreografie",
+      "research_sources_family": [
+        "NAS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-146",
+      "title": "Vertraute Lieblingstextur am Lieblingsplatz",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Material + Ort",
+      "form": "room/environment",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Stoff",
+      "contexts": [
+        "zuhause",
+        "sofa"
+      ],
+      "experience_to_try": "Immer verfügbare sichere Lieblingsoberfläche",
+      "research_sources_family": [
+        "NAS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    },
+    {
+      "research_id": "R01-147",
+      "title": "Modulare sensorische Station",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Materiallabor",
+      "form": "room/environment",
+      "sensory_systems": [
+        "tactile"
+      ],
+      "material_hypothesis": "Gemischte Materialien",
+      "contexts": [
+        "kreativ",
+        "zuhause"
+      ],
+      "experience_to_try": "Mehrere austauschbare Stationen nach persönlichem Geschmack",
+      "research_sources_family": [
+        "NAS",
+        "HANDYCAT"
+      ],
+      "safety_review_flags": [],
+      "status": "research_lead_not_product_verified",
+      "relation_to_v8": "new activity/format or variant; human dedup review required",
+      "image_url": null,
+      "product_url": null,
+      "evidence": "category-level sources; concept/prototype, not item-by-item verification"
+    }
+  ],
+  "source_registry": {
+    "NAS": [
+      "https://www.autism.org.uk/advice-and-guidance/about-autism/sensory-processing",
+      "National Autistic Society – sensory processing"
+    ],
+    "NAS_STIM": [
+      "https://www.autism.org.uk/advice-and-guidance/about-autism/repeated-movements-and-behaviour-stimming",
+      "National Autistic Society – stimming"
+    ],
+    "ASC": [
+      "https://www.autismsociety-nc.org/sensory-differences/",
+      "Autism Society NC – eight sensory systems"
+    ],
+    "NHS": [
+      "https://www.leicspart.nhs.uk/autism-space/health-and-lifestyle/stimming/",
+      "Leicestershire NHS – stimming"
+    ],
+    "KAPP": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6728747/",
+      "Kapp et al. 2019, interview study"
+    ],
+    "ADULTS": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9213348/",
+      "Study of sensory experiences of autistic adults"
+    ],
+    "OT": [
+      "https://www.theottoolbox.com/quiet-fidget-toys-for-school/",
+      "The OT Toolbox – quiet fidgets"
+    ],
+    "HANDYCAT": [
+      "https://shop.handycat.com/en/catalog/category/",
+      "Handycat – multisensory equipment taxonomy"
+    ],
+    "HAPTIC": [
+      "https://haptic3d.de/",
+      "haptic3D – mechanical action finder"
+    ],
+    "LIST101": [
+      "https://www.aloveforspeciallearning.com/blog/101sensorytoysforadultswithdisabilitiesautismadhd",
+      "101 sensory items for adults"
+    ],
+    "REDDIT": [
+      "https://www.reddit.com/r/autism/comments/1jrpnqy/a_megalist_of_everyday_items_to_use_for_sensory/",
+      "Reddit – everyday alternatives, community ideas"
+    ],
+    "REDDIT2": [
+      "https://www.reddit.com/r/AutismInWomen/comments/1osybl4/healthy_stim_list/",
+      "Reddit – healthy stims and contexts"
+    ],
+    "CPSC": [
+      "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Magnets",
+      "CPSC magnet safety"
+    ],
+    "WATER": [
+      "https://www.cpsc.gov/Newsroom/News-Releases/2025/CPSC-Approves-New-Federal-Safety-Standard-for-Water-Beads-to-Reduce-the-Risk-of-Injury-and-Death-to-Young-Children",
+      "CPSC water bead safety"
+    ],
+    "CHEW": [
+      "https://www.arktherapeutic.com/arks-super-star-chewable-jewelry/",
+      "ARK chew item materials & product instructions"
+    ]
+  },
+  "quiz_spec": {
+    "title": "STIM STUDIO – Welche Reize magst du?",
+    "status": "UX specification for future prototype; not diagnostic",
+    "principles": [
+      "optional questions",
+      "skip/no preference always possible",
+      "allow multiple choices",
+      "negative preferences as hard exclusions",
+      "personal reports more important than labels",
+      "no diagnosis or medical assertions",
+      "privacy-first and local storage"
+    ],
+    "question_sequence": [
+      {
+        "id": "goal",
+        "question": "Was möchtest du gerade entdecken?",
+        "type": "multi",
+        "options": [
+          "Etwas Beruhigendes",
+          "Etwas fürs Konzentrieren",
+          "Etwas zum Wachwerden",
+          "Etwas zum Spielen",
+          "Etwas zum körperlichen Spüren",
+          "Einfach etwas Neues"
+        ],
+        "maps_to": "desired_effects; soft preference"
+      },
+      {
+        "id": "sense",
+        "question": "Welche Wahrnehmungen ziehen dich an?",
+        "type": "multi",
+        "options": [
+          "Berühren",
+          "Druck / Widerstand",
+          "Bewegung / Gleichgewicht",
+          "Sehen",
+          "Hören / Stimme",
+          "Geruch",
+          "Geschmack / Kauen",
+          "Körperinneres",
+          "Weiß ich noch nicht"
+        ],
+        "maps_to": "sensory_systems; soft preference"
+      },
+      {
+        "id": "action",
+        "question": "Was machen deine Hände oder dein Körper am liebsten?",
+        "type": "multi",
+        "options": [
+          "Streichen",
+          "Drücken",
+          "Drehen",
+          "Ziehen",
+          "Klicken",
+          "Kneten",
+          "Rhythmisch bewegen",
+          "Etwas anschauen oder anhören",
+          "Neugierig ausprobieren"
+        ],
+        "maps_to": "actions; soft preference"
+      },
+      {
+        "id": "context",
+        "question": "Wo möchtest du das nutzen?",
+        "type": "multi",
+        "options": [
+          "Vorlesung / Meeting",
+          "Bibliothek",
+          "Pendeln",
+          "Unterwegs",
+          "Zuhause",
+          "Sofa / Bett",
+          "Atelier",
+          "Nach einer stressigen Situation"
+        ],
+        "maps_to": "situations; hard constraints for context safety & noise"
+      },
+      {
+        "id": "intensity",
+        "question": "Wie intensiv darf sich das anfühlen?",
+        "type": "single",
+        "options": [
+          "Ganz sanft",
+          "Mittel",
+          "Deutlich",
+          "Kommt darauf an"
+        ],
+        "maps_to": "experience_properties.input_strength; soft preference"
+      },
+      {
+        "id": "constraints",
+        "question": "Was möchtest du ausschließen?",
+        "type": "multi",
+        "options": [
+          "Plastik",
+          "Tierische Materialien",
+          "Latex",
+          "Magnete",
+          "Starke Gerüche",
+          "Geräusche",
+          "Lichteffekte / Blinken",
+          "Kleinteile",
+          "Kleben / Feuchtigkeit",
+          "Sachen zum Kauen",
+          "Große Objekte",
+          "Nichts davon"
+        ],
+        "maps_to": "negative_preferences; hard preference"
+      },
+      {
+        "id": "visibility",
+        "question": "Wie sichtbar darf es sein?",
+        "type": "single",
+        "options": [
+          "Ganz unauffällig",
+          "Ist mir egal",
+          "Ich möchte mich frei bewegen können"
+        ],
+        "maps_to": "visibility; optional context preference"
+      },
+      {
+        "id": "attention",
+        "question": "Willst du gleichzeitig etwas anderes machen?",
+        "type": "single",
+        "options": [
+          "Ja, einhändig nebenbei",
+          "Ja, aber ohne Hände",
+          "Nein, ich will mich darauf einlassen",
+          "Kommt darauf an"
+        ],
+        "maps_to": "attention,hand_usage; soft preference"
+      }
+    ],
+    "ranking_logic": {
+      "filter_first": [
+        "age_suitability",
+        "hazard exclusions",
+        "material exclusions",
+        "max_sound_for_setting"
+      ],
+      "then_score": [
+        "sensory_system overlap",
+        "preferred action",
+        "current context",
+        "intensity",
+        "desired experience",
+        "previous likes/dislikes"
+      ],
+      "diversification": "avoid adjacent duplicates; suggest 2 familiar + 1 surprising different modality",
+      "output": "3–6 curated experiences with why they match and a trial prompt"
+    },
+    "feedback_after_trial": [
+      "Mag ich",
+      "Neutral",
+      "Mag ich nicht",
+      "Zu intensiv",
+      "Zu schwach",
+      "Zu laut",
+      "Zu auffällig",
+      "Nochmal testen"
+    ]
+  }
+}

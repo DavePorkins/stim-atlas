@@ -1,0 +1,17 @@
+{
+  "fidget-cube": {
+    "source": "https://www.antsylabs.com/products/fidget-cube-the-original-fidget-toy-custom-series",
+    "og_images": [
+      "http://www.antsylabs.com/cdn/shop/products/fidget-cube-limited-edition-antsy-labs-fcub-101-639042.jpg?v=1657137776"
+    ]
+  },
+  "product-ark-robochew": {
+    "source": "https://www.arktherapeutic.com/ark-robochew-chewable-pencil-topper/",
+    "og_images": [
+      "https://cdn11.bigcommerce.com/s-ghsrgu/products/968/images/7614/ark-robochew-chewable-pencil-toppers__76553.1746588261.600.600.png?c=2"
+    ]
+  },
+  "product-calm-strips": {
+    "error": "HTTP Error 404: Not Found"
+  }
+}

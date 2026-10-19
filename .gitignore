@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+Screenshots/
+*_Vorschau.html
+browser-qa.json
+variant-browser-qa.json
+VARIANTEN.md

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "product-needoh-happy-snappy",
+    "legacy_id": null,
+    "title": "NeeDoh Happy Snappy",
+    "description": "Luftgefüllter Ball mit eindrückbaren Rillen. Beim Zusammendrücken und Loslassen entstehen fühlbare und hörbare Pop- und Schnappimpulse.",
+    "kind": "object",
+    "family": "Drücken & Quetschen",
+    "subcategory": "Pop- und Schnappbälle",
+    "senses": [
+      "tactile",
+      "auditory"
+    ],
+    "material_raw": "Elastische Hülle (Materialzusammensetzung ungeklärt)",
+    "actions": [
+      "drücken",
+      "poppen"
+    ],
+    "quiet": false,
+    "portable": true,
+    "status": "hersteller",
+    "provenance": "v10-variants",
+    "source_url": "https://schylling.com/product/happy-snappy/",
+    "search": "Schylling NeeDoh Happy Snappy",
+    "action_prompt": "drücken · schnappen lassen",
+    "safety": [],
+    "notes": "Hersteller nennt vier Farben: Blau, Grün, Pink, Lila. Hier sind die tatsächlich gefundenen Gruppen-, blauen und grünen Herstellerfotos enthalten.",
+    "images": [
+      "https://schylling.com/wp-content/uploads/2022/01/HSNB-Happy-Snappy-Group2-web-300x300.jpg"
+    ]
+  }
+]

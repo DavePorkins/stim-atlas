@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="de" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark light">
+  <meta name="theme-color" content="#151715">
+  <title>STIM ATLAS</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <!--STYLE-->
+</head>
+<body>
+  <a class="skip" href="#gallery">Zur Galerie</a>
+  <header class="header">
+    <div class="topbar">
+      <a class="brand" href="./" aria-label="STIM ATLAS – Start"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>STIM ATLAS<span class="version">11</span></a>
+      <label class="searchbox"><span data-icon="search"></span><span class="sr">Katalog durchsuchen</span><input id="search" type="search" placeholder="Suchen" autocomplete="off" spellcheck="false"><kbd>/</kbd></label>
+      <div class="tools">
+        <button id="favorites" class="iconbutton" aria-label="Favoriten anzeigen" aria-pressed="false" title="Favoriten"><span data-icon="heart"></span><span id="fav-count" class="fav-count" hidden>0</span></button>
+        <button id="theme" class="iconbutton" aria-label="Helle Darstellung" title="Darstellung"><span data-icon="sun"></span></button>
+        <button id="data" class="iconbutton" aria-label="Daten und Favoriten importieren oder exportieren" title="Daten"><span data-icon="archive"></span></button>
+      </div>
+    </div>
+    <div class="browsebar">
+      <nav class="types" aria-label="Typ"><button data-type="all" aria-pressed="true">Alle</button><button data-type="object" aria-pressed="false">Objekte</button><button data-type="activity" aria-pressed="false">Aktivitäten</button></nav>
+      <button id="filters-toggle" class="filter-toggle" aria-expanded="false" aria-controls="filters"><span data-icon="filter"></span>Filter<span id="filter-count" hidden></span></button>
+      <span id="count" class="count" role="status" aria-live="polite"></span>
+      <label class="sort"><span class="sr">Sortieren</span><select id="sort" aria-label="Sortieren"><option value="discover">Entdecken</option><option value="az">A–Z</option><option value="za">Z–A</option><option value="new">Zuletzt ergänzt</option></select><span data-icon="chevron"></span></label>
+    </div>
+    <section id="filters" class="filter-panel" aria-label="Katalogfilter" hidden>
+      <fieldset><legend>Wahrnehmung</legend><div id="senses" class="chips"></div></fieldset>
+      <fieldset><legend>Material</legend><div id="materials" class="chips"></div></fieldset>
+      <div class="extra-filters"><label class="category"><span class="sr">Rubrik</span><select id="family" aria-label="Rubrik"><option value="">Alle Rubriken</option></select><span data-icon="chevron"></span></label><label class="check"><input type="checkbox" id="quiet">Leise</label><label class="check"><input type="checkbox" id="free">Kostenlos</label><label class="check"><input type="checkbox" id="variants" checked>Farbvarianten zeigen</label><button id="reset" class="textbutton">Zurücksetzen</button><span class="filter-note">Je Zeile: oder · zwischen Zeilen: und</span></div>
+    </section>
+  </header>
+  <main id="main">
+    <section id="gallery" class="gallery" aria-label="Bildergalerie" tabindex="-1"></section>
+    <div id="empty" class="empty" hidden><p>Keine Treffer.</p><button id="empty-reset">Filter zurücksetzen</button></div>
+    <div id="sentinel" class="sentinel" aria-hidden="true"></div>
+    <p id="end" class="end" hidden>Alles gesehen.<button id="top" class="textbutton">Nach oben ↑</button></p>
+    <noscript><p class="empty">Bitte JavaScript aktivieren, um den Katalog zu durchsuchen.</p></noscript>
+  </main>
+  <button id="jump-top" class="jump-top iconbutton" aria-label="Nach oben" hidden><span data-icon="up"></span></button>
+  <dialog id="detail" class="detail-dialog" aria-labelledby="detail-title"><div id="detail-content"></div></dialog>
+  <dialog id="data-dialog" class="data-dialog" aria-labelledby="data-title">
+    <div class="dialog-bar"><h2 id="data-title">Deine Daten</h2><button class="iconbutton" data-close="data-dialog" aria-label="Daten schließen"><span data-icon="close"></span></button></div>
+    <div class="data-body"><p>Favoriten bleiben in diesem Browser gespeichert und gelten für das Objekt einschließlich seiner Varianten.</p><div class="data-actions"><button id="export"><span data-icon="download"></span>Backup exportieren</button><label class="upload" for="import"><span data-icon="upload"></span>Backup importieren<input id="import" type="file" accept=".json,application/json"></label></div><p class="muted">v8/v9: „Daten → Komplettes Backup“ exportieren und hier importieren. Gleicher Browser und gleiche Webadresse: vorhandene Favoriten werden automatisch übernommen. Ein Import ergänzt deine Daten; vorhandene Favoriten bleiben erhalten.</p><p class="muted">Beim Laden von Produktfotos entstehen Verbindungen zu den jeweiligen Bildanbietern. Illustrationen sind lokal gespeichert.</p><p class="muted"><a href="https://github.com/DavePorkins/stim-atlas" target="_blank" rel="noopener noreferrer">Quellcode auf GitHub</a> · Eigener Code und SVGs: MIT; externe Bilder nach jeweiliger Quelle.</p><p id="import-result" role="status" aria-live="polite"></p></div>
+  </dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <!--DATA-->
+  <!--SCRIPTS-->
+</body>
+</html>
