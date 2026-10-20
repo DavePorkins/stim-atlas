@@ -1,0 +1,3781 @@
+{
+  "version": "v11.3",
+  "researched_at": "2026-10-20",
+  "scope": "Expansion with 80 new entries (30 classics, 26 lesser-known sensory objects, 24 everyday situations/social destigmatization/sensory cultivation) plus 34 verified Wikimedia Commons photo upgrades for previously illustrated R01 entries.",
+  "items": [
+    {
+      "id": "R03-001",
+      "legacy_id": null,
+      "title": "Gewichtsdecke (Weighted Blanket)",
+      "description": "Gleichmäßige, schwere Decke mit Glasperlen- oder gestrickter Baumwollfüllung für flächigen Körperdruck im Liegen oder auf dem Sofa.",
+      "kind": "object",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Tiefer Druck",
+      "senses": [
+        "proprioceptive",
+        "tactile"
+      ],
+      "material_raw": "Textil (Baumwolle oder Polyester) mit Glas-Perlenfüllung",
+      "actions": [
+        "überlegen",
+        "einwickeln",
+        "Gewicht spüren"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "weighted blanket Gewichtsdecke schwere Decke tiefer Druck",
+      "action_prompt": "überlegen · einwickeln · Gewicht spüren",
+      "safety": [],
+      "notes": "Das angenehm empfundene Eigengewicht variiert individuell. Die Decke muss jederzeit selbstständig abgenommen werden können; Gesicht und Atemwege frei halten.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:DIY_knitted_weighted_blanket.jpg",
+      "image_attribution": "Symbolfoto einer grob gestrickten Gewichtsdecke. Timesoup · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/DIY_knitted_weighted_blanket.jpg/960px-DIY_knitted_weighted_blanket.jpg"
+      ],
+      "everyday_alternative": "Zwei schwerere Wolldecken oder ein dickes Federbett übereinanderlegen.",
+      "explore_terms": [
+        "weighted blanket",
+        "knitted weighted blanket"
+      ],
+      "source_record_ids": [
+        "R03-001"
+      ],
+      "illustration_hint": "cushion"
+    },
+    {
+      "id": "R03-002",
+      "legacy_id": null,
+      "title": "Gewichtsplüschtier (Schweres Stofftier)",
+      "description": "Weiches Plüschtier mit zusätzlicher Gewichtsfüllung im Bauch oder in den Pfoten zum Auflegen auf Schoß, Brust oder Schulter.",
+      "kind": "object",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Körperkontakt",
+      "senses": [
+        "proprioceptive",
+        "tactile"
+      ],
+      "material_raw": "Textil (Plüsch / Polyester) mit Glas- oder Kunststoffgranulat",
+      "actions": [
+        "auflegen",
+        "halten",
+        "Fell streicheln"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "weighted plush stuffed animal Gewichtsplüschtier schweres Stofftier",
+      "action_prompt": "auflegen · halten · Fell streicheln",
+      "safety": [],
+      "notes": "Auf intakte Nähte achten, damit kein Füllgranulat austritt. Nicht zum Erhitzen geeignet, sofern vom Hersteller nicht ausdrücklich dafür ausgewiesen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Teddy_Bear.jpg",
+      "image_attribution": "Symbolfoto eines weichen Plüschtiers als Bauformbeispiel (eine innere Gewichtsfüllung ist von außen nicht sichtbar). Harisharma.atc · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Teddy_Bear.jpg/960px-Teddy_Bear.jpg"
+      ],
+      "everyday_alternative": "Ein vorhandenes Stofftier zusammen mit einem kleinen Kissen auf den Schoß legen.",
+      "explore_terms": [
+        "weighted plush",
+        "weighted stuffed animal"
+      ],
+      "source_record_ids": [
+        "R03-002"
+      ],
+      "illustration_hint": "soft"
+    },
+    {
+      "id": "R03-003",
+      "legacy_id": null,
+      "title": "Kapselgehörschutz / Over-Ear-Lärmschutzkopfhörer",
+      "description": "Gepolsterte Over-Ear-Kapseln, die Umgebungsgeräusche spürbar dämpfen und die Ohren mit sanftem Anpressdruck umschließen.",
+      "kind": "object",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Geräuschdämpfung",
+      "senses": [
+        "auditory",
+        "proprioceptive"
+      ],
+      "material_raw": "Kunststoff, Metallbügel und Polster mit Kunstleder",
+      "actions": [
+        "aufsetzen",
+        "Stille wahrnehmen",
+        "Anpressdruck spüren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "earmuffs hearing protection Kapselgehörschutz Lärmschutzkopfhörer",
+      "action_prompt": "aufsetzen · Stille wahrnehmen · Anpressdruck spüren",
+      "safety": [],
+      "notes": "Im Straßenverkehr oder in Situationen, in denen Warnsignale gehört werden müssen, mit Umsicht verwenden. Bügeldruck sollte nicht an den Schläfen drücken.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Orange_safety_earmuffs.jpg",
+      "image_attribution": "Symbolfoto eines gepolsterten Kapselgehörschutzes. Santeri Viinamäki · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Orange_safety_earmuffs.jpg/960px-Orange_safety_earmuffs.jpg"
+      ],
+      "everyday_alternative": "Geschlossene Over-Ear-Musik-Kopfhörer ohne eingeschaltete Wiedergabe tragen.",
+      "explore_terms": [
+        "earmuffs hearing protection",
+        "Kapselgehörschutz"
+      ],
+      "source_record_ids": [
+        "R03-003"
+      ],
+      "illustration_hint": "earplugs"
+    },
+    {
+      "id": "R03-004",
+      "legacy_id": null,
+      "title": "Klassische Tuch-Hängematte",
+      "description": "Breite Stoffhängematte, die den Körper beim Liegen seitlich leicht umschließt und gleichmäßiges, ruhiges Schwingen ermöglicht.",
+      "kind": "object",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Rhythmisches Schaukeln",
+      "senses": [
+        "vestibular",
+        "proprioceptive"
+      ],
+      "material_raw": "Textil (Baumwolle oder Nylon-Gewebe) und Befestigungskordeln",
+      "actions": [
+        "hineinlegen",
+        "sanft schwingen",
+        "Stoffhülle spüren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "fabric hammock Tuch-Hängematte Stoffhängematte",
+      "action_prompt": "hineinlegen · sanft schwingen · Stoffhülle spüren",
+      "safety": [],
+      "notes": "Auf tragfähige Aufhängung, sicheren Abstand zum Boden und ausreichenden Freiraum beim Schwingen achten.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Hammock11.jpg",
+      "image_attribution": "Symbolfoto einer aufgehängten Tuch-Hängematte. Wikipediuh · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Hammock11.jpg/960px-Hammock11.jpg"
+      ],
+      "everyday_alternative": "Auf einem Sofa oder Sessel in eine große Decke einschlagen und langsam wiegen.",
+      "explore_terms": [
+        "fabric hammock",
+        "Tuch-Hängematte"
+      ],
+      "source_record_ids": [
+        "R03-004"
+      ],
+      "illustration_hint": "swing"
+    },
+    {
+      "id": "R03-005",
+      "legacy_id": null,
+      "title": "Großer Gymnastikball / Sitzball (Pezziball)",
+      "description": "Elastischer Großball zum federnden Sitzen, leichten Rollen im Becken oder flächigen Drücken gegen den Körper.",
+      "kind": "object",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Aktives Sitzen",
+      "senses": [
+        "vestibular",
+        "proprioceptive"
+      ],
+      "material_raw": "Elastischer Kunststoff (PVC) oder Gummi",
+      "actions": [
+        "federnd sitzen",
+        "Becken kreisen",
+        "gegen den Körper rollen"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "exercise ball Swiss ball Gymnastikball Sitzball Pezziball",
+      "action_prompt": "federnd sitzen · Becken kreisen · gegen den Körper rollen",
+      "safety": [],
+      "notes": "Auf passende Ballgröße, rutschfesten Untergrund und platzsicheres Material (Anti-Burst) achten.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Exercise_ball.jpg",
+      "image_attribution": "Symbolfoto eines großen Gymnastikballs. Spiralz · CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/29/Exercise_ball.jpg"
+      ],
+      "everyday_alternative": "Auf einem festen Sofakissen sitzen und das Gewicht langsam verlagern.",
+      "explore_terms": [
+        "exercise ball",
+        "Swiss ball Sitzball"
+      ],
+      "source_record_ids": [
+        "R03-005"
+      ],
+      "illustration_hint": "bounce"
+    },
+    {
+      "id": "R03-006",
+      "legacy_id": null,
+      "title": "Mini-Trampolin / Zimmer-Rebounder",
+      "description": "Kleines Standtrampolin mit Feder- oder Gummiseilaufhängung für rhythmisches Federn, Wippen und Auf-und-ab-Schwingen im Innenraum.",
+      "kind": "object",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Federn",
+      "senses": [
+        "vestibular",
+        "proprioceptive"
+      ],
+      "material_raw": "Metallrahmen, Sprungtuch aus Textil/Kunststoff und Gummi- oder Stahlfedern",
+      "actions": [
+        "wippen",
+        "federn",
+        "Rhythmus halten"
+      ],
+      "quiet": false,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "mini trampoline rebounder Zimmer-Trampolin Fitness-Trampolin",
+      "action_prompt": "wippen · federn · Rhythmus halten",
+      "safety": [],
+      "notes": "Ausreichend Deckenhöhe, freien Seitenraum und rutschfeste Standfüße sicherstellen; Randabdeckung über Federn oder Seilen geschlossen halten.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:The_Merax_Trampoline.jpg",
+      "image_attribution": "Symbolfoto eines runden Mini-Trampolins (Rebounder). Cayuxef3 · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/The_Merax_Trampoline.jpg/960px-The_Merax_Trampoline.jpg"
+      ],
+      "everyday_alternative": "Auf einer gefalteten Sportmatte im Stehen leicht aus den Fußgelenken wippen.",
+      "explore_terms": [
+        "mini trampoline rebounder",
+        "Zimmer-Trampolin"
+      ],
+      "source_record_ids": [
+        "R03-006"
+      ],
+      "illustration_hint": "bounce"
+    },
+    {
+      "id": "R03-007",
+      "legacy_id": null,
+      "title": "Akupressurmatte (Nadelreizmatte)",
+      "description": "Stoffmatte mit vielen kleinen Kunststoffrosetten für flächigen, deutlichen Spitzenreiz an Händen, Füßen oder am bekleideten Rücken.",
+      "kind": "object",
+      "family": "Taktile Texturen",
+      "subcategory": "Harte Reliefs",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Textil (Baumwolle), Pflanzenfaserfüllung und Kunststoff-Spitzenrosetten (ABS)",
+      "actions": [
+        "Hände auflegen",
+        "Intensität mit Stoffschicht dosieren",
+        "Spitzenrelief spüren"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "acupressure mat Akupressurmatte Nadelreizmatte Shakti Mat",
+      "action_prompt": "Hände auflegen · Intensität mit Stoffschicht dosieren · Spitzenrelief spüren",
+      "safety": [],
+      "notes": "Die Spitzen sind sehr scharfkantig; bei Bedarf mit einem dünnen Tuch oder T-Shirt dazwischen nutzen. Nicht auf verletzter oder entzündeter Haut verwenden.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Blue_Acupressure_Mat_Pillow_Combo.jpg",
+      "image_attribution": "Symbolfoto einer blauen Akupressurmatte mit Nackenrolle. Benjamin Buadu · GFDL 1.2+ · https://www.gnu.org/licenses/fdl-1.3.html. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/Blue_Acupressure_Mat_Pillow_Combo.jpg"
+      ],
+      "everyday_alternative": "Mit den Händen oder besockten Füßen über eine strukturierte Fußmatte aus Kokosfaser oder Gummi streichen.",
+      "explore_terms": [
+        "acupressure mat",
+        "Akupressurmatte"
+      ],
+      "source_record_ids": [
+        "R03-007"
+      ],
+      "illustration_hint": "spiky"
+    },
+    {
+      "id": "R03-008",
+      "legacy_id": null,
+      "title": "Kopfmassage-Spinne (Draht-Kopfkrauler)",
+      "description": "Biegsame Metalldrähte mit abgerundeten Endperlen an einem Griff, die beim langsamen Aufsetzen und Bewegen über die Kopfhaut gleiten.",
+      "kind": "object",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Streichender Tastkontakt",
+      "senses": [
+        "tactile",
+        "interoceptive"
+      ],
+      "material_raw": "Metall (Federstahldraht und Aluminiumgriff) mit runden Kunststoff-Endperlen",
+      "actions": [
+        "sanft aufsetzen",
+        "über die Kopfhaut führen",
+        "Kribbeln wahrnehmen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "head massager scalp massager Kopfmassage-Spinne Kopfkrauler",
+      "action_prompt": "sanft aufsetzen · über die Kopfhaut führen · Kribbeln wahrnehmen",
+      "safety": [],
+      "notes": "Vor der Nutzung prüfen, dass alle Endkappen intakt sind. Vorsichtig führen, damit sich keine Haare verfangen und die Drahtenden nicht in die Augenpartie gelangen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Kopfkrauler_schraegoben.jpg",
+      "image_attribution": "Symbolfoto eines Draht-Kopfkraulers auf einer Holzfläche. Dirk Ingo Franke · CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Kopfkrauler_schraegoben.jpg/960px-Kopfkrauler_schraegoben.jpg"
+      ],
+      "everyday_alternative": "Mit den eigenen gespreizten Fingerspitzen langsam über die Kopfhaut streichen.",
+      "explore_terms": [
+        "scalp massager wire",
+        "Kopfmassage-Spinne Kopfkrauler"
+      ],
+      "source_record_ids": [
+        "R03-008"
+      ],
+      "illustration_hint": "brush"
+    },
+    {
+      "id": "R03-009",
+      "legacy_id": null,
+      "title": "Strukturierte Faszienrolle (Foam Roller)",
+      "description": "Feste Schaumstoffrolle mit glatter oder gerippter Oberfläche zum gleichmäßigen Abrollen unter Fußsohlen, Beinen oder Rücken mit kräftigem Gegendruck.",
+      "kind": "object",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Tiefer Druck",
+      "senses": [
+        "proprioceptive",
+        "tactile"
+      ],
+      "material_raw": "Fester Kunststoff (EPP- oder EVA-Rolle)",
+      "actions": [
+        "unter den Füßen rollen",
+        "gegen Beine drücken",
+        "Rollwiderstand spüren"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "foam roller Faszienrolle Hartschaumrolle",
+      "action_prompt": "unter den Füßen rollen · gegen Beine drücken · Rollwiderstand spüren",
+      "safety": [],
+      "notes": "Druck dosiert über das eigene Körpergewicht steuern; nicht ruckartig über Gelenke oder schmerzende Stellen rollen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Hartschaumrolle.jpg",
+      "image_attribution": "Symbolfoto einer Hartschaum-Faszienrolle. Finfit · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Hartschaumrolle.jpg/960px-Hartschaumrolle.jpg"
+      ],
+      "everyday_alternative": "Eine feste, dicht gefüllte Trinkflasche oder ein Nudelholz unter den Fußsohlen hin- und herrollen.",
+      "explore_terms": [
+        "foam roller",
+        "Faszienrolle"
+      ],
+      "source_record_ids": [
+        "R03-009"
+      ],
+      "illustration_hint": "roller"
+    },
+    {
+      "id": "R03-010",
+      "legacy_id": null,
+      "title": "Kirschkernkissen / Traubenkernkissen",
+      "description": "Stoffkissen mit beweglichen Obstkernen zum Kneten, Umschieben, leisen Rascheln und für angenehme Wärme oder Kühle.",
+      "kind": "object",
+      "family": "Temperatur & Vibration",
+      "subcategory": "Wärme & Druck",
+      "senses": [
+        "tactile",
+        "proprioceptive",
+        "auditory",
+        "interoceptive"
+      ],
+      "material_raw": "Textil (Baumwolle) mit trockenen Obstkernen (Pflanzen / Samen)",
+      "actions": [
+        "Kerne verschieben",
+        "auflegen",
+        "Wärme und Rascheln spüren"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "cherry pit pillow Kirschkernkissen Traubenkernkissen Wärmekissen",
+      "action_prompt": "Kerne verschieben · auflegen · Wärme und Rascheln spüren",
+      "safety": [],
+      "notes": "Beim Erwärmen Herstellerangaben zu Zeit und Wattzahl genau beachten, Kissen vor dem Auflegen ausschütteln und die Temperatur mit der Hand prüfen (Überhitzungsgefahr).",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Cherry_stone_hoard.JPG",
+      "image_attribution": "Symbolfoto / Materialbeispiel gereinigter Kirschkerne (Füllmaterial eines Kirschkernkissens, nicht das geschlossene Stoffkissen). Roger Griffith (Rosser1954) · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Cherry_stone_hoard.JPG/960px-Cherry_stone_hoard.JPG"
+      ],
+      "everyday_alternative": "Ein geschlossener Stoffbeutel mit trockenem Reis oder Linsen bei Raumtemperatur zum Kneten.",
+      "explore_terms": [
+        "Kirschkernkissen",
+        "cherry pit pillow"
+      ],
+      "source_record_ids": [
+        "R03-010"
+      ],
+      "illustration_hint": "cushion"
+    },
+    {
+      "id": "R03-011",
+      "legacy_id": null,
+      "title": "Wärmflasche mit weichem Textilbezug",
+      "description": "Mit warmem Wasser gefüllte Gummiflasche in einer weichen Textilhülle, die nachgebendes Gewicht, leichtes Schwappen und milde Wärme auf Bauch oder Füßen verbindet.",
+      "kind": "object",
+      "family": "Temperatur & Vibration",
+      "subcategory": "Wärme & Druck",
+      "senses": [
+        "interoceptive",
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Gummi oder Thermoplast (Kunststoff), Wasser und Textilbezug (Fleece)",
+      "actions": [
+        "auflegen",
+        "weichen Bezug streicheln",
+        "nachgebendes Gewicht spüren"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "hot water bottle cover Wärmflasche mit Bezug",
+      "action_prompt": "auflegen · weichen Bezug streicheln · nachgebendes Gewicht spüren",
+      "safety": [],
+      "notes": "Niemals kochendes Wasser einfüllen, nur zu etwa zwei Dritteln füllen, überschüssige Luft vor dem Verschließen entweichen lassen und Verschluss auf Dichtigkeit prüfen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:W%C3%A4rmflasche1.jpg",
+      "image_attribution": "Symbolfoto klassischer Gummi-Wärmflaschen mit Schraubverschluss (ohne abgebildeten Textilbezug). Peng · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/W%C3%A4rmflasche1.jpg"
+      ],
+      "everyday_alternative": "Eine mit handwarmem Leitungswasser gefüllte, fest verschlossene Trinkflasche in ein Handtuch einschlagen.",
+      "explore_terms": [
+        "Wärmflasche mit Strickbezug",
+        "hot water bottle cover"
+      ],
+      "source_record_ids": [
+        "R03-011"
+      ],
+      "illustration_hint": "liquid"
+    },
+    {
+      "id": "R03-012",
+      "legacy_id": null,
+      "title": "Schlafmaske / Gewichtete Augenmaske",
+      "description": "Weiche Textilmaske zur gezielten Lichtabschirmung und für gleichmäßige, sanfte Berührung rund um die Augen- und Stirnpartie.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Lichtpause",
+      "senses": [
+        "visual",
+        "tactile"
+      ],
+      "material_raw": "Textil (Seide, Baumwolle oder Fleece) mit elastischem Band",
+      "actions": [
+        "aufsetzen",
+        "Licht ausblenden",
+        "weichen Stoffkontakt spüren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "sleep mask eye mask Schlafmaske Augenmaske",
+      "action_prompt": "aufsetzen · Licht ausblenden · weichen Stoffkontakt spüren",
+      "safety": [],
+      "notes": "Das Halteband locker einstellen, sodass kein unangenehmer Druck auf die Augäpfel entsteht.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Different_Blindfolds_for_sleeping_and_resting.JPG",
+      "image_attribution": "Symbolfoto verschiedener textiler Schlafmasken. Mattes · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Different_Blindfolds_for_sleeping_and_resting.JPG/960px-Different_Blindfolds_for_sleeping_and_resting.JPG"
+      ],
+      "everyday_alternative": "Ein weiches, sauberes Baumwolltuch locker gefaltet im Liegen über die geschlossenen Augen legen.",
+      "explore_terms": [
+        "sleep mask",
+        "Schlafmaske"
+      ],
+      "source_record_ids": [
+        "R03-012"
+      ],
+      "illustration_hint": "glasses"
+    },
+    {
+      "id": "R03-013",
+      "legacy_id": null,
+      "title": "Klick-Kugelschreiber mit Druckmechanik",
+      "description": "Klassischer Kugelschreiber mit gefedertem Druckknopf und Schaltnocke für wiederholtes, spür- und hörbares Klicken mit dem Daumen.",
+      "kind": "object",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Federrücklauf",
+      "senses": [
+        "tactile",
+        "auditory",
+        "proprioceptive"
+      ],
+      "material_raw": "Kunststoff und Metall (Schaltmechanik und Feder)",
+      "actions": [
+        "klicken",
+        "Federwiderstand spüren",
+        "Rastpunkt ertasten"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "retractable ballpoint pen click pen Klick-Kugelschreiber",
+      "action_prompt": "klicken · Federwiderstand spüren · Rastpunkt ertasten",
+      "safety": [],
+      "notes": "Das Klickgeräusch ist in ruhigen Gemeinschaftsräumen deutlich hörbar; für geräuscharme Umgebungen eignen sich gedämpfte Schalter besser.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Ballpoint_Pen_DS.jpg",
+      "image_attribution": "Symbolfoto eines klassischen Kugelschreibers mit Druckmechanik. Augustus Binu · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ballpoint_Pen_DS.jpg/960px-Ballpoint_Pen_DS.jpg"
+      ],
+      "everyday_alternative": "Einen vorhandenen Druckbleistift ohne vorgeschobene Mine betätigen.",
+      "explore_terms": [
+        "retractable ballpoint pen",
+        "click pen mechanism"
+      ],
+      "source_record_ids": [
+        "R03-013"
+      ],
+      "illustration_hint": "pencil"
+    },
+    {
+      "id": "R03-014",
+      "legacy_id": null,
+      "title": "Magnet-Zeichentafel (Zaubertafel / Magna Doodle)",
+      "description": "Wiederbeschreibbare Zeichenfläche mit Wabenkammern, Magnetstift und Schieberegler, mit dem Linien spurlos gezogen und mit einem Zug wieder glattgewischt werden.",
+      "kind": "object",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Spuren zeichnen",
+      "senses": [
+        "visual",
+        "tactile"
+      ],
+      "material_raw": "Kunststoff-Gehäuse mit magnetischen Metallpartikeln",
+      "actions": [
+        "Linien ziehen",
+        "Stempel aufsetzen",
+        "Schieberegler glattziehen"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Magna Doodle magnetic drawing board Magnet-Zeichentafel Zaubertafel",
+      "action_prompt": "Linien ziehen · Stempel aufsetzen · Schieberegler glattziehen",
+      "safety": [],
+      "notes": "Mit mäßigem Stiftdruck zeichnen, damit die Folienoberfläche nicht eindellt. Der Löschschieber erzeugt ein leichtes Schabegeräusch.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Magna_Doodle.jpg",
+      "image_attribution": "Symbolfoto einer Magnet-Zeichentafel (Magna Doodle) mit Magnetstift. Regregex · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/c3/Magna_Doodle.jpg"
+      ],
+      "everyday_alternative": "Mit dem Finger Spuren in eine flache Schale mit feinem Salz oder Grieß zeichnen und glattstreichen.",
+      "explore_terms": [
+        "Magna Doodle",
+        "magnetic drawing board Zaubertafel"
+      ],
+      "source_record_ids": [
+        "R03-014"
+      ],
+      "illustration_hint": "drawing"
+    },
+    {
+      "id": "R03-015",
+      "legacy_id": null,
+      "title": "Spirograph-Zahnrad-Schablonen",
+      "description": "Ineinandergreifende Kunststoffzahnräder und Lochringe, mit denen ein Stift in gleichmäßigen Kreisbahnen symmetrische geometrische Muster zeichnet.",
+      "kind": "object",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Spuren zeichnen",
+      "senses": [
+        "visual",
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Kunststoff (Zahnräder und Ringe) auf Papier",
+      "actions": [
+        "Zahnrad im Ring führen",
+        "Kreisbahnen ziehen",
+        "Musteraufbau beobachten"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Spirograph Zahnrad-Schablonen Spiralzeichner",
+      "action_prompt": "Zahnrad im Ring führen · Kreisbahnen ziehen · Musteraufbau beobachten",
+      "safety": [],
+      "notes": "Den Außenring mit Fingern oder etwas Haftmasse auf dem Papier fixieren, damit die Zahnräder beim Kreisen nicht verrutschen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Spirograph.jpg",
+      "image_attribution": "Symbolfoto eines Spirograph-Zahnradsets mit gezeichnetem Muster. Alexei Kouprianov · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Spirograph.jpg/960px-Spirograph.jpg"
+      ],
+      "everyday_alternative": "Mit einer Münze oder einem Glasrand überlappende Kreise auf Papier umfahren.",
+      "explore_terms": [
+        "Spirograph",
+        "Spirograph Zahnräder"
+      ],
+      "source_record_ids": [
+        "R03-015"
+      ],
+      "illustration_hint": "drawing"
+    },
+    {
+      "id": "R03-016",
+      "legacy_id": null,
+      "title": "Kratzbild / Scratch-Art-Karte",
+      "description": "Schwarz beschichteter Karton, auf dem mit einem Holz- oder Metallgriffel feine Linien mit spürbarem Schabewiderstand und hohem Farbkontrast freigelegt werden.",
+      "kind": "object",
+      "family": "Kreativ & Material",
+      "subcategory": "Kreativ & Material",
+      "senses": [
+        "tactile",
+        "visual"
+      ],
+      "material_raw": "Beschichteter Karton / Papier und Holz- oder Metallgriffel",
+      "actions": [
+        "schaben",
+        "Linien freilegen",
+        "Kontrast betrachten"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "scratch art scratchboard scraperboard Kratzbild Kratzkarton",
+      "action_prompt": "schaben · Linien freilegen · Kontrast betrachten",
+      "safety": [],
+      "notes": "Abgeschabte schwarze Beschichtungskrümel von einer festen Unterlage abklopfen oder abwischen und nicht einatmen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Scratchart-Werkzeug.jpg",
+      "image_attribution": "Symbolfoto von Scratch-Art-Werkzeugen für Kratzbilder. Angela Bungarz · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Scratchart-Werkzeug.jpg/960px-Scratchart-Werkzeug.jpg"
+      ],
+      "everyday_alternative": "Mit Wachsmalkreide bunt bemaltes und schwarz übermaltes festes Papier mit einem Zahnstocher freikratzen.",
+      "explore_terms": [
+        "scratch art cards",
+        "scraperboard Kratzbild"
+      ],
+      "source_record_ids": [
+        "R03-016"
+      ],
+      "illustration_hint": "drawing"
+    },
+    {
+      "id": "R03-017",
+      "legacy_id": null,
+      "title": "Bienenwachs-Knetwachs",
+      "description": "Feste Plättchen mit Bienenwachsanteil, die erst durch die Wärme der Hände langsam weich und formbar werden und dezent nach natürlichem Wachs riechen.",
+      "kind": "object",
+      "family": "Kneten & Formen",
+      "subcategory": "Kneten & Formen",
+      "senses": [
+        "tactile",
+        "proprioceptive",
+        "olfactory"
+      ],
+      "material_raw": "Bienenwachs (Natur / Pflanzen) als formbare Knete-Plättchen",
+      "actions": [
+        "in der Hand anwärmen",
+        "langsam biegen",
+        "kneten und formen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "modelling beeswax Bienenwachs-Knetwachs Stockmar Knetbienenwachs",
+      "action_prompt": "in der Hand anwärmen · langsam biegen · kneten und formen",
+      "safety": [],
+      "notes": "Im kalten Zustand sehr fest; erst kurz in der geschlossenen Hand anwärmen. Nicht zum Verzehr geeignet.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Pure_Natural_Beeswax_Blocks.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel von Blöcken aus reinem Bienenwachs. Jack Soley · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Pure_Natural_Beeswax_Blocks.jpg/960px-Pure_Natural_Beeswax_Blocks.jpg"
+      ],
+      "everyday_alternative": "Ein Stück feste Therapie-Knete vor dem Formen in den Händen anwärmen.",
+      "explore_terms": [
+        "modelling beeswax",
+        "Bienenwachs-Knetwachs"
+      ],
+      "source_record_ids": [
+        "R03-017"
+      ],
+      "illustration_hint": "tray"
+    },
+    {
+      "id": "R03-018",
+      "legacy_id": null,
+      "title": "Seifenblasen (Pustefix-Prinzip)",
+      "description": "Ruhiges, gleichmäßiges Ausatmen durch einen benetzten Ring erzeugt schillernde, langsam durch den Raum schwebende Seifenblasen.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Irisieren",
+      "senses": [
+        "visual",
+        "interoceptive",
+        "oral"
+      ],
+      "material_raw": "Wasser mit Seifenlauge in Kunststoff-Dose mit Pustering",
+      "actions": [
+        "Ring eintauchen",
+        "dosiert pusten",
+        "schillernde Blasen verfolgen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "soap bubbles blowing Seifenblasen Pustefix",
+      "action_prompt": "Ring eintauchen · dosiert pusten · schillernde Blasen verfolgen",
+      "safety": [],
+      "notes": "Seifenlauge nicht trinken und Kontakt mit den Augen vermeiden; auf glatten Böden können geplatzte Blasen einen rutschigen Film hinterlassen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Blowing_soap_bubbles.jpg",
+      "image_attribution": "Symbolfoto schillernder Seifenblasen beim Pusten durch einen Ring. gravitat-OFF · CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Blowing_soap_bubbles.jpg/960px-Blowing_soap_bubbles.jpg"
+      ],
+      "everyday_alternative": "Durch einen Trinkhalm langsam Luft in ein Glas mit reinem Leitungswasser blubbern lassen.",
+      "explore_terms": [
+        "soap bubbles blowing",
+        "Seifenblasen"
+      ],
+      "source_record_ids": [
+        "R03-018"
+      ],
+      "illustration_hint": "prism"
+    },
+    {
+      "id": "R03-019",
+      "legacy_id": null,
+      "title": "Holz-Klangbaum (Murmel-Klangbaum)",
+      "description": "Spiralförmig angeordnete Holzblätter in abgestuften Größen, über die eine runde Kugel mit hellem, absteigendem Tonverlauf hinabrollt.",
+      "kind": "object",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Melodische Wiederholung",
+      "senses": [
+        "auditory",
+        "visual"
+      ],
+      "material_raw": "Holz und runde Glas- oder Holzmurmeln",
+      "actions": [
+        "Murmel oben einlegen",
+        "Tonleiter hören",
+        "Spiralbahn verfolgen"
+      ],
+      "quiet": false,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "marble sound tree wooden marble run Holz-Klangbaum Murmel-Klangbaum",
+      "action_prompt": "Murmel oben einlegen · Tonleiter hören · Spiralbahn verfolgen",
+      "safety": [],
+      "notes": "Enthält Murmeln (Verschluckungsgefahr für Kleinkinder und Personen, die Kleinteile in den Mund nehmen). Auf ebenen Stand achten.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Kugelbahn.jpg",
+      "image_attribution": "Symbolfoto einer hölzernen Kugelbahn (Bauformbeispiel für Murmel-Holzbahnen, kein Blätter-Klangbaum). D. Albert (Dial) · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Kugelbahn.jpg/960px-Kugelbahn.jpg"
+      ],
+      "everyday_alternative": "Eine Murmel langsam durch eine schräge Rinne aus gefaltetem festem Karton rollen lassen.",
+      "explore_terms": [
+        "Holz-Klangbaum",
+        "marble sound tree"
+      ],
+      "source_record_ids": [
+        "R03-019"
+      ],
+      "illustration_hint": "wood"
+    },
+    {
+      "id": "R03-020",
+      "legacy_id": null,
+      "title": "Resonanz-Windspiel (Koshi- / Zaphir-Bauart)",
+      "description": "Dünnwandiger Klangzylinder oder aufgehängtes Röhren-Windspiel mit gestimmten Metallklangstäben, das beim sanften Kreisen in der Hand schwebende Obertöne erzeugt.",
+      "kind": "object",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Resonanz",
+      "senses": [
+        "auditory",
+        "visual"
+      ],
+      "material_raw": "Holz / Bambus-Furnier oder Metallröhrchen, Metall-Klangstäbe und Glasperle",
+      "actions": [
+        "am Band halten",
+        "langsam kreisen",
+        "Nachklang hören"
+      ],
+      "quiet": false,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "wind chime cylinder Koshi chime Zaphir chime Resonanz-Windspiel",
+      "action_prompt": "am Band halten · langsam kreisen · Nachklang hören",
+      "safety": [],
+      "notes": "Trocken im Innenraum verwenden und mit ruhiger Handbewegung führen, damit der Klöppel die Klangstäbe nur sanft anschlägt.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Wind_chimes.JPG",
+      "image_attribution": "Symbolfoto eines aufgehängten Metall-Windspiels (Bauformbeispiel eines Windspiels, kein geschlossener Koshi-Bambuszylinder). Angelsharum · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/34/Wind_chimes.JPG"
+      ],
+      "everyday_alternative": "Ein einzelnes kleines Glöckchen oder eine Klangschale sanft anschlagen und dem Ausklingen lauschen.",
+      "explore_terms": [
+        "Koshi wind chime",
+        "Resonanz-Windspiel"
+      ],
+      "source_record_ids": [
+        "R03-020"
+      ],
+      "illustration_hint": "tuning"
+    },
+    {
+      "id": "R03-021",
+      "legacy_id": null,
+      "title": "Cabasa (Perlenketten-Rhythmuszylinder)",
+      "description": "Geriffelter Metallzylinder an einem Holzgriff mit umlaufender Stahlperlenkette, die beim Drehen in der Hand präzises Reibungs- und Rhythmusfeedback gibt.",
+      "kind": "object",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Rhythmische Musik",
+      "senses": [
+        "tactile",
+        "auditory",
+        "proprioceptive"
+      ],
+      "material_raw": "Holz (Griff und Korpus) und Metall (geriffelter Zylinder und Stahlperlenkette)",
+      "actions": [
+        "Perlenkette umfassen",
+        "Griff drehen",
+        "Reibung und Rascheln spüren"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "cabasa Afuche Cabasa Perlenketten-Rhythmuszylinder",
+      "action_prompt": "Perlenkette umfassen · Griff drehen · Reibung und Rascheln spüren",
+      "safety": [],
+      "notes": "Die Finger locker auf die Perlenkette legen, damit keine Haut zwischen Kette und Metallzylinder eingeklemmt wird.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Afuche_Cabasa.jpg",
+      "image_attribution": "Symbolfoto einer Afuche-Cabasa mit Holzgriff und Stahlperlenkette. Serg Childed · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Afuche_Cabasa.jpg/960px-Afuche_Cabasa.jpg"
+      ],
+      "everyday_alternative": "Eine Metall-Kugelkette in der Handfläche hin- und herrollen.",
+      "explore_terms": [
+        "Afuche Cabasa",
+        "Cabasa percussion"
+      ],
+      "source_record_ids": [
+        "R03-021"
+      ],
+      "illustration_hint": "roller"
+    },
+    {
+      "id": "R03-022",
+      "legacy_id": null,
+      "title": "Holz-Klangfrosch / Guiro (Raspelholz)",
+      "description": "Geschnitztes Hohlholz mit geriffeltem Rücken, über dessen Zacken ein Holzstab für ein trockenes, rhythmisches Ratschen und spürbare Vibration gestrichen wird.",
+      "kind": "object",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Rhythmische Musik",
+      "senses": [
+        "auditory",
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Holz (geschnitzter Klangkörper und Reibestab)",
+      "actions": [
+        "über den Rücken streichen",
+        "einzelne Zacken antippen",
+        "Resonanz in der Hand spüren"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "wooden frog instrument guiro Holz-Klangfrosch Raspelholz",
+      "action_prompt": "über den Rücken streichen · einzelne Zacken antippen · Resonanz in der Hand spüren",
+      "safety": [],
+      "notes": "Auf glatt geschliffenes, splitterfreies Holz achten; mit leichtem Druck streichen, um die Holzzacken zu schonen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:FrogShapedGuiro.jpg",
+      "image_attribution": "Symbolfoto eines geschnitzten Holz-Klangfroschs (Guiro) mit Reibestab. Chris 73 · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/FrogShapedGuiro.jpg/960px-FrogShapedGuiro.jpg"
+      ],
+      "everyday_alternative": "Mit einem Holzstift über die Rillen von Wellpappe oder einen geriffelten Flaschenverschluss streichen.",
+      "explore_terms": [
+        "wooden frog guiro",
+        "Holz-Klangfrosch"
+      ],
+      "source_record_ids": [
+        "R03-022"
+      ],
+      "illustration_hint": "wood"
+    },
+    {
+      "id": "R03-023",
+      "legacy_id": null,
+      "title": "Schüttel-Ei (Egg Shaker)",
+      "description": "Handliches, eiförmiges Rhythmusinstrument mit feiner Körnchenfüllung, das komplett in der Handfläche liegt und beim Bewegen gleichmäßig raschelt.",
+      "kind": "object",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Rascheln",
+      "senses": [
+        "auditory",
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Kunststoff oder Holz mit feiner Metall- oder Samen-Schüttfüllung",
+      "actions": [
+        "in der Hand wiegen",
+        "rhythmisch schütteln",
+        "Körnchenbewegung spüren"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "egg shaker Schüttel-Ei Rassel-Ei Percussion",
+      "action_prompt": "in der Hand wiegen · rhythmisch schütteln · Körnchenbewegung spüren",
+      "safety": [],
+      "notes": "Nur unbeschädigte, fest verschlossene Schüttel-Eier verwenden, damit die feine Innenfüllung nicht austritt.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Two_egg_shakers_with_cm_scale.jpg",
+      "image_attribution": "Symbolfoto zweier Schüttel-Eier (Egg Shakers) neben einer Zentimeterskala. Paju~commonswiki · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Two_egg_shakers_with_cm_scale.jpg/960px-Two_egg_shakers_with_cm_scale.jpg"
+      ],
+      "everyday_alternative": "Einen kleinen, fest verschlossenen Schraubbehälter zu einem Drittel mit trockenem Reis füllen.",
+      "explore_terms": [
+        "egg shaker percussion",
+        "Schüttel-Ei"
+      ],
+      "source_record_ids": [
+        "R03-023"
+      ],
+      "illustration_hint": "stone"
+    },
+    {
+      "id": "R03-024",
+      "legacy_id": null,
+      "title": "Kazoo (Summ-Membranröhrchen)",
+      "description": "Kleines Blas- bzw. Summröhrchen mit einer feinen Membran, die beim Hineinsummen hörbar schnarrt und deutlich an Lippen und Fingern vibriert.",
+      "kind": "object",
+      "family": "Stimmen & vokale Stims",
+      "subcategory": "Vokale Resonanz",
+      "senses": [
+        "auditory",
+        "oral",
+        "tactile",
+        "interoceptive"
+      ],
+      "material_raw": "Metall oder Kunststoff mit dünner Papier- oder Kunststoffmembran",
+      "actions": [
+        "ansetzen und hineinsummen",
+        "Lippenvibration spüren",
+        "Tonhöhe variieren"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "kazoo Summ-Membranröhrchen Mirliton",
+      "action_prompt": "ansetzen und hineinsummen · Lippenvibration spüren · Tonhöhe variieren",
+      "safety": [],
+      "notes": "In das breitere Ende summen (nicht bloß pusten) und das Membranloch oben nicht mit den Fingern abdecken. Aus hygienischen Gründen persönlich nutzen und trocken reinigen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Kazoo.jpg",
+      "image_attribution": "Symbolfoto eines Metall-Kazoos mit Membranöffnung. Martin Röll (Martinroell) · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/08/Kazoo.jpg"
+      ],
+      "everyday_alternative": "Sanft durch ein gefaltetes Stück Butterbrotpapier über einem Kammrücken summen.",
+      "explore_terms": [
+        "kazoo instrument",
+        "Kazoo Metall Kunststoff"
+      ],
+      "source_record_ids": [
+        "R03-024"
+      ],
+      "illustration_hint": "voice"
+    },
+    {
+      "id": "R03-025",
+      "legacy_id": null,
+      "title": "Zirbenkissen (Kissen mit Zirbenholzflocken)",
+      "description": "Kleines Stoffkissen mit fein gehobelten Zirbenholzspänen zum leichten Drücken, Rascheln und für trockenen, harzigen Nadelholzduft.",
+      "kind": "object",
+      "family": "Duft & Geruch",
+      "subcategory": "Holzduft",
+      "senses": [
+        "olfactory",
+        "tactile",
+        "auditory"
+      ],
+      "material_raw": "Textil (Baumwolle oder Leinen) mit unbehandelten Zirbe-Holzspänen (Pflanzen / Holz)",
+      "actions": [
+        "leicht zusammendrücken",
+        "Späne rascheln hören",
+        "Holzduft wahrnehmen"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Swiss pine shavings pillow Zirbenkissen Zirbenflocken",
+      "action_prompt": "leicht zusammendrücken · Späne rascheln hören · Holzduft wahrnehmen",
+      "safety": [],
+      "notes": "Nicht in der Mikrowelle oder im Backofen erhitzen (Brandgefahr bei trockenen Holzspänen)! Bei Duftempfindlichkeit gut verschlossen aufbewahren.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Germany_Plane-with-wood-shavings-01.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel frisch gehobelter Holzspäne (Füllmaterial eines Holzspänekissens, nicht das genähte Zirbenkissen). CEphoto, Uwe Aranas · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Germany_Plane-with-wood-shavings-01.jpg/960px-Germany_Plane-with-wood-shavings-01.jpg"
+      ],
+      "everyday_alternative": "An einem unbehandelten Stück Nadelholz oder einem trockenen Kiefernzapfen riechen.",
+      "explore_terms": [
+        "Zirbenkissen",
+        "Swiss pine shavings pillow"
+      ],
+      "source_record_ids": [
+        "R03-025"
+      ],
+      "illustration_hint": "cushion"
+    },
+    {
+      "id": "R03-026",
+      "legacy_id": null,
+      "title": "Ganze Gewürze als Duft- und Tastanker (Zimtstange, Sternanis, Kardamom)",
+      "description": "Trockene, feste ganze Gewürze mit markanter geometrischer Form, Holz- oder Kapselstruktur und beständigem Aroma zum Riechen und Befühlen.",
+      "kind": "object",
+      "family": "Duft & Geruch",
+      "subcategory": "Geruch + Material",
+      "senses": [
+        "olfactory",
+        "tactile",
+        "visual"
+      ],
+      "material_raw": "Trockene Pflanzenteile / Samen und Rinde (Holz / Pflanzen)",
+      "actions": [
+        "Zacken und Rillen ertasten",
+        "daran riechen",
+        "in einer Dose sortieren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "cinnamon star anise cardamom ganze Gewürze Duftanker Zimtstange Sternanis",
+      "action_prompt": "Zacken und Rillen ertasten · daran riechen · in einer Dose sortieren",
+      "safety": [],
+      "notes": "Als trockene Riech- und Tastobjekte in einem Schraubglas aufbewahren; ganze harte Gewürze nicht unzerkaut in den Mund nehmen und nach dem Anfassen nicht in die Augen reiben.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Gingerbread_spices.jpg",
+      "image_attribution": "Symbolfoto ganzer Gewürze, darunter Zimtstangen, Sternanis und grüner Kardamom. SKopp · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Gingerbread_spices.jpg/960px-Gingerbread_spices.jpg"
+      ],
+      "everyday_alternative": "Ein einzelnes Lorbeerblatt oder einige Pfefferkörner in einem kleinen Schraubglas betrachten und riechen.",
+      "explore_terms": [
+        "whole spices sensory",
+        "Zimtstange Sternanis Kardamom"
+      ],
+      "source_record_ids": [
+        "R03-026"
+      ],
+      "illustration_hint": "botanical"
+    },
+    {
+      "id": "R03-027",
+      "legacy_id": null,
+      "title": "Trinkflasche mit Silikon-Beißventil (Bite-Valve)",
+      "description": "Wiederverwendbare Trinkflasche mit weichem Silikonmundstück, das sich beim Trinken leicht mit den Lippen oder Zähnen zusammendrücken lässt.",
+      "kind": "object",
+      "family": "Oral, Geschmack & Mundgefühl",
+      "subcategory": "Saugen",
+      "senses": [
+        "oral",
+        "proprioceptive",
+        "interoceptive"
+      ],
+      "material_raw": "Silikon-Beißventil, Kunststoff- oder Edelstahlflasche und Wasser",
+      "actions": [
+        "Mundstück leicht zusammendrücken",
+        "Schluck für Schluck trinken",
+        "Saugwiderstand spüren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "CamelBak bite valve Trinkflasche Beißventil Silikonmundstück",
+      "action_prompt": "Mundstück leicht zusammendrücken · Schluck für Schluck trinken · Saugwiderstand spüren",
+      "safety": [],
+      "notes": "Für leichtes Zusammendrücken beim Trinken gedacht, nicht als dauerhaftes Stark-Kauspielzeug. Ventil regelmäßig zerlegen, gründlich reinigen und bei Rissen austauschen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:CamelBak_water_bottle.jpg",
+      "image_attribution": "Symbolfoto einer Trinkflasche mit klappbarem Beißventil (CamelBak). Kenyon · Public Domain · https://commons.wikimedia.org/wiki/File:CamelBak_water_bottle.jpg. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3b/CamelBak_water_bottle.jpg"
+      ],
+      "everyday_alternative": "Einen wiederverwendbaren, weichen Silikon-Trinkhalm in einem Wasserglas nutzen.",
+      "explore_terms": [
+        "bite valve water bottle",
+        "Trinkflasche Beißventil Silikon"
+      ],
+      "source_record_ids": [
+        "R03-027"
+      ],
+      "illustration_hint": "cup"
+    },
+    {
+      "id": "R03-028",
+      "legacy_id": null,
+      "title": "Gefrorene Weintrauben oder Beeren",
+      "description": "Tiefgekühlte, kernlose Früchte als kühler, fest-schmelzender Mundreiz mit leichtem Crunch beim ersten Anbeißen.",
+      "kind": "object",
+      "family": "Oral, Geschmack & Mundgefühl",
+      "subcategory": "Temperatur im Mund",
+      "senses": [
+        "oral",
+        "interoceptive"
+      ],
+      "material_raw": "Gefrorene Früchte (Pflanzen und Wasser)",
+      "actions": [
+        "kurz antauen lassen",
+        "Kühle im Mund spüren",
+        "langsam zerbeißen"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "frozen grapes frozen berries gefrorene Weintrauben gefrorene Beeren",
+      "action_prompt": "kurz antauen lassen · Kühle im Mund spüren · langsam zerbeißen",
+      "safety": [],
+      "notes": "Vor dem Verzehr 1–2 Minuten antauen lassen, damit die Oberfläche nicht an Lippen oder Zunge festfriert. Ganze runde Trauben bei Bedarf vor dem Einfrieren halbieren (Verschluckungsgefahr beachten).",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Frozen_berries.jpg",
+      "image_attribution": "Symbolfoto tiefgekühlter Beeren mit feiner Reifschicht. Yakushev.dim · CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Frozen_berries.jpg/960px-Frozen_berries.jpg"
+      ],
+      "everyday_alternative": "Gut gekühlte (nicht gefrorene) kernlose Weintrauben oder Blaubeeren aus dem Kühlschrank.",
+      "explore_terms": [
+        "frozen grapes snack",
+        "gefrorene Beeren Weintrauben"
+      ],
+      "source_record_ids": [
+        "R03-028"
+      ],
+      "illustration_hint": "food"
+    },
+    {
+      "id": "R03-029",
+      "legacy_id": null,
+      "title": "Esspapier / Oblaten",
+      "description": "Hauchdünne Backoblaten oder Esspapier-Blätter, die auf der Zunge zuerst trocken knistern und dann langsam weich schmelzen.",
+      "kind": "object",
+      "family": "Oral, Geschmack & Mundgefühl",
+      "subcategory": "Crunch",
+      "senses": [
+        "oral",
+        "tactile",
+        "auditory"
+      ],
+      "material_raw": "Backoblaten / Esspapier aus Stärke (Pflanzen) und Wasser",
+      "actions": [
+        "trockene Textur fühlen",
+        "knusprig abbeißen",
+        "auf der Zunge schmelzen lassen"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "edible paper wafer Backoblaten Esspapier Oblaten",
+      "action_prompt": "trockene Textur fühlen · knusprig abbeißen · auf der Zunge schmelzen lassen",
+      "safety": [],
+      "notes": "Zutatenliste bezüglich Gluten (Weizenmehl/-stärke) oder Süßungsmitteln beachten. Trocken lagern, da Oblaten bei Feuchtigkeit sofort zusammenkleben.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Oplatki.w.koszyczku.jpg",
+      "image_attribution": "Symbolfoto dünner weißer Oblaten in einem Körbchen. Julo · Public Domain · https://commons.wikimedia.org/wiki/File:Oplatki.w.koszyczku.jpg. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Oplatki.w.koszyczku.jpg/960px-Oplatki.w.koszyczku.jpg"
+      ],
+      "everyday_alternative": "Ein dünnes Stück ungesalzene Mais- oder Reiswaffel langsam im Mund weich werden lassen.",
+      "explore_terms": [
+        "Backoblaten Esspapier",
+        "edible wafer paper"
+      ],
+      "source_record_ids": [
+        "R03-029"
+      ],
+      "illustration_hint": "food"
+    },
+    {
+      "id": "R03-030",
+      "legacy_id": null,
+      "title": "Knetradiergummi (Kneaded Eraser)",
+      "description": "Zäh-elastischer, krümelfreier Künstler-Knetgummi, der sich auf dem Schreibtisch geräuschlos ziehen, falten, eindrücken und immer wieder neu formen lässt.",
+      "kind": "object",
+      "family": "Kneten & Formen",
+      "subcategory": "Kneten & Formen",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Synthetischer Gummi / Kautschuk (Knete-Radiergummi)",
+      "actions": [
+        "ziehen",
+        "falten und kneten",
+        "Fingerabdrücke eindrücken"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "kneaded eraser Knetradiergummi Knetgummi Zeichenbedarf",
+      "action_prompt": "ziehen · falten und kneten · Fingerabdrücke eindrücken",
+      "safety": [],
+      "notes": "Krümelt nicht und klebt nicht an den Fingern, nimmt aber mit der Zeit Staub und Graphit auf; sauber in einer kleinen Dose aufbewahren. Kein Kauobjekt.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Kneaded_eraser.JPG",
+      "image_attribution": "Symbolfoto eines geformten grauen Knetradiergummis neben einem frischen Block. Mrs Scarborough · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Kneaded_eraser.JPG/960px-Kneaded_eraser.JPG"
+      ],
+      "everyday_alternative": "Ein Stück klassische Modellierknete oder ein weicher Radiergummi zum Befühlen.",
+      "explore_terms": [
+        "kneaded eraser",
+        "Knetradiergummi"
+      ],
+      "source_record_ids": [
+        "R03-030"
+      ],
+      "illustration_hint": "soft"
+    },
+    {
+      "id": "R03-031",
+      "legacy_id": null,
+      "title": "Hoberman-Kugel (Ausfaltbare Gelenkkugel)",
+      "description": "Eine geometrische Kugel aus gekoppelten Scherengelenken, die sich mit beiden Händen fließend von einer kompakten Form zu einer großen Gitterkugel aufspannen und wieder zusammenfalten lässt. Beim gleichmäßigen Auseinanderziehen und Zusammenschieben ist die synchrone Mechanik über viele Drehpunkte hinweg spür- und sichtbar.",
+      "kind": "object",
+      "family": "Formwandel",
+      "subcategory": "Scherengelenk-Objekte",
+      "senses": [
+        "tactile",
+        "proprioceptive",
+        "visual"
+      ],
+      "material_raw": "Kunststoff mit beweglichen Scherengelenken",
+      "actions": [
+        "aufspannen",
+        "zusammenfalten",
+        "Drehpunkte fühlen"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Hoberman sphere ausfaltbare Gelenkkugel expanding sphere fidget",
+      "action_prompt": "aufspannen · zusammenfalten · Drehpunkte fühlen",
+      "safety": [],
+      "notes": "Finger nicht direkt in die Scherenkreuzungen legen, während die Kugel mit Schwung zusammengeschoben wird. Ohne Vorgabe einer bestimmten Atemtechnik nutzbar.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Hoberman_Sphere.jpg",
+      "image_attribution": "Symbolfoto einer farbigen Hoberman-Gelenkkugel. ChristopherSchmidt · CC BY 2.5 · https://creativecommons.org/licenses/by/2.5/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hoberman_Sphere.jpg"
+      ],
+      "everyday_alternative": "Ein faltbarer Dämpfeinsatz aus Edelstahl für Kochtöpfe lässt sich ähnlich auf- und zuklappen.",
+      "explore_terms": [
+        "Hoberman sphere",
+        "Ausfaltbare Gelenkkugel"
+      ],
+      "source_record_ids": [
+        "R03-031"
+      ],
+      "illustration_hint": "coil"
+    },
+    {
+      "id": "R03-032",
+      "legacy_id": null,
+      "title": "Eulersche Scheibe (Euler's Disk)",
+      "description": "Eine schwere, polierte Metallscheibe dreht und taumelt auf einer leicht konkaven Spiegel- oder Glasunterlage. Nach dem Andrehen kreist sie minutenlang mit abnehmendem Neigungswinkel, während das Roll- und Summgeräusch bis zum plötzlichen Stillstand immer höher und schneller wird.",
+      "kind": "object",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Rotationskörper",
+      "senses": [
+        "auditory",
+        "visual",
+        "tactile"
+      ],
+      "material_raw": "Schwere Metallscheibe aus verchromtem Stahl auf leicht konkaver Spiegel- oder Glasbasis (Glas)",
+      "actions": [
+        "andrehen",
+        "Kreisen beobachten",
+        "Summen hören"
+      ],
+      "quiet": false,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Euler's Disk Eulersche Scheibe spinning metal disk",
+      "action_prompt": "andrehen · Kreisen beobachten · Summen hören",
+      "safety": [],
+      "notes": "Das hochfrequente Summen gegen Ende des Laufs ist deutlich hörbar. Die schwere Metallscheibe nur auf der vorgesehenen Unterlage und einer stabilen Tischfläche verwenden.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Euler%27s_disk.png",
+      "image_attribution": "Symbolfoto / Darstellung einer Eulerschen Scheibe auf konkaver Basis. AndrewDressel · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Bild; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Euler%27s_disk.png/960px-Euler%27s_disk.png"
+      ],
+      "everyday_alternative": "Eine große, schwere Münze auf einer glatten Tischplatte andrehen und beim Auspendeln beobachten.",
+      "explore_terms": [
+        "Euler's Disk",
+        "Eulersche Scheibe"
+      ],
+      "source_record_ids": [
+        "R03-032"
+      ],
+      "illustration_hint": "coin"
+    },
+    {
+      "id": "R03-033",
+      "legacy_id": null,
+      "title": "Oloid / Sphericon (Geometrischer Taumel-Rollkörper)",
+      "description": "Ein geschwungener geometrischer Körper aus Holz, Metall oder Kunststoff, der trotz gekrümmter Kanten mit seiner gesamten Oberfläche abrollt. Beim leichten Anstoßen bewegt er sich in einer ruhigen, durchgehenden Schlangen- oder Taumelbahn über den Tisch und liegt zugleich als Handschmeichler ungewöhnlich in der Hand.",
+      "kind": "object",
+      "family": "Drehen & Formen",
+      "subcategory": "Geometrische Rollkörper",
+      "senses": [
+        "tactile",
+        "visual"
+      ],
+      "material_raw": "Holz, Metall oder Kunststoff, je nach Ausführung",
+      "actions": [
+        "anstoßen",
+        "Taumelbahn folgen",
+        "in der Hand wenden"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Oloid Sphericon geometrischer Rollkörper Taumelkörper",
+      "action_prompt": "anstoßen · Taumelbahn folgen · in der Hand wenden",
+      "safety": [],
+      "notes": "Je nach Material (Massivholz, Edelstahl, Messing oder Kunststoff) unterscheiden sich Gewicht, Rollgeräusch und Handwärme deutlich.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:OLOID.jpg",
+      "image_attribution": "Symbolfoto eines hölzernen Oloids. S.Wetzel · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/OLOID.jpg/960px-OLOID.jpg"
+      ],
+      "everyday_alternative": "Zwei im rechten Winkel ineinandergeschobene Bierdeckel oder Pappscheiben zeigen bereits eine ähnliche taumelnde Rollbewegung auf dem Tisch.",
+      "explore_terms": [
+        "Oloid Rollkörper",
+        "Sphericon desk toy"
+      ],
+      "source_record_ids": [
+        "R03-033"
+      ],
+      "illustration_hint": "roller"
+    },
+    {
+      "id": "R03-034",
+      "legacy_id": null,
+      "title": "Keltischer Wackelstein (Rattleback)",
+      "description": "Ein länglicher, auf der Unterseite leicht asymmetrisch gewölbter Körper, der auf einer glatten Unterlage eine bevorzugte Drehrichtung zeigt. Wird er entgegen dieser Richtung angedreht, bremst er von selbst ab, wippt kurz auf und ab und kehrt seine Rotation in die Gegenrichtung um.",
+      "kind": "object",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Dreh- & Kippkörper",
+      "senses": [
+        "visual",
+        "tactile"
+      ],
+      "material_raw": "Kunststoff, Holz, Metall oder glatter Stein, je nach Ausführung",
+      "actions": [
+        "andrehen",
+        "Wippen abwarten",
+        "Richtungswechsel beobachten"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Rattleback Keltischer Wackelstein Anagyre celt stone",
+      "action_prompt": "andrehen · Wippen abwarten · Richtungswechsel beobachten",
+      "safety": [],
+      "notes": "Funktioniert am besten auf einer harten, glatten und ebenen Tischfläche.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Celt_with_weights_of_gemstone_turtles-01.jpg",
+      "image_attribution": "Symbolfoto eines Rattleback (keltischer Wackelstein). Ed Keath · CC BY-SA 2.5 · https://creativecommons.org/licenses/by-sa/2.5/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Celt_with_weights_of_gemstone_turtles-01.jpg/960px-Celt_with_weights_of_gemstone_turtles-01.jpg"
+      ],
+      "everyday_alternative": "Ein gewölbter Löffelkopf auf einer glatten Tischplatte lässt sich ebenfalls kurz andrehen und auspendeln lassen, kehrt aber die Richtung nicht um.",
+      "explore_terms": [
+        "Rattleback",
+        "Keltischer Wackelstein"
+      ],
+      "source_record_ids": [
+        "R03-034"
+      ],
+      "illustration_hint": "stone"
+    },
+    {
+      "id": "R03-035",
+      "legacy_id": null,
+      "title": "Umkehrkreisel (Tippe Top / Stehauf-Kreisel)",
+      "description": "Ein bauchiger Kreisel mit kurzem Stiel und tief liegendem Schwerpunkt. Wird er kräftig mit den Fingern angedreht, neigt er sich während der schnellen Drehung allmählich zur Seite, kippt um und dreht sich plötzlich auf seinem schmalen Stiel stehend weiter.",
+      "kind": "object",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Kreisel",
+      "senses": [
+        "visual",
+        "tactile"
+      ],
+      "material_raw": "Holz, Metall oder Kunststoff, je nach Ausführung",
+      "actions": [
+        "andrehen",
+        "Aufrichten beobachten",
+        "auslaufen lassen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Tippe top Umkehrkreisel Stehaufkreisel",
+      "action_prompt": "andrehen · Aufrichten beobachten · auslaufen lassen",
+      "safety": [],
+      "notes": "Für das Umkippen auf den Stiel ist ein kräftiger Drehimpuls auf einer glatten, nicht zu spiegelglatten Unterlage nötig.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Tippe_Top.jpg",
+      "image_attribution": "Symbolfoto zweier Umkehrkreisel (Tippe Tops) in Ausgangs- und Umkehrposition. Gellender · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Tippe_Top.jpg/960px-Tippe_Top.jpg"
+      ],
+      "everyday_alternative": "Eine runde Eichel oder Haselnuss auf dem Tisch mit zwei Fingern andrehen.",
+      "explore_terms": [
+        "Tippe top",
+        "Umkehrkreisel Stehaufkreisel"
+      ],
+      "source_record_ids": [
+        "R03-035"
+      ],
+      "illustration_hint": "spinner"
+    },
+    {
+      "id": "R03-036",
+      "legacy_id": null,
+      "title": "Lichtmühle (Crookes-Radiometer)",
+      "description": "In einem geschlossenen Glaskolben mit Teilvakuum sitzt ein leichtes Flügelrad auf einer feinen Spitze; die vier Flügelseiten sind abwechselnd schwarz und hell gefärbt. Fällt Sonnenlicht oder warmes Lampenlicht darauf, beginnt sich der Rotor völlig lautlos und je nach Lichtstärke unterschiedlich schnell zu drehen.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Lichtgetriebene Objekte",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Glaskolben (Glas) mit schwarz-weißen Metallflügeln auf einer Nadelspitze",
+      "actions": [
+        "ins Licht stellen",
+        "Drehtempo vergleichen",
+        "beobachten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Crookes radiometer Lichtmühle solar radiometer",
+      "action_prompt": "ins Licht stellen · Drehtempo vergleichen · beobachten",
+      "safety": [],
+      "notes": "Reines Schauobjekt aus dünnwandigem Glas mit Teilvakuum; standsicher aufstellen und nicht schütteln oder fallen lassen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Crookes_radiometer_J1.jpg",
+      "image_attribution": "Symbolfoto einer Lichtmühle (Crookes-Radiometer). Jamain · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Crookes_radiometer_J1.jpg/960px-Crookes_radiometer_J1.jpg"
+      ],
+      "everyday_alternative": "Ein kleines Windrad aus Papier am Fenster oder über einer warmen Heizung bietet einen ähnlichen ruhigen Dreh-Fokus.",
+      "explore_terms": [
+        "Crookes radiometer",
+        "Lichtmühle Glas"
+      ],
+      "source_record_ids": [
+        "R03-036"
+      ],
+      "illustration_hint": "light"
+    },
+    {
+      "id": "R03-037",
+      "legacy_id": null,
+      "title": "Galileo-Thermometer (Schwebekugel-Zylinder)",
+      "description": "Ein hoher, geschlossener Glaszylinder mit klarer Flüssigkeit, in dem mehrere bunte, flüssigkeitsgefüllte Glaskugeln mit kleinen Metallplaketten schwimmen. Verändert sich die Umgebungstemperatur, steigen einzelne Kugeln sehr träge auf oder sinken langsam zu Boden.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Flüssigkeits- & Schwebeobjekte",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Glaszylinder (Glas) mit klarer Flüssigkeit, farbigen Glaskugeln und Metallanhängern",
+      "actions": [
+        "Schwebekugeln betrachten",
+        "Farben vergleichen",
+        "Abstände beobachten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Galileo thermometer Galileo-Thermometer Schwebekugeln",
+      "action_prompt": "Schwebekugeln betrachten · Farben vergleichen · Abstände beobachten",
+      "safety": [],
+      "notes": "Geschlossenes Standobjekt aus Glas mit Trägerflüssigkeit (häufig Kohlenwasserstoff- oder Paraffingemisch); nicht zum Schütteln oder als Handspielzeug gedacht.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Galileo_Thermometer_24_degrees.jpg",
+      "image_attribution": "Symbolfoto eines Galileo-Thermometers mit farbigen Schwebekugeln. Hustvedt · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Galileo_Thermometer_24_degrees.jpg/960px-Galileo_Thermometer_24_degrees.jpg"
+      ],
+      "everyday_alternative": "Ein hohes Glas mit Sprudelwasser, in dem einzelne Kerne oder Beeren langsam auf- und absteigen, zeigt ein ähnliches Schwebespiel.",
+      "explore_terms": [
+        "Galileo thermometer",
+        "Galileo-Thermometer Glaskugeln"
+      ],
+      "source_record_ids": [
+        "R03-037"
+      ],
+      "illustration_hint": "liquid"
+    },
+    {
+      "id": "R03-038",
+      "legacy_id": null,
+      "title": "Sturmglas (FitzRoy-Kristallglas)",
+      "description": "Ein hermetisch verschlossenes, oft tropfen- oder zylinderförmiges Glasgefäß mit einer Kampfer-Salz-Lösung. Je nach Raumtemperatur und Abkühlung wachsen im Inneren feine Nadeln, federartige Zweige, Flocken oder sternförmige Kristalle, die sich über Stunden und Tage immer wieder umbilden.",
+      "kind": "object",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Kristallisationsgefäße",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Tropfenförmiges Glasgefäß (Glas) mit alkoholisch-wässriger Flüssigkeit und Kristallsalzen, teils auf Holzsockel",
+      "actions": [
+        "Kristallformen betrachten",
+        "Lichteinfall ändern",
+        "Wandel beobachten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Storm glass FitzRoy Sturmglas Kristallglas",
+      "action_prompt": "Kristallformen betrachten · Lichteinfall ändern · Wandel beobachten",
+      "safety": [],
+      "notes": "Als ruhiges visuelles Beobachtungsobjekt nutzbar; kein verlässliches Wetterinstrument. Geschlossenes Glasgefäß mit chemischer Lösung (u. a. Kampfer und Alkohol) – bruchsicher außerhalb der Reichweite von Kleinkindern aufstellen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Storm_Glass_General_View.jpg",
+      "image_attribution": "Symbolfoto eines Sturmglases mit Kristallstrukturen. Brudersohn · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/00/Storm_Glass_General_View.jpg"
+      ],
+      "everyday_alternative": "Ein geschlossenes Glasgefäß mit Wasser und Eiswürfeln oder feinen Schwebeteilchen im Seitenlicht lädt ähnlich zum ruhigen Betrachten ein.",
+      "explore_terms": [
+        "FitzRoy storm glass",
+        "Sturmglas Kristalle"
+      ],
+      "source_record_ids": [
+        "R03-038"
+      ],
+      "illustration_hint": "liquid"
+    },
+    {
+      "id": "R03-039",
+      "legacy_id": null,
+      "title": "Chinesische Handwalnüsse (Wenwan-Walnüsse)",
+      "description": "Ein aufeinander abgestimmtes Paar hartschaliger, tief gefurchter Walnüsse (traditionell Juglans hopeiensis), das in einer Hand gedreht, gegeneinander gerieben und kräftig gedrückt wird. Die ausgeprägten Rippen und Vertiefungen geben den Handflächen und Fingerkuppen ein markantes Relief und ein trockenes, hölzernes Klacken.",
+      "kind": "object",
+      "family": "Geschicklichkeit & Flow",
+      "subcategory": "Handkugeln & Naturpaare",
+      "senses": [
+        "tactile",
+        "proprioceptive",
+        "auditory"
+      ],
+      "material_raw": "Paarweise verholzte, tief gefurchte pflanzliche Walnussschalen (Holz / Naturmaterial)",
+      "actions": [
+        "in einer Hand kreisen",
+        "Furchen ertasten",
+        "kräftig drücken"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Wenwan walnuts Juglans hopeiensis chinesische Handwalnüsse",
+      "action_prompt": "in einer Hand kreisen · Furchen ertasten · kräftig drücken",
+      "safety": [],
+      "notes": "Beim Aneinanderreiben in einer Hand entsteht ein hörbares Holz-Klackgeräusch; wer leise tasten möchte, bewegt eine einzelne Nuss oder hält beide auf Abstand. Keine medizinische Zusage über Reflexzonen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:A_pair_of_walnut_(Juglans_hopeiensis).jpg",
+      "image_attribution": "Symbolfoto eines Paares chinesischer Handwalnüsse (Juglans hopeiensis). 蝠翔似黑潮 · CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/A_pair_of_walnut_(Juglans_hopeiensis).jpg/960px-A_pair_of_walnut_(Juglans_hopeiensis).jpg"
+      ],
+      "everyday_alternative": "Zwei gewöhnliche, unbeschädigte Speisewalnüsse in der Schale.",
+      "explore_terms": [
+        "Wenwan walnuts",
+        "Juglans hopeiensis Handwalnüsse"
+      ],
+      "source_record_ids": [
+        "R03-039"
+      ],
+      "illustration_hint": "baoding"
+    },
+    {
+      "id": "R03-040",
+      "legacy_id": null,
+      "title": "Kettengeflecht-Fidget (Chainmaille-Ringgewebe)",
+      "description": "Ein handtellergroßes Geflecht oder kurzes Band aus dicht ineinander gefügten Metallringen. Obwohl es aus starrem Edelstahl oder Aluminium besteht, fließt das Ringgewebe schwer, anfangs kühl und mit feinem metallischem Rascheln überraschend geschmeidig durch die Finger.",
+      "kind": "object",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Ketten- & Ringgeflechte",
+      "senses": [
+        "tactile",
+        "proprioceptive",
+        "auditory"
+      ],
+      "material_raw": "Ineinander verflochtene Ringe aus Edelstahl oder eloxiertem Aluminium (Metall)",
+      "actions": [
+        "durch die Finger gleiten lassen",
+        "in der Hand wiegen",
+        "zusammenfalten"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "chainmaille fidget chain mail rings Kettengeflecht Handobjekt",
+      "action_prompt": "durch die Finger gleiten lassen · in der Hand wiegen · zusammenfalten",
+      "safety": [],
+      "notes": "Als Handobjekt eignen sich sauber geschlossene oder verschweißte Ringe ohne abstehende Drahtenden. Ausschließlich als Tastobjekt für die Hände verwenden, nicht als Scheuerschwamm auf der Haut.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Chainmail_detail.jpg",
+      "image_attribution": "Symbolfoto / Detailaufnahme eines Metall-Kettengeflechts (Chainmaille). Snowdog · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Chainmail_detail.jpg/960px-Chainmail_detail.jpg"
+      ],
+      "everyday_alternative": "Ein sauberer, unbenutzter Edelstahl-Ringreiniger aus dem Küchenbedarf oder ein einzelner Schlüsselringbund.",
+      "explore_terms": [
+        "chainmaille fidget",
+        "Kettengeflecht Edelstahlringe"
+      ],
+      "source_record_ids": [
+        "R03-040"
+      ],
+      "illustration_hint": "chain"
+    },
+    {
+      "id": "R03-041",
+      "legacy_id": null,
+      "title": "Metall-Geduldspiel (Cast Puzzle / Vexier)",
+      "description": "Zwei oder mehr massiv gegossene oder gebogene Metallteile, die über Kerben, Bögen und Windungen ineinander verschränkt sind. Auch ohne das Ziel einer Lösung lassen sich die schweren, glatten Teile blind in der Hand gegeneinander verdrehen, verschieben und entlang bekannter Bahnen führen.",
+      "kind": "object",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Mechanische Geduldspiele",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Schweres gegossenes oder gebogenes Metall (Zinklegierung oder Edelstahl)",
+      "actions": [
+        "gegeneinander verdrehen",
+        "entlanggleiten lassen",
+        "blind ertasten"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "cast puzzle metal disentanglement puzzle Metall-Geduldspiel Vexier",
+      "action_prompt": "gegeneinander verdrehen · entlanggleiten lassen · blind ertasten",
+      "safety": [],
+      "notes": "Metallteile können beim schnellen Bewegen hörbar aneinanderklacken; ohne Kraftaufwand führen, damit sich die Teile nicht verkanten.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Staircasepuzzle-4ringspluspolewithcat.jpg",
+      "image_attribution": "Symbolfoto eines mechanischen Metall-Entwirrspiels (Disentanglement Puzzle). Merkel · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Staircasepuzzle-4ringspluspolewithcat.jpg/960px-Staircasepuzzle-4ringspluspolewithcat.jpg"
+      ],
+      "everyday_alternative": "Zwei ineinandergehängte Karabinerhaken oder Schlüsselringe langsam gegeneinander bewegen.",
+      "explore_terms": [
+        "cast puzzle metal",
+        "Metall-Geduldspiel Vexier"
+      ],
+      "source_record_ids": [
+        "R03-041"
+      ],
+      "illustration_hint": "bolt"
+    },
+    {
+      "id": "R03-042",
+      "legacy_id": null,
+      "title": "Japanische Furin-Windglocke",
+      "description": "Eine kleine, rundliche Glocke aus Glas, Keramik oder Gusseisen, an deren Klöppel ein leichter Papier- oder Stoffstreifen (Tanzaku) hängt. Schon ein sanfter Luftzug oder kurzes Antippen des Streifens löst vereinzelte, klare Klangimpulse aus und macht feine Luftbewegungen sichtbar.",
+      "kind": "object",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Klangglocken",
+      "senses": [
+        "auditory",
+        "visual"
+      ],
+      "material_raw": "Glockenkörper aus Glas, Keramik oder Gusseisen (Metall) mit Kordel (Textil) und Papierstreifen",
+      "actions": [
+        "sanft anstoßen",
+        "Einzelton nachhören",
+        "Papierpendel beobachten"
+      ],
+      "quiet": false,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Furin wind bell japanische Windglocke Edo Furin",
+      "action_prompt": "sanft anstoßen · Einzelton nachhören · Papierpendel beobachten",
+      "safety": [],
+      "notes": "Glas-Furin klingen hell und kurz, während Gusseisen-Furin (Nambu Tekki) einen längeren Nachklang haben. Im Innenraum lässt sich der Klangimpuls gezielt einzeln auslösen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Furin_japanese_wind_chime.jpg",
+      "image_attribution": "Symbolfoto einer japanischen Furin-Windglocke aus Glas mit angehängtem Papierstreifen. Charity Davenport · CC0 1.0 · https://creativecommons.org/publicdomain/zero/1.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Furin_japanese_wind_chime.jpg/960px-Furin_japanese_wind_chime.jpg"
+      ],
+      "everyday_alternative": "Ein einzelnes Weinglas oder eine Keramikschale vorsichtig mit der Fingerkuppe antippen.",
+      "explore_terms": [
+        "Furin wind bell",
+        "Japanische Windglocke Furin"
+      ],
+      "source_record_ids": [
+        "R03-042"
+      ],
+      "illustration_hint": "tuning"
+    },
+    {
+      "id": "R03-043",
+      "legacy_id": null,
+      "title": "Feder-Donnertrommel (Thunder Tube / Spring Drum)",
+      "description": "Ein kleiner, einseitig mit einer Membran bespannter Resonanzzylinder, aus dessen Mitte eine lange, weiche Metallfeder herabhängt. Wird das Rohr leicht geneigt oder geschwenkt, überträgt die schwingende Feder ein tiefes, grollendes Grummeln und deutliche Vibrationen direkt in die haltende Hand.",
+      "kind": "object",
+      "family": "Klang & Rhythmus",
+      "subcategory": "Effekt- & Resonanzinstrumente",
+      "senses": [
+        "auditory",
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Resonanzröhre aus festem Karton (Papier) oder Holz mit Membran und frei schwingender Metallfeder",
+      "actions": [
+        "leicht neigen",
+        "Feder schwingen lassen",
+        "Vibration am Zylinder spüren"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "thunder tube spring drum Feder-Donnertrommel Donnertrommel",
+      "action_prompt": "leicht neigen · Feder schwingen lassen · Vibration am Zylinder spüren",
+      "safety": [],
+      "notes": "Erzeugt bereits bei kleiner Bewegung ein kräftiges, tieffrequentes Geräusch; die Metallfeder nicht überdehnen oder am Ansatz abknicken.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Danish_friction_drum.JPG",
+      "image_attribution": "Symbolfoto / Bauartbeispiel einer Reib- bzw. Resonanz-Effekttrommel mit angekoppeltem Schwinger (Friction Drum). Kåre Thor Olsen · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Danish_friction_drum.JPG/960px-Danish_friction_drum.JPG"
+      ],
+      "everyday_alternative": "Eine leere Papprolle oder Blechdose, über deren Boden man mit den Fingern streicht oder klopft, erzeugt ebenfalls spürbare Tiefton-Resonanz.",
+      "explore_terms": [
+        "thunder tube spring drum",
+        "Feder-Donnertrommel"
+      ],
+      "source_record_ids": [
+        "R03-043"
+      ],
+      "illustration_hint": "rainstick"
+    },
+    {
+      "id": "R03-044",
+      "legacy_id": null,
+      "title": "Caxixi (Geflochtenes Rasselkörbchen)",
+      "description": "Ein kleines, glockenförmig aus Rattan oder Schilf geflochtenes Körbchen mit Henkel und einer festen Kalebassen-Scheibe als Boden. Je nach Schüttelrichtung treffen die eingeschlossenen Samen oder Steinchen entweder hell und scharf auf den glatten Boden oder weich und gedämpft auf die geflochtene Korbwand.",
+      "kind": "object",
+      "family": "Klang & Rhythmus",
+      "subcategory": "Geflochtene Schüttelpercussion",
+      "senses": [
+        "auditory",
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Handgeflochtene Pflanzenfasern (Rattan oder Schilf) mit Kalebassenboden und Füllung aus Samen oder Kieselsteinen (Stein)",
+      "actions": [
+        "Korbgeflecht ertasten",
+        "waagerecht oder senkrecht schütteln",
+        "Klangflächen wechseln"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "caxixi shaker geflochtenes Rasselkörbchen",
+      "action_prompt": "Korbgeflecht ertasten · waagerecht oder senkrecht schütteln · Klangflächen wechseln",
+      "safety": [],
+      "notes": "Auch ohne Schütteln bietet das strukturierte Flechtwerk aus Naturfasern eine abwechslungsreiche Tastoberfläche für die Finger.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Hn_caxixi.jpg",
+      "image_attribution": "Symbolfoto eines geflochtenen Caxixi-Rasselkörbchens. Horst Nogajski / Vassia Atanassova (Spiritia) · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/33/Hn_caxixi.jpg"
+      ],
+      "everyday_alternative": "Ein kleines Schraubglas mit wenig Reis und einem Stück Pappe oder Filz auf einer Innenseite zum Vergleichen zweier Schüttelklänge.",
+      "explore_terms": [
+        "caxixi",
+        "geflochtenes Rasselkörbchen Caxixi"
+      ],
+      "source_record_ids": [
+        "R03-044"
+      ],
+      "illustration_hint": "grain-bowl"
+    },
+    {
+      "id": "R03-045",
+      "legacy_id": null,
+      "title": "Maultrommel (Jaw Harp)",
+      "description": "Ein kleines Rahmeninstrument mit einer frei schwingenden Federzunge aus Metall oder Bambus. Beim Anzupfen der Zunge dient der leicht geöffnete Mundraum als veränderlicher Resonanzkörper, wodurch obertonreiche Klänge und deutlich spürbare mechanische Vibrationen entstehen.",
+      "kind": "object",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Vibrations- & Obertoninstrumente",
+      "senses": [
+        "auditory",
+        "tactile",
+        "oral",
+        "proprioceptive"
+      ],
+      "material_raw": "Geschmiedeter oder gebogener Rahmen mit Federzunge aus Stahl oder Messing (Metall), teils auch Bambus (Holz)",
+      "actions": [
+        "Rahmen anlegen",
+        "Federzunge anzupfen",
+        "Mundraum verformen"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Maultrommel jaw harp Dan Moi Guimbarde",
+      "action_prompt": "Rahmen anlegen · Federzunge anzupfen · Mundraum verformen",
+      "safety": [],
+      "notes": "Bei klassischen Metall-Maultrommeln nicht auf die schwingende Federzunge beißen; Lippenmaultrommeln (z. B. Dan Moi aus Messing) werden nur sanft an die Lippen statt an die Zähne angelegt.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Maultrom_1a.jpg",
+      "image_attribution": "Symbolfoto einer Maultrommel aus Metall. Manfred Brückels · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Maultrom_1a.jpg/960px-Maultrom_1a.jpg"
+      ],
+      "everyday_alternative": "Ein flaches Lineal, das an der Tischkante festgehalten und leicht angezupft wird, macht das Prinzip einer frei schwingenden Zunge direkt spürbar.",
+      "explore_terms": [
+        "Maultrommel",
+        "jaw harp Dan Moi"
+      ],
+      "source_record_ids": [
+        "R03-045"
+      ],
+      "illustration_hint": "tuning"
+    },
+    {
+      "id": "R03-046",
+      "legacy_id": null,
+      "title": "Japanische Temari-Fadenkugel",
+      "description": "Eine traditionelle japanische Handkugel, die straff mit Garn umwickelt und mit geometrischen Fadenmustern bestickt ist. Die erhabenen Sticklinien, Kreuzungspunkte und Farbsegmente bilden ein feines taktiles Relief, dem die Fingerkuppen beim Drehen der Kugel folgen können.",
+      "kind": "object",
+      "family": "Textil & Stoff",
+      "subcategory": "Bestickte Fadenkugeln",
+      "senses": [
+        "tactile",
+        "visual"
+      ],
+      "material_raw": "Dicht gewickeltes Garn und Bestickung aus Seide oder Baumwolle (Textil) über einem Kern aus Stoffresten",
+      "actions": [
+        "in beiden Händen drehen",
+        "Fadenrelief nachspüren",
+        "Musterlinien folgen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Temari ball japanische Temari Fadenkugel embroidered ball",
+      "action_prompt": "in beiden Händen drehen · Fadenrelief nachspüren · Musterlinien folgen",
+      "safety": [],
+      "notes": "Mit sauberen, trockenen Händen und ohne Ziehen an einzelnen Stickfäden betasten, damit die Fadenspannung erhalten bleibt.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Japanese_folk_art;_Temari%EF%BC%9B%E6%89%8B%E9%9E%A0.jpg",
+      "image_attribution": "Symbolfoto einer japanischen Temari-Fadenkugel mit geometrischer Garnstickerei. Conveyor belt sushi · CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Japanese_folk_art;_Temari%EF%BC%9B%E6%89%8B%E9%9E%A0.jpg/960px-Japanese_folk_art;_Temari%EF%BC%9B%E6%89%8B%E9%9E%A0.jpg"
+      ],
+      "everyday_alternative": "Ein fest gewickeltes Garnknäuel mit ertastbaren Fadenkreuzungen.",
+      "explore_terms": [
+        "Temari ball",
+        "Japanische Temari Fadenkugel"
+      ],
+      "source_record_ids": [
+        "R03-046"
+      ],
+      "illustration_hint": "yarn"
+    },
+    {
+      "id": "R03-047",
+      "legacy_id": null,
+      "title": "Guatemaltekische Sorgenpüppchen (Worry Dolls)",
+      "description": "Winzige, oft nur ein bis drei Zentimeter große Figuren aus einem dünnen Holz-, Draht- oder Kartongerüst, das dicht mit buntem Garn und Stoffstreifen umwickelt ist. Sie lassen sich einzeln zwischen den Fingerspitzen befühlen, nebeneinander aufreihen und wieder in ihrer kleinen Schachtel oder ihrem Stoffbeutel sortieren.",
+      "kind": "object",
+      "family": "Textil & Stoff",
+      "subcategory": "Miniatur-Textilobjekte",
+      "senses": [
+        "tactile",
+        "visual"
+      ],
+      "material_raw": "Buntes Garn und feine Gewebestücke aus Baumwolle (Textil) auf winzigem Holz-, Draht- oder Kartongerüst",
+      "actions": [
+        "einzeln herausnehmen",
+        "Garnwicklung befühlen",
+        "in der Schachtel sortieren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "worry dolls Guatemaltekische Sorgenpüppchen Quitapenas",
+      "action_prompt": "einzeln herausnehmen · Garnwicklung befühlen · in der Schachtel sortieren",
+      "safety": [],
+      "notes": "Sehr kleine Einzelteile mit teils dünnem Drahtkern; nicht für Kleinkinder oder Personen geeignet, die Gegenstände in den Mund nehmen. Hier als feinmotorisches Tast- und Sortierobjekt beschrieben.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Worry_dolls.jpg",
+      "image_attribution": "Symbolfoto guatemaltekischer Sorgenpüppchen (Worry Dolls) aus buntem Garn. Leena · CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/c/ca/Worry_dolls.jpg"
+      ],
+      "everyday_alternative": "Ein kurzes Stück Holzstäbchen oder Pappstreifen dicht mit Stickgarn umwickeln.",
+      "explore_terms": [
+        "worry dolls",
+        "Guatemaltekische Sorgenpüppchen"
+      ],
+      "source_record_ids": [
+        "R03-047"
+      ],
+      "illustration_hint": "specimens"
+    },
+    {
+      "id": "R03-048",
+      "legacy_id": null,
+      "title": "Konjak-Schwamm (Konjac-Wurzelschwamm)",
+      "description": "Ein kleiner Halbkugel- oder Tropfenschwamm aus den Pflanzenfasern der Konjakwurzel, der seinen Charakter mit Wasser vollständig verändert: Trocken ist er hart, leicht und rau-porös; vollgesogen mit Wasser verwandelt er sich in ein ungewöhnlich glattes, geleeartig federndes Kissen zum Drücken.",
+      "kind": "object",
+      "family": "Naturmaterialien",
+      "subcategory": "Pflanzenschwämme",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Trockene pflanzliche Fasern der Konjakwurzel, trocken oder mit Wasser vollgesogen",
+      "actions": [
+        "trockene Poren fühlen",
+        "im Wasser vollsaugen lassen",
+        "federnd ausdrücken"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "konjac sponge Konjak-Schwamm Konjac Wurzelschwamm",
+      "action_prompt": "trockene Poren fühlen · im Wasser vollsaugen lassen · federnd ausdrücken",
+      "safety": [],
+      "notes": "Nach Kontakt mit Wasser nur sanft zwischen den flachen Handflächen ausdrücken (nicht auswringen) und an der Luft vollständig trocknen lassen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Konjac_sponge.jpg",
+      "image_attribution": "Symbolfoto eines weißen Konjak-Schwamms mit sichtbarer Porenstruktur. Morn · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Konjac_sponge.jpg/960px-Konjac_sponge.jpg"
+      ],
+      "everyday_alternative": "Ein gewöhnlicher Zellulose-Haushaltsschwamm zeigt ebenfalls den Übergang von hart-trocken zu weich-feucht, hat aber eine weniger geleeartige Oberfläche.",
+      "explore_terms": [
+        "konjac sponge",
+        "Konjak-Schwamm"
+      ],
+      "source_record_ids": [
+        "R03-048"
+      ],
+      "illustration_hint": "soft"
+    },
+    {
+      "id": "R03-049",
+      "legacy_id": null,
+      "title": "Luffa-Schwamm (Natürliche Schwammgurke)",
+      "description": "Das trockene Innengerüst der Schwammgurke besteht aus einem dichten, verzweigten Netz stabiler Pflanzenfasern. In der Hand bietet es eine kräftige, elastisch-raue Struktur zum Darüberstreichen, Eindrücken und Befühlen der Röhrenkammern.",
+      "kind": "object",
+      "family": "Naturmaterialien",
+      "subcategory": "Pflanzenschwämme",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Trockenes pflanzliches Fasergeflecht der Schwammgurke (Luffa)",
+      "actions": [
+        "über die Fasern streichen",
+        "kräftig zusammendrücken",
+        "trocken und feucht vergleichen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "luffa sponge loofah Luffa-Schwamm Schwammgurke",
+      "action_prompt": "über die Fasern streichen · kräftig zusammendrücken · trocken und feucht vergleichen",
+      "safety": [],
+      "notes": "Trockene Luffafasern sind sehr fest; auf der Haut nur mit leichtem, angenehmem Druck streichen, um Reibung zu vermeiden. In warmem Wasser werden die Fasern deutlich nachgiebiger.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Luffa_sponge.png",
+      "image_attribution": "Symbolfoto eines natürlichen Luffa-Schwamms mit erkennbarem Fasergeflecht. Jerry Crimson Mann · CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Luffa_sponge.png/960px-Luffa_sponge.png"
+      ],
+      "everyday_alternative": "Ein Stück Sackleinen, Kokosfaser oder die trockene, strukturierte Seite eines Haushaltsschwamms bietet eine ähnliche kräftige Reibungstextur.",
+      "explore_terms": [
+        "luffa sponge",
+        "Luffa-Schwamm Naturfaser"
+      ],
+      "source_record_ids": [
+        "R03-049"
+      ],
+      "illustration_hint": "spiky"
+    },
+    {
+      "id": "R03-050",
+      "legacy_id": null,
+      "title": "Bienenwachstuch (Formbares Wachstuch)",
+      "description": "Ein mit Bienenwachs und pflanzlichem Öl beschichtetes Baumwolltuch, das auf die Wärme der Hände reagiert. Es fühlt sich griffig-wachsig an, behält gefaltete Kanten oder kleine Schalenformen von selbst bei und lässt sich durch Handwärme immer wieder glattstreichen und neu formen.",
+      "kind": "object",
+      "family": "Kneten & Formen",
+      "subcategory": "Wärmeformbare Tücher",
+      "senses": [
+        "tactile",
+        "proprioceptive",
+        "olfactory"
+      ],
+      "material_raw": "Baumwollstoff (Textil), beschichtet mit Bienenwachs und pflanzlichem Jojobaöl",
+      "actions": [
+        "mit Handwärme anwärmen",
+        "Kanten in Form falten",
+        "wieder glattstreichen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "beeswax wrap Bienenwachstuch formbares Wachstuch",
+      "action_prompt": "mit Handwärme anwärmen · Kanten in Form falten · wieder glattstreichen",
+      "safety": [],
+      "notes": "Nicht auf Heizkörper legen oder heiß abwaschen, damit sich die Wachsbeschichtung nicht löst. Manche Tücher enthalten zusätzlich Baumharz (Kolophonium) – bei bekannter Kontaktallergie die Materialangabe prüfen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Beeswax_wrap_covering_bowl.jpg",
+      "image_attribution": "Symbolfoto eines gemusterten Bienenwachstuchs. Mw1234567 · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Beeswax_wrap_covering_bowl.jpg/960px-Beeswax_wrap_covering_bowl.jpg"
+      ],
+      "everyday_alternative": "Ein sauberes Stück festes Backpapier behält Knicke ebenfalls teilweise bei, knistert jedoch hörbar.",
+      "explore_terms": [
+        "beeswax wrap",
+        "Bienenwachstuch falten"
+      ],
+      "source_record_ids": [
+        "R03-050"
+      ],
+      "illustration_hint": "fold"
+    },
+    {
+      "id": "R03-051",
+      "legacy_id": null,
+      "title": "Seidenkokon (Natur-Kokon für die Fingerkuppe)",
+      "description": "Die ovale, einseitig geöffnete Hülle des Seidenspinners ist federleicht, dünnwandig und außen fein faserig-matt strukturiert. Sie lässt sich wie ein winziger Fingerhut direkt auf eine Fingerkuppe setzen, leicht zusammendrücken oder sanft über den Handrücken und die Finger führen.",
+      "kind": "object",
+      "family": "Naturmaterialien",
+      "subcategory": "Faserhüllen",
+      "senses": [
+        "tactile"
+      ],
+      "material_raw": "Unversponnene Naturseide (Seide / Textil) der Seidenraupe",
+      "actions": [
+        "auf die Fingerkuppe setzen",
+        "feine Außenstruktur tasten",
+        "leicht antippen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "silkworm cocoon Seidenkokon Fingerkuppe Naturseide",
+      "action_prompt": "auf die Fingerkuppe setzen · feine Außenstruktur tasten · leicht antippen",
+      "safety": [],
+      "notes": "Gereinigte, leere Kokons trocken als leichtes Fingerkuppen-Tastobjekt verwenden; kleine Naturhüllen außerhalb der Reichweite von Kleinkindern aufbewahren.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Silk_worm_cocoons.jpg",
+      "image_attribution": "Symbolfoto weißer Seidenkokons mit feiner Faserstruktur. Ian Armstrong · CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4b/Silk_worm_cocoons.jpg"
+      ],
+      "everyday_alternative": "Ein Fingerhut aus Stoff oder Leder bietet ein ähnliches Aufsteck-Gefühl an einer einzelnen Fingerkuppe.",
+      "explore_terms": [
+        "silkworm cocoon",
+        "Seidenkokon Finger"
+      ],
+      "source_record_ids": [
+        "R03-051"
+      ],
+      "illustration_hint": "shell"
+    },
+    {
+      "id": "R03-052",
+      "legacy_id": null,
+      "title": "Taktile Zählperlenkette (Tasbih / Mala / Perlenstrang)",
+      "description": "Eine geschlossene Schnur aus gleichmäßigen Holz-, Stein- oder Glasperlen, oft ergänzt durch größere Markierungsperlen oder eine weiche Quaste. Im Unterschied zu schnell geschwungenen Schleuderketten wird der Strang ruhig Perle für Perle zwischen Daumen und Zeigefinger weitergezogen.",
+      "kind": "object",
+      "family": "Geschicklichkeit & Flow",
+      "subcategory": "Perlenstränge",
+      "senses": [
+        "tactile",
+        "proprioceptive",
+        "auditory"
+      ],
+      "material_raw": "Aufgereihte Perlen aus Holz, Stein oder Glas auf einer Kordel (Textil)",
+      "actions": [
+        "Perle für Perle weiterziehen",
+        "Abstände ertasten",
+        "in der Hand zusammenlegen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "misbaha tasbih mala beads Zählperlenkette Perlenstrang",
+      "action_prompt": "Perle für Perle weiterziehen · Abstände ertasten · in der Hand zusammenlegen",
+      "safety": [],
+      "notes": "Auf eine reißfeste, sauber verknotete Schnur achten. Hier rein als taktiles Hand- und Zählobjekt ohne religiöse oder weltanschauliche Vorgabe beschrieben.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Tespih_(fcm).jpg",
+      "image_attribution": "Symbolfoto einer Perlenkette (Tespih / Tasbih) mit glatten Perlen und Quaste. Frank C. Müller · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Tespih_(fcm).jpg/960px-Tespih_(fcm).jpg"
+      ],
+      "everyday_alternative": "Eine geknotete Kordel mit regelmäßigen Knotenabständen durch die Finger gleiten lassen.",
+      "explore_terms": [
+        "misbaha tasbih beads",
+        "mala beads Perlenstrang"
+      ],
+      "source_record_ids": [
+        "R03-052"
+      ],
+      "illustration_hint": "beads"
+    },
+    {
+      "id": "R03-053",
+      "legacy_id": null,
+      "title": "Abakus / Soroban (Rechenrahmen mit Perlen)",
+      "description": "Ein flacher Holzrahmen mit parallelen Stäben und doppelkegeligen oder runden Perlen. Die Perlen lassen sich mit den Fingerspitzen einzeln mit klarem Anschlag klacken, in symmetrische Muster ordnen oder mit einer Streichbewegung über die gesamte Reihe zurücksetzen.",
+      "kind": "object",
+      "family": "Feinmechanik & Impuls",
+      "subcategory": "Schiebe- & Zählrahmen",
+      "senses": [
+        "tactile",
+        "auditory",
+        "visual"
+      ],
+      "material_raw": "Rahmen und Stäbe aus Holz oder Bambus; Perlen aus Holz oder Kunststoff",
+      "actions": [
+        "Perlen einzeln anschlagen",
+        "ganze Reihen verschieben",
+        "Muster schieben"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "soroban abacus Rechenrahmen Perlen schieben",
+      "action_prompt": "Perlen einzeln anschlagen · ganze Reihen verschieben · Muster schieben",
+      "safety": [],
+      "notes": "Beim schnellen Anschlagen der Perlen an den Mittelsteg entsteht ein trockenes Klickgeräusch; langsames Einzelschieben ist deutlich leiser.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Soroban_(Abacus).JPG",
+      "image_attribution": "Symbolfoto eines japanischen Soroban-Rechenrahmens mit doppelkegeligen Perlen. Fisle · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Soroban_(Abacus).JPG/960px-Soroban_(Abacus).JPG"
+      ],
+      "everyday_alternative": "Einige Holzperlen oder Knöpfe auf einer straff gespannten Schnur lassen sich ebenso einzeln mit klarem Anschlag hin- und herschieben.",
+      "explore_terms": [
+        "soroban abacus",
+        "Abakus Rechenrahmen"
+      ],
+      "source_record_ids": [
+        "R03-053"
+      ],
+      "illustration_hint": "slider"
+    },
+    {
+      "id": "R03-054",
+      "legacy_id": null,
+      "title": "Handfächer / Faltfächer",
+      "description": "Ein faltbarer Fächer aus Holz- oder Bambusstreben mit einer Bespannung aus Stoff oder Papier. Er verbindet das rhythmische Auf- und Zuklappen der gefalteten Lamellen in der Hand mit der lockeren Bewegung aus dem Handgelenk und einem direkt auf der Haut spürbaren Luftzug.",
+      "kind": "object",
+      "family": "Bewegung & Druck",
+      "subcategory": "Falt- & Luftzugobjekte",
+      "senses": [
+        "tactile",
+        "proprioceptive",
+        "vestibular",
+        "auditory"
+      ],
+      "material_raw": "Faltstreben aus Holz oder Bambus mit Bespannung aus Stoff (Textil) oder Papier",
+      "actions": [
+        "aus dem Handgelenk aufspannen",
+        "Luftzug fächeln",
+        "zusammenklappen"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "folding hand fan Handfächer Faltfächer Sensu",
+      "action_prompt": "aus dem Handgelenk aufspannen · Luftzug fächeln · zusammenklappen",
+      "safety": [],
+      "notes": "Langsam geöffnet ist ein Faltfächer fast lautlos; ruckartiges Aufschlagen erzeugt ein deutliches Klack- oder Schnappgeräusch.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Japanese_Fan_(Hakusen).png",
+      "image_attribution": "Symbolfoto eines aufgefächerten japanischen Faltfächers (Sensu / Hakusen). Mukai · Public Domain · https://commons.wikimedia.org/wiki/File:Japanese_Fan_(Hakusen).png. Unverändertes Bild; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/f2/Japanese_Fan_(Hakusen).png"
+      ],
+      "everyday_alternative": "Ein Blatt festes Papier im Zickzack zu einem einfachen Ziehharmonika-Fächer falten.",
+      "explore_terms": [
+        "folding hand fan",
+        "Faltfächer Handfächer"
+      ],
+      "source_record_ids": [
+        "R03-054"
+      ],
+      "illustration_hint": "fold"
+    },
+    {
+      "id": "R03-055",
+      "legacy_id": null,
+      "title": "Speckstein-Handschmeichler (Soapstone)",
+      "description": "Ein glatt polierter Naturstein mit hohem Talkumanteil (Steatit), der sich im Unterschied zu hartem Quarz oder Kiesel auch im völlig trockenen Zustand weich, fast seifig-samtig anfühlt. Er nimmt die Temperatur der Hand ungewöhnlich schnell an und gleitet fast reibungslos unter dem Daumen.",
+      "kind": "object",
+      "family": "Fühlen & Tasten",
+      "subcategory": "Handschmeichler & Natursteine",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Glatt geschliffener Speckstein (Steatit / talkumhaltiger Naturstein)",
+      "actions": [
+        "in der Hand umschließen",
+        "seifig-glatte Fläche reiben",
+        "Handwärme spüren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "soapstone steatite Speckstein Handschmeichler",
+      "action_prompt": "in der Hand umschließen · seifig-glatte Fläche reiben · Handwärme spüren",
+      "safety": [],
+      "notes": "Speckstein ist sehr weich (Mohshärte 1) und bekommt bei Kontakt mit Münzen oder Schlüsseln leicht Kratzer; nur fertig geschliffene, staubfreie Steine als Handschmeichler nutzen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Soapstone_(Speckstein)_-_several_colored_samples.jpg",
+      "image_attribution": "Symbolfoto geschliffener Speckstein-Handstücke in verschiedenen Naturtönen. Ra'ike · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Soapstone_(Speckstein)_-_several_colored_samples.jpg/960px-Soapstone_(Speckstein)_-_several_colored_samples.jpg"
+      ],
+      "everyday_alternative": "Ein glattes Stück Schneiderkreide oder ein trockenes Stück feste Seife vermittelt eine ähnliche Oberflächenglätte.",
+      "explore_terms": [
+        "soapstone worry stone",
+        "Speckstein Handschmeichler"
+      ],
+      "source_record_ids": [
+        "R03-055"
+      ],
+      "illustration_hint": "stone"
+    },
+    {
+      "id": "R03-056",
+      "legacy_id": null,
+      "title": "Singende Hämatit-Magnete (Buzz Magnets / Klapperschlangen-Eier)",
+      "description": "Zwei schwer in der Hand liegende, hochglänzend polierte ovale Magnetsteine. Werden sie leicht getrennt und kontrolliert wieder zusammengeführt, prallen sie in schneller Folge vielfach aufeinander und erzeugen ein hochfrequentes, metallisch schnarrendes Summen sowie ein deutliches Kribbeln in der Handfläche.",
+      "kind": "object",
+      "family": "Magnetisch",
+      "subcategory": "Klang- & Vibrationsmagnete",
+      "senses": [
+        "auditory",
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Zwei polierte, ovale Magnetsteine aus Hämatit-Ferrit (eisenhaltiges Mineral / Stein und magnetisches Metall)",
+      "actions": [
+        "in einer Hand trennen",
+        "kontrolliert zusammenschnappen lassen",
+        "Schnarrvibration spüren"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "rattle magnets singing magnets buzz magnets hematite magnets Klapperschlangen-Eier",
+      "action_prompt": "in einer Hand trennen · kontrolliert zusammenschnappen lassen · Schnarrvibration spüren",
+      "safety": [
+        "small_magnets_check"
+      ],
+      "notes": "Lose starke Magnete sind beim Verschlucken gefährlich und nicht für Kinder geeignet. Nicht hoch in die Luft werfen, da spröde Ferrit-/Hämatit-Magnete beim harten Aufprall abplatzen können.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Hematite.jpg",
+      "image_attribution": "Symbolfoto / Materialbeispiel polierter Hämatit-Trommelsteine (nicht das magnetisierte Paar im Moment des Zusammenpralls). DanielCD · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Hematite.jpg/960px-Hematite.jpg"
+      ],
+      "everyday_alternative": "Zwei kräftige Kühlschrankmagnete in der Hand mit leichtem Abstand gegeneinander zu führen macht das magnetische Anziehen und Schnappen direkt spürbar.",
+      "explore_terms": [
+        "singing magnets rattle magnets",
+        "Hämatit-Magnete Klapperschlangen-Eier"
+      ],
+      "source_record_ids": [
+        "R03-056"
+      ],
+      "illustration_hint": "magnets"
+    },
+    {
+      "id": "R03-057",
+      "legacy_id": null,
+      "title": "Vor-und-zurück-Wiegen im Sitzen oder Stehen (Rocking)",
+      "description": "Den Oberkörper im Sitzen oder Stehen in einem selbst gewählten, ruhigen Takt sanft vor und zurück bewegen. Anders als das reine Seitwärtswiegen spricht diese Vor-und-zurück-Bewegung den Gleichgewichtssinn und die Rumpfmuskulatur entlang der Längsachse an. Auch in Gesprächen, beim konzentrierten Zuhören oder beim Nachdenken ist dieses Wiegen eine völlig natürliche, erlaubte Eigenbewegung.",
+      "kind": "activity",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Vor-und-zurück-Wiegen",
+      "senses": [
+        "vestibular",
+        "proprioceptive"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "vor und zurück wiegen",
+        "eigenen Takt wählen",
+        "Bewegungsweite anpassen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Vor-und-zurück-Wiegen Rocking Sitzen Stehen Stimming Alltag",
+      "action_prompt": "vor und zurück wiegen · eigenen Takt wählen · Bewegungsweite anpassen",
+      "safety": [],
+      "notes": "Eigenständige Bewegungsachse gegenüber dem Seitwärtswiegen (R01-051). Die Bewegung darf klein und kaum sichtbar oder weiter ausladend sein — ohne sozialen Druck zum Stillhalten und ohne klinisches Wirkversprechen.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Im Gespräch oder beim Zuhören ganz selbstverständlich auf der vorderen Stuhlkante, auf dem Sofa oder in einem leicht federnden Freischwinger sanft vor und zurück schwingen.",
+      "explore_terms": [
+        "vor und zurück wiegen sitzen",
+        "body rocking movement"
+      ],
+      "source_record_ids": [
+        "R03-057"
+      ],
+      "illustration_hint": "sit"
+    },
+    {
+      "id": "R03-058",
+      "legacy_id": null,
+      "title": "Gewichtsverlagerung von Fuß zu Fuß im Stehen (Steh-Pendeln)",
+      "description": "Beim Warten, in der Küche oder im Gespräch im Stehen das Körpergewicht ruhig zwischen linkem und rechtem Fuß oder zwischen Ferse und Fußballen verlagern. Statt starr auf einer Stelle zu verharren, bleiben Fußsohlen, Fußgelenke und Beinmuskeln in einem leisen, fließenden Wechsel in Bewegung.",
+      "kind": "activity",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Steh-Bewegung",
+      "senses": [
+        "proprioceptive",
+        "vestibular"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "Gewicht verlagern",
+        "zwischen Füßen pendeln",
+        "Fußsohlen spüren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Gewichtsverlagerung Stehen Fuß zu Fuß pendeln Alltag",
+      "action_prompt": "Gewicht verlagern · zwischen Füßen pendeln · Fußsohlen spüren",
+      "safety": [],
+      "notes": "Unterscheidet sich vom vertikalen Auf-und-ab-Federn (R01-052) und vom statischen Fußsohlen-Check (R01-103) durch das kontinuierliche Pendeln im Alltag. Keine Kreislauf- oder Therapieversprechen.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "An der Haltestelle, in einer Warteschlange oder beim Stehgespräch die Knie locker lassen und das Gewicht unauffällig von einem Bein aufs andere wiegen.",
+      "explore_terms": [
+        "Gewichtsverlagerung im Stehen",
+        "standing weight shift sway"
+      ],
+      "source_record_ids": [
+        "R03-058"
+      ],
+      "illustration_hint": "bounce"
+    },
+    {
+      "id": "R03-059",
+      "legacy_id": null,
+      "title": "Beim Telefonieren, Zuhören oder Nachdenken umhergehen",
+      "description": "Sich in Gesprächen, bei Telefonaten, beim Lernen oder beim Sortieren von Gedanken bewusst erlauben aufzustehen und im Raum oder Flur auf und ab zu gehen. Die gleichmäßige Bewegung der Beine begleitet das Zuhören und Sprechen, ohne dass man sich zum Sitzenbleiben zwingen muss.",
+      "kind": "activity",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Bewegung im Gespräch",
+      "senses": [
+        "vestibular",
+        "proprioceptive"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "aufstehen",
+        "beim Sprechen umhergehen",
+        "eigenes Schritttempo wählen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Beim Telefonieren umhergehen Nachdenken Gehen Gespräch",
+      "action_prompt": "aufstehen · beim Sprechen umhergehen · eigenes Schritttempo wählen",
+      "safety": [],
+      "notes": "Ergänzt das allgemeine Pacing (R01-053) um die konkrete soziale und kognitive Alltagssituation. Ein kurzes Ankündigen (‚Ich gehe beim Zuhören gern ein paar Schritte') nimmt sozialen Druck heraus.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Bei Online-Treffen oder langen Gesprächen das Headset nutzen oder das Kamera-Bild kurz ausschalten, um frei durchs Zimmer zu gehen.",
+      "explore_terms": [
+        "beim Telefonieren umhergehen",
+        "pacing while thinking talking"
+      ],
+      "source_record_ids": [
+        "R03-059"
+      ],
+      "illustration_hint": "walk"
+    },
+    {
+      "id": "R03-060",
+      "legacy_id": null,
+      "title": "Leises Fußspitzen- oder Fersenwippen im Sitzen",
+      "description": "Einen Fuß oder beide Fersen unter dem Tisch in einem kleinen, gleichmäßigen Rhythmus auf und ab wippen lassen. Auf weichen Sohlen, auf Socken oder auf einem Teppich bleibt die Bewegung fast unhörbar und gibt den Waden und Sprunggelenken dennoch eine stetige rhythmische Rückmeldung.",
+      "kind": "activity",
+      "family": "Druck, Kraft & Körper",
+      "subcategory": "Fußrhythmus im Sitzen",
+      "senses": [
+        "proprioceptive",
+        "tactile"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "Ferse wippen lassen",
+        "Fußspitze heben",
+        "leisen Takt halten"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Fußwippen im Sitzen Fersenwippen unter dem Tisch leise",
+      "action_prompt": "Ferse wippen lassen · Fußspitze heben · leisen Takt halten",
+      "safety": [],
+      "notes": "Oft als ‚nervöses Beinwippen' missverstanden, im Alltag aber eine einfache, unaufwendige Eigenbewegung ohne jedes Hilfsmittel. Darf so lange ausgeführt werden, wie es sich für Gelenke und Muskeln angenehm anfühlt.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Wenn ein Tisch oder Stuhl bei kräftigem Wippen mitschwingt, den Fuß auf eine weiche Tasche, einen Schal oder den eigenen anderen Fuß setzen.",
+      "explore_terms": [
+        "Fersenwippen im Sitzen",
+        "quiet heel bouncing seated"
+      ],
+      "source_record_ids": [
+        "R03-060"
+      ],
+      "illustration_hint": "feet"
+    },
+    {
+      "id": "R03-061",
+      "legacy_id": null,
+      "title": "Sitzhaltung frei wählen (Schneidersitz, Hocke, Boden-Sitzen)",
+      "description": "Die eigene Sitzposition nach dem richten, was dem Körper gerade Halt gibt: auf einem Stuhl ein Bein anziehen, im Schneidersitz sitzen, die Knie umfassen oder sich direkt auf den Teppich oder ein Bodenkissen setzen. Angewinkelte Gelenke und eine größere Auflagefläche geben oft deutlichere Rückmeldung über die eigene Körperlage als das aufrechte Standardsitzen.",
+      "kind": "activity",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Freie Sitzhaltungen",
+      "senses": [
+        "proprioceptive",
+        "tactile",
+        "interoceptive"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "Beine anwinkeln",
+        "Sitzposition wechseln",
+        "Auflagefläche spüren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Schneidersitz auf Stuhl Boden sitzen Sitzhaltung frei wählen",
+      "action_prompt": "Beine anwinkeln · Sitzposition wechseln · Auflagefläche spüren",
+      "safety": [],
+      "notes": "Keine Sitzhaltung muss dauerhaft durchgehalten werden; regelmäßiges Wechseln verhindert eingeschlafene Füße oder Druckstellen.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Am Schreibtisch oder Esstisch einen breiteren Stuhl oder einen Hocker vor sich nutzen, um ein oder beide Beine bequem hochzunehmen.",
+      "explore_terms": [
+        "Schneidersitz auf dem Stuhl",
+        "floor sitting cross legged posture"
+      ],
+      "source_record_ids": [
+        "R03-061"
+      ],
+      "illustration_hint": "sit"
+    },
+    {
+      "id": "R03-062",
+      "legacy_id": null,
+      "title": "Anlehnen an Wand, Türrahmen oder Möbelkante im Gespräch",
+      "description": "In sozialen Situationen, auf Fluren oder in belebten Räumen bewusst den Rücken, das Schulterblatt oder die Hüfte an eine feste Wand, einen Türrahmen oder eine stabile Möbelkante lehnen. Der flächige Gegendruck macht die eigene Grenze im Raum sofort spürbar, ohne dass die Situation verlassen werden muss.",
+      "kind": "activity",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Körperhalt im Raum",
+      "senses": [
+        "proprioceptive",
+        "tactile"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "Rücken anlehnen",
+        "Schulterkontakt spüren",
+        "Stand entlasten"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Anlehnen an Wand Türrahmen Gespräch Halt im Raum",
+      "action_prompt": "Rücken anlehnen · Schulterkontakt spüren · Stand entlasten",
+      "safety": [],
+      "notes": "Anders als das kräftige Drücken gegen die Wand (Wall-Push, R01-043) geht es hier um ruhiges, unauffälliges Anlehnen mitten im sozialen Alltag.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Beim Stehen an einem hohen Stehtisch oder Küchenblock die Unterarme oder eine Hüftseite ruhig gegen die feste Tischkante lehnen.",
+      "explore_terms": [
+        "an Wand anlehnen Gespräch",
+        "leaning against wall sensory grounding"
+      ],
+      "source_record_ids": [
+        "R03-062"
+      ],
+      "illustration_hint": "wall"
+    },
+    {
+      "id": "R03-063",
+      "legacy_id": null,
+      "title": "Verdeckter Taschen-Anker im Gespräch oder unterwegs",
+      "description": "Eine Hand locker in der Jacken-, Mantel- oder Hosentasche lassen und dort unbemerkt einen vertrauten kleinen Gegenstand, den Saum oder das glatte Innenfutter mit den Fingern bewegen. So steht in Gesprächen, im Bus oder in Besprechungen jederzeit ein geschützter, privater Tastanker zur Verfügung.",
+      "kind": "activity",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Verdecktes Tasten",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Textil; optional vorhandenes Kleinteil aus Stein, Metall oder Holz",
+      "actions": [
+        "Hand in die Tasche legen",
+        "verdeckt tasten",
+        "Oberfläche drehen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Taschen-Anker verdeckt tasten Jackentasche Fidget Alltag",
+      "action_prompt": "Hand in die Tasche legen · verdeckt tasten · Oberfläche drehen",
+      "safety": [],
+      "notes": "Für leises Tasten in der Tasche eignen sich einzelne glatte Gegenstände besser als ein klirrender Schlüsselbund. Erlaubt kontinuierliches Stimming ohne Blicke von außen.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Auch ohne eigenes Fidget-Objekt lassen sich die Innennaht der Tasche, ein einzelner Knopf oder eine glatte Münze zwischen Daumen und Zeigefinger reiben.",
+      "explore_terms": [
+        "verdecktes Fidget in der Tasche",
+        "discreet pocket tactile anchor"
+      ],
+      "source_record_ids": [
+        "R03-063"
+      ],
+      "illustration_hint": "fabric"
+    },
+    {
+      "id": "R03-064",
+      "legacy_id": null,
+      "title": "Blickpausen im Gespräch (Zuhören ohne Blickkontakt-Druck)",
+      "description": "Beim Zuhören oder Sprechen den Blick bewusst auf einen ruhigen Punkt richten — etwa auf die eigene Teetasse, die Holzmaserung des Tisches, den Notizblock oder aus dem Fenster. Viele Menschen können Gesagtes deutlich klarer aufnehmen, wenn sie visuelle Gesichtsreize zwischendurch oder ganz ausblenden.",
+      "kind": "activity",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Visuelle Dosierung im Gespräch",
+      "senses": [
+        "visual",
+        "auditory"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "Blick auf ruhiges Detail legen",
+        "in Ruhe zuhören",
+        "visuelle Reize dosieren"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Blickpausen im Gespräch Zuhören ohne Blickkontakt visuelle Pause",
+      "action_prompt": "Blick auf ruhiges Detail legen · in Ruhe zuhören · visuelle Reize dosieren",
+      "safety": [],
+      "notes": "Blickkontakt ist kein Maßstab für Aufmerksamkeit oder Wertschätzung. Ein kurzes Nicken oder ein Satz wie ‚Ich höre dir genau zu, auch wenn ich gerade auf den Tisch schaue' schafft im Alltag oft sofort Verständnis.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Gespräche nach Möglichkeit beim gemeinsamen Spazierengehen oder nebeneinander sitzend führen, sodass sich die Blickrichtung von selbst nach vorn richtet.",
+      "explore_terms": [
+        "Zuhören ohne Blickkontakt",
+        "comfortable gaze breaks conversation"
+      ],
+      "source_record_ids": [
+        "R03-064"
+      ],
+      "illustration_hint": "room"
+    },
+    {
+      "id": "R03-065",
+      "legacy_id": null,
+      "title": "Warme Tasse in beiden Händen halten (Sozialer Wärme-Anker)",
+      "description": "In Besprechungen, im Café oder bei Besuch eine warme Keramiktasse mit beiden Handflächen umschließen. Das Gewicht des Gefäßes, die glatte oder leicht strukturierte Glasur und die gleichmäßige Wärme geben den Händen eine ruhige, sozial völlig selbstverständliche Beschäftigung.",
+      "kind": "activity",
+      "family": "Temperatur & Vibration",
+      "subcategory": "Wärmekontakt im Alltag",
+      "senses": [
+        "tactile",
+        "interoceptive",
+        "proprioceptive"
+      ],
+      "material_raw": "Keramik; warmes Wasser oder Tee",
+      "actions": [
+        "Tasse umschließen",
+        "Wärme an den Handflächen spüren",
+        "Glasur ertasten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Warme Tasse in beiden Händen halten Keramiktasse Wärme-Anker",
+      "action_prompt": "Tasse umschließen · Wärme an den Handflächen spüren · Glasur ertasten",
+      "safety": [
+        "Vor dem vollen Umschließen die Außentemperatur der Tasse kurz prüfen, damit sie angenehm warm und nicht zu heiß ist."
+      ],
+      "notes": "Die Tasse muss nicht ausgetrunken werden; schon das Halten eines mit warmem Wasser oder Kräutertee gefüllten Bechers dient als ruhiger Anker am Tisch.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:A_cup_of_Tea.jpg",
+      "image_attribution": "Symbolfoto einer in den Händen gehaltenen Teetasse. Shreya13jain · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/A_cup_of_Tea.jpg/960px-A_cup_of_Tea.jpg"
+      ],
+      "everyday_alternative": "Unterwegs erfüllt ein dickwandiger Mehrweg-Thermobecher oder ein Glas mit lauwarmem Wasser denselben Zweck für die Hände.",
+      "explore_terms": [
+        "warme Tasse in den Händen halten",
+        "holding warm ceramic mug sensory"
+      ],
+      "source_record_ids": [
+        "R03-065"
+      ],
+      "illustration_hint": "cup"
+    },
+    {
+      "id": "R03-066",
+      "legacy_id": null,
+      "title": "Hände unter fließendes Wasser halten (Kurze Waschraum-Pause)",
+      "description": "Bei dichtem Trubel, auf Feiern oder im Arbeitsalltag für zwei Minuten den Waschraum aufsuchen und angenehm warmes oder kühles Leitungswasser ruhig über Handflächen, Finger und Handgelenke laufen lassen. Der gleichmäßige Wasserstrahl und der kurze Ortswechsel schaffen eine unmittelbare sensorische Pause.",
+      "kind": "activity",
+      "family": "Temperatur & Vibration",
+      "subcategory": "Wasser- und Temperaturkontakt",
+      "senses": [
+        "tactile",
+        "interoceptive",
+        "auditory"
+      ],
+      "material_raw": "Wasser",
+      "actions": [
+        "Wasserstrahl einstellen",
+        "Hände darunterhalten",
+        "Temperatur wahrnehmen"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Hände unter fließendes Wasser halten Waschraum Pause Temperatur",
+      "action_prompt": "Wasserstrahl einstellen · Hände darunterhalten · Temperatur wahrnehmen",
+      "safety": [],
+      "notes": "Angenehme Wassertemperatur ohne extreme Kälte oder Hitze wählen. Kein medizinisches Schock- oder Reflexprotokoll, sondern eine freiwillige kurze Alltagspause.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Man_washing_hands_(1).jpg",
+      "image_attribution": "Symbolfoto: Hände unter fließendem Wasser am Waschbecken. Bill Branson (National Cancer Institute) · Public Domain. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Man_washing_hands_%281%29.jpg/960px-Man_washing_hands_%281%29.jpg"
+      ],
+      "everyday_alternative": "Auch das langsame Abtrocknen der Hände mit einem weichen Papier- oder Stoffhandtuch im Anschluss gehört zur ruhigen Pause.",
+      "explore_terms": [
+        "Hände unter fließendes Wasser halten",
+        "hands under running water sensory break"
+      ],
+      "source_record_ids": [
+        "R03-066"
+      ],
+      "illustration_hint": "hands"
+    },
+    {
+      "id": "R03-067",
+      "legacy_id": null,
+      "title": "Übergangs-Ritual beim Heimkommen (Kleidungs- und Lichtwechsel)",
+      "description": "Direkt nach dem Nachhausekommen einen klaren sensorischen Schnitt setzen: feste Schuhe, Gürtel und einengende Straßenkleidung ablegen, in weiche, vertraute Haussachen wechseln und grelles Deckenlicht gegen eine ruhige Steh- oder Tischlampe tauschen. So erfährt der Körper unmittelbar, dass die Anforderungen des Außenraums vorbei sind.",
+      "kind": "activity",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Alltagsübergänge gestalten",
+      "senses": [
+        "tactile",
+        "visual",
+        "interoceptive"
+      ],
+      "material_raw": "Textil",
+      "actions": [
+        "Straßenkleidung ablegen",
+        "weiche Haussachen anziehen",
+        "Licht ruhig einstellen"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Übergangs-Ritual Heimkommen Kleidung wechseln Licht dimmen",
+      "action_prompt": "Straßenkleidung ablegen · weiche Haussachen anziehen · Licht ruhig einstellen",
+      "safety": [],
+      "notes": "Übergänge zwischen verschiedenen Umgebungen kosten oft unbemerkt viel Aufmerksamkeit. Ein festes, einfaches Ankommens-Ritual respektiert dieses Bedürfnis ohne großen Zeitaufwand.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Weiche Haussocken und einen bequemen Pullover schon griffbereit im Flur oder Schlafzimmer bereitlegen, damit nach dem Heimkommen keine Entscheidung nötig ist.",
+      "explore_terms": [
+        "Übergangsritual nach dem Heimkommen",
+        "sensory decompression routine home"
+      ],
+      "source_record_ids": [
+        "R03-067"
+      ],
+      "illustration_hint": "shirt"
+    },
+    {
+      "id": "R03-068",
+      "legacy_id": null,
+      "title": "Nahtlose Socken oder Zehensocken im Alltag",
+      "description": "Socken mit flach gekettelter, kaum spürbarer Spitze oder Zehensocken, die jeden Zeh einzeln in weichen Strickstoff fassen. Sie vermeiden drückende Quernähte an den Zehenkuppen und verhindern, dass die Zehen im Schuh feucht oder eng aneinanderreiben.",
+      "kind": "object",
+      "family": "Stimming-Kleidung",
+      "subcategory": "Reizarme Socken",
+      "senses": [
+        "tactile",
+        "proprioceptive"
+      ],
+      "material_raw": "Textil aus Baumwolle, Bambusviskose oder Mischgewebe je nach Ausführung",
+      "actions": [
+        "anziehen",
+        "Zehenfreiheit spüren",
+        "Nahtkontakt vergleichen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Nahtlose Socken Zehensocken seamless socks toe socks",
+      "action_prompt": "anziehen · Zehenfreiheit spüren · Nahtkontakt vergleichen",
+      "safety": [],
+      "notes": "Die persönliche Vorliebe ist sehr individuell: Während manche Menschen gar keine Zwischenräume an den Zehen mögen und glatte nahtlose Socken bevorzugen, schätzen andere gerade die klare Trennung einzelner Zehenkammern.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Toe_Socks.png",
+      "image_attribution": "Symbolfoto gestrickter Zehensocken. Corystep · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Toe_Socks.png/960px-Toe_Socks.png"
+      ],
+      "everyday_alternative": "Vorhandene Socken einfach auf links gedreht tragen, sodass die dickere Zehennaht nach außen zeigt und nicht auf die Haut drückt.",
+      "explore_terms": [
+        "nahtlose Socken ohne Zehennaht",
+        "seamless sensory socks toe socks"
+      ],
+      "source_record_ids": [
+        "R03-068"
+      ],
+      "illustration_hint": "feet"
+    },
+    {
+      "id": "R03-069",
+      "legacy_id": null,
+      "title": "Kleidungsetiketten heraustrennen & Innennähte abstimmen",
+      "description": "Die eigene Hautwahrnehmung beim Anziehen ernst nehmen: steife oder kratzende Pflege- und Markenschilder im Nacken oder an der Hüfte sauber mit einem Nahttrenner entfernen und Kleidungsstücke gezielt danach auswählen, wie sich ihre Innenseite, Bündchen und Nähte beim Bewegen auf der Haut anfühlen.",
+      "kind": "activity",
+      "family": "Textil, Knoten & Kleidung",
+      "subcategory": "Reizarme Kleidungspflege",
+      "senses": [
+        "tactile"
+      ],
+      "material_raw": "Textil",
+      "actions": [
+        "Etiketten prüfen",
+        "vorsichtig heraustrennen",
+        "Innenseite mit der Hand testen"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Kleidungsetiketten entfernen kratzende Schilder heraustrennen Innennähte",
+      "action_prompt": "Etiketten prüfen · vorsichtig heraustrennen · Innenseite mit der Hand testen",
+      "safety": [
+        "Mit Schere oder Nahttrenner nur den Faden des Etiketts lösen, nicht in die tragende Kleidungsnaht schneiden."
+      ],
+      "notes": "Ein einzelnes kratzendes Schild im Nacken kann über Stunden einen unterschwelligen Störreiz erzeugen. Es vollständig zu entfernen statt abzuschneiden verhindert, dass eine harte Restkante stehen bleibt.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Vor dem Entfernen die Waschanleitung kurz abfotografieren oder ein weiches Baumwoll-Unterhemd unter Kleidungsstücken mit spürbaren Innennähten tragen.",
+      "explore_terms": [
+        "Kleidungsetiketten sauber entfernen",
+        "tagless clothing sensory comfort"
+      ],
+      "source_record_ids": [
+        "R03-069"
+      ],
+      "illustration_hint": "fabric"
+    },
+    {
+      "id": "R03-070",
+      "legacy_id": null,
+      "title": "Randplatz mit Wand im Rücken wählen (Raum-Orientierung)",
+      "description": "In Cafés, Bibliotheken, Zügen, Wartezimmern oder Seminarräumen bewusst einen Sitzplatz am Rand oder in einer Ecke mit einer festen Wand im Rücken einnehmen. Wenn hinter dem eigenen Rücken niemand vorbeigeht und das Sichtfeld nach vorn geordnet bleibt, sinkt die Menge unvorhersehbarer visueller und räumlicher Reize deutlich.",
+      "kind": "space",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Platzwahl im Alltag",
+      "senses": [
+        "visual",
+        "proprioceptive"
+      ],
+      "material_raw": "Holz und Textil je nach Sitzplatz",
+      "actions": [
+        "Raum kurz überblicken",
+        "Rand- oder Eckplatz wählen",
+        "Rücken zur Wand ausrichten"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Randplatz mit Wand im Rücken wählen Café Bibliothek Raumorientierung",
+      "action_prompt": "Raum kurz überblicken · Rand- oder Eckplatz wählen · Rücken zur Wand ausrichten",
+      "safety": [],
+      "notes": "Sich aktiv einen übersichtlichen Platz auszusuchen oder darum zu bitten ist keine Unhöflichkeit, sondern eine einfache Art, für die eigene Wahrnehmung gut zu sorgen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Reading_corner.jpg",
+      "image_attribution": "Symbolfoto einer ruhigen Sitzecke mit geschütztem Rückenbereich. Øyvind Holmstad · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Reading_corner.jpg/960px-Reading_corner.jpg"
+      ],
+      "everyday_alternative": "Im Zug oder Bus einen Fensterplatz oder einen Sitz direkt vor einer Trennwand wählen; bei Gruppentreffen einen Stuhl am Ende der Tischreihe nutzen.",
+      "explore_terms": [
+        "Eckplatz mit Wand im Rücken",
+        "corner seat sensory space orientation"
+      ],
+      "source_record_ids": [
+        "R03-070"
+      ],
+      "illustration_hint": "room"
+    },
+    {
+      "id": "R03-071",
+      "legacy_id": null,
+      "title": "Schirmmütze oder Kapuze als visueller Blendschutz",
+      "description": "Unterwegs, in hell ausgeleuchteten Supermärkten, Bahnhöfen oder Großraumbüros eine leichte Schirmmütze oder eine weiche Kapuze tragen. Der Schirm begrenzt das obere Sichtfeld ruhig nach oben hin und schirmt grelles Deckenlicht oder unruhige Deckenbeleuchtung ab, ohne die Sicht nach vorn einzuschränken.",
+      "kind": "object",
+      "family": "Stimming-Kleidung",
+      "subcategory": "Visuelle Abschirmung",
+      "senses": [
+        "visual",
+        "tactile"
+      ],
+      "material_raw": "Textil aus Baumwolle oder Mischgewebe",
+      "actions": [
+        "aufsetzen",
+        "Schirmwinkel anpassen",
+        "Lichteinfall von oben begrenzen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Schirmmütze Kapuze Blendschutz Deckenlicht Supermarkt",
+      "action_prompt": "aufsetzen · Schirmwinkel anpassen · Lichteinfall von oben begrenzen",
+      "safety": [],
+      "notes": "Ergänzt getönte Brillen (R02-022) als unverfängliches, leicht abnehmbares Alltags-Kleidungsstück, das zudem leichten, gleichmäßigen Kontakt rund um den Kopf bietet.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Baseball_cap.jpg",
+      "image_attribution": "Symbolfoto einer schlichten Schirmmütze. TexasRebel · Public Domain. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/eb/Baseball_cap.jpg"
+      ],
+      "everyday_alternative": "Ein weicher Fischerhut (Bucket Hat) mit umlaufender Krempe oder die Kapuze eines vorhandenen Hoodies schirmt zusätzlich auch die seitlichen Augenwinkel leicht ab.",
+      "explore_terms": [
+        "Schirmmütze gegen grelles Deckenlicht",
+        "baseball cap overhead light shield"
+      ],
+      "source_record_ids": [
+        "R03-071"
+      ],
+      "illustration_hint": "fabric"
+    },
+    {
+      "id": "R03-072",
+      "legacy_id": null,
+      "title": "Oberflächen am Wegesrand im Vorbeigehen berühren",
+      "description": "Beim Spazierengehen oder auf Alltagswegen im Vorbeigehen kurz mit den Fingerspitzen oder der Handfläche über unterschiedliche Strukturen streichen: weiches Moos, rissige Baumrinde, kühlen Naturstein, glattes Holz oder ein sonnenwarmes Geländer. Das bewusste Wahrnehmen von Temperatur, Rauheit und Nachgiebigkeit schult und erfreut den Tastsinn nebenbei.",
+      "kind": "activity",
+      "family": "Natur, Alltag & DIY",
+      "subcategory": "Alltags-Texturen entdecken",
+      "senses": [
+        "tactile"
+      ],
+      "material_raw": "Holz, Stein und Pflanzen in der Umgebung",
+      "actions": [
+        "im Vorbeigehen berühren",
+        "Textur und Temperatur spüren",
+        "Unterschiede wahrnehmen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Oberflächen am Wegesrand berühren Baumrinde Moos Stein tasten",
+      "action_prompt": "im Vorbeigehen berühren · Textur und Temperatur spüren · Unterschiede wahrnehmen",
+      "safety": [
+        "Nur saubere, gut sichtbare Oberflächen ohne Dornen, Harz, Splitter oder scharfe Metallgrate berühren."
+      ],
+      "notes": "Lädt dazu ein, kleine taktile Momente im Alltag nicht als kindlich abzutun, sondern als feine, unkomplizierte Sinnespflege zuzulassen.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Moss_tree_bark_coverage.JPG",
+      "image_attribution": "Symbolfoto von weichem Moos auf strukturierter Baumrinde. Roger Griffith (Rosser1954) · Public Domain. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Moss_tree_bark_coverage.JPG/960px-Moss_tree_bark_coverage.JPG"
+      ],
+      "everyday_alternative": "Auch in Innenräumen lassen sich beim Gehen bewusst der Wechsel zwischen glatter Türzarge, kühler Steinwand und griffigem Holzhandlauf ertasten.",
+      "explore_terms": [
+        "Baumrinde und Moos ertasten",
+        "tactile walk touching bark moss"
+      ],
+      "source_record_ids": [
+        "R03-072"
+      ],
+      "illustration_hint": "wood"
+    },
+    {
+      "id": "R03-073",
+      "legacy_id": null,
+      "title": "Hör-Schichten beim Gehen einzeln wahrnehmen",
+      "description": "Beim Gehen im Freien die eigene Hör-Aufmerksamkeit ruhig wie ein Mikrofon durch verschiedene Entfernungen wandern lassen: zuerst nur dem rhythmischen Knirschen oder Rascheln der eigenen Schritte auf Kies oder trockenem Laub zuhören, danach den näheren Umgebungsgeräuschen wie Wind in den Zweigen und schließlich den weiten, fernen Klängen.",
+      "kind": "activity",
+      "family": "Klang, Wiederholung & Musik",
+      "subcategory": "Bewusstes Alltags-Hören",
+      "senses": [
+        "auditory",
+        "vestibular"
+      ],
+      "material_raw": "Stein und Pflanzen auf Naturwegen",
+      "actions": [
+        "Schrittgeräusch wahrnehmen",
+        "nahe Klänge heraushören",
+        "in die Ferne lauschen"
+      ],
+      "quiet": false,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Hör-Schichten beim Gehen wahrnehmen Schrittgeräusch Kies Laub lauschen",
+      "action_prompt": "Schrittgeräusch wahrnehmen · nahe Klänge heraushören · in die Ferne lauschen",
+      "safety": [
+        "Im Straßenverkehr die Umgebung stets im Blick und im Ohr behalten."
+      ],
+      "notes": "Verwandelt eine diffuse Geräuschkulisse in klar unterscheidbare Einzelstimmen und gibt dem Gehör durch das selbst erzeugte Schrittgeräusch einen vorhersehbaren Grundtakt.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Autumn_path_in_Zavr%C5%A1nica_valley_in_Slovenia.jpg",
+      "image_attribution": "Symbolfoto eines mit Herbstlaub bedeckten Weges. Dreamy Pixel · CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Autumn_path_in_Zavr%C5%A1nica_valley_in_Slovenia.jpg/960px-Autumn_path_in_Zavr%C5%A1nica_valley_in_Slovenia.jpg"
+      ],
+      "everyday_alternative": "Auch am offenen Fenster oder auf dem Balkon lassen sich zwei bis drei einzelne Klangschichten nacheinander herausgreifen und wieder loslassen.",
+      "explore_terms": [
+        "Schrittgeräusche auf Laub und Kies",
+        "soundwalk listening layers footsteps"
+      ],
+      "source_record_ids": [
+        "R03-073"
+      ],
+      "illustration_hint": "walk"
+    },
+    {
+      "id": "R03-074",
+      "legacy_id": null,
+      "title": "Bodenwechsel barfuß oder auf Socken auskosten",
+      "description": "In der eigenen Wohnung beim Gehen von Raum zu Raum bewusst auf den Wechsel unter den Fußsohlen achten: den Kontrast zwischen glatter, kühler Fliese, leicht federndem, wärmerem Holzboden, geflochtenem Läufer und weichem Hochflorteppich Schritt für Schritt vergleichen.",
+      "kind": "activity",
+      "family": "Taktile Texturen",
+      "subcategory": "Fußsohlen-Kontraste",
+      "senses": [
+        "tactile",
+        "interoceptive"
+      ],
+      "material_raw": "Holz, Keramik und Textil je nach Wohnungsboden",
+      "actions": [
+        "langsam über Türschwellen treten",
+        "Temperatur unter den Sohlen vergleichen",
+        "Nachgiebigkeit spüren"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Bodenwechsel barfuß Socken Fliese Holzboden Teppich Fußsohlen",
+      "action_prompt": "langsam über Türschwellen treten · Temperatur unter den Sohlen vergleichen · Nachgiebigkeit spüren",
+      "safety": [
+        "Auf glatten Böden mit Socken auf Rutschfestigkeit achten."
+      ],
+      "notes": "Anders als ein eigens gebauter Barfußpfad im Freien (R01-054) nutzt diese Aktivität die ohnehin vorhandenen Bodenbeläge zu Hause als feines taktiles Vergleichsfeld.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Mit einem Fuß auf dem Teppichrand und mit dem anderen Fuß auf dem glatten Parkett oder den Fliesen stehen und den direkten Temperatur- und Texturunterschied wahrnehmen.",
+      "explore_terms": [
+        "barfuß verschiedene Böden spüren",
+        "barefoot indoor floor textures"
+      ],
+      "source_record_ids": [
+        "R03-074"
+      ],
+      "illustration_hint": "feet"
+    },
+    {
+      "id": "R03-075",
+      "legacy_id": null,
+      "title": "Kurze Druck-Pause unter Decke oder Kissen am Tag",
+      "description": "Sich auch mitten am Tag für einige Minuten auf das Sofa oder Bett legen und eine schwere Decke, ein dickes Federbett oder große, feste Sofakissen über Beine und Rumpf legen — ausdrücklich ohne schlafen zu müssen. Der flächige, umhüllende Druck und die gedämpfte Umgebung bieten einen geschützten Zwischenstopp zwischen zwei Alltagsabschnitten.",
+      "kind": "space",
+      "family": "Sensory Spaces & Soziales",
+      "subcategory": "Kurze Tages-Rückzugsinsel",
+      "senses": [
+        "proprioceptive",
+        "tactile",
+        "interoceptive"
+      ],
+      "material_raw": "Textil",
+      "actions": [
+        "hinlegen",
+        "Decke oder Kissen auflegen",
+        "flächigen Druck wahrnehmen"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Kurze Druck-Pause unter Decke Kissen am Tag Ruhepause ohne Schlafen",
+      "action_prompt": "hinlegen · Decke oder Kissen auflegen · flächigen Druck wahrnehmen",
+      "safety": [
+        "Gesicht und Atemwege stets frei lassen und nur so viel Gewicht wählen, dass man sich jederzeit mühelos selbst abdecken kann."
+      ],
+      "notes": "Nimmt das Vorurteil heraus, man dürfe sich tagsüber nur hinlegen, wenn man krank oder müde ist: Eine zehnminütige Druck- und Reizpause unter einer Decke ist eine nüchterne, praktische Erholungsform im Alltag.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Im Sitzen auf dem Sofa eine mehrfach schwer gefaltete Wolldecke oder ein großes Rückenkissen fest über den Schoß und gegen den Bauch legen.",
+      "explore_terms": [
+        "kurze Pause unter schwerer Decke",
+        "daytime blanket pressure rest"
+      ],
+      "source_record_ids": [
+        "R03-075"
+      ],
+      "illustration_hint": "cushion"
+    },
+    {
+      "id": "R03-076",
+      "legacy_id": null,
+      "title": "Regentropfen-Spuren an einer Fensterscheibe beobachten",
+      "description": "Bei Regenwetter den Blick ruhig auf eine Fensterscheibe im Zimmer, im Zug oder im Bus richten und beobachten, wie einzelne Wassertropfen am Glas haften, langsam anwachsen, sich mit Nachbartropfen verbinden und in feinen Bahnen nach unten rinnen. Das unvorhersehbare, aber gleichmäßig ruhige Fließtempo lädt zum stillen Verweilen ein.",
+      "kind": "activity",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Natürliche Fließmuster",
+      "senses": [
+        "visual",
+        "auditory"
+      ],
+      "material_raw": "Glas und Wasser",
+      "actions": [
+        "einzelnen Tropfen auswählen",
+        "Zusammenfließen verfolgen",
+        "Blick ruhen lassen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Regentropfen am Fenster beobachten Wassertropfen Fensterscheibe",
+      "action_prompt": "einzelnen Tropfen auswählen · Zusammenfließen verfolgen · Blick ruhen lassen",
+      "safety": [],
+      "notes": "Ein klassischer, völlig unauffälliger visueller Alltagsfokus ohne Bildschirm und ohne künstliches Blinken.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Rain_drops_on_window_01_ies.jpg",
+      "image_attribution": "Symbolfoto von Regentropfen auf einer Fensterscheibe. Frank Vincentz · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Rain_drops_on_window_01_ies.jpg/960px-Rain_drops_on_window_01_ies.jpg"
+      ],
+      "everyday_alternative": "An trockenen Tagen lässt sich beim Duschen oder Spülen das langsame Ablaufen von Wassertropfen an einer Glas- oder Keramikfläche beobachten.",
+      "explore_terms": [
+        "Regentropfen an der Fensterscheibe beobachten",
+        "watching raindrops on windowpane"
+      ],
+      "source_record_ids": [
+        "R03-076"
+      ],
+      "illustration_hint": "liquid"
+    },
+    {
+      "id": "R03-077",
+      "legacy_id": null,
+      "title": "Wandernde Schatten- und Lichtmuster im Raum betrachten",
+      "description": "Das natürliche Spiel von Sonnenlicht und Schatten an einer Zimmerwand, auf dem Fußboden oder auf einem Vorhang betrachten: wie sich die weichen Schatten von Zweigen im Wind leicht wiegen oder wie Lichtstreifen einer Jalousie im Lauf der Minuten langsam über den Raum wandern.",
+      "kind": "activity",
+      "family": "Licht, Muster & visuelle Effekte",
+      "subcategory": "Tageslicht & Schatten",
+      "senses": [
+        "visual"
+      ],
+      "material_raw": "Ohne Material",
+      "actions": [
+        "Lichtfleck oder Schatten betrachten",
+        "feine Bewegung wahrnehmen",
+        "Kontraste auf sich wirken lassen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Wandernde Schatten Lichtmuster an der Wand betrachten Blätterschatten Sonnenflecken",
+      "action_prompt": "Lichtfleck oder Schatten betrachten · feine Bewegung wahrnehmen · Kontraste auf sich wirken lassen",
+      "safety": [
+        "Nur auf die beleuchtete Wand- oder Bodenfläche schauen, niemals direkt in die Sonne."
+      ],
+      "notes": "Bietet ein organisches, völlig geräuschloses visuelles Muster ohne Strom oder Elektronik.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Pattern_of_light_on_wall_by_sun_through_blinds_plus_window.JPG",
+      "image_attribution": "Symbolfoto eines ruhigen Sonnenlicht- und Schattenmusters an einer Innenwand. Tomwsulcer · CC0 1.0 · https://creativecommons.org/publicdomain/zero/1.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Pattern_of_light_on_wall_by_sun_through_blinds_plus_window.JPG/960px-Pattern_of_light_on_wall_by_sun_through_blinds_plus_window.JPG"
+      ],
+      "everyday_alternative": "Eine Zimmerpflanze oder einen halbdurchlässigen Vorhang nahe ans Fenster stellen, damit bei Sonnenschein oder Straßenlaternenlicht weiche Schattenwürfe an der Wand entstehen.",
+      "explore_terms": [
+        "Schattenmuster an der Wand beobachten",
+        "dappled sunlight shadow patterns wall"
+      ],
+      "source_record_ids": [
+        "R03-077"
+      ],
+      "illustration_hint": "light"
+    },
+    {
+      "id": "R03-078",
+      "legacy_id": null,
+      "title": "Freischwinger-Stuhl (Leicht federnder Alltagsstuhl)",
+      "description": "Ein Stuhl ohne Hinterbeine, dessen Sitzfläche von einem gebogenen, durchgehenden Stahlrohr- oder Schichtholzrahmen getragen wird. Durch diese freitragende Bauform gibt der Stuhl bei jeder kleinen Gewichtsverlagerung sanft federnd nach und erlaubt am Esstisch, im Büro oder in Besprechungen ein ganz selbstverständliches, unauffälliges Wippen.",
+      "kind": "object",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Federnde Alltagsmöbel",
+      "senses": [
+        "vestibular",
+        "proprioceptive"
+      ],
+      "material_raw": "Metall oder Holz; Sitzfläche aus Textil, Geflecht oder Holz je nach Modell",
+      "actions": [
+        "hinsetzen",
+        "leicht nachfedern",
+        "Gewicht sanft verlagern"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Freischwinger Stuhl cantilever chair federnder Stuhl Alltag",
+      "action_prompt": "hinsetzen · leicht nachfedern · Gewicht sanft verlagern",
+      "safety": [
+        "Auf ebenem Boden nutzen und die vom Hersteller angegebene Traglast beachten; nicht über den vorgesehenen Federweg hinaus ankippen."
+      ],
+      "notes": "Anders als spezielle Therapiemöbel oder Schaukelstühle (R01-047) fügt sich ein klassischer Freischwinger unauffällig in gewöhnliche Ess- und Arbeitszimmer ein.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Thonet_MAK_Vienna_2020_14a.jpg",
+      "image_attribution": "Symbolfoto eines klassischen Freischwinger-Stuhls (Entwurf Marcel Breuer, B 32) mit gebogenem Stahlrohrgestell. Gryffindor · CC0 1.0 · https://creativecommons.org/publicdomain/zero/1.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Thonet_MAK_Vienna_2020_14a.jpg/960px-Thonet_MAK_Vienna_2020_14a.jpg"
+      ],
+      "everyday_alternative": "Bei einem vorhandenen Bürostuhl die Wippmechanik der Rückenlehne entriegeln und auf einen angenehm leichten Gegendruck einstellen.",
+      "explore_terms": [
+        "Freischwinger Stuhl federnd sitzen",
+        "cantilever chair gentle bounce"
+      ],
+      "source_record_ids": [
+        "R03-078"
+      ],
+      "illustration_hint": "chair"
+    },
+    {
+      "id": "R03-079",
+      "legacy_id": null,
+      "title": "Fuß-Hängematte unter dem Schreibtisch",
+      "description": "Eine schmale Tuchschlaufe aus festem Stoff, die mit zwei verstellbaren Seilen und Halterungen links und rechts unter der Schreibtischplatte eingehängt wird. Im Sitzen lassen sich Füße oder Unterschenkel hineinlegen und völlig geräuschlos vor und zurück oder seitwärts schwingen.",
+      "kind": "equipment",
+      "family": "Wiegen, Balance & Raum",
+      "subcategory": "Untertisch-Schaukeln",
+      "senses": [
+        "vestibular",
+        "proprioceptive",
+        "tactile"
+      ],
+      "material_raw": "Textil, Holz und Metall je nach Aufhängung",
+      "actions": [
+        "Füße hineinlegen",
+        "unter dem Tisch schwingen",
+        "Höhe anpassen"
+      ],
+      "quiet": true,
+      "portable": true,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Fuß-Hängematte unter dem Schreibtisch under desk foot hammock",
+      "action_prompt": "Füße hineinlegen · unter dem Tisch schwingen · Höhe anpassen",
+      "safety": [
+        "Nur für das Gewicht der Beine und Füße verwenden, nicht mit dem gesamten Körpergewicht belasten; stabilen Halt der Tischklemmen prüfen."
+      ],
+      "notes": "Unterscheidet sich von einer stehenden Fußwippe (R01-036) oder einem Stuhlbein-Widerstandsband (R01-035) durch das freie, hängende Schwingen in einer weichen Stoffmulde.",
+      "image_role": "illustration",
+      "image_source_url": null,
+      "image_attribution": null,
+      "images": [],
+      "everyday_alternative": "Einen breiten, festen Schal oder einen Yogagurt sicher um zwei stabile Tischstreben schlaufen, um die Füße leicht schwingend abzulegen.",
+      "explore_terms": [
+        "Fußhängematte Schreibtisch",
+        "under desk foot hammock swing"
+      ],
+      "source_record_ids": [
+        "R03-079"
+      ],
+      "illustration_hint": "swing"
+    },
+    {
+      "id": "R03-080",
+      "legacy_id": null,
+      "title": "Gesicht kurz in ein frisches, kühles oder warmes Handtuch drücken",
+      "description": "Ein sauberes, weiches Frotteehandtuch mit beiden Händen anheben und Wangen, Stirn und Augenpartie für einige Sekunden sanft in den Stoff drücken — trocken, leicht angewärmt oder frisch angefeuchtet. Die Kombination aus weicher Schlingenstruktur, kurzem Abdunkeln und angenehmer Temperatur wirkt wie ein kleiner, unmittelbarer Frischemoment.",
+      "kind": "activity",
+      "family": "Interozeption & Körperkontakt",
+      "subcategory": "Gesichts- & Stoffkontakt",
+      "senses": [
+        "tactile",
+        "interoceptive",
+        "olfactory"
+      ],
+      "material_raw": "Textil aus Baumwolle; optional Wasser",
+      "actions": [
+        "Handtuch an die Wangen legen",
+        "sanft andrücken",
+        "Stoff und Temperatur spüren"
+      ],
+      "quiet": true,
+      "portable": false,
+      "status": "recherche",
+      "provenance": "research-v11-3",
+      "source_url": "",
+      "search": "Gesicht in frisches Handtuch drücken Frotteehandtuch Temperaturkontakt",
+      "action_prompt": "Handtuch an die Wangen legen · sanft andrücken · Stoff und Temperatur spüren",
+      "safety": [
+        "Das Tuch nur locker anlegen, sodass man jederzeit frei atmen kann; bei feuchten Tüchern auf eine milde, angenehme Temperatur achten."
+      ],
+      "notes": "Wer empfindlich auf Waschmittelgerüche reagiert, nutzt dafür am besten ein unparfümiert gewaschenes Baumwollhandtuch.",
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Towel_and_small_towel.jpg",
+      "image_attribution": "Symbolfoto gefalteter Baumwollhandtücher. Jessica F. / Grzegorz Wysocki · CC BY 2.5 · https://creativecommons.org/licenses/by/2.5/. Unverändertes Foto; Anzeigeausschnitt kann variieren.",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Towel_and_small_towel.jpg/960px-Towel_and_small_towel.jpg"
+      ],
+      "everyday_alternative": "Unterwegs oder am Schreibtisch die Wangen kurz in den sauberen, weichen Ärmel eines Baumwollpullovers oder in einen Schal schmiegen.",
+      "explore_terms": [
+        "weiches Handtuch ans Gesicht legen",
+        "soft cotton towel face sensory comfort"
+      ],
+      "source_record_ids": [
+        "R03-080"
+      ],
+      "illustration_hint": "fabric"
+    }
+  ],
+  "image_overrides": [
+    {
+      "id": "R01-005",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Elissa_Brunato_Bio_Iridescent_Sequin_IMG07.jpg/960px-Elissa_Brunato_Bio_Iridescent_Sequin_IMG07.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Elissa_Brunato_Bio_Iridescent_Sequin_IMG07.jpg",
+      "image_attribution": "Symbolfoto: Schimmernde Pailletten im Nahbild. Elm Islington / Elissa Brunato · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-006",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/MemoryFoam-fast.jpg/960px-MemoryFoam-fast.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:MemoryFoam-fast.jpg",
+      "image_attribution": "Symbolfoto: Memory-Schaumstoff unmittelbar nach dem Eindrücken mit der Hand. Johan · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-007",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/An_example_of_waffle_fabric.jpeg/960px-An_example_of_waffle_fabric.jpeg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:An_example_of_waffle_fabric.jpeg",
+      "image_attribution": "Symbolfoto: Nahaufnahme eines weißen Gewebes mit Waffelstruktur. Alexandra.birenbaum · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-008",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/37/Tactile_Paving.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Tactile_Paving.jpg",
+      "image_attribution": "Symbolfoto: Taktile Noppenoberfläche mit fühlbaren Erhebungen. Ryxhd123 · CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-009",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/BLACK_LEATHER_TEXTURE_(7241544232).jpg/960px-BLACK_LEATHER_TEXTURE_(7241544232).jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:BLACK_LEATHER_TEXTURE_(7241544232).jpg",
+      "image_attribution": "Symbolfoto: Nahaufnahme einer genarbten schwarzen Lederoberfläche. THOR · CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-010",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Non_slip_mat.jpg/960px-Non_slip_mat.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Non_slip_mat.jpg",
+      "image_attribution": "Symbolfoto: Schwarze Anti-Rutsch-Gittermatte mit offener Zellstruktur. Draco flavus · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-011",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Brush-makeup-make-up-brushes_(24244266921).jpg/960px-Brush-makeup-make-up-brushes_(24244266921).jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Brush-makeup-make-up-brushes_(24244266921).jpg",
+      "image_attribution": "Symbolfoto: Auswahl weicher Kosmetikpinsel mit unterschiedlich dichten Borsten. www.Pixel.la Free Stock Photos · CC0 · https://creativecommons.org/publicdomain/zero/1.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-013",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Stahlseife.jpg/960px-Stahlseife.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Stahlseife.jpg",
+      "image_attribution": "Symbolfoto: Glatter, abgerundeter Handstein aus Edelstahl (Edelstahlseife). Th145 · CC BY-SA 2.0 DE · https://creativecommons.org/licenses/by-sa/2.0/de/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-015",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Heating_pads_Handw%C3%A4rmer_01.jpg/960px-Heating_pads_Handw%C3%A4rmer_01.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Heating_pads_Handw%C3%A4rmer_01.jpg",
+      "image_attribution": "Symbolfoto: Kompaktes Taschen-Wärmekissen. Nxr-at · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-018",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Hexagonaria_percarinata_(fossil_rugose_coral)_(Traverse_Group,_Middle_Devonian%3B_Michigan,_USA)_4_(35743605926).jpg/960px-Hexagonaria_percarinata_(fossil_rugose_coral)_(Traverse_Group,_Middle_Devonian%3B_Michigan,_USA)_4_(35743605926).jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Hexagonaria_percarinata_(fossil_rugose_coral)_(Traverse_Group,_Middle_Devonian%3B_Michigan,_USA)_4_(35743605926).jpg",
+      "image_attribution": "Symbolfoto: Naturstein (Petoskey-Stein) mit naturrauer Oberfläche und angeschliffener, polierter Teilfläche. James St. John · CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-020",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Rubber_stamp_printy_dater.jpg/960px-Rubber_stamp_printy_dater.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Rubber_stamp_printy_dater.jpg",
+      "image_attribution": "Symbolfoto: Selbstfärbender Stempel mit Federdruck-Mechanik (Trodat Printy). Zv0486~commonswiki · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-023",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Huelsenlose_Rollenkette_(Fahrrad).jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Huelsenlose_Rollenkette_(Fahrrad).jpg",
+      "image_attribution": "Symbolfoto: Nahaufnahme beweglicher Rollenkettenglieder aus Metall. AKK · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-025",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d2/Wing_bolt.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Wing_bolt.jpg",
+      "image_attribution": "Symbolfoto: Gewindeschraube und Flügelmutter aus Metall. Mectools · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-030",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Yarn_hanks_or_skeins.JPG/960px-Yarn_hanks_or_skeins.JPG"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Yarn_hanks_or_skeins.JPG",
+      "image_attribution": "Symbolfoto: Dick gedrehte Wollstränge (Strangwolle). Pschemp · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-031",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Pipe_cleaner_white.jpg/960px-Pipe_cleaner_white.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Pipe_cleaner_white.jpg",
+      "image_attribution": "Symbolfoto: Biegsamer weißer Chenilledraht (Pfeifenputzer). Ilkant~commonswiki / Felix Wiemann · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-032",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Small_bra_strap_with_metal_tri-glide_slide.jpg/960px-Small_bra_strap_with_metal_tri-glide_slide.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Small_bra_strap_with_metal_tri-glide_slide.jpg",
+      "image_attribution": "Symbolfoto: Gewebtes Textilband mit verstellbarem Metallschieber. SaltySemanticSchmuck · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-033",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Antron_Fleece.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Antron_Fleece.jpg",
+      "image_attribution": "Symbolfoto: Weiche Fleece-Textiloberfläche im Nahbild. iPowahFX Studio · Public domain. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-039",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Hand_gripper.jpg/960px-Hand_gripper.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Hand_gripper.jpg",
+      "image_attribution": "Symbolfoto: Handtrainer mit Federwiderstand. Santeri Viinamäki · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-041",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/bd/Armwarmers.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Armwarmers.jpg",
+      "image_attribution": "Symbolfoto: Gestrickte Armstulpen als textiles Ärmelbeispiel. Aine · CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-045",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/BolsterPillow.jpg/960px-BolsterPillow.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:BolsterPillow.jpg",
+      "image_attribution": "Symbolfoto: Zylindrisches Rollenkissen (Bolster-Kissen) zum Stützen und Drücken. Mykelw · CC0 · https://creativecommons.org/publicdomain/zero/1.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-054",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Barfu%C3%9Fpfad_Bad_Sobernheim.jpg/960px-Barfu%C3%9Fpfad_Bad_Sobernheim.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Barfu%C3%9Fpfad_Bad_Sobernheim.jpg",
+      "image_attribution": "Symbolfoto: Barfußpfad mit unterschiedlichen Naturmaterial-Abschnitten. DocWoKav · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-057",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sleigh_Bells.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Sleigh_Bells.jpg",
+      "image_attribution": "Symbolfoto: Schellenkranz mit kleinen Metallglöckchen am Holzgriff. Richard Wheeler (Zephyris) · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-077",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Close_up_of_the_surface_of_a_lenticular_print.jpg/960px-Close_up_of_the_surface_of_a_lenticular_print.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Close_up_of_the_surface_of_a_lenticular_print.jpg",
+      "image_attribution": "Symbolfoto: Nahaufnahme der geriffelten Linsenoberfläche einer Lentikularkarte. World Imaging · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-078",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hologram.jpg/960px-Hologram.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Hologram.jpg",
+      "image_attribution": "Symbolfoto: Schimmernde holografische Folie bei seitlichem Lichteinfall. Heike Löchel · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-082",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Newtons_Cradle.jpg/960px-Newtons_Cradle.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Newtons_Cradle.jpg",
+      "image_attribution": "Symbolfoto: Kinetisches Kugelstoßpendel (Newton-Wiege) für den Schreibtisch. The Dean of Physics · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-086",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Jar_of_Terana_Epazote_Flakes_2024_(cropped).jpg/960px-Jar_of_Terana_Epazote_Flakes_2024_(cropped).jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Jar_of_Terana_Epazote_Flakes_2024_(cropped).jpg",
+      "image_attribution": "Symbolfoto: Kleines Schraubglas mit getrockneten Kräuterflocken. Siarhei Besarab · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-100",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Frucht_Bonbons.jpg/960px-Frucht_Bonbons.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Frucht_Bonbons.jpg",
+      "image_attribution": "Symbolfoto: Fruchtbonbons in einer kleinen Dose. UeArtemis · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-106",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/R%C3%B6d_Vetekudde.jpg/960px-R%C3%B6d_Vetekudde.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:R%C3%B6d_Vetekudde.jpg",
+      "image_attribution": "Symbolfoto: Rotes Wärmekissen aus Stoff mit Getreidefüllung. Fluff · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-122",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Greek_komboloi.jpg/960px-Greek_komboloi.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Greek_komboloi.jpg",
+      "image_attribution": "Symbolfoto: Perlenschnur (Komboloi) als Verwandter des Finger-Riemen-Fidgets. Barcex · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-129",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Outer_Banks_-_Driftwood.jpg/960px-Outer_Banks_-_Driftwood.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Outer_Banks_-_Driftwood.jpg",
+      "image_attribution": "Symbolfoto: Natürlich verwittertes, unbehandeltes Stück Treibholz. Jarek Tuszyński · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-131",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/River_side_pebbles_and_rocks.jpg/960px-River_side_pebbles_and_rocks.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:River_side_pebbles_and_rocks.jpg",
+      "image_attribution": "Symbolfoto: Glatte, gerundete Flusskieselsteine in verschiedenen Größen. Shashank ghosh · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-133",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/71/TAPESTRY_WEAVE_ON_A_FRAME_LOOM.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:TAPESTRY_WEAVE_ON_A_FRAME_LOOM.jpg",
+      "image_attribution": "Symbolfoto: Webarbeit auf einem einfachen hölzernen Webrahmen. SEN Heritage Looms – Sophia Tsourinaki · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-134",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Classical_7-Circuit_Labyrinth.jpg/960px-Classical_7-Circuit_Labyrinth.jpg"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Classical_7-Circuit_Labyrinth.jpg",
+      "image_attribution": "Symbolfoto: Klassisches siebenringiges Labyrinth zum Nachfahren mit dem Finger. JamesJen · CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    },
+    {
+      "id": "R01-135",
+      "images": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Pencil_scribbling_on_paper.JPG/960px-Pencil_scribbling_on_paper.JPG"
+      ],
+      "image_role": "representative_photo",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:Pencil_scribbling_on_paper.JPG",
+      "image_attribution": "Symbolfoto: Freie Kritzel- und Schwunglinien mit Bleistift auf Papier. Revital Salomon · CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/. Unverändertes Foto; Anzeigeausschnitt kann variieren."
+    }
+  ]
+}

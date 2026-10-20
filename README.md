@@ -1,8 +1,8 @@
-# Stim Atlas v11.2
+# Stim Atlas v11.4
 
 Eine statische Bildwand zum Entdecken von Stim-Objekten, Materialien und Aktivitäten. Dunkel als Standard, optional hell, ohne Quiz oder Anmeldung.
 
-Aktueller Stand: **432 Einträge, 72 zusätzliche Herstellerbeispiele für Farben und Oberflächen, 503 Galeriekacheln mit eingeschalteten Varianten**. Davon haben 324 Einträge externe Bildreferenzen; 108 verwenden eigene Illustrationen. Jeder Eintrag besitzt außerdem eine lokale Illustration als Ausfallalternative.
+Aktueller Stand: **620 Einträge, 72 zusätzliche Herstellerbeispiele für Farben und Oberflächen, 691 Galeriekacheln mit eingeschalteten Varianten**. Davon haben 513 Einträge externe Bildreferenzen; 107 verwenden eigene Illustrationen. Jeder Eintrag besitzt außerdem eine lokale Illustration als Ausfallalternative.
 
 ## Nutzen
 
@@ -37,12 +37,12 @@ Die Website benötigt zur Nutzung keinen Build. Änderungen reproduzierbar in de
 ```text
 python tools/prepare_data.py
 node tools/test_core.cjs
-python tools/build.py --preview STIM_ATLAS_v11_2_Vorschau.html
+python tools/build.py --preview STIM_ATLAS_v11_3_Vorschau.html
 ```
 
-`source_data/v9-catalog.json` und das alte Recherchepaket bleiben erhalten. Neuere Ergänzungen stehen in `extra-objects.json`, `visual-examples.json` und `research-v11.json`. `research-v11-1.json` enthält weitere 27 Produkte, 49 Fotozuordnungen und die Einzelprüfung aller 152 früher illustrierten Einträge. `image-audit.json` dokumentiert technische Bildprüfungen. `research-v11-2.json` enthält die kuratierten Gemini-Ergänzungen, Zusammenführungen und Materialkorrekturen. Direkte Änderungen an `data/catalog.json` würden beim nächsten Build überschrieben.
+`source_data/v9-catalog.json` und das alte Recherchepaket bleiben erhalten. Neuere Ergänzungen stehen in `extra-objects.json`, `visual-examples.json` und `research-v11.json`. `research-v11-1.json` enthält weitere 27 Produkte, 49 Fotozuordnungen und die Einzelprüfung aller 152 früher illustrierten Einträge. `image-audit.json` dokumentiert technische Bildprüfungen. `research-v11-2.json` enthält die kuratierten Gemini-Ergänzungen, Zusammenführungen und Materialkorrekturen. `research-v11-3.json` ergänzt weitere 80 Katalogeinträge und 34 verifizierte Wikimedia-Commons-Symbolfotos für zuvor illustrierte R01-Einträge. Direkte Änderungen an `data/catalog.json` würden beim nächsten Build überschrieben.
 
-Die 21 neuen Einträge umfassen zehn Kleidungsstücke/Wearables, acht Duftprodukte und drei Aktivitäten mit Kräutern, Zitronenschalen oder Blüten. Die ursprünglichen Ideen bleiben eigenständig recherchierte Konzepte. Materialzusammensetzungen werden nicht aus Fotos geraten; unklare Angaben bleiben ungeklärt. Katalogeinträge enthalten keine klinischen Wirkungsversprechen.
+Die 21 neuen Einträge aus v11 umfassen zehn Kleidungsstücke/Wearables, acht Duftprodukte und drei Aktivitäten mit Kräutern, Zitronenschalen oder Blüten. Die ursprünglichen Ideen bleiben eigenständig recherchierte Konzepte. Materialzusammensetzungen werden nicht aus Fotos geraten; unklare Angaben bleiben ungeklärt. Katalogeinträge enthalten keine klinischen Wirkungsversprechen.
 
 ## Bilder und Lizenz
 
@@ -50,7 +50,7 @@ Eigener Anwendungscode, Build-Werkzeuge und die neuen SVG-Illustrationen stehen 
 
 Herstellerfotos bleiben externe Verweise. Technische Erreichbarkeit und Dekodierung beweisen weder Motividentität noch Nutzungsrechte oder dauerhafte Verfügbarkeit. Ein Stimm-Herstellerbild ist vorsorglich als Herstellerdarstellung markiert, weil der Anbieter KI-erzeugte oder bearbeitete Bilder nicht einzeln zuordnet. Das Lush-Bild ist nur 256 × 256 Pixel groß. Das Origami-Symbolfoto stammt von Laitche / Wikimedia Commons (Public domain); genaue Attributionen und Bildquellen stehen am jeweiligen Eintrag.
 
-Recherche: 19.10.2026; Integration und Browserprüfung: 20.10.2026. Siehe `RECHERCHE.md` und `TESTBERICHT.md`.
+Recherche: 19.–20.10.2026; Integration und Browserprüfung: 20.10.2026. Siehe `RECHERCHE.md` und `TESTBERICHT.md`.
 
 ## Erweiterung v11.1
 
@@ -67,3 +67,33 @@ Die frühere Bezeichnung „Stimmbarer Daumen-Klangstab (Tuning Fork)“ wurde z
 Alle 147 R01-Aktionsfelder wurden überarbeitet. Von 68 gezielt geprüften Materialangaben sind 58 eingeordnet, zehn bleiben mangels Beleg ungeklärt. Herstellerbelege und aus vorhandenen Beschreibungen abgeleitete Materialklassen werden in den Quellen unterschieden. Ein unbekannter Kunststoff wird nicht automatisch als Silikon oder PLA ausgegeben.
 
 Übernommene Alltagsalternativen und zusätzliche Suchbegriffe stehen ausschließlich im aufklappbaren Detailbereich **Alltagsideen & Suchbegriffe**. Die Bildwand bleibt unverändert kompakt. Die Vorschläge wurden als Rechercheinput behandelt; ungeprüfte medizinische Wirkversprechen und problematische Anleitungen wurden nicht übernommen. `source_data/research-v11-2.json` dokumentiert jede Entscheidung. Aktuelle Tests: `TESTBERICHT.md`.
+
+## Erweiterung v11.3
+
+80 neue Katalogeinträge (`R03-001` bis `R03-080`) sowie 34 verifizierte Wikimedia-Commons-Symbolfotos für bislang illustrierte gegenständliche `R01-*`-Einträge (`source_data/research-v11-3.json`):
+
+- **34 Foto-Upgrades bestehender Einträge (`R01-*`)**: Gegenständliche Konzepte wie Memory-Foam-Block, Waffelgewebe, Edelstahl-Handstein, Taschen-Wärmekissen, Federdruck-Stempel, Flügelmutter, Handtrainer, Bolster-Kissen, Barfußpfad, Lentikularkarte, Newton-Pendel, Treibholz, Flusskiesel, Webrahmen und Fingerlabyrinth zeigen nun echte, lizenzierte Wikimedia-Commons-Fotos (`representative_photo`) statt Platzhalter-Illustrationen.
+- **30 bekannte Klassiker (`R03-001` bis `R03-030`)**: Unter anderem Gewichtsdecke, Gewichtsplüschtier, Kapselgehörschutz, Tuch-Hängematte, Sitzball, Mini-Trampolin, Akupressurmatte, Kopfmassage-Spinne, Faszienrolle, Kirschkernkissen, Wärmflasche, Schlafmaske, Klick-Kugelschreiber, Magnet-Zeichentafel, Spirograph, Kratzbild, Bienenwachs-Knetwachs, Seifenblasen, Murmel-Klangbaum, Resonanz-Windspiel, Cabasa, Guiro-Klangfrosch, Egg Shaker, Kazoo, Zirbenkissen, ganze Gewürze, Trinkflasche mit Beißventil, gefrorene Trauben, Backoblaten und Brausepulver — alle 30 mit geprüften Commons-Fotos.
+- **26 ungewöhnliche & weniger bekannte Entdeckungen (`R03-031` bis `R03-056`)**: Unter anderem Hoberman-Kugel, Eulersche Scheibe, Oloid, keltischer Wackelstein (Rattleback), Umkehrkreisel (Tippe Top), Lichtmühle (Crookes-Radiometer), Galileo-Thermometer, Sturmglas, chinesische Handwalnüsse, Chainmaille-Ringgeflecht, Metall-Vexier, Furin-Windglocke, Feder-Donnertrommel, Caxixi-Rasselkörbchen, Maultrommel, Temari-Fadenkugel, Sorgenpüppchen, Konjak-Schwamm, Luffa-Schwamm, Bienenwachstuch, Seidenkokon, Zählperlenkette, Soroban-Abakus, Faltfächer, Speckstein-Handschmeichler und singende Hämatit-Magnete — alle 26 mit geprüften Commons-Fotos.
+- **24 Einträge zu Alltagssituationen, sozialer Entstigmatisierung & feiner Sensorik-Kultivierung (`R03-057` bis `R03-080`)**: Konkrete, schamfreie Bewegungen und Wahrnehmungsinseln im Alltag und in sozialen Situationen — darunter Vor-und-zurück-Wiegen (Rocking), Steh-Pendeln, Umhergehen beim Telefonieren/Nachdenken, leises Fußwippen, freie Sitzwahl (Schneidersitz/Boden), Anlehnen an Wand/Türrahmen, verdeckter Taschen-Anker, Blickpausen im Gespräch, warme Tasse in beiden Händen, Hände unter fließendem Wasser, Übergangs-Ritual beim Heimkommen, nahtlose/Zehensocken, Etiketten heraustrennen, Randplatz mit Wand im Rücken, Schirmmütze/Kapuze als Blendschutz, Oberflächen am Wegesrand berühren, Hör-Schichten einzeln wahrnehmen, Barfuß-Bodenwechsel, kurze Druck-Pause am Tag, Regentropfen am Fenster, wandernde Licht-/Schattenmuster, Freischwinger-Stuhl, Fuß-Hängematte unter dem Tisch und Gesicht in ein frisches Handtuch drücken (11 mit Commons-Fotos, 13 mit ruhigen SVG-Illustrationen).
+
+
+## Erweiterung v11.4
+
+108 neue Katalogeinträge (`R04-001` bis `R04-108`), drei neue bzw. vertiefte Hauptkategorien, verifizierte Produktfotos für `v8-23` und `R01-095`, ein Upgrade für `R01-088` (duftende Zedernholzkugeln) und vollständige Ersetzung aller Fotos mit echten Menschen durch reine Objekt-, Material- und Raumfotos (`source_data/research-v11-4.json`):
+
+- **Ko-Regulation & Miteinander (`R04-001` bis `R04-032`, 32 Einträge)**: Dinge, Gesten und gemeinsame Routinen, die Menschen füreinander und miteinander tun können, um sich gegenseitig zu beruhigen und das Nervensystem sanft zu glätten — darunter ruhiges Handauflegen zwischen die Schulterblätter, „Decken-Burrito“ einschlagen, Rücken-an-Rücken-Sitzen, Haare langsam bürsten, Holz-Massageroller, Vibrationsmassage, tiefer Druck-Squeeze entlang der Arme/Waden, Füße unter der Decke halten, stilles Paralleles Beisammensein (Body Doubling), wortlos Tee/Obst hinstellen, synchrones Gehen, Hollywoodschaukel, nonverbaler Klopfcode/Pausensignal, gemeinsames Seufzen/Ausatmen, geteiltes Summen, Medizinball am Boden rollen, Katze schnurren lassen / Hund kraulen, vorgewärmtes Handtuch von der Heizung, stilles Wechsel-Zeichnen, Hand-Spiegelspiel, Igelball-Rückenabrollen, Raum runterdimmen, Beine übereinanderlegen und Deep-Pressure-Bärenumarmung (13 mit Commons-Fotos, 19 mit ruhigen Illustrationen).
+- **Alltags-Erleichterung & Reizschutz (`R04-033` bis `R04-068`, 36 Einträge)**: Reizärmere Alltagsbegleiter, sanfte Körperpflege und Raumentlastung — darunter die explizit gewünschte Süßholzwurzel & Miswak (`R04-033`), dimmbare Bernsteinlampe, Falt-Paravent, Bettzelt/Schlafkoje, schwerer Verdunkelungsvorhang, Filzgleiter & Silikonpuffer, E-Ink-Lesegerät, matte Displayfolie mit Papierwiderstand, Lichtwecker, Holzbesteck/-schalen, geräuschlose Silikon-Kochlöffel, ultraweiche Sensitiv-Zahnbürste, mentholfreie Zahnpasta, breitzinkiger Holzkamm, Regenduschkopf mit Weichstrahl, Schafwoll-Trocknerbälle, Kiesel-Fußbad, kühler Jade-Gesichtsroller, Gel-Augenmaske, schwereloses Wassertreiben mit Ohren unter Wasser, Barfuß-Ufersand, Nackenhörnchen mit Buchweizenfüllung, Woll-Sitzfell, Kork-Schreibtischunterlage, mechanische Tastatur mit gedämpften Switches, Gel-Handballenauflage, Trackball-Maus, elektrisches Heizkissen, Ultraschall-Kaltvernebler, Salzkristalllampe, schwere Tetsubin-Gusseisenkanne, Glas-/Edelstahltrinkhalm, Isolierflasche mit matter Pulverbeschichtung, weiter Strick-Poncho, Barfußschuhe mit breiter Zehenbox und elastische Schnürsenkel mit Stopper (alle 36 mit verifizierten, personenfreien Commons-Fotos).
+- **Sammeln, Sortieren & Ordnung + EDC, Taktil, Mund & Stimme (`R04-069` bis `R04-108`, 40 Einträge)**: Setzkasten, Holzarten-Mustersammlung (Xylothek), RAL-/Pantone-Farbfächer, Knopfsammlung in der Blechdose, samtiges Meerglas, Muschel-/Schneckenhaussammlung, Pergamin-Einsteckalbum, Münzen zu Türmen stapeln, Holz-Tangram, Dominosteine, Leinenprägung-Spielkarten, Glasmurmeln, schwerer Messing-Füllfederhalter, Edelstahl-Karabinerhaken, mechanische Skelett-Taschenuhr, Metall-Klappetui / Pfefferminzdose, breiter Band-/Siegelring, Siegelwachs mit Messingstempel, 3D-/Puffy-Sticker, holografische Regenbogen-Sticker, Washi-Tape, Leinen-Notizbuch, Wachsmalblöcke, Ocean Drum, Sansula auf Membranrahmen, Klangschale auf der Handfläche, Lippenblubbern (Lip Trills), tiefe Brustvokale, Kiefer-Pause, weich-elastische Tapioka-/Boba-Perlen, Chia-Pudding mit Gelee-Körnchen-Textur, geröstete Kichererbsen / Makhana, knackige Gurkenscheiben, getrocknete Mangostreifen für langen Kauwiderstand, trockener Natur-Bimsstein, Rosskastanien in der Manteltasche, samtige Wollziest-Blätter, Cord-/Samt-Scrunchie, mechanisches Pendel-Metronom und facettierter Sonnenfänger-Kristall (37 mit Commons-Fotos, 3 mit ruhigen Illustrationen).
+- **Strikte Personenfreiheit & Foto-Korrekturen**:
+  - `R03-018` (Seifenblasen): Ersetzt durch schillernde Seifenblasen im Sonnenlicht ohne Personen (`File:Soap_bubble_reflection_(Unsplash).jpg`).
+  - `R01-045` (Kissen zum Drücken): Ersetzt durch reines Stoffkissen ohne Person (`File:Throw_Pillow.JPG`).
+  - `R03-066` (Wasserstrahl): Ersetzt durch fließendes Wasser am Hahn ohne Hände/Person (`File:Flowingtap.jpg`).
+  - `R02-014` (Atem-Anhänger): Ersetzt durch zylindrischen Metallröhrchen-Anhänger ohne Model (`File:Hundepfeife01.JPG`).
+  - `R01-054` (Barfußpfad): Ersetzt durch leeren Barfußpfad in Bad Mergentheim ohne watende Personen (`File:Kneipp_Barfußpfad_Bad_Mergentheim-01.jpg`).
+  - `R03-065` (Warme Tasse): Ersetzt durch Teetasse und Teekanne ohne gehaltene Hände (`File:Nice_Cup_of_Tea.jpg`).
+  - `product-funfunction-mesh-swing`: Ersetzt durch Raum-Netzhängematten ohne Kind (`File:SVhammocks.jpg`).
+- **Verifizierte Produktfotos für vermisste Einträge**:
+  - `v8-23` (Mesh-Squeeze-Ball): Ausgestattet mit verifiziertem Produktfoto (`i5.walmartimages.com`).
+  - `R01-095` (Silikon-Kauschlauch): Ausgestattet mit verifiziertem Foto einer lebensmittelechten Silikon-Zahnschutzspitze (`File:Metal_straw.jpg`).
+  - `R01-088` (Duftende Zedernholz-Kugeln): Titel und Beschreibung auf Schrank- & Handschmeichler-Holzkugeln erweitert, mit echtem Foto gedrechselter Rotzedernholz-Kugeln (`File:Rdečeplodni_brin_zbirka_Antona_Suhadolca.jpg`).

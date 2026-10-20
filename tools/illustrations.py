@@ -202,6 +202,7 @@ def draw(name,item):
     if name=='voice':return path('M166 114Q197 117 202 145L220 167 204 176V200Q202 216 185 216V250H133V132Z',fill='#aabb99')+line('M234 149Q251 167 234 184M250 133Q280 167 250 201',4,'#8b9f79')
     if name=='palms':return hand(.69,-9,16)+group(hand(.69,-9,16),'translate(355 0) scale(-1 1)')+line('M178 121V252',2,'#d3ddc6')
     if name in ('hands','coin-hand'):return hand(.85,24,-3)+(circle(177,123,21,'#d1d9c1',stroke='#879975',stroke_width=3) if name=='coin-hand' else line('M223 123Q252 147 230 174',3,'#8da17c'))
+    if name=='face':return circle(180,166,61,'#b2bea7',stroke='#7b8d6d',stroke_width=3)+line('M154 176q10 9 20 0M191 176q10 9 20 0',3,'#7b8d6d')+line('M165 204q15 8 30 0',3,'#7b8d6d')
     return ''
 
 def illustration(item):

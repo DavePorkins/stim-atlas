@@ -33,9 +33,17 @@ def main():
  research=json.loads((ROOT/'source_data/research-v11.json').read_text(encoding='utf-8'))
  expansion=json.loads((ROOT/'source_data/research-v11-1.json').read_text(encoding='utf-8'))
  curation=json.loads((ROOT/'source_data/research-v11-2.json').read_text(encoding='utf-8'))
- extra += research['items']+expansion['items']+curation['items']
+ v113=json.loads((ROOT/'source_data/research-v11-3.json').read_text(encoding='utf-8'))
+ v114=json.loads((ROOT/'source_data/research-v11-4.json').read_text(encoding='utf-8'))
+ extra += research['items']+expansion['items']+curation['items']+v113['items']+v114['items']
  overrides={i['id']:i for i in research.get('image_overrides',[])+expansion.get('image_overrides',[])}
  for patch in curation['overrides']:
+  overrides[patch['id']]={**overrides.get(patch['id'],{}),**patch}
+ for patch in v113.get('image_overrides',[]):
+  overrides[patch['id']]={**overrides.get(patch['id'],{}),**patch}
+ for patch in v114.get('item_patches',[]):
+  overrides[patch['id']]={**overrides.get(patch['id'],{}),**patch}
+ for patch in v114.get('image_overrides',[]):
   overrides[patch['id']]={**overrides.get(patch['id'],{}),**patch}
  result=[]
  for seq,old in enumerate(source['items']+extra):
@@ -49,7 +57,7 @@ def main():
    replacement=replacements[key]; urls=[u.replace('http://','https://',1) for u in replacement.get('og_images',[])]
    item['images']=[u for u in urls if audit.get(u,{}).get('ok')]+item['images']
    item['source_url']=replacement.get('source',item['source_url'])
-  if item['id']=='v8-23':
+  if item['id']=='v8-23' and not item['images']:
    # The old URL was an unexpanded {w}/{h} thumbnail template. Keep a proper diagram.
    item['image_note']='Originale Bildadresse enthält nicht ersetzte Größenparameter; Illustration verwendet.'
   if item['id']=='product-calm-strips':
@@ -80,7 +88,7 @@ def main():
    order.append(photos[p]);p+=1
  for rank,item in enumerate(order):item['rank']=rank
  media_count=sum(bool(i['images']) for i in result)
- catalog={'visual_example_count':len(examples),'version':'v11.2','updated':'2026-10-20','total':len(result),'senses':SENSES,'materials':MATERIALS,'photo_items':media_count,'illustrated_items':len(result)-media_count,'proposal_decisions':curation['decisions'],'notes':'All prior catalogue IDs preserved. Gemini proposals are editorially curated in research-v11-2.json. All original v9 IDs preserved. Sourced additions are retained in research-v11.json and research-v11-1.json. Every previously illustrated entry has an explicit image-suitability review in research-v11-1.json. Image GET/decoding is a technical check, not verification of photo identity, rights or lasting hotlink availability. Research ideas are not verified retail products.','items':result}
+ catalog={'visual_example_count':len(examples),'version':'v11.4','updated':'2026-10-20','total':len(result),'senses':SENSES,'materials':MATERIALS,'photo_items':media_count,'illustrated_items':len(result)-media_count,'proposal_decisions':curation['decisions'],'notes':'All prior catalogue IDs preserved. Gemini proposals are editorially curated in research-v11-2.json; v11.3 adds 80 entries and 34 verified Commons photo upgrades in research-v11-3.json. All original v9 IDs preserved. Sourced additions are retained in research-v11.json and research-v11-1.json. Every previously illustrated entry has an explicit image-suitability review in research-v11-1.json. Image GET/decoding is a technical check, not verification of photo identity, rights or lasting hotlink availability. Research ideas are not verified retail products.','items':result}
  (ROOT/'data').mkdir(exist_ok=True)
  (ROOT/'data/catalog.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2),encoding='utf-8')
  print(f"{len(result)} items / {media_count} photo references / {len(result)-media_count} illustrations")
