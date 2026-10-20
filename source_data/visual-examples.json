@@ -22,50 +22,6 @@
     "checked_at": "2026-10-19"
   },
   {
-    "id": "tangle-49340512174311",
-    "parent_id": "v8-1",
-    "label": "Classic · Tangerine",
-    "series": "Classic",
-    "color_name": "Tangerine",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/6_b6e4657e-61bd-422e-b94e-3493dcd1c86a.png?v=1741819474",
-    "source_url": "https://www.tanglecreations.com/products/classic-tangle-jr?variant=49340512174311",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-49340512207079",
-    "parent_id": "v8-1",
-    "label": "Classic · Forest",
-    "series": "Classic",
-    "color_name": "Forest",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/5_ea5f8902-53ae-4873-8f18-6b44a667c737.png?v=1741819474",
-    "source_url": "https://www.tanglecreations.com/products/classic-tangle-jr?variant=49340512207079",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-49340512239847",
-    "parent_id": "v8-1",
-    "label": "Classic · Violet",
-    "series": "Classic",
-    "color_name": "Violet",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/3_3d6deed3-d24b-47b7-ba37-c47753126f65.png?v=1741819474",
-    "source_url": "https://www.tanglecreations.com/products/classic-tangle-jr?variant=49340512239847",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-49340512272615",
-    "parent_id": "v8-1",
-    "label": "Classic · Cherry",
-    "series": "Classic",
-    "color_name": "Cherry",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/4_238d0037-f1bc-4ac7-a61b-3417a13a1558.png?v=1741819474",
-    "source_url": "https://www.tanglecreations.com/products/classic-tangle-jr?variant=49340512272615",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
     "id": "tangle-31874069430321",
     "parent_id": "v8-1",
     "label": "Classic · Pink/Blue",
@@ -99,17 +55,6 @@
     "checked_at": "2026-10-19"
   },
   {
-    "id": "tangle-32511939018801",
-    "parent_id": "v8-42",
-    "label": "Crush · Snow",
-    "series": "Crush",
-    "color_name": "Snow",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2_11832211-55eb-418f-85b2-132d46ece3bc.png?v=1745839933",
-    "source_url": "https://www.tanglecreations.com/products/tangle-crush?variant=32511939018801",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
     "id": "tangle-32511938953265",
     "parent_id": "v8-42",
     "label": "Crush · Galaxy",
@@ -117,28 +62,6 @@
     "color_name": "Galaxy",
     "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/5_a67608f6-ade3-408f-9e3b-1395cc6e2d93.png?v=1741819434",
     "source_url": "https://www.tanglecreations.com/products/tangle-crush?variant=32511938953265",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-32511938986033",
-    "parent_id": "v8-42",
-    "label": "Crush · Soda Pop",
-    "series": "Crush",
-    "color_name": "Soda Pop",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/1_1441906d-2f31-4a30-a46a-a2e9ed6ead7e.png?v=1741819434",
-    "source_url": "https://www.tanglecreations.com/products/tangle-crush?variant=32511938986033",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-32511939051569",
-    "parent_id": "v8-42",
-    "label": "Crush · Fire",
-    "series": "Crush",
-    "color_name": "Fire",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/6_0b5d7426-b44a-43c4-88c3-9c221938283f.png?v=1741819435",
-    "source_url": "https://www.tanglecreations.com/products/tangle-crush?variant=32511939051569",
     "relation": "manufacturer_variant",
     "checked_at": "2026-10-19"
   },
@@ -187,72 +110,6 @@
     "checked_at": "2026-10-19"
   },
   {
-    "id": "tangle-51999962693863",
-    "parent_id": "v8-1",
-    "label": "Gems · Obsidian",
-    "series": "Gems",
-    "color_name": "Obsidian",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/TangleJr.Gems_2.png?v=1768203674",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-gems-series?variant=51999962693863",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-46071409606887",
-    "parent_id": "v8-1",
-    "label": "Gems · Blue Topaz",
-    "series": "Gems",
-    "color_name": "Blue Topaz",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/3_6038cdf9-98d0-4feb-8f06-f81d32259e2c.png?v=1775864796",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-gems-series?variant=46071409606887",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-46071409737959",
-    "parent_id": "v8-1",
-    "label": "Gems · Red Ruby",
-    "series": "Gems",
-    "color_name": "Red Ruby",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/5_963eb801-6805-4db5-b680-4aa0afa4b162.png?v=1775864796",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-gems-series?variant=46071409737959",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-46071409639655",
-    "parent_id": "v8-1",
-    "label": "Gems · Green Emerald",
-    "series": "Gems",
-    "color_name": "Green Emerald",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/4_0cafc286-04d4-4fa9-b732-baa0a8a6f60a.png?v=1775864796",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-gems-series?variant=46071409639655",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-46071409672423",
-    "parent_id": "v8-1",
-    "label": "Gems · Orange Citrine",
-    "series": "Gems",
-    "color_name": "Orange Citrine",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/1_83bb08c4-6648-436c-a4d5-e310ed47cde2.png?v=1775864796",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-gems-series?variant=46071409672423",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-46071409705191",
-    "parent_id": "v8-1",
-    "label": "Gems · Purple Amethyst",
-    "series": "Gems",
-    "color_name": "Purple Amethyst",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2_8202eb31-1415-45d2-9dd0-3d9f1f9400b2.png?v=1775864796",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-gems-series?variant=46071409705191",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
     "id": "tangle-31412599849009",
     "parent_id": "v8-1",
     "label": "Metallic · Metallic Blue",
@@ -260,50 +117,6 @@
     "color_name": "Metallic Blue",
     "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/Tangled_11.15.23-26.jpg?v=1747974290",
     "source_url": "https://www.tanglecreations.com/products/tangle-jr-metallic?variant=31412599849009",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-45905312317671",
-    "parent_id": "v8-1",
-    "label": "Metallic · Metallic Pink",
-    "series": "Metallic",
-    "color_name": "Metallic Pink",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/Tangled_11.15.23-25.jpg?v=1775861074",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-metallic?variant=45905312317671",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-45905312383207",
-    "parent_id": "v8-1",
-    "label": "Metallic · Metallic Green",
-    "series": "Metallic",
-    "color_name": "Metallic Green",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/Tangled_11.15.23-22.jpg?v=1775861074",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-metallic?variant=45905312383207",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-45905312350439",
-    "parent_id": "v8-1",
-    "label": "Metallic · Metallic Orange",
-    "series": "Metallic",
-    "color_name": "Metallic Orange",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/Tangled_11.15.23-24.jpg?v=1775861074",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-metallic?variant=45905312350439",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-31412600012849",
-    "parent_id": "v8-1",
-    "label": "Metallic · Metallic Purple",
-    "series": "Metallic",
-    "color_name": "Metallic Purple",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/Tangled_11.15.23-23_71388c6d-6b52-4048-a06e-8f1089bd7996.jpg?v=1775861074",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-metallic?variant=31412600012849",
     "relation": "manufacturer_variant",
     "checked_at": "2026-10-19"
   },
@@ -319,17 +132,6 @@
     "checked_at": "2026-10-19"
   },
   {
-    "id": "tangle-52686229733607",
-    "parent_id": "v8-1",
-    "label": "Metallic 2026 · Coral",
-    "series": "Metallic 2026",
-    "color_name": "Coral",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/5_1b8c65ac-0ba2-49cc-8fa8-a0e9f51ace7e.png?v=1791946877",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-metallic-new?variant=52686229733607",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
     "id": "tangle-52686229668071",
     "parent_id": "v8-1",
     "label": "Metallic 2026 · Rose Gold",
@@ -337,17 +139,6 @@
     "color_name": "Rose Gold",
     "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/3_e06a7e56-bde5-4a42-8a56-01ac3d6dba8e.png?v=1791946883",
     "source_url": "https://www.tanglecreations.com/products/tangle-jr-metallic-new?variant=52686229668071",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-52686229700839",
-    "parent_id": "v8-1",
-    "label": "Metallic 2026 · Purple Taro",
-    "series": "Metallic 2026",
-    "color_name": "Purple Taro",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/4_f6296bc9-e484-4358-bc73-0b6c79c5bd86.png?v=1791946877",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-metallic-new?variant=52686229700839",
     "relation": "manufacturer_variant",
     "checked_at": "2026-10-19"
   },
@@ -363,28 +154,6 @@
     "checked_at": "2026-10-19"
   },
   {
-    "id": "tangle-51685730615527",
-    "parent_id": "v8-1",
-    "label": "Textured · Frost Fort",
-    "series": "Textured",
-    "color_name": "Frost Fort",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/3_a0eba5a4-2785-47ba-9785-c66728525493.png?v=1768209404",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-textured?variant=51685730615527",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-51685730582759",
-    "parent_id": "v8-1",
-    "label": "Textured · Parrot",
-    "series": "Textured",
-    "color_name": "Parrot",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2_94569974-0b05-4e06-9bf8-032f5fb5390b.png?v=1768209404",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-textured?variant=51685730582759",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
     "id": "tangle-51685730549991",
     "parent_id": "v8-1",
     "label": "Textured · Lime Fizz",
@@ -392,28 +161,6 @@
     "color_name": "Lime Fizz",
     "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/1_99689416-791f-4a91-9cf0-910ff1474a76.png?v=1768209404",
     "source_url": "https://www.tanglecreations.com/products/tangle-jr-textured?variant=51685730549991",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-51685730648295",
-    "parent_id": "v8-1",
-    "label": "Textured · Purple Haze",
-    "series": "Textured",
-    "color_name": "Purple Haze",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/Tangle_Jr._Textured.png?v=1768209404",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-textured?variant=51685730648295",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-44158324277479",
-    "parent_id": "v8-1",
-    "label": "Textured Metallic · Textured Metallic Pink",
-    "series": "Textured Metallic",
-    "color_name": "Textured Metallic Pink",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/Tangled_11.15.23-20.jpg?v=1741819467",
-    "source_url": "https://www.tanglecreations.com/products/totally-textured-metallic-tangle-jr?variant=44158324277479",
     "relation": "manufacturer_variant",
     "checked_at": "2026-10-19"
   },
@@ -429,105 +176,6 @@
     "checked_at": "2026-10-19"
   },
   {
-    "id": "tangle-44158321524967",
-    "parent_id": "v8-1",
-    "label": "Textured Metallic · Textured Metallic Rose Gold",
-    "series": "Textured Metallic",
-    "color_name": "Textured Metallic Rose Gold",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/Tangled_11.15.23-16_842733ff-ef60-45c0-b0f2-a84792cd858b.jpg?v=1741819467",
-    "source_url": "https://www.tanglecreations.com/products/totally-textured-metallic-tangle-jr?variant=44158321524967",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-44158323261671",
-    "parent_id": "v8-1",
-    "label": "Textured Metallic · Textured Metallic Blue",
-    "series": "Textured Metallic",
-    "color_name": "Textured Metallic Blue",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/Tangled_11.15.23-19.jpg?v=1741819467",
-    "source_url": "https://www.tanglecreations.com/products/totally-textured-metallic-tangle-jr?variant=44158323261671",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-44158324867303",
-    "parent_id": "v8-1",
-    "label": "Textured Metallic · Textured Metallic Purple",
-    "series": "Textured Metallic",
-    "color_name": "Textured Metallic Purple",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/Tangled_11.15.23-18.jpg?v=1741819467",
-    "source_url": "https://www.tanglecreations.com/products/totally-textured-metallic-tangle-jr?variant=44158324867303",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-50989022871783",
-    "parent_id": "v8-1",
-    "label": "Classic · Passionfruit",
-    "series": "Classic",
-    "color_name": "Passionfruit",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/10429-PassionFruit_1.jpg?v=1775860827",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-classic-new-colors?variant=50989022871783",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-50989022806247",
-    "parent_id": "v8-1",
-    "label": "Classic · Mango",
-    "series": "Classic",
-    "color_name": "Mango",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/10427-Mango.jpg?v=1775860827",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-classic-new-colors?variant=50989022806247",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-50989022839015",
-    "parent_id": "v8-1",
-    "label": "Classic · Strawberry",
-    "series": "Classic",
-    "color_name": "Strawberry",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/10428-Strawberry_1.jpg?v=1775860827",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-classic-new-colors?variant=50989022839015",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-50989022937319",
-    "parent_id": "v8-1",
-    "label": "Classic · Peach",
-    "series": "Classic",
-    "color_name": "Peach",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/10431-Peach.jpg?v=1775860827",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-classic-new-colors?variant=50989022937319",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-50989022904551",
-    "parent_id": "v8-1",
-    "label": "Classic · Melon",
-    "series": "Classic",
-    "color_name": "Melon",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/10430-Melon_1.jpg?v=1775860827",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-classic-new-colors?variant=50989022904551",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-50989022773479",
-    "parent_id": "v8-1",
-    "label": "Classic · Grape",
-    "series": "Classic",
-    "color_name": "Grape",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/10426-Grape_1.jpg?v=1775860827",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-classic-new-colors?variant=50989022773479",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
     "id": "tangle-52421061771495",
     "parent_id": "v8-1",
     "label": "Bubblegum · Apple Pop",
@@ -535,50 +183,6 @@
     "color_name": "Apple Pop",
     "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2105_ApplePop_Coiled.png?v=1785040049",
     "source_url": "https://www.tanglecreations.com/products/tangle-jr-bubblegum?variant=52421061771495",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-52421061705959",
-    "parent_id": "v8-1",
-    "label": "Bubblegum · Purple Soda",
-    "series": "Bubblegum",
-    "color_name": "Purple Soda",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2103_PurpleSoda_Coiled.png?v=1785040049",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-bubblegum?variant=52421061705959",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-52421061738727",
-    "parent_id": "v8-1",
-    "label": "Bubblegum · Orange Berry",
-    "series": "Bubblegum",
-    "color_name": "Orange Berry",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2104_OrangeBerry_Coiled.png?v=1785040049",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-bubblegum?variant=52421061738727",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-52421061640423",
-    "parent_id": "v8-1",
-    "label": "Bubblegum · Lemon Berry",
-    "series": "Bubblegum",
-    "color_name": "Lemon Berry",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2101_LemonBerry_Coiled.png?v=1785040049",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-bubblegum?variant=52421061640423",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-52421061673191",
-    "parent_id": "v8-1",
-    "label": "Bubblegum · Peach Grape",
-    "series": "Bubblegum",
-    "color_name": "Peach Grape",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2102_PeachGrape_Coiled.png?v=1785040049",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-bubblegum?variant=52421061673191",
     "relation": "manufacturer_variant",
     "checked_at": "2026-10-19"
   },
@@ -594,50 +198,6 @@
     "checked_at": "2026-10-19"
   },
   {
-    "id": "tangle-51842603778279",
-    "parent_id": "v8-1",
-    "label": "Clouds · Berry Sweet",
-    "series": "Clouds",
-    "color_name": "Berry Sweet",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2802.jpg?v=1772834186",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-clouds-new?variant=51842603778279",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-51842603811047",
-    "parent_id": "v8-1",
-    "label": "Clouds · Dawn Isle",
-    "series": "Clouds",
-    "color_name": "Dawn Isle",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2803.jpg?v=1772834186",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-clouds-new?variant=51842603811047",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-51842603843815",
-    "parent_id": "v8-1",
-    "label": "Clouds · Honey Mist",
-    "series": "Clouds",
-    "color_name": "Honey Mist",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2804.jpg?v=1772834186",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-clouds-new?variant=51842603843815",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-51842603876583",
-    "parent_id": "v8-1",
-    "label": "Clouds · Blush Snow",
-    "series": "Clouds",
-    "color_name": "Blush Snow",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2805.jpg?v=1772834186",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-clouds-new?variant=51842603876583",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
     "id": "tangle-51711177097447",
     "parent_id": "v8-1",
     "label": "Pebbles · Blushstone",
@@ -645,50 +205,6 @@
     "color_name": "Blushstone",
     "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/1_075f84b3-ead0-4b7f-8a00-2f0aa7faf671.png?v=1791945134",
     "source_url": "https://www.tanglecreations.com/products/tangle-jr-pebbles-new?variant=51711177097447",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-51711177130215",
-    "parent_id": "v8-1",
-    "label": "Pebbles · Greenveil",
-    "series": "Pebbles",
-    "color_name": "Greenveil",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/5_e2b456a9-ebb7-4153-ae04-5ca8c3b93164.png?v=1791945134",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-pebbles-new?variant=51711177130215",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-51711177031911",
-    "parent_id": "v8-1",
-    "label": "Pebbles · Amber Haze",
-    "series": "Pebbles",
-    "color_name": "Amber Haze",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/3_09a608f6-b55f-4ea9-b83e-8cd788e55498.png?v=1791945135",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-pebbles-new?variant=51711177031911",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-51711177064679",
-    "parent_id": "v8-1",
-    "label": "Pebbles · Duskwood",
-    "series": "Pebbles",
-    "color_name": "Duskwood",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/2_8850376c-400c-4cb2-9bce-e3bedef73c50.png?v=1791945134",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-pebbles-new?variant=51711177064679",
-    "relation": "manufacturer_variant",
-    "checked_at": "2026-10-19"
-  },
-  {
-    "id": "tangle-51711177162983",
-    "parent_id": "v8-1",
-    "label": "Pebbles · Winterglass",
-    "series": "Pebbles",
-    "color_name": "Winterglass",
-    "image": "https://cdn.shopify.com/s/files/1/0421/6697/files/4_c58b873d-bc0f-4a05-87f0-e1004b94f5c6.png?v=1791945134",
-    "source_url": "https://www.tanglecreations.com/products/tangle-jr-pebbles-new?variant=51711177162983",
     "relation": "manufacturer_variant",
     "checked_at": "2026-10-19"
   },

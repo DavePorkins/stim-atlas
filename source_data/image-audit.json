@@ -6803,5 +6803,17 @@
     "height": 960,
     "format": "JPEG",
     "source_url": "https://commons.wikimedia.org/wiki/File:Rde%C4%8Deplodni_brin_zbirka_Antona_Suhadolca.jpg"
+  },
+  "https://upload.wikimedia.org/wikipedia/commons/4/48/Nackenkissen.jpg": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nackenkissen.jpg",
+    "checked_at": "2026-10-20",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nackenkissen.jpg",
+    "content_type": "image/jpeg",
+    "width": 513,
+    "height": 500,
+    "format": "JPEG",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nackenkissen.jpg"
   }
 }

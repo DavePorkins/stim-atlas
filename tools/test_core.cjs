@@ -21,10 +21,10 @@ test('An explicit v10 removal is not undone by older automatic migration',()=>{c
 test('Import rejects malformed records and prototype keys',()=>{assert.throws(()=>C.mergeProgress({},undefined));assert.throws(()=>C.mergeProgress({},[]));let x=C.mergeProgress({},JSON.parse('{"__proto__":{"fav":true},"1":{"fav":"false","seen":-2,"rating":99}}'));assert.equal(Object.hasOwn(x,'__proto__'),false);assert.equal(x['v8-1'].fav,false);assert.equal(x['v8-1'].seen,0);assert.equal(x['v8-1'].rating,0);});
 test('All 620 local illustrations exist; used photo links passed decode checks',()=>{const audit=JSON.parse(fs.readFileSync(path.join(__dirname,'../source_data/image-audit.json'),'utf8'));for(const i of data.items){assert(fs.existsSync(path.join(__dirname,'..',i.illustration)));for(const u of i.images)assert(audit[u]?.ok);}assert.equal(data.photo_items,513);assert.equal(data.illustrated_items,107);});
 
-test('72 documented manufacturer examples have valid parents and checked image files',()=>{const audit=JSON.parse(fs.readFileSync(path.join(__dirname,'../source_data/image-audit.json'),'utf8'));const x=data.items.flatMap(i=>i.examples);assert.equal(x.length,72);assert.equal(new Set(x.map(v=>v.id)).size,72);for(const v of x){assert(data.items.some(i=>i.id===v.parent_id));assert(audit[v.image]?.ok);assert(v.source_url.startsWith('https://'));}});
-test('Variant gallery is 691 unique tiles, standard view remains 620 entries',()=>{const s=defaults();s.variants=true;const rows=C.galleryViews(C.filterItems(data.items,s),s);assert.equal(rows.length,691);assert.equal(new Set(rows.map(v=>v.key)).size,691);s.variants=false;assert.equal(C.galleryViews(C.filterItems(data.items,s),s).length,620);});
+test('28 curated manufacturer examples have valid parents and checked image files',()=>{const audit=JSON.parse(fs.readFileSync(path.join(__dirname,'../source_data/image-audit.json'),'utf8'));const x=data.items.flatMap(i=>i.examples);assert.equal(x.length,28);assert.equal(new Set(x.map(v=>v.id)).size,28);for(const v of x){assert(data.items.some(i=>i.id===v.parent_id));assert(audit[v.image]?.ok);assert(v.source_url.startsWith('https://'));}});
+test('Variant gallery is 647 unique tiles, standard view remains 620 entries',()=>{const s=defaults();s.variants=true;const rows=C.galleryViews(C.filterItems(data.items,s),s);assert.equal(rows.length,647);assert.equal(new Set(rows.map(v=>v.key)).size,647);s.variants=false;assert.equal(C.galleryViews(C.filterItems(data.items,s),s).length,620);});
 test('Color search returns the actual variant rather than every image of a family',()=>{const s=defaults();s.query='Tangle Cyan';s.variants=true;const filtered=C.filterItems(data.items,s);assert.equal(filtered.length,1);const rows=C.galleryViews(filtered,s);assert.equal(rows.length,1);assert(rows[0].view.label.includes('Cyan'));});
-test('Detail photo views retain legacy alternative photos and avoid exact duplicate URLs',()=>{for(const item of data.items){const views=C.photoViews(item);assert.equal(new Set(views.map(v=>v.image)).size,views.length);}assert.equal(C.photoViews(data.items.find(i=>i.id==='v8-1')).length,58);});
+test('Detail photo views retain legacy alternative photos and avoid exact duplicate URLs',()=>{for(const item of data.items){const views=C.photoViews(item);assert.equal(new Set(views.map(v=>v.image)).size,views.length);}assert.equal(C.photoViews(data.items.find(i=>i.id==='v8-1')).length,17);});
 test('Research adds ten wearables and eleven scent examples, with explicit image roles',()=>{
   const added=data.items.filter(i=>i.provenance==='research-v11');assert.equal(added.length,21);
   assert.equal(added.filter(i=>i.family==='Stimming-Kleidung').length,10);
@@ -126,5 +126,8 @@ test('v11.4 adds 108 entries across co-regulation, everyday relief and collectio
   assert(data.items.find(i=>i.id==='R01-054').images[0].includes('Kneipp_Barfu'));
   assert(data.items.find(i=>i.id==='R03-065').images[0].includes('Nice_Cup_of_Tea'));
   assert(data.items.find(i=>i.id==='product-funfunction-mesh-swing').images[0].includes('SVhammocks'));
+  assert(data.items.find(i=>i.id==='R03-010').images[0].includes('Nackenkissen'));
+  const css=fs.readFileSync(path.join(__dirname,'../assets/site.css'),'utf8');assert(css.includes('.detail-tools #random-detail'));
+  const js=fs.readFileSync(path.join(__dirname,'../assets/site.js'),'utf8');assert(js.includes('random-label'));
 });
 console.log(`${passed} checks passed.`);
